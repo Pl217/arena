@@ -6,7 +6,7 @@
   --border-color: #ddd;
   --drawer-bg: #fff;
   --overlay-bg: rgba(0,0,0,0.5);
-  --text-muted: #666;
+  --text-muted: #777;
 }
 
 :root.dark {
