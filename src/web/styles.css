@@ -97,7 +97,7 @@ body {
 .drawer-content {
   flex: 1;
   overflow-y: auto;
-  padding: 1rem;
+  padding: 0 1rem 1rem;
 }
 
 .drawer-overlay {
@@ -197,7 +197,7 @@ body {
   padding: 0 1rem;
   display: flex;
   gap: 0.5rem;
-  margin-top: 1rem;
+  margin: 1rem 0;
 }
 
 .drawer-actions button {
