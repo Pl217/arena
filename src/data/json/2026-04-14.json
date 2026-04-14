@@ -74,25 +74,11 @@
             "description": "uzivo"
           },
           {
-            "content": "PL Studio - Pregled 32. kola",
-            "time": "20:00",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Manchester United - Leeds",
             "time": "21:00",
             "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Arena News",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "Fiorentina - Lazio",
@@ -264,13 +250,6 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled kola",
-            "time": "18:30",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
             "content": "Liga Šampiona: Pregled dana 14.04.",
             "time": "19:15",
             "category": "UEFA LIGA ŠAMPIONA",
@@ -357,13 +336,6 @@
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Crvena zvezda - Real Madrid",
-            "time": "17:15",
-            "category": "EUROLEAGUE",
-            "sport": "Košarka",
-            "description": ""
           },
           {
             "content": "Emisija: Na Klupi ep. 37",
@@ -528,20 +500,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Arena Izazov ep. 30",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "PL Studio - Najava 33. kola",
-            "time": "12:30",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Brentford - Fulham",
             "time": "13:30",
             "category": "ENGLESKA LIGA",
@@ -559,20 +517,6 @@
             "content": "Crvena zvezda",
             "time": "18:00",
             "category": "MB SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
-            "content": "Oni vole Srbiju ep. 80",
-            "time": "20:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "PL Studio - Najava 33. kola",
-            "time": "20:30",
-            "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
           },
@@ -595,25 +539,11 @@
       "2026-04-19": {
         "emisije": [
           {
-            "content": "Partizan - Metaloplastika",
-            "time": "01:00",
-            "category": "SUPERLIGA SRBIJE",
-            "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
             "content": "Playoff",
             "time": "02:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "uzivo"
-          },
-          {
-            "content": "Crvena zvezda",
-            "time": "06:00",
-            "category": "MB SUPERLIGA",
-            "sport": "Fudbal",
-            "description": ""
           },
           {
             "content": "Beogradski maraton",
@@ -658,30 +588,15 @@
             "description": "uzivo"
           },
           {
-            "content": "STUDIO DERBI",
-            "time": "20:00",
-            "category": "",
-            "sport": "",
-            "description": "uzivo"
-          },
-          {
             "content": "Partizan - Crvena zvezda",
             "time": "21:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
-          },
-          {
-            "content": "STUDIO DERBI",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "uzivo"
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a1p.png"
+    }
   },
   "Arena Premium 2": {
     "days": {
@@ -892,13 +807,6 @@
             "description": "snimak"
           },
           {
-            "content": "Efes - Fenerbahce",
-            "time": "06:00",
-            "category": "TURSKA LIGA",
-            "sport": "Košarka",
-            "description": ""
-          },
-          {
             "content": "Finale",
             "time": "08:00",
             "category": "VTB KUP",
@@ -1006,13 +914,6 @@
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
-          },
-          {
-            "content": "Efes - Fenerbahce",
-            "time": "12:30",
-            "category": "TURSKA LIGA",
-            "sport": "Košarka",
-            "description": ""
           },
           {
             "content": "Zadar - FMP",
@@ -1287,8 +1188,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a2p.png"
+    }
   },
   "Arena Premium 3": {
     "days": {
@@ -1567,13 +1467,6 @@
             "category": "FIBA LIGA ŠAMPIONA",
             "sport": "Košarka",
             "description": "uzivo"
-          },
-          {
-            "content": "Pregled kola",
-            "time": "23:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": ""
           }
         ]
       },
@@ -1845,13 +1738,6 @@
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Crvena zvezda",
-            "time": "22:45",
-            "category": "MB SUPERLIGA",
-            "sport": "Fudbal",
-            "description": ""
           }
         ]
       },
@@ -1929,8 +1815,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a3p.png"
+    }
   },
   "Arena Premium 4": {
     "days": {
@@ -2095,20 +1980,6 @@
             "description": "snimak"
           },
           {
-            "content": "Adrenalin Nacija S01E08: Tri strane Kopaonika",
-            "time": "18:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Adrenalin Nacija S01E07: Skijališta Srbije",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Košarka: EVROLIGA: Pregled 37. kola",
             "time": "19:00",
             "category": "EVROLIGA",
@@ -2120,13 +1991,6 @@
             "time": "20:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
-            "description": "uzivo"
-          },
-          {
-            "content": "Svet je naš ep. 34",
-            "time": "22:00",
-            "category": "",
-            "sport": "",
             "description": "uzivo"
           },
           {
@@ -2221,13 +2085,6 @@
       },
       "2026-04-16": {
         "emisije": [
-          {
-            "content": "Efes - Fenerbahce",
-            "time": "00:00",
-            "category": "TURSKA LIGA",
-            "sport": "Košarka",
-            "description": ""
-          },
           {
             "content": "San Pablo Burgos - Real Madrid",
             "time": "02:00",
@@ -2500,13 +2357,6 @@
             "description": "snimak"
           },
           {
-            "content": "Priča o svemu (pa i o sportu) ep. 14",
-            "time": "10:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Lokomotiv - Parma",
             "time": "11:00",
             "category": "VTB LIGA",
@@ -2564,8 +2414,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a4p.png"
+    }
   },
   "Arena Premium 5": {
     "days": {
@@ -2586,13 +2435,6 @@
             "description": "snimak"
           },
           {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Heracles - Ajax",
             "time": "06:00",
             "category": "HOLANDSKA LIGA",
@@ -2604,13 +2446,6 @@
             "time": "08:00",
             "category": "HOLANDSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "10:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -2661,13 +2496,6 @@
             "category": "ITALIJANSKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
-          },
-          {
-            "content": "Košarkaška pravila - Aleksa Avramović",
-            "time": "22:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "Stuttgart - HSV",
@@ -2744,20 +2572,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Pregled kola",
-            "time": "20:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
-            "content": "Pregled kola",
-            "time": "21:00",
-            "category": "ITALIJANSKA LIGA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
             "content": "Pregled 30. kola",
             "time": "22:00",
             "category": "HOLANDSKA LIGA",
@@ -2832,24 +2646,10 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled kola",
-            "time": "14:30",
-            "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
             "content": "Liverpool - PSG",
             "time": "16:00",
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Otvoreno sa Anđusom",
-            "time": "18:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -3008,20 +2808,6 @@
             "description": "snimak"
           },
           {
-            "content": "....",
-            "time": "14:00",
-            "category": "COPA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
-            "content": "....",
-            "time": "16:00",
-            "category": "COPA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
             "content": "Polufinale, G3",
             "time": "18:00",
             "category": "SUPERLIGA (Ž)",
@@ -3096,13 +2882,6 @@
             "description": "snimak"
           },
           {
-            "content": "Zemun - Vršac",
-            "time": "13:00",
-            "category": "PRVA LIGA SRBIJE",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Udinese - Parma",
             "time": "15:00",
             "category": "ITALIJANSKA LIGA",
@@ -3170,13 +2949,6 @@
             "description": "snimak"
           },
           {
-            "content": "",
-            "time": "10:00",
-            "category": "MB SUPERLIGA",
-            "sport": "Fudbal",
-            "description": ""
-          },
-          {
             "content": "Roma - Atalanta",
             "time": "12:00",
             "category": "ITALIJANSKA LIGA",
@@ -3203,18 +2975,10 @@
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
             "description": "uzivo"
-          },
-          {
-            "content": "Plan igre",
-            "time": "23:00",
-            "category": "",
-            "sport": "Fudbal",
-            "description": "uzivo"
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-aa5p.png"
+    }
   },
   "Arena Tenis": {
     "days": {
@@ -3233,13 +2997,6 @@
             "category": "ATP 500 - Dallas",
             "sport": "Tenis",
             "description": "snimak"
-          },
-          {
-            "content": "Arena Time for Tennis",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": ""
           },
           {
             "content": "Dan 1 prepodnevna sesija",
@@ -3379,8 +3136,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a-tenis.png"
+    }
   },
   "Arena Sport 1": {
     "days": {
@@ -3457,25 +3213,11 @@
             "description": "snimak"
           },
           {
-            "content": "(Ne)uspjeh prvaka",
-            "time": "20:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Levante - Getafe",
             "time": "21:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Sport bez granica S01E14: Chinlone",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "The Big Interview - Alejandro Garnacho",
@@ -3521,13 +3263,6 @@
             "time": "08:00",
             "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "10:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -3675,13 +3410,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Dobre Sportske Priče ep. 29",
-            "time": "21:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "The Big Interview - Harry Wilson",
             "time": "21:30",
             "category": "ENGLESKA LIGA",
@@ -3784,13 +3512,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "20:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "NETBUSTERS ep. 32",
             "time": "20:30",
             "category": "ENGLESKA LIGA",
@@ -3803,20 +3524,6 @@
             "category": "UEFA LIGA KONFERENCIJA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 68 - KK Radnički Valjevo, prvi deo",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 69 - KK Radnički Valjevo, drugi deo",
-            "time": "23:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           }
         ]
       },
@@ -3914,13 +3621,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: Zona zdravog sporta ep. 95",
-            "time": "22:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "NETBUSTERS ep. 32",
             "time": "23:30",
             "category": "ENGLESKA LIGA",
@@ -3981,13 +3681,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mali sportovi - veliki sportisti ep. 55 - RK Obilić, treći deo",
-            "time": "12:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Sunderland - Tottenham",
             "time": "13:00",
             "category": "ENGLESKA LIGA",
@@ -4020,13 +3713,6 @@
             "time": "21:00",
             "category": "CHAMPIONSHIP",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Direkt",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -4080,20 +3766,6 @@
             "time": "10:00",
             "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Arena Izazov ep. 30",
-            "time": "13:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -4154,20 +3826,12 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-01.png"
+    }
   },
   "Arena Sport 2": {
     "days": {
       "2026-04-13": {
         "emisije": [
-          {
-            "content": "SPORT BROTHERS LEAGUE ep. 21",
-            "time": "00:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
           {
             "content": "Barcelona - Espanyol",
             "time": "01:15",
@@ -4282,13 +3946,6 @@
             "time": "00:45",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "SPORT BROTHERS LEAGUE ep. 21",
-            "time": "01:15",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -4559,13 +4216,6 @@
             "description": "snimak"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E02",
-            "time": "19:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Olympiacos - Milano",
             "time": "20:15",
             "category": "EVROLIGA",
@@ -4692,13 +4342,6 @@
       },
       "2026-04-18": {
         "emisije": [
-          {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "01:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
           {
             "content": "Levante - Getafe",
             "time": "02:00",
@@ -4851,13 +4494,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Zona zdravog sporta ep. 95",
-            "time": "12:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Ipswich - Middlesbrough",
             "time": "13:00",
             "category": "CHAMPIONSHIP",
@@ -4893,13 +4529,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: Dobre Sportske Priče ep. 29",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Atletico - Real Sociedad, finale",
             "time": "23:30",
             "category": "ŠPANSKI KUP",
@@ -4908,8 +4537,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-02.png"
+    }
   },
   "Arena Sport 3": {
     "days": {
@@ -4927,13 +4555,6 @@
             "time": "01:30",
             "category": "HOLANDSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Oni vole Srbiju - Kenroy Campbell",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -5522,8 +5143,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-03.png"
+    }
   },
   "Arena Sport 4": {
     "days": {
@@ -5769,13 +5389,6 @@
             "description": "snimak"
           },
           {
-            "content": "Buduće zvezde Arene - Tenis - Sokobanja",
-            "time": "13:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Newcastle - Barcelona",
             "time": "14:00",
             "category": "UEFA LIGA ŠAMPIONA",
@@ -5889,20 +5502,6 @@
             "time": "17:00",
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 66 - ŽKK Srbobran, drugi deo",
-            "time": "19:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 67 - ŽKK Srbobran, treći deo",
-            "time": "19:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -6199,20 +5798,12 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-04.png"
+    }
   },
   "Arena Sport 5": {
     "days": {
       "2026-04-13": {
         "emisije": [
-          {
-            "content": "Arena Izazov ep. 29",
-            "time": "01:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
           {
             "content": "Unicaja - Valencia",
             "time": "02:00",
@@ -6316,13 +5907,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mi živimo za košarku ep. 68 - KK Radnički Valjevo, prvi deo",
-            "time": "02:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Merkezefendi - Galatasaray",
             "time": "02:30",
             "category": "TURSKA LIGA",
@@ -6393,20 +5977,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mi živimo za košarku ep. 66 - ŽKK Srbobran, drugi deo",
-            "time": "21:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 67 - ŽKK Srbobran, treći deo",
-            "time": "21:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "CSKA - Zenit, polufinale",
             "time": "22:00",
             "category": "VTB KUP",
@@ -6422,13 +5992,6 @@
             "time": "00:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Košarkaška pravila - Ivon Anderson",
-            "time": "02:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -6464,13 +6027,6 @@
             "time": "12:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Košarkaška pravila - Aleksa Avramović",
-            "time": "14:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -6622,13 +6178,6 @@
             "description": "snimak"
           },
           {
-            "content": "Košarkaška pravila - Nikola Lončar",
-            "time": "02:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Marselj, četvrtfinala, polufinala i finale",
             "time": "02:45",
             "category": "FIBA 3x3 World Tour",
@@ -6717,13 +6266,6 @@
             "description": "snimak"
           },
           {
-            "content": "Košarkaška pravila - Miroslav Raduljica",
-            "time": "02:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Vienna, četvrtfinala, polufinala i finale",
             "time": "02:30",
             "category": "FIBA 3x3 World Tour",
@@ -6778,13 +6320,6 @@
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "20:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "CSKA - Pari NN",
@@ -6861,13 +6396,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "21:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Lokomotiv - Parma",
             "time": "22:00",
             "category": "VTB LIGA",
@@ -6876,20 +6404,12 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-05.png"
+    }
   },
   "Arena Sport 6": {
     "days": {
       "2026-04-13": {
         "emisije": [
-          {
-            "content": "Buduće zvezde Arene - Tenis - Sokobanja",
-            "time": "00:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
           {
             "content": "Odintsovo - Dinamo Kazan, finale G3",
             "time": "01:00",
@@ -6916,13 +6436,6 @@
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 4",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7021,45 +6534,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E01: Sepaktakraw",
-            "time": "03:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E02: Discgolf",
-            "time": "03:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E03: Kinball",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E04: Cannicross",
-            "time": "03:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Millrose Games",
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 5",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7074,13 +6552,6 @@
             "time": "08:00",
             "category": "EHF LIGA ŠAMPIONA",
             "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "09:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7126,13 +6597,6 @@
             "description": "snimak"
           },
           {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Elverum - Montpellier",
             "time": "23:30",
             "category": "EHF LIGA EVROPE",
@@ -7165,31 +6629,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E05: Bossaball",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E06: Hokej na rolerima",
-            "time": "03:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "New Balance Indoor Grand Prix",
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 6",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7207,13 +6650,6 @@
             "description": "snimak"
           },
           {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "09:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "The Masters - Dan 1",
             "time": "10:00",
             "category": "MAJORS",
@@ -7225,13 +6661,6 @@
             "time": "15:00",
             "category": "TURSKA LIGA Ž",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "17:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7253,13 +6682,6 @@
             "time": "21:00",
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7295,31 +6717,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E07: Caber Tossing",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E08: Goalball",
-            "time": "03:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Maurie Plant Meet",
             "time": "04:00",
             "category": "World Athletics Continental Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 7",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7337,13 +6738,6 @@
             "description": "snimak"
           },
           {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "09:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "The Masters - Dan 2",
             "time": "10:00",
             "category": "MAJORS",
@@ -7355,13 +6749,6 @@
             "time": "15:00",
             "category": "TURSKA LIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Zona zdravog sporta ep. 94",
-            "time": "17:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7384,13 +6771,6 @@
             "category": "UEFA LIGA EVROPE",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Emisija: Dobre Sportske Priče ep. 29",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "Nexe - Kristianstad",
@@ -7425,31 +6805,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E09: Wife Carrying",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E10: Footgolf",
-            "time": "03:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "ORLEN Copernicus Cup",
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 8",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7530,13 +6889,6 @@
             "description": "snimak"
           },
           {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "HSV Hamburg - Kiel",
             "time": "23:30",
             "category": "BUNDESLIGA",
@@ -7562,31 +6914,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E11: Padball",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E12: Orijentiring",
-            "time": "03:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Meeting Hauts-de-France Pas-de-Calais Trophée",
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
-            "description": "snimak"
-          },
-          {
-            "content": "Homage ep. 9",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7646,13 +6977,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: Zona zdravog sporta ep. 95",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Bergischer - Magdeburg",
             "time": "23:30",
             "category": "NEMAČKI KUP",
@@ -7685,13 +7009,6 @@
             "description": "snimak"
           },
           {
-            "content": "Homage ep. 10",
-            "time": "06:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Lemgo - Fuchse Berlin, polufinale 1",
             "time": "06:30",
             "category": "NEMAČKI KUP",
@@ -7703,13 +7020,6 @@
             "time": "08:00",
             "category": "NEMAČKI KUP",
             "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Dobre Sportske Priče ep. 29",
-            "time": "09:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7763,8 +7073,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-06.png"
+    }
   },
   "Arena Sport 7": {
     "days": {
@@ -7813,13 +7122,6 @@
             "description": "snimak"
           },
           {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Zenit - Krasnodar",
             "time": "12:30",
             "category": "RUSKA LIGA",
@@ -7838,13 +7140,6 @@
             "time": "16:30",
             "category": "RUSKA LIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Zona zdravog sporta ep. 94",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7887,13 +7182,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Kraljevska igra ep. 1 - Prvi potez",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Dinamo Mn - Dinamo",
             "time": "04:00",
             "category": "KHL",
@@ -7922,13 +7210,6 @@
             "description": "snimak"
           },
           {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Akron - Dinamo",
             "time": "12:30",
             "category": "RUSKA LIGA",
@@ -7947,13 +7228,6 @@
             "time": "16:30",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -7996,13 +7270,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Kraljevska igra ep. 2 - Ko je kralj u šahu",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "SKA - CSKA",
             "time": "04:00",
             "category": "KHL",
@@ -8031,13 +7298,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mi živimo za košarku ep. 68 - KK Radnički Valjevo, prvi deo",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "CSKA - Sochi",
             "time": "12:30",
             "category": "RUSKA LIGA",
@@ -8056,13 +7316,6 @@
             "time": "16:30",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -8105,13 +7358,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Kraljevska igra ep. 3 - U školi",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Lokomotiv - Spartak",
             "time": "04:00",
             "category": "KHL",
@@ -8140,13 +7386,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Zona zdravog sporta ep. 94",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Krylya Sovetov - Akhmat",
             "time": "12:30",
             "category": "RUSKA LIGA",
@@ -8165,13 +7404,6 @@
             "time": "16:30",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -8214,13 +7446,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Kraljevska igra ep. 5 - Digitalizacija",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Avtomobilist - Salavat Yulaev",
             "time": "04:00",
             "category": "KHL",
@@ -8249,13 +7474,6 @@
             "description": "snimak"
           },
           {
-            "content": "Buduće zvezde Arene ep. 82",
-            "time": "12:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Rostov - Spartak",
             "time": "12:30",
             "category": "RUSKA LIGA",
@@ -8277,46 +7495,11 @@
             "description": "snimak"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E02",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E14: Chinlone",
-            "time": "19:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "19:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "...",
             "time": "20:00",
             "category": "MB SUPERLIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "22:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Dobre Sportske Priče ep. 29",
-            "time": "22:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "Rostov - Sochi",
@@ -8341,13 +7524,6 @@
             "time": "01:30",
             "category": "RUSKA LIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Kraljevska igra ep. 6 - Nije sve tako crno i belo",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -8496,8 +7672,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-07.png"
+    }
   },
   "Arena Sport 8": {
     "days": {
@@ -8750,32 +7925,11 @@
             "description": "snimak"
           },
           {
-            "content": "Oni vole Srbiju ep. 79",
-            "time": "15:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Sloga - Velež",
-            "time": "16:00",
-            "category": "KUP BIH",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Oni žive za fudbal ep. 223 - FK OMLADINAC Ravni Topolovac, prvi deo",
             "time": "18:00",
             "category": "",
             "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Zrinjski - Radnik",
-            "time": "18:30",
-            "category": "KUP BIH",
-            "sport": "Fudbal",
-            "description": "uzivo"
           },
           {
             "content": "Boston Bruins - Tampa Bay Lightning",
@@ -9138,8 +8292,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-08.png"
+    }
   },
   "Arena Sport 9": {
     "days": {
@@ -9153,20 +8306,6 @@
             "description": "snimak"
           },
           {
-            "content": "Košarkaška pravila - Nikola Lončar",
-            "time": "02:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 68 - KK Radnički Valjevo, prvi deo",
-            "time": "03:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Cedevita Olimpija - Partizan",
             "time": "03:30",
             "category": "ABA LIGA",
@@ -9174,24 +8313,10 @@
             "description": "snimak"
           },
           {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Zlatibor - TFT, G1",
             "time": "06:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 61 - KK Uskok, prvi deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9209,13 +8334,6 @@
             "description": "snimak"
           },
           {
-            "content": "Velež - Zrinjski",
-            "time": "12:00",
-            "category": "WWIN LIGA BIH",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Vienna - Split",
             "time": "14:00",
             "category": "ABA LIGA",
@@ -9227,20 +8345,6 @@
             "time": "16:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Sportske igre mladih ep. 4",
-            "time": "17:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Zona zdravog sporta ep. 94",
-            "time": "17:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9276,31 +8380,10 @@
             "description": "snimak"
           },
           {
-            "content": "Velež - Zrinjski",
-            "time": "02:00",
-            "category": "WWIN LIGA BIH",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Šabac - Crvena zvezda",
             "time": "04:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Cook Fit S01E01: Saša Stamenković",
-            "time": "05:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Dobre Sportske Priče E26: Sportska merenja Knjaževac",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9311,31 +8394,10 @@
             "description": "snimak"
           },
           {
-            "content": "Mi živimo za košarku ep. 62 - KK Uskok, drugi deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Široki - Helios, polufinale G1",
             "time": "08:15",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Mornar - Sutjeska",
-            "time": "12:00",
-            "category": "CRNOGORSKA LIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -9353,31 +8415,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sportske igre mladih ep. 5",
-            "time": "17:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Priča o svemu (pa i o sportu) ep. 13",
-            "time": "17:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Radnički - Novi Beograd",
             "time": "18:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Teme do Arene - Milan Glušac",
-            "time": "19:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9393,13 +8434,6 @@
             "category": "ABA2 LIGA",
             "sport": "Košarka",
             "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E02: Discgolf",
-            "time": "23:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           }
         ]
       },
@@ -9413,13 +8447,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mornar - Sutjeska",
-            "time": "02:00",
-            "category": "CRNOGORSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Šabac - Radnički",
             "time": "04:00",
             "category": "Regionalna vaterpolo liga",
@@ -9427,31 +8454,10 @@
             "description": "snimak"
           },
           {
-            "content": "Cook Fit S01E02: Dušan Džakić",
-            "time": "05:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Dobre Sportske Priče E27: Ragbi kali ljude",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Zlatibor - TFT, G3",
             "time": "06:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 63 - ŽKK Proleter Novi Sad, prvi deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9487,20 +8493,6 @@
             "time": "16:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Sportske igre mladih ep. 6",
-            "time": "17:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Košarkaška pravila - Aleksa Avramović",
-            "time": "17:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9536,13 +8528,6 @@
             "description": "snimak"
           },
           {
-            "content": "Sport bez granica S01E03: Kinball",
-            "time": "01:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Hajduk - Gorica",
             "time": "02:00",
             "category": "HRVATSKA LIGA",
@@ -9557,31 +8542,10 @@
             "description": "snimak"
           },
           {
-            "content": "Cook Fit S01E03: Nevena Ignjatović",
-            "time": "05:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Dobre Sportske Priče E27: Ragbi kali ljude",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Cedevita Olimpija - Partizan",
             "time": "06:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 64 - ŽKK Proleter Novi Sad, drugi deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9599,13 +8563,6 @@
             "description": "snimak"
           },
           {
-            "content": "Novi Pazar - Partizan",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Sutjeska - TFT, polufinale G1",
             "time": "14:00",
             "category": "ABA2 LIGA",
@@ -9617,13 +8574,6 @@
             "time": "16:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "17:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9646,13 +8596,6 @@
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
             "description": "snimak"
-          },
-          {
-            "content": "Dobre Sportske Priče E28: Golbal",
-            "time": "23:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           }
         ]
       },
@@ -9663,20 +8606,6 @@
             "time": "00:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E04: Cannicross",
-            "time": "01:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -9694,13 +8623,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mi živimo za košarku ep. 65 - ŽKK Srbobran, prvi deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Crvena zvezda - Cluj",
             "time": "08:15",
             "category": "ABA LIGA",
@@ -9715,24 +8637,10 @@
             "description": "snimak"
           },
           {
-            "content": "Sutjeska - Budućnost",
-            "time": "12:00",
-            "category": "CRNOGORSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Jadran  - Šabac",
             "time": "14:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Svet je naš ep. 34",
-            "time": "15:15",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9750,31 +8658,10 @@
             "description": "uzivo"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "19:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Železničar - Posušje",
-            "time": "20:30",
-            "category": "WWIN LIGA BIH",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Jadran  - Šabac",
             "time": "22:30",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Mali sportovi - veliki sportisti ep. 53 - RK Obilić, prvi deo",
-            "time": "23:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           }
         ]
@@ -9796,20 +8683,6 @@
             "description": "snimak"
           },
           {
-            "content": "Sutjeska - Budućnost",
-            "time": "04:00",
-            "category": "CRNOGORSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Crvena zvezda - Spartak",
-            "time": "06:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Dubai - Budućnost",
             "time": "08:00",
             "category": "ABA LIGA",
@@ -9821,13 +8694,6 @@
             "time": "09:45",
             "category": "ABA LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 66 - ŽKK Srbobran, drugi deo",
-            "time": "11:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9852,20 +8718,6 @@
             "description": "snimak"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "17:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Borac - Velež",
-            "time": "18:30",
-            "category": "WWIN LIGA BIH",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Primorac - Jadran, polufinale",
             "time": "20:30",
             "category": "Regionalna vaterpolo liga",
@@ -9877,13 +8729,6 @@
             "time": "21:45",
             "category": "ABA LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Košarkaška pravila - Aleksa Avramović",
-            "time": "23:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           }
         ]
@@ -9898,13 +8743,6 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Spartak",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Primorac - Jadran, polufinale",
             "time": "04:00",
             "category": "Regionalna vaterpolo liga",
@@ -9912,31 +8750,10 @@
             "description": "snimak"
           },
           {
-            "content": "Cook Fit S01E05: Igor Rakočević",
-            "time": "05:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mali sportovi - veliki sportisti ep. 54 - RK Obilić, drugi deo",
-            "time": "05:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "TFT - Sutjeska, polufinale G2",
             "time": "06:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mi živimo za košarku ep. 67 - ŽKK Srbobran, treći deo",
-            "time": "07:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -9975,13 +8792,6 @@
             "description": "snimak"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "14:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Celtic - St Mirren",
             "time": "15:00",
             "category": "ŠKOTSKI KUP",
@@ -10004,27 +8814,12 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-09.png"
+    }
   },
   "Arena Sport 10": {
     "days": {
       "2026-04-13": {
         "emisije": [
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "00:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Finale",
-            "time": "02:00",
-            "category": "KUP SRBIJE",
-            "sport": "Futsal",
-            "description": "snimak"
-          },
           {
             "content": "Železničar - Crvena zvezda",
             "time": "04:00",
@@ -10044,20 +8839,6 @@
             "time": "08:00",
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "TSC - IMT",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10100,38 +8881,10 @@
       "2026-04-14": {
         "emisije": [
           {
-            "content": "Mladost - Napredak",
-            "time": "00:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "OFK Beograd - Radnik",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Karađorđe - Takovo",
             "time": "06:00",
             "category": "SUPERLIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Javor - Železničar",
-            "time": "08:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10149,20 +8902,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Zona zdravog sporta ep. 94",
-            "time": "12:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Cook Fit S01E08: Janko Milanov",
-            "time": "13:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Železničar - Crvena zvezda",
             "time": "13:15",
             "category": "SUPERLIGA (Ž)",
@@ -10170,45 +8909,10 @@
             "description": "snimak"
           },
           {
-            "content": "SPORT BROTHERS LEAGUE S03E01",
-            "time": "15:15",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "TENT - Železničar/Crvena zvezda",
             "time": "16:00",
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "18:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Cook Fit S01E08: Janko Milanov",
-            "time": "20:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Partizan",
-            "time": "20:15",
-            "category": "SUPERLIGA SRBIJE",
-            "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Sport bez granica S01E14: Chinlone",
-            "time": "21:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -10230,20 +8934,6 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Spartak",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Čukarički - Radnički 1923",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Železničar - Crvena zvezda",
             "time": "06:00",
             "category": "SUPERLIGA (Ž)",
@@ -10251,24 +8941,10 @@
             "description": "snimak"
           },
           {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "08:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "TENT - Železničar/Crvena zvezda",
             "time": "10:00",
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10286,32 +8962,11 @@
             "description": "snimak"
           },
           {
-            "content": "Mali sportovi - veliki sportisti ep. 53 - RK Obilić, prvi deo",
-            "time": "18:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Mali sportovi - veliki sportisti ep. 54 - RK Obilić, drugi deo",
-            "time": "18:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Temerin - Mladost NP",
             "time": "19:00",
             "category": "SUPERLIGA SRBIJE Ž",
             "sport": "Rukomet",
             "description": "uzivo"
-          },
-          {
-            "content": "Svet je naš ep. 34",
-            "time": "20:45",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           },
           {
             "content": "Vojvodina - Spartak",
@@ -10346,20 +9001,6 @@
             "description": "snimak"
           },
           {
-            "content": "OFK Beograd - Radnik",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "TSC - IMT",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Karađorđe - Takovo",
             "time": "06:00",
             "category": "SUPERLIGA",
@@ -10374,20 +9015,6 @@
             "description": "snimak"
           },
           {
-            "content": "Mladost - Napredak",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Crvena zvezda - Spartak",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "TENT - Železničar/Crvena zvezda",
             "time": "14:00",
             "category": "SUPERLIGA (Ž)",
@@ -10399,13 +9026,6 @@
             "time": "16:00",
             "category": "SUPERLIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "18:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10427,24 +9047,10 @@
       "2026-04-17": {
         "emisije": [
           {
-            "content": "Čukarički - Radnički 1923",
-            "time": "00:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Tamiš - Hercegovac",
             "time": "02:00",
             "category": "KLS",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Javor - Železničar",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10459,20 +9065,6 @@
             "time": "08:00",
             "category": "SUPERLIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Novi Pazar - Partizan",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "OFK Beograd - Radnik",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10516,13 +9108,6 @@
             "category": "SUPERLIGA SRBIJE Ž",
             "sport": "Rukomet",
             "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Partizan",
-            "time": "22:30",
-            "category": "SUPERLIGA SRBIJE",
-            "sport": "Rukomet",
-            "description": "snimak"
           }
         ]
       },
@@ -10533,20 +9118,6 @@
             "time": "00:00",
             "category": "SUPERLIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "TSC - IMT",
-            "time": "02:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10564,20 +9135,6 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Spartak",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Čukarički - Radnički 1923",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Čačak - Sloga",
             "time": "14:00",
             "category": "KLS",
@@ -10589,27 +9146,6 @@
             "time": "16:00",
             "category": "SUPERLIGA SRBIJE Ž",
             "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Mali sportovi - veliki sportisti ep. 55 - RK Obilić, treći deo",
-            "time": "17:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Partizan - Metaloplastika",
-            "time": "18:00",
-            "category": "SUPERLIGA SRBIJE",
-            "sport": "Rukomet",
-            "description": "uzivo"
-          },
-          {
-            "content": "Svet je naš ep. 34",
-            "time": "19:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -10631,24 +9167,10 @@
       "2026-04-19": {
         "emisije": [
           {
-            "content": "Javor - Železničar",
-            "time": "00:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Karađorđe - Takovo",
             "time": "02:00",
             "category": "SUPERLIGA",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Mladost - Napredak",
-            "time": "04:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -10666,37 +9188,9 @@
             "description": "snimak"
           },
           {
-            "content": "OFK Beograd - Radnik",
-            "time": "10:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "TSC - IMT",
-            "time": "12:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Crvena zvezda - Spartak",
-            "time": "14:00",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Oni žive za fudbal ep. 222 - FK RIBNICA, Mionica",
             "time": "16:00",
             "category": "",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Javor - Železničar",
-            "time": "16:30",
-            "category": "MOZZARTBET SUPERLIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -10706,25 +9200,10 @@
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
             "description": "snimak"
-          },
-          {
-            "content": "Vojvodina - Radnički Niš",
-            "time": "20:30",
-            "category": "MOZZARTBET SUPERLIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Partizan - Metaloplastika",
-            "time": "22:30",
-            "category": "SUPERLIGA SRBIJE",
-            "sport": "Rukomet",
-            "description": "snimak"
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-10.png"
+    }
   },
   "Adrenalin": {
     "days": {
@@ -10735,13 +9214,6 @@
             "time": "00:30",
             "category": "SuperEnduro 2026",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Mobil Auto ep. 14",
-            "time": "04:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -10822,24 +9294,10 @@
             "description": "snimak"
           },
           {
-            "content": "Adrenalin Nacija S01E08: Tri strane Kopaonika",
-            "time": "21:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Tajland: Trka",
             "time": "21:30",
             "category": "MOTO GP",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Mobil Auto ep. 15",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -10942,20 +9400,6 @@
             "time": "21:15",
             "category": "MOTO GP",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Adrenalin Nacija S01E08: Tri strane Kopaonika",
-            "time": "22:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Red Bull: Road to 55",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -11075,13 +9519,6 @@
             "description": "snimak"
           },
           {
-            "content": "Red Bull: Road to 55",
-            "time": "22:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Red Bull: The filer creek expedition",
             "time": "23:00",
             "category": "KAJAK",
@@ -11163,24 +9600,10 @@
             "description": "snimak"
           },
           {
-            "content": "Red Bull: Road to 55",
-            "time": "16:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Japan: Trka",
             "time": "16:30",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Gearing Up 2026 E03",
-            "time": "18:45",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -11202,20 +9625,6 @@
             "time": "21:00",
             "category": "SUPERBIKE WORLD CHAMPIONSHIP",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "The Sports Rundown E01",
-            "time": "22:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "The Sports Rundown E02",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -11279,13 +9688,6 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Mobil Auto ep. 15",
-            "time": "13:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
             "content": "Melburn: Trka",
             "time": "14:00",
             "category": "FORMULA 3",
@@ -11326,27 +9728,6 @@
             "category": "SUPERBIKE WORLD CHAMPIONSHIP",
             "sport": "Moto Sport",
             "description": "snimak"
-          },
-          {
-            "content": "The Sports Rundown E02",
-            "time": "22:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Pure Action 2025 E31",
-            "time": "23:00",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
-          },
-          {
-            "content": "Pure Action 2025 E32",
-            "time": "23:30",
-            "category": "",
-            "sport": "",
-            "description": "snimak"
           }
         ]
       },
@@ -11357,13 +9738,6 @@
             "time": "00:00",
             "category": "NASCAR CUP SERIES",
             "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: Mobil Auto ep. 15",
-            "time": "03:30",
-            "category": "",
-            "sport": "",
             "description": "snimak"
           },
           {
@@ -11540,8 +9914,7 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-a-adrenalin.png"
+    }
   },
   "Arena 1X2": {
     "days": {
@@ -11692,7 +10065,6 @@
           }
         ]
       }
-    },
-    "channel_image": "/files/img/icons/chanel-1x2.png"
+    }
   }
 }
