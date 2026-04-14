@@ -116,16 +116,17 @@
       <div id="drawer-overlay" class="drawer-overlay"></div>
 
       <main class="main-content">
-        <div class="date-selector">
-          <button id="prev-day" class="icon-btn">◀</button>
-          <div class="date-display-container">
+        <div class="date-selector-wrapper">
+          <div class="date-selector">
+            <button id="prev-day" class="icon-btn">◀</button>
             <div class="date-display">
-              <span id="current-date-display"></span>
-              <input type="date" id="calendar-picker" class="calendar-picker" min="${dateList[0]}" max="${dateList[dateList.length - 1]}">
+              <span id="current-date-display" style="cursor: default;"></span>
             </div>
+            <button id="next-day" class="icon-btn">▶</button>
+          </div>
+          <div class="today-container">
             <div id="go-today" class="go-today">Danas</div>
           </div>
-          <button id="next-day" class="icon-btn">▶</button>
         </div>
         
         <div id="timeline" class="timeline"></div>
@@ -191,16 +192,6 @@
       renderTimeline();
     });
 
-    const calendarPicker = document.getElementById('calendar-picker');
-    calendarPicker.addEventListener('change', (e) => {
-      if (dateList.includes(e.target.value)) {
-        currentDate = e.target.value;
-        updateDateDisplay();
-        renderFilters();
-        renderTimeline();
-      }
-    });
-
     renderFilters();
     updateDateDisplay();
     renderTimeline();
@@ -247,7 +238,6 @@
   function updateDateDisplay() {
     document.getElementById('current-date-display').textContent =
       formatDate(currentDate);
-    document.getElementById('calendar-picker').value = currentDate;
 
     document.getElementById('prev-day').disabled =
       dateList.indexOf(currentDate) === 0;
@@ -259,16 +249,7 @@
     const container = document.getElementById('filter-list');
     container.innerHTML = '';
 
-    const events = eventsByDay[currentDate] || [];
-    const availableFilters = {};
-    for (const ev of events) {
-      if (!availableFilters[ev.sport]) {
-        availableFilters[ev.sport] = new Set();
-      }
-      availableFilters[ev.sport].add(ev.category);
-    }
-
-    const sports = Object.keys(availableFilters).toSorted();
+    const sports = Object.keys(filters).toSorted();
 
     for (const sport of sports) {
       const sportData = savedFilters[sport];
@@ -294,9 +275,7 @@
       const leaguesDiv = document.createElement('div');
       leaguesDiv.className = 'filter-leagues';
 
-      const leagues = Array.from(availableFilters[sport]).toSorted();
-
-      for (const league of leagues) {
+      for (const league of filters[sport]) {
         const leagueRow = document.createElement('div');
         leagueRow.className = 'filter-league';
 
@@ -311,8 +290,8 @@
 
         leagueCb.addEventListener('change', (e) => {
           sportData.leagues[league] = e.target.checked;
-          const allChecked = leagues.every((l) => sportData.leagues[l]);
-          const someChecked = leagues.some((l) => sportData.leagues[l]);
+          const allChecked = filters[sport].every((l) => sportData.leagues[l]);
+          const someChecked = filters[sport].some((l) => sportData.leagues[l]);
           sportCb.checked = allChecked;
           sportCb.indeterminate = someChecked && !allChecked;
           sportData.all = allChecked;
@@ -328,7 +307,7 @@
       sportCb.addEventListener('change', (e) => {
         const isChecked = e.target.checked;
         sportData.all = isChecked;
-        for (const league of leagues) {
+        for (const league of filters[sport]) {
           sportData.leagues[league] = isChecked;
           document.getElementById(`league-${sport}-${league}`).checked =
             isChecked;
@@ -337,8 +316,8 @@
         renderTimeline();
       });
 
-      const allChecked = leagues.every((l) => sportData.leagues[l]);
-      const someChecked = leagues.some((l) => sportData.leagues[l]);
+      const allChecked = filters[sport].every((l) => sportData.leagues[l]);
+      const someChecked = filters[sport].some((l) => sportData.leagues[l]);
       sportCb.checked = allChecked;
       sportCb.indeterminate = someChecked && !allChecked;
 

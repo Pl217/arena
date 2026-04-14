@@ -147,38 +147,32 @@ body {
   padding: 1rem;
 }
 
+.date-selector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
 .date-selector {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin-bottom: 1.5rem;
 }
 
 .date-display {
   position: relative;
   font-size: 1.1rem;
   font-weight: bold;
-  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.calendar-picker {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  cursor: pointer;
-}
-
-.date-display-container {
+.today-container {
+  margin-top: 0.25rem;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
 }
 
@@ -186,7 +180,6 @@ body {
   font-size: 0.85rem;
   color: var(--primary-color);
   cursor: pointer;
-  margin-top: 0.25rem;
 }
 
 .go-today:hover {
