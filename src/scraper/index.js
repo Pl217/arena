@@ -1,7 +1,7 @@
 import { writeFile, mkdir } from 'node:fs/promises';
 import { resolve as resolvePath } from 'node:path';
 
-const ignoreTeams = ['PL Studio', 'Plan igre', 'Pregled kola'];
+const ignoreTeams = ['Plan igre', 'Pregled kola', 'Studio', 'Rukometna arena'];
 const ignoreLeagues = new Set([
   'MOZZART BET SUPERLIGA',
   'MOZZARTBET SUPERLIGA',
@@ -125,7 +125,11 @@ const scrapeAndProcess = async () => {
         if (ignoreLeagues.has(show.category)) {
           continue;
         }
-        if (ignoreTeams.some((team) => show.content?.includes(team))) {
+        if (
+          ignoreTeams.some((team) =>
+            show.content?.toLowerCase().includes(team.toLowerCase())
+          )
+        ) {
           continue;
         }
 
