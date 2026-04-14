@@ -1,0 +1,12 @@
+{
+  "name": "arena",
+  "version": "1.0.0",
+  "description": "Arena sport broadcasts",
+  "scripts": {
+    "reinstall": "rm -rf node_modules && npm install"
+  },
+  "keywords": ["Arena sport"],
+  "author": "Pl217",
+  "license": "UNLICENSED",
+  "type": "module"
+}
