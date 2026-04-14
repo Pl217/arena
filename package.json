@@ -1,8 +1,10 @@
 {
   "name": "arena",
+  "private": true,
   "version": "1.0.0",
   "description": "Arena sport broadcasts",
   "scripts": {
+    "build": "node src/web/build.js",
     "reinstall": "rm -rf node_modules && npm install"
   },
   "keywords": ["Arena sport"],
