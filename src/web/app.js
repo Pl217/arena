@@ -98,7 +98,7 @@
     app.innerHTML = `
       <header class="header">
         <button id="menu-btn" class="icon-btn" aria-label="Meni">☰</button>
-        <h1>TV Raspored</h1>
+        <h1>Arena sport TV raspored</h1>
         <button id="theme-btn" class="icon-btn" aria-label="Tema">${isDark ? '☀️' : '🌘'}</button>
       </header>
       
