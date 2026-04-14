@@ -8,7 +8,9 @@
     "scrape": "node src/scraper/index.js",
     "reinstall": "rm -rf node_modules && npm install"
   },
-  "keywords": ["Arena sport"],
+  "keywords": [
+    "Arena sport"
+  ],
   "author": "Pl217",
   "license": "UNLICENSED",
   "type": "module"
