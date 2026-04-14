@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 
 async function build() {
-  const dataDir = path.join(process.cwd(), 'src', 'data');
+  const dataDir = path.join(process.cwd(), 'src', 'data', 'json');
   const webDir = path.join(process.cwd(), 'src', 'web');
   const outDir = process.cwd();
 
@@ -15,35 +15,31 @@ async function build() {
     console.warn('No data directory found');
   }
 
-  // Group by date and find latest version
+  // Group by date
   const latestFiles = {};
   for (const file of files) {
-    const match = file.match(/^(\d{4}-\d{2}-\d{2})-v(\d+)\.json$/);
+    const match = file.match(/^(\d{4}-\d{2}-\d{2})\.json$/);
     if (match) {
       const date = match[1];
-      const version = parseInt(match[2], 10);
-      if (!latestFiles[date] || latestFiles[date].version < version) {
-        latestFiles[date] = { file, version };
-      }
+      latestFiles[date] = { file };
     }
   }
 
   // Merge data
   const sortedDates = Object.keys(latestFiles).toSorted();
-  if (sortedDates.length === 0) {
-    return;
-  }
-
-  const latestDate = sortedDates[sortedDates.length - 1];
-  const latestDateObj = new Date(`${latestDate}T00:00:00Z`);
-  latestDateObj.setUTCDate(latestDateObj.getUTCDate() - 1);
-  const dayBefore = latestDateObj.toISOString().split('T')[0];
-
   const datesToProcess = [];
-  if (latestFiles[dayBefore]) {
-    datesToProcess.push(dayBefore);
+
+  if (sortedDates.length > 0) {
+    const latestDate = sortedDates[sortedDates.length - 1];
+    const latestDateObj = new Date(`${latestDate}T00:00:00Z`);
+    latestDateObj.setUTCDate(latestDateObj.getUTCDate() - 1);
+    const dayBefore = latestDateObj.toISOString().split('T')[0];
+
+    if (latestFiles[dayBefore]) {
+      datesToProcess.push(dayBefore);
+    }
+    datesToProcess.push(latestDate);
   }
-  datesToProcess.push(latestDate);
 
   const mergedData = {};
 
