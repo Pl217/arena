@@ -93,15 +93,15 @@ jobs:
 
       - name: Setup Pages
         if: steps.data_check.outputs.has_changes == 'true'
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload artifact
         if: steps.data_check.outputs.has_changes == 'true'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: '.'
 
       - name: Deploy to GitHub Pages
         if: steps.data_check.outputs.has_changes == 'true'
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
