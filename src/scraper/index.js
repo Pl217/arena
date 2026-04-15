@@ -177,7 +177,8 @@ const run = async () => {
       hour12: false,
     };
     const formatter = new Intl.DateTimeFormat('sr-Latn-RS', options);
-    const [hour, minute] = formatter.format(new Date()).split(':').map(Number);
+    const formattedTime = formatter.format(new Date());
+    const [hour, minute] = formattedTime.split(':').map(Number);
     const totalMinutes = hour * 60 + minute;
 
     const targetTimes = [
@@ -199,7 +200,7 @@ const run = async () => {
 
     if (!isTargetTime) {
       console.log(
-        `Current Belgrade time is ${hour}:${minute}. Not a target time. Skipping run.`
+        `Current Belgrade time is ${formattedTime}. Not a target time. Skipping run.`
       );
       process.exit(0);
     }
