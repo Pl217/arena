@@ -7,6 +7,7 @@ const run = async () => {
     const { filteredSchemes, liveMatches } = await scrapeAndProcess();
 
     const today = new Date();
+    // Because of TZ='Europe/Belgrade' in GitHub Actions, this will now output the correct Belgrade date
     const todayUTC = new Date(
       Date.UTC(today.getFullYear(), today.getMonth(), today.getDate())
     );

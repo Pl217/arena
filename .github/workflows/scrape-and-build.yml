@@ -24,6 +24,9 @@ permissions:
 jobs:
   scrape-and-build:
     runs-on: ubuntu-latest
+    # Set the timezone for the entire job
+    env:
+      TZ: 'Europe/Belgrade'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -65,6 +68,7 @@ jobs:
       - name: Commit Data
         if: steps.data_check.outputs.has_changes == 'true'
         run: |
+          # Because of TZ='Europe/Belgrade', this will now output the correct Belgrade date
           DATE=$(date +'%Y-%m-%d')
           PREFIX="${{ steps.data_check.outputs.commit_type }}"
           git commit -m "$PREFIX $DATE"
