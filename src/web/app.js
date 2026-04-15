@@ -176,6 +176,9 @@
     document.addEventListener(
       'touchstart',
       (e) => {
+        if (document.getElementById('drawer').classList.contains('open')) {
+          return;
+        }
         if (e.target.closest('.drawer') || e.target.closest('.header')) {
           return;
         }
@@ -188,6 +191,9 @@
     document.addEventListener(
       'touchend',
       (e) => {
+        if (document.getElementById('drawer').classList.contains('open')) {
+          return;
+        }
         if (e.target.closest('.drawer') || e.target.closest('.header')) {
           return;
         }
