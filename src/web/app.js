@@ -168,6 +168,49 @@
       }
     });
 
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let touchEndX = 0;
+    let touchEndY = 0;
+
+    document.addEventListener(
+      'touchstart',
+      (e) => {
+        if (e.target.closest('.drawer') || e.target.closest('.header')) {
+          return;
+        }
+        touchStartX = e.changedTouches[0].screenX;
+        touchStartY = e.changedTouches[0].screenY;
+      },
+      { passive: true }
+    );
+
+    document.addEventListener(
+      'touchend',
+      (e) => {
+        if (e.target.closest('.drawer') || e.target.closest('.header')) {
+          return;
+        }
+        touchEndX = e.changedTouches[0].screenX;
+        touchEndY = e.changedTouches[0].screenY;
+        handleSwipe();
+      },
+      { passive: true }
+    );
+
+    function handleSwipe() {
+      const diffX = touchStartX - touchEndX;
+      const diffY = touchStartY - touchEndY;
+
+      if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 50) {
+        if (diffX > 0) {
+          changeDay(1);
+        } else {
+          changeDay(-1);
+        }
+      }
+    }
+
     document.getElementById('filter-all').addEventListener('click', () => {
       for (const sport in filters) {
         savedFilters[sport].all = true;
@@ -206,20 +249,46 @@
     document.getElementById('drawer-overlay').classList.remove('open');
   }
 
+  let isAnimating = false;
+
   function changeDay(delta) {
+    if (isAnimating) {
+      return;
+    }
     const idx = dateList.indexOf(currentDate);
     if (idx !== -1) {
       const newIdx = idx + delta;
       if (newIdx >= 0 && newIdx < dateList.length) {
-        currentDate = dateList[newIdx];
-        updateDateDisplay();
-        renderFilters();
-        renderTimeline();
-        if (currentDate === todayStr) {
-          setTimeout(scrollToCurrentTime, 100);
-        } else {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
+        isAnimating = true;
+        const mainContent = document.querySelector('.main-content');
+
+        const outClass =
+          delta > 0 ? 'anim-slide-out-left' : 'anim-slide-out-right';
+        const inClass =
+          delta > 0 ? 'anim-slide-in-right' : 'anim-slide-in-left';
+
+        mainContent.classList.add(outClass);
+
+        setTimeout(() => {
+          currentDate = dateList[newIdx];
+          updateDateDisplay();
+          renderFilters();
+          renderTimeline();
+
+          if (currentDate === todayStr) {
+            setTimeout(scrollToCurrentTime, 10);
+          } else {
+            window.scrollTo({ top: 0 });
+          }
+
+          mainContent.classList.remove(outClass);
+          mainContent.classList.add(inClass);
+
+          setTimeout(() => {
+            mainContent.classList.remove(inClass);
+            isAnimating = false;
+          }, 200);
+        }, 200);
       }
     }
   }
