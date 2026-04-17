@@ -151,10 +151,10 @@
 
     document
       .getElementById('prev-day')
-      .addEventListener('click', () => changeDay(-1));
+      .addEventListener('click', () => changeDay(-1, false));
     document
       .getElementById('next-day')
-      .addEventListener('click', () => changeDay(1));
+      .addEventListener('click', () => changeDay(1, false));
 
     document.getElementById('go-today').addEventListener('click', () => {
       if (dateList.includes(todayStr) && currentDate !== todayStr) {
@@ -210,9 +210,9 @@
 
       if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 50) {
         if (diffX > 0) {
-          changeDay(1);
+          changeDay(1, true);
         } else {
-          changeDay(-1);
+          changeDay(-1, true);
         }
       }
     }
@@ -257,7 +257,7 @@
 
   let isAnimating = false;
 
-  function changeDay(delta) {
+  function changeDay(delta, animate = false) {
     if (isAnimating) {
       return;
     }
@@ -265,6 +265,19 @@
     if (idx !== -1) {
       const newIdx = idx + delta;
       if (newIdx >= 0 && newIdx < dateList.length) {
+        if (!animate) {
+          currentDate = dateList[newIdx];
+          updateDateDisplay();
+          renderFilters();
+          renderTimeline();
+          if (currentDate === todayStr) {
+            setTimeout(scrollToCurrentTime, 10);
+          } else {
+            window.scrollTo({ top: 0 });
+          }
+          return;
+        }
+
         isAnimating = true;
         const mainContent = document.querySelector('.main-content');
 
