@@ -1,10 +1,10 @@
-(function () {
+(() => {
   const data = window.__DATA__;
   const eventsByDay = data.eventsByDay;
   const recordingsByMatch = data.recordingsByMatch;
   const filters = data.filters;
 
-  function getBelgradeDate(dateObj = new Date()) {
+  const getBelgradeDate = (dateObj = new Date()) => {
     const options = {
       timeZone: 'Europe/Belgrade',
       year: 'numeric',
@@ -27,7 +27,7 @@
       hour: parseInt(p.hour, 10),
       minute: parseInt(p.minute, 10),
     };
-  }
+  };
 
   const nowBg = getBelgradeDate();
   const todayStr = nowBg.dateStr;
@@ -37,7 +37,9 @@
     availableDates.length > 0
       ? availableDates[availableDates.length - 1]
       : todayStr;
-  if (maxDateStr < todayStr) maxDateStr = todayStr;
+  if (maxDateStr < todayStr) {
+    maxDateStr = todayStr;
+  }
 
   const dateList = [];
   const todayObj = new Date(`${todayStr}T00:00:00Z`);
@@ -60,7 +62,7 @@
     currentDate = dateList[0];
   }
 
-  let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) || {};
+  let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
 
   for (const sport in filters) {
     if (!savedFilters[sport]) {
@@ -83,27 +85,27 @@
     }
   }
 
-  function saveFilters() {
+  const saveFilters = () => {
     localStorage.setItem('tvFilters', JSON.stringify(savedFilters));
-  }
+  };
 
   let isDark = localStorage.getItem('theme') === 'dark';
-  function applyTheme() {
+  const applyTheme = () => {
     if (isDark) {
       document.documentElement.classList.add('dark');
     } else {
       document.documentElement.classList.remove('dark');
     }
-  }
+  };
   applyTheme();
 
-  function toggleTheme() {
+  const toggleTheme = () => {
     isDark = !isDark;
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
     applyTheme();
-  }
+  };
 
-  function renderApp() {
+  const renderApp = () => {
     const app = document.getElementById('app');
     app.innerHTML = `
       <header class="header">
@@ -214,7 +216,7 @@
       { passive: true }
     );
 
-    function handleSwipe() {
+    const handleSwipe = () => {
       const diffX = touchStartX - touchEndX;
       const diffY = touchStartY - touchEndY;
 
@@ -225,7 +227,7 @@
           changeDay(-1, true);
         }
       }
-    }
+    };
 
     document.getElementById('filter-all').addEventListener('click', () => {
       for (const sport in filters) {
@@ -285,18 +287,18 @@
       );
       observer.observe(dateSelectorWrapper);
     }
-  }
+  };
 
   let isDateSelectorVisible = true;
 
-  function closeDrawer() {
+  const closeDrawer = () => {
     document.getElementById('drawer').classList.remove('open');
     document.getElementById('drawer-overlay').classList.remove('open');
-  }
+  };
 
   let isAnimating = false;
 
-  function changeDay(delta, animate = false) {
+  const changeDay = (delta, animate = false) => {
     if (isAnimating) {
       return;
     }
@@ -349,9 +351,9 @@
         }, 200);
       }
     }
-  }
+  };
 
-  function formatDate(dateStr) {
+  const formatDate = (dateStr) => {
     const options = {
       weekday: 'short',
       year: 'numeric',
@@ -360,9 +362,9 @@
     };
     const dateObj = new Date(`${dateStr}T00:00:00Z`);
     return new Intl.DateTimeFormat('sr-Latn-RS', options).format(dateObj);
-  }
+  };
 
-  function updateDateDisplay() {
+  const updateDateDisplay = () => {
     document.getElementById('current-date-display').textContent =
       formatDate(currentDate);
 
@@ -375,9 +377,9 @@
     if (headerTitle && !isDateSelectorVisible) {
       headerTitle.textContent = formatDate(currentDate);
     }
-  }
+  };
 
-  function renderFilters() {
+  const renderFilters = () => {
     const container = document.getElementById('filter-list');
     container.innerHTML = '';
 
@@ -456,13 +458,13 @@
       sportDiv.appendChild(leaguesDiv);
       container.appendChild(sportDiv);
     }
-  }
+  };
 
-  function renderTimeline() {
+  const renderTimeline = () => {
     const container = document.getElementById('timeline');
     container.innerHTML = '';
 
-    const events = eventsByDay[currentDate] || [];
+    const events = eventsByDay[currentDate] ?? [];
 
     const filteredEvents = events.filter((ev) => {
       const sportData = savedFilters[ev.sport];
@@ -550,9 +552,9 @@
 
       container.appendChild(card);
     }
-  }
+  };
 
-  function scrollToCurrentTime() {
+  const scrollToCurrentTime = () => {
     const targetHour = nowBg.hour - 2;
     const validHour = targetHour < 0 ? 0 : targetHour;
     const targetTimeStr = `${validHour.toString().padStart(2, '0')}:00`;
@@ -582,7 +584,7 @@
         block: 'start',
       });
     }
-  }
+  };
 
   // Start app
   renderApp();

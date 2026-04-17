@@ -32,7 +32,7 @@ export const formatDateForDisplay = (isoDate) => {
 };
 
 const escapeCSVField = (value) => {
-  const str = String(value ?? '');
+  const str = `${value ?? ''}`;
   if (/[,"\r\n]/.test(str)) {
     return `"${str.replaceAll('"', '""')}"`;
   }
@@ -88,25 +88,25 @@ export const scrapeAndProcess = async () => {
   try {
     tvSchemes = JSON.parse(schemesMatch[1]);
   } catch (err) {
-    throw new Error('Failed to parse TV_SCHEMES JSON: ' + err.message);
+    throw new Error(`Failed to parse TV_SCHEMES JSON: ${err.message}`);
   }
 
   const allMatches = [];
   const filteredSchemes = {};
-  let liveMatches = [];
+  const liveMatches = [];
 
   // Process each channel
   for (const [channel, channelData] of Object.entries(tvSchemes)) {
     filteredSchemes[channel] = { days: {} };
 
     // Process each day for this channel
-    for (const [date, dayData] of Object.entries(channelData.days || {})) {
-      const shows = dayData.emisije || [];
+    for (const [date, dayData] of Object.entries(channelData.days ?? {})) {
+      const shows = dayData.emisije ?? [];
       const filteredShows = [];
 
       // Process each show
       for (const show of shows) {
-        const desc = show.description?.toLowerCase() || '';
+        const desc = show.description?.toLowerCase() ?? '';
         const isLive = desc === 'uzivo' || desc === 'uživo';
         const isReplay = desc === 'snimak';
 
@@ -161,7 +161,7 @@ export const scrapeAndProcess = async () => {
     }
   }
 
-  liveMatches = liveMatches.toSorted((a, b) => {
+  const sortedLiveMatches = liveMatches.toSorted((a, b) => {
     const dateComparison = a.date.localeCompare(b.date);
     if (dateComparison !== 0) {
       return dateComparison;
@@ -169,5 +169,5 @@ export const scrapeAndProcess = async () => {
     return a.time.localeCompare(b.time);
   });
 
-  return { allMatches, filteredSchemes, liveMatches };
+  return { allMatches, filteredSchemes, liveMatches: sortedLiveMatches };
 };

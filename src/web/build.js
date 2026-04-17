@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-async function build() {
+const build = async () => {
   const dataDir = path.join(process.cwd(), 'src', 'data', 'json');
   const webDir = path.join(process.cwd(), 'src', 'web');
   const outDir = process.cwd();
@@ -65,7 +65,7 @@ async function build() {
   for (const channel in mergedData) {
     const days = mergedData[channel].days;
     for (const date in days) {
-      const emisije = days[date].emisije || [];
+      const emisije = days[date].emisije ?? [];
       for (const em of emisije) {
         if (!em.content || !em.time) {
           continue;
@@ -76,10 +76,10 @@ async function build() {
 
         const eventObj = {
           time: em.time,
-          channel: channel,
+          channel,
           content: em.content.trim(),
-          category: category,
-          sport: sport,
+          category,
+          sport,
           desc: em.description ? em.description.trim().toLowerCase() : '',
         };
 
@@ -99,7 +99,7 @@ async function build() {
             recordingsByMatch[matchKey] = [];
           }
           recordingsByMatch[matchKey].push({
-            date: date,
+            date,
             time: eventObj.time,
             channel: eventObj.channel,
           });
@@ -110,18 +110,18 @@ async function build() {
 
   const filters = {};
   for (const sport in sportsAndLeagues) {
-    filters[sport] = Array.from(sportsAndLeagues[sport]).toSorted();
+    filters[sport] = [...sportsAndLeagues[sport]].toSorted();
   }
 
-  function getChannelRank(channel) {
+  const getChannelRank = (channel) => {
     const matchPremium = channel.match(/Arena Premium (\d+)/);
     if (matchPremium) {
-      return 10 + parseInt(matchPremium[1]);
+      return 10 + parseInt(matchPremium[1], 10);
     }
 
     const matchSport = channel.match(/Arena Sport (\d+)/);
     if (matchSport) {
-      return 20 + parseInt(matchSport[1]);
+      return 20 + parseInt(matchSport[1], 10);
     }
 
     if (channel === 'Arena 1X2') {
@@ -135,7 +135,7 @@ async function build() {
     }
 
     return 100;
-  }
+  };
 
   for (const date in eventsByDay) {
     eventsByDay[date] = eventsByDay[date].toSorted((a, b) => {
@@ -182,6 +182,6 @@ async function build() {
 
   await fs.writeFile(path.join(outDir, 'index.html'), finalHtml);
   console.log('Build complete. Generated index.html');
-}
+};
 
 build().catch(console.error);
