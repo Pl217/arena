@@ -565,6 +565,24 @@
       const recordings = recordingsByMatch[ev.content];
       if (recordings && recordings.length > 0) {
         card.classList.add('has-recordings');
+
+        const badgeEl = document.createElement('span');
+        badgeEl.className = 'recording-badge desktop-badge';
+        badgeEl.textContent = recordings.length;
+        badgeEl.setAttribute('title', `Broj snimaka: ${recordings.length}`);
+
+        headerInfoEl.appendChild(badgeEl);
+
+        const mobileBadgeEl = document.createElement('span');
+        mobileBadgeEl.className = 'recording-badge mobile-badge';
+        mobileBadgeEl.textContent = recordings.length;
+        mobileBadgeEl.setAttribute(
+          'title',
+          `Broj snimaka: ${recordings.length}`
+        );
+
+        timeEl.appendChild(mobileBadgeEl);
+
         const recContainer = document.createElement('div');
         recContainer.className = 'recordings-container';
         recContainer.style.display = 'none';
