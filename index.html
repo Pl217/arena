@@ -245,8 +245,16 @@ body {
   cursor: pointer;
 }
 
-.event-card.has-recordings:hover {
-  border-color: var(--primary-color);
+@media (hover: hover) {
+  .event-card.has-recordings:hover {
+    border-color: var(--primary-color);
+  }
+}
+
+@media (hover: none) {
+  .event-card.active-border {
+    border-color: var(--primary-color);
+  }
 }
 
 .event-time {
@@ -299,8 +307,16 @@ body {
   border-left: 4px solid #ffc107;
 }
 
-.event-card.is-favorite.has-recordings:hover {
-  border-color: #ffc107;
+@media (hover: hover) {
+  .event-card.is-favorite.has-recordings:hover {
+    border-color: #ffc107;
+  }
+}
+
+@media (hover: none) {
+  .event-card.is-favorite.active-border {
+    border-color: #ffc107;
+  }
 }
 
 .event-channel {
@@ -999,22 +1015,51 @@ body {
 
         const recTitle = document.createElement('div');
         recTitle.className = 'recordings-title';
-        recTitle.textContent = 'Snimci:';
-        recContainer.appendChild(recTitle);
 
-        for (const rec of recordings) {
-          const recRow = document.createElement('div');
-          recRow.className = 'recording-row';
-          recRow.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
-          recContainer.appendChild(recRow);
+        if (recordings.length === 1) {
+          const rec = recordings[0];
+          recTitle.textContent = 'Snimak: ';
+          recTitle.style.display = 'inline';
+
+          const recText = document.createElement('span');
+          recText.style.color = 'var(--text-muted)';
+          recText.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+
+          recContainer.appendChild(recTitle);
+          recContainer.appendChild(recText);
+        } else {
+          recTitle.textContent = 'Snimci:';
+          recContainer.appendChild(recTitle);
+
+          for (const rec of recordings) {
+            const recRow = document.createElement('div');
+            recRow.className = 'recording-row';
+            recRow.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+            recContainer.appendChild(recRow);
+          }
         }
 
         detailsEl.appendChild(recContainer);
 
         card.addEventListener('click', () => {
           const isHidden = recContainer.style.display === 'none';
+
+          // Remove active-border from all other cards when this one is clicked
+          const allCards = document.querySelectorAll('.event-card');
+          for (const c of allCards) {
+            if (c !== card) {
+              c.classList.remove('active-border');
+            }
+          }
+
           recContainer.style.display = isHidden ? 'block' : 'none';
           card.classList.toggle('expanded', isHidden);
+
+          if (isHidden) {
+            card.classList.add('active-border');
+          } else {
+            card.classList.remove('active-border');
+          }
         });
       }
 
