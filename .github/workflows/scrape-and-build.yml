@@ -45,6 +45,7 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: Run Scraper
+        if: github.event_name == 'schedule'
         run: npm run scrape
 
       - name: Check for Data Changes
