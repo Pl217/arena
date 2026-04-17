@@ -401,10 +401,20 @@ body {
   for (const sport in filters) {
     if (!savedFilters[sport]) {
       savedFilters[sport] = { all: true, leagues: {} };
-    }
-    for (const league of filters[sport]) {
-      if (savedFilters[sport].leagues[league] === undefined) {
+      for (const league of filters[sport]) {
         savedFilters[sport].leagues[league] = true;
+      }
+    } else {
+      const existingVals = Object.values(savedFilters[sport].leagues);
+      const anyOn =
+        existingVals.length > 0
+          ? existingVals.some((v) => v)
+          : savedFilters[sport].all;
+
+      for (const league of filters[sport]) {
+        if (savedFilters[sport].leagues[league] === undefined) {
+          savedFilters[sport].leagues[league] = anyOn;
+        }
       }
     }
   }
@@ -434,7 +444,7 @@ body {
     app.innerHTML = `
       <header class="header">
         <button id="menu-btn" class="icon-btn" aria-label="Meni">☰</button>
-        <h1>Arena sport TV raspored</h1>
+        <h1 id="header-title">Arena sport TV raspored</h1>
         <button id="theme-btn" class="icon-btn" aria-label="Tema">${isDark ? '☀️' : '🌘'}</button>
       </header>
       
@@ -487,10 +497,10 @@ body {
 
     document
       .getElementById('prev-day')
-      .addEventListener('click', () => changeDay(-1));
+      .addEventListener('click', () => changeDay(-1, false));
     document
       .getElementById('next-day')
-      .addEventListener('click', () => changeDay(1));
+      .addEventListener('click', () => changeDay(1, false));
 
     document.getElementById('go-today').addEventListener('click', () => {
       if (dateList.includes(todayStr) && currentDate !== todayStr) {
@@ -546,9 +556,9 @@ body {
 
       if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 50) {
         if (diffX > 0) {
-          changeDay(1);
+          changeDay(1, true);
         } else {
-          changeDay(-1);
+          changeDay(-1, true);
         }
       }
     }
@@ -584,7 +594,36 @@ body {
     if (currentDate === todayStr) {
       setTimeout(scrollToCurrentTime, 100);
     }
+
+    const dateSelectorWrapper = document.querySelector(
+      '.date-selector-wrapper'
+    );
+    const headerTitle = document.getElementById('header-title');
+
+    if (dateSelectorWrapper && headerTitle) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          const entry = entries[0];
+          isDateSelectorVisible =
+            entry.isIntersecting || entry.boundingClientRect.top > 0;
+
+          if (!isDateSelectorVisible) {
+            headerTitle.textContent = formatDate(currentDate);
+          } else {
+            headerTitle.textContent = 'Arena sport TV raspored';
+          }
+        },
+        {
+          root: null,
+          threshold: 0,
+          rootMargin: '-70px 0px 0px 0px',
+        }
+      );
+      observer.observe(dateSelectorWrapper);
+    }
   }
+
+  let isDateSelectorVisible = true;
 
   function closeDrawer() {
     document.getElementById('drawer').classList.remove('open');
@@ -593,7 +632,7 @@ body {
 
   let isAnimating = false;
 
-  function changeDay(delta) {
+  function changeDay(delta, animate = false) {
     if (isAnimating) {
       return;
     }
@@ -601,6 +640,19 @@ body {
     if (idx !== -1) {
       const newIdx = idx + delta;
       if (newIdx >= 0 && newIdx < dateList.length) {
+        if (!animate) {
+          currentDate = dateList[newIdx];
+          updateDateDisplay();
+          renderFilters();
+          renderTimeline();
+          if (currentDate === todayStr) {
+            setTimeout(scrollToCurrentTime, 10);
+          } else {
+            window.scrollTo({ top: 0 });
+          }
+          return;
+        }
+
         isAnimating = true;
         const mainContent = document.querySelector('.main-content');
 
@@ -654,6 +706,11 @@ body {
       dateList.indexOf(currentDate) === 0;
     document.getElementById('next-day').disabled =
       dateList.indexOf(currentDate) === dateList.length - 1;
+
+    const headerTitle = document.getElementById('header-title');
+    if (headerTitle && !isDateSelectorVisible) {
+      headerTitle.textContent = formatDate(currentDate);
+    }
   }
 
   function renderFilters() {
