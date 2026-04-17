@@ -112,7 +112,7 @@ const build = async () => {
   for (const sport in sportsAndLeagues) {
     filters[sport] = [...sportsAndLeagues[sport]].toSorted((a, b) => {
       const normalize = (s) => s.replace(/(?<!\d\.?) LIGA$/i, ' 1. LIGA');
-      return normalize(a).localeCompare(normalize(b));
+      return normalize(a).localeCompare(normalize(b), 'sr-Latn-RS');
     });
   }
 
@@ -143,7 +143,7 @@ const build = async () => {
   for (const date in eventsByDay) {
     eventsByDay[date] = eventsByDay[date].toSorted((a, b) => {
       if (a.time !== b.time) {
-        return a.time.localeCompare(b.time);
+        return a.time.localeCompare(b.time, 'sr-Latn-RS');
       }
       return getChannelRank(a.channel) - getChannelRank(b.channel);
     });
@@ -152,10 +152,10 @@ const build = async () => {
   for (const match in recordingsByMatch) {
     recordingsByMatch[match] = recordingsByMatch[match].toSorted((a, b) => {
       if (a.date !== b.date) {
-        return a.date.localeCompare(b.date);
+        return a.date.localeCompare(b.date, 'sr-Latn-RS');
       }
       if (a.time !== b.time) {
-        return a.time.localeCompare(b.time);
+        return a.time.localeCompare(b.time, 'sr-Latn-RS');
       }
       return getChannelRank(a.channel) - getChannelRank(b.channel);
     });

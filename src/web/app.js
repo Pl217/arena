@@ -395,7 +395,9 @@
     const container = document.getElementById('filter-list');
     container.innerHTML = '';
 
-    const sports = Object.keys(filters).toSorted();
+    const sports = Object.keys(filters).toSorted((a, b) =>
+      a.localeCompare(b, 'sr-Latn-RS')
+    );
 
     for (const sport of sports) {
       const sportData = savedFilters[sport];

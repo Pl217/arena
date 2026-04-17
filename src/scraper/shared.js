@@ -204,11 +204,11 @@ export const scrapeAndProcess = async () => {
   }
 
   const sortedLiveMatches = liveMatches.toSorted((a, b) => {
-    const dateComparison = a.date.localeCompare(b.date);
+    const dateComparison = a.date.localeCompare(b.date, 'sr-Latn-RS');
     if (dateComparison !== 0) {
       return dateComparison;
     }
-    return a.time.localeCompare(b.time);
+    return a.time.localeCompare(b.time, 'sr-Latn-RS');
   });
 
   return { allMatches, filteredSchemes, liveMatches: sortedLiveMatches };
