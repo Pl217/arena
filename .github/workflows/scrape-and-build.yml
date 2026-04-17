@@ -106,11 +106,21 @@ jobs:
         if: steps.build_commit.outputs.has_build_changes == 'true'
         uses: actions/configure-pages@v6
 
+      - name: Prepare deployment folder
+        if: steps.build_commit.outputs.has_build_changes == 'true'
+        run: |
+          # Create temporary directory '_site'
+          mkdir _site
+          cp index.html site.webmanifest _site/
+          # Grab the favicons from their specific folder. The '|| true' prevents the workflow
+          # from failing if you don't have one of these specific file types.
+          cp src/web/public/*.ico src/web/public/*.png _site/ 2>/dev/null || true
+
       - name: Upload artifact
         if: steps.build_commit.outputs.has_build_changes == 'true'
         uses: actions/upload-pages-artifact@v5
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         if: steps.build_commit.outputs.has_build_changes == 'true'
