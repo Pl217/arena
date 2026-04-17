@@ -63,6 +63,18 @@
   }
 
   let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
+  let savedFavorites = JSON.parse(localStorage.getItem('tvFavorites')) ?? [];
+
+  const toggleFavorite = (matchKey) => {
+    const idx = savedFavorites.indexOf(matchKey);
+    if (idx > -1) {
+      savedFavorites.splice(idx, 1);
+    } else {
+      savedFavorites.push(matchKey);
+    }
+    localStorage.setItem('tvFavorites', JSON.stringify(savedFavorites));
+    renderTimeline();
+  };
 
   for (const sport in filters) {
     if (!savedFilters[sport]) {
@@ -505,12 +517,38 @@
       channelEl.className = 'event-channel';
       channelEl.textContent = ev.channel;
 
+      const headerInfoEl = document.createElement('div');
+      headerInfoEl.className = 'event-header-info';
+
       const sportEl = document.createElement('span');
       sportEl.className = 'event-sport';
       sportEl.textContent = `${ev.sport} ${ev.category ? '- ' + ev.category : ''}`;
 
-      headerEl.appendChild(channelEl);
-      headerEl.appendChild(sportEl);
+      const matchKey = `${currentDate}-${ev.content}-${ev.sport}`;
+      const isFav = savedFavorites.includes(matchKey);
+
+      const starBtn = document.createElement('button');
+      starBtn.className = `icon-btn star-btn ${isFav ? 'active' : ''}`;
+      starBtn.innerHTML = isFav ? '★' : '☆';
+      starBtn.setAttribute(
+        'aria-label',
+        isFav ? 'Ukloni iz omiljenih' : 'Dodaj u omiljene'
+      );
+
+      if (isFav) {
+        card.classList.add('is-favorite');
+      }
+
+      starBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleFavorite(matchKey);
+      });
+
+      headerInfoEl.appendChild(channelEl);
+      headerInfoEl.appendChild(sportEl);
+
+      headerEl.appendChild(headerInfoEl);
+      headerEl.appendChild(starBtn);
 
       const contentEl = document.createElement('div');
       contentEl.className = 'event-content';
