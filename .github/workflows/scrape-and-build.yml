@@ -63,13 +63,13 @@ jobs:
 
             # Check for specifically newly added files (A = Added)
             if [ -n "$(git diff --staged --name-only --diff-filter=A)" ]; then
-              echo "commit_type=Schedule" >> "$GITHUB_OUTPUT"
+              echo "commit_type=TV schedule" >> "$GITHUB_OUTPUT"
             else
-              echo "commit_type=Update" >> "$GITHUB_OUTPUT"
+              echo "commit_type=Update TV schedule" >> "$GITHUB_OUTPUT"
             fi
           fi
 
-      - name: Commit Data
+      - name: Commit TV Schedule Data
         if: steps.data_check.outputs.has_changes == 'true'
         run: |
           # Because of TZ='Europe/Belgrade', this will now output the correct Belgrade date
