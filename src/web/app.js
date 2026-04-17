@@ -65,10 +65,20 @@
   for (const sport in filters) {
     if (!savedFilters[sport]) {
       savedFilters[sport] = { all: true, leagues: {} };
-    }
-    for (const league of filters[sport]) {
-      if (savedFilters[sport].leagues[league] === undefined) {
+      for (const league of filters[sport]) {
         savedFilters[sport].leagues[league] = true;
+      }
+    } else {
+      const existingVals = Object.values(savedFilters[sport].leagues);
+      const anyOn =
+        existingVals.length > 0
+          ? existingVals.some((v) => v)
+          : savedFilters[sport].all;
+
+      for (const league of filters[sport]) {
+        if (savedFilters[sport].leagues[league] === undefined) {
+          savedFilters[sport].leagues[league] = anyOn;
+        }
       }
     }
   }
