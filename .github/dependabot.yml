@@ -3,6 +3,16 @@
 
 version: 2
 updates:
+  - package-ecosystem: npm
+    # Look for `package.json` and `lock` files in the `root` directory
+    directory: '/'
+    schedule:
+      interval: 'weekly'
+      day: 'friday'
+      time: '11:00'
+      timezone: 'Europe/Belgrade'
+    open-pull-requests-limit: 10
+    versioning-strategy: increase
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
