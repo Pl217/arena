@@ -110,7 +110,10 @@ const build = async () => {
 
   const filters = {};
   for (const sport in sportsAndLeagues) {
-    filters[sport] = [...sportsAndLeagues[sport]].toSorted();
+    filters[sport] = [...sportsAndLeagues[sport]].toSorted((a, b) => {
+      const normalize = (s) => s.replace(/(?<!\d\.?) LIGA$/i, ' 1. LIGA');
+      return normalize(a).localeCompare(normalize(b));
+    });
   }
 
   const getChannelRank = (channel) => {
