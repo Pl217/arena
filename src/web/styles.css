@@ -347,6 +347,9 @@ body {
 .recording-row {
   color: var(--text-muted);
   margin-bottom: 0.25rem;
+  display: list-item;
+  list-style-type: disc;
+  margin-left: 1.5rem;
 }
 
 .no-events {
