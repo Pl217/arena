@@ -589,14 +589,28 @@
 
         const recTitle = document.createElement('div');
         recTitle.className = 'recordings-title';
-        recTitle.textContent = 'Snimci:';
-        recContainer.appendChild(recTitle);
 
-        for (const rec of recordings) {
-          const recRow = document.createElement('div');
-          recRow.className = 'recording-row';
-          recRow.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
-          recContainer.appendChild(recRow);
+        if (recordings.length === 1) {
+          const rec = recordings[0];
+          recTitle.textContent = 'Snimak: ';
+          recTitle.style.display = 'inline';
+
+          const recText = document.createElement('span');
+          recText.style.color = 'var(--text-muted)';
+          recText.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+
+          recContainer.appendChild(recTitle);
+          recContainer.appendChild(recText);
+        } else {
+          recTitle.textContent = 'Snimci:';
+          recContainer.appendChild(recTitle);
+
+          for (const rec of recordings) {
+            const recRow = document.createElement('div');
+            recRow.className = 'recording-row';
+            recRow.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+            recContainer.appendChild(recRow);
+          }
         }
 
         detailsEl.appendChild(recContainer);
