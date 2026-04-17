@@ -4,7 +4,14 @@ import { formatDateForDisplay, jsonToCsv, scrapeAndProcess } from './shared.js';
 
 const run = async () => {
   try {
-    const { filteredSchemes, liveMatches } = await scrapeAndProcess();
+    const scrapedData = await scrapeAndProcess();
+    if (!scrapedData) {
+      console.log(
+        'Scraping returned no valid data. Exiting without writing data.'
+      );
+      process.exit(0);
+    }
+    const { filteredSchemes, liveMatches } = scrapedData;
 
     const today = new Date();
     // Because of TZ='Europe/Belgrade' in GitHub Actions, this will now output the correct Belgrade date

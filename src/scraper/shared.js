@@ -1,3 +1,5 @@
+import { z } from 'zod';
+
 const fetchWithRetry = async (url, maxRetries = 3, delayMs = 1000) => {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
@@ -73,7 +75,13 @@ const ignoreSports = new Set();
 
 export const scrapeAndProcess = async () => {
   const url = 'https://www.tvarenasport.com/tv-scheme';
-  const data = await fetchWithRetry(url);
+  let data;
+  try {
+    data = await fetchWithRetry(url);
+  } catch (error) {
+    console.error(`Scraping failed during network request: ${error.message}`);
+    return null;
+  }
 
   // Extract TV_SCHEMES data from the script tag
   const schemesMatch = data.match(
@@ -81,14 +89,48 @@ export const scrapeAndProcess = async () => {
   );
 
   if (!schemesMatch) {
-    throw new Error('Could not find TV_SCHEMES data in page');
+    console.error('Could not find TV_SCHEMES data in page');
+    return null;
   }
 
   let tvSchemes;
   try {
-    tvSchemes = JSON.parse(schemesMatch[1]);
+    const rawJson = JSON.parse(schemesMatch[1]);
+
+    const showSchema = z
+      .object({
+        time: z.string(),
+        sport: z.string(),
+        category: z.string(),
+        description: z.string(),
+        content: z.string(),
+      })
+      .passthrough();
+
+    const daySchema = z
+      .object({
+        emisije: z.array(showSchema),
+      })
+      .passthrough();
+
+    const channelSchema = z
+      .object({
+        days: z.record(z.string(), daySchema),
+      })
+      .passthrough();
+
+    const tvSchemesSchema = z.record(z.string(), channelSchema);
+
+    const parsedData = tvSchemesSchema.safeParse(rawJson);
+
+    if (!parsedData.success) {
+      console.error('Zod JSON validation failed:', parsedData.error.message);
+      return null;
+    }
+    tvSchemes = parsedData.data;
   } catch (err) {
-    throw new Error(`Failed to parse TV_SCHEMES JSON: ${err.message}`);
+    console.error(`Failed to parse TV_SCHEMES JSON: ${err.message}`);
+    return null;
   }
 
   const allMatches = [];
