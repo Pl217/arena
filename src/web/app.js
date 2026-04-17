@@ -617,8 +617,23 @@
 
         card.addEventListener('click', () => {
           const isHidden = recContainer.style.display === 'none';
+
+          // Remove active-border from all other cards when this one is clicked
+          const allCards = document.querySelectorAll('.event-card');
+          for (const c of allCards) {
+            if (c !== card) {
+              c.classList.remove('active-border');
+            }
+          }
+
           recContainer.style.display = isHidden ? 'block' : 'none';
           card.classList.toggle('expanded', isHidden);
+
+          if (isHidden) {
+            card.classList.add('active-border');
+          } else {
+            card.classList.remove('active-border');
+          }
         });
       }
 
