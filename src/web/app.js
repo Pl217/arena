@@ -98,7 +98,7 @@
     app.innerHTML = `
       <header class="header">
         <button id="menu-btn" class="icon-btn" aria-label="Meni">☰</button>
-        <h1>Arena sport TV raspored</h1>
+        <h1 id="header-title">Arena sport TV raspored</h1>
         <button id="theme-btn" class="icon-btn" aria-label="Tema">${isDark ? '☀️' : '🌘'}</button>
       </header>
       
@@ -248,7 +248,36 @@
     if (currentDate === todayStr) {
       setTimeout(scrollToCurrentTime, 100);
     }
+
+    const dateSelectorWrapper = document.querySelector(
+      '.date-selector-wrapper'
+    );
+    const headerTitle = document.getElementById('header-title');
+
+    if (dateSelectorWrapper && headerTitle) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          const entry = entries[0];
+          isDateSelectorVisible =
+            entry.isIntersecting || entry.boundingClientRect.top > 0;
+
+          if (!isDateSelectorVisible) {
+            headerTitle.textContent = formatDate(currentDate);
+          } else {
+            headerTitle.textContent = 'Arena sport TV raspored';
+          }
+        },
+        {
+          root: null,
+          threshold: 0,
+          rootMargin: '-70px 0px 0px 0px',
+        }
+      );
+      observer.observe(dateSelectorWrapper);
+    }
   }
+
+  let isDateSelectorVisible = true;
 
   function closeDrawer() {
     document.getElementById('drawer').classList.remove('open');
@@ -331,6 +360,11 @@
       dateList.indexOf(currentDate) === 0;
     document.getElementById('next-day').disabled =
       dateList.indexOf(currentDate) === dateList.length - 1;
+
+    const headerTitle = document.getElementById('header-title');
+    if (headerTitle && !isDateSelectorVisible) {
+      headerTitle.textContent = formatDate(currentDate);
+    }
   }
 
   function renderFilters() {
