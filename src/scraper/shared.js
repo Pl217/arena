@@ -99,11 +99,11 @@ export const scrapeAndProcess = async () => {
 
     const showSchema = z
       .object({
-        time: z.string(),
-        sport: z.string(),
-        category: z.string(),
-        description: z.string(),
         content: z.string(),
+        time: z.string(),
+        category: z.string(),
+        sport: z.string(),
+        description: z.string(),
       })
       .passthrough();
 
@@ -127,7 +127,8 @@ export const scrapeAndProcess = async () => {
       console.error('Zod JSON validation failed:', parsedData.error.message);
       return null;
     }
-    tvSchemes = parsedData.data;
+    // Retain the exactly parsed `rawJson` so the field order remains identical, instead of using `parsedData.data`
+    tvSchemes = rawJson;
   } catch (err) {
     console.error(`Failed to parse TV_SCHEMES JSON: ${err.message}`);
     return null;
