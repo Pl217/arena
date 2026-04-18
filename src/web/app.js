@@ -526,7 +526,7 @@
       sportEl.className = 'event-sport';
       sportEl.textContent = `${ev.sport} ${ev.category ? '- ' + ev.category : ''}`;
 
-      const matchKey = `${currentDate}-${ev.content}-${ev.sport}`;
+      const matchKey = `${currentDate}-${ev.time}-${ev.content}-${ev.sport}`;
       const isFav = savedFavorites.includes(matchKey);
 
       const starBtn = document.createElement('button');
