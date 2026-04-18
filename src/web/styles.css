@@ -25,6 +25,37 @@
   padding: 0;
 }
 
+#menu-btn {
+  position: relative;
+}
+
+#menu-btn.has-new::after {
+  content: attr(data-new-count);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  min-width: 16px;
+  height: 16px;
+  background-color: #007bff;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 0 4px;
+  box-sizing: border-box;
+  box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7);
+  animation: pulse-blue 1.5s infinite;
+}
+
+@keyframes pulse-blue {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7); }
+  70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(0, 123, 255, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(0, 123, 255, 0); }
+}
+
 #menu-btn,
 #close-drawer,
 .drawer-overlay {
@@ -138,6 +169,23 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
+}
+
+.is-new-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.is-new-item::after {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  background-color: #007bff;
+  border-radius: 50%;
+  margin-left: 6px;
+  box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7);
+  animation: pulse-blue 1.5s infinite;
 }
 
 .filter-league {

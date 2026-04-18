@@ -65,6 +65,49 @@
   let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
   let savedFavorites = JSON.parse(localStorage.getItem('tvFavorites')) ?? [];
 
+  let tvFilterMemory = JSON.parse(localStorage.getItem('tvFilterMemory'));
+  let filterMemoryChanged = false;
+
+  if (!tvFilterMemory) {
+    tvFilterMemory = {};
+    for (const sport in filters) {
+      tvFilterMemory[`s:${sport}`] = { state: 'known' };
+      for (const league of filters[sport]) {
+        tvFilterMemory[`l:${sport}|${league}`] = { state: 'known' };
+      }
+    }
+    filterMemoryChanged = true;
+  } else {
+    const now = Date.now();
+    for (const key in tvFilterMemory) {
+      if (
+        tvFilterMemory[key].state === 'seen' &&
+        now > tvFilterMemory[key].expiresAt
+      ) {
+        tvFilterMemory[key].state = 'known';
+        delete tvFilterMemory[key].expiresAt;
+        filterMemoryChanged = true;
+      }
+    }
+
+    for (const sport in filters) {
+      if (!tvFilterMemory[`s:${sport}`]) {
+        tvFilterMemory[`s:${sport}`] = { state: 'unseen' };
+        filterMemoryChanged = true;
+      }
+      for (const league of filters[sport]) {
+        if (!tvFilterMemory[`l:${sport}|${league}`]) {
+          tvFilterMemory[`l:${sport}|${league}`] = { state: 'unseen' };
+          filterMemoryChanged = true;
+        }
+      }
+    }
+  }
+
+  if (filterMemoryChanged) {
+    localStorage.setItem('tvFilterMemory', JSON.stringify(tvFilterMemory));
+  }
+
   const toggleFavorite = (matchKey) => {
     const idx = savedFavorites.indexOf(matchKey);
     if (idx > -1) {
@@ -118,10 +161,23 @@
   };
 
   const renderApp = () => {
+    let newLeaguesCount = 0;
+    for (const sport in filters) {
+      for (const league of filters[sport]) {
+        if (tvFilterMemory[`l:${sport}|${league}`]?.state === 'unseen') {
+          newLeaguesCount++;
+        }
+      }
+    }
+
     const app = document.getElementById('app');
     app.innerHTML = `
       <header class="header">
-        <button id="menu-btn" class="icon-btn" aria-label="Meni">☰</button>
+        <button id="menu-btn" class="icon-btn ${
+          newLeaguesCount > 0 ? 'has-new' : ''
+        }" ${
+          newLeaguesCount > 0 ? `data-new-count="${newLeaguesCount}"` : ''
+        } aria-label="Meni">☰</button>
         <h1 id="header-title">Arena sport TV raspored</h1>
         <button id="theme-btn" class="icon-btn" aria-label="Tema">${isDark ? '☀️' : '🌘'}</button>
       </header>
@@ -158,6 +214,33 @@
     `;
 
     document.getElementById('menu-btn').addEventListener('click', () => {
+      let triggeredSeen = false;
+      const now = Date.now();
+      for (const sport in filters) {
+        if (tvFilterMemory[`s:${sport}`]?.state === 'unseen') {
+          tvFilterMemory[`s:${sport}`] = {
+            state: 'seen',
+            expiresAt: now + 24 * 60 * 60 * 1000,
+          };
+          triggeredSeen = true;
+        }
+        for (const league of filters[sport]) {
+          if (tvFilterMemory[`l:${sport}|${league}`]?.state === 'unseen') {
+            tvFilterMemory[`l:${sport}|${league}`] = {
+              state: 'seen',
+              expiresAt: now + 24 * 60 * 60 * 1000,
+            };
+            triggeredSeen = true;
+          }
+        }
+      }
+
+      if (triggeredSeen) {
+        localStorage.setItem('tvFilterMemory', JSON.stringify(tvFilterMemory));
+        renderFilters(); // Re-render filters to show dots
+      }
+
+      document.getElementById('menu-btn').classList.remove('has-new');
       document.getElementById('drawer').classList.add('open');
       document.getElementById('drawer-overlay').classList.add('open');
     });
@@ -415,6 +498,9 @@
       const sportLabel = document.createElement('label');
       sportLabel.htmlFor = `sport-${sport}`;
       sportLabel.textContent = sport;
+      if (['unseen', 'seen'].includes(tvFilterMemory[`s:${sport}`]?.state)) {
+        sportLabel.classList.add('is-new-item');
+      }
 
       sportHeader.appendChild(sportCb);
       sportHeader.appendChild(sportLabel);
@@ -435,6 +521,13 @@
         const leagueLabel = document.createElement('label');
         leagueLabel.htmlFor = `league-${sport}-${league}`;
         leagueLabel.textContent = league;
+        if (
+          ['unseen', 'seen'].includes(
+            tvFilterMemory[`l:${sport}|${league}`]?.state
+          )
+        ) {
+          leagueLabel.classList.add('is-new-item');
+        }
 
         leagueCb.addEventListener('change', (e) => {
           sportData.leagues[league] = e.target.checked;
