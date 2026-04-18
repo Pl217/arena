@@ -372,6 +372,24 @@ body {
   }
 }
 
+.channel-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.channel-logo {
+  height: 20px;
+  width: auto;
+  object-fit: contain;
+}
+
+.channel-logo-small {
+  height: 14px;
+  width: auto;
+  object-fit: contain;
+}
+
 .event-channel {
   font-weight: bold;
   color: var(--primary-color);
@@ -431,12 +449,26 @@ body {
   margin-bottom: 0.25rem;
 }
 
+.recording-row-single {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
 .recording-row {
   color: var(--text-muted);
   margin-bottom: 0.25rem;
-  display: list-item;
-  list-style-type: disc;
-  margin-left: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  list-style-type: none;
+  margin-left: 0.5rem;
+  position: relative;
+}
+
+.recording-row::before {
+  content: "•";
+  margin-right: -0.25rem;
 }
 
 .no-events {

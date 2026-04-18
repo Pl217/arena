@@ -160,6 +160,27 @@
     applyTheme();
   };
 
+  const getChannelLogo = (channel) => {
+    const norm = channel.toLowerCase();
+    let file = null;
+
+    if (norm.startsWith('arena premium ')) {
+      const num = norm.replace('arena premium ', '');
+      file = `a${num}p.png`;
+    } else if (norm.startsWith('arena sport ')) {
+      const num = norm.replace('arena sport ', '');
+      file = `a${num}.png`;
+    } else if (norm === 'arena tenis') {
+      file = 'tenis.png';
+    } else if (norm === 'adrenalin') {
+      file = 'adrenalin.png';
+    } else if (norm === 'arena 1x2') {
+      file = '1x2.png';
+    }
+
+    return file ? `logos/${file}` : null;
+  };
+
   const renderApp = () => {
     let newLeaguesCount = 0;
     for (const sport in filters) {
@@ -608,12 +629,26 @@
       const headerEl = document.createElement('div');
       headerEl.className = 'event-header';
 
-      const channelEl = document.createElement('span');
-      channelEl.className = 'event-channel';
-      channelEl.textContent = ev.channel;
-
       const headerInfoEl = document.createElement('div');
       headerInfoEl.className = 'event-header-info';
+
+      const channelWrapperEl = document.createElement('div');
+      channelWrapperEl.className = 'channel-wrapper';
+
+      const logoSrc = getChannelLogo(ev.channel);
+      if (logoSrc) {
+        const logoImg = document.createElement('img');
+        logoImg.className = 'channel-logo';
+        logoImg.src = logoSrc;
+        logoImg.alt = ev.channel;
+        logoImg.loading = 'lazy';
+        channelWrapperEl.appendChild(logoImg);
+      } else {
+        const channelEl = document.createElement('span');
+        channelEl.className = 'event-channel';
+        channelEl.textContent = ev.channel;
+        channelWrapperEl.appendChild(channelEl);
+      }
 
       const sportEl = document.createElement('span');
       sportEl.className = 'event-sport';
@@ -639,7 +674,7 @@
         toggleFavorite(matchKey);
       });
 
-      headerInfoEl.appendChild(channelEl);
+      headerInfoEl.appendChild(channelWrapperEl);
       headerInfoEl.appendChild(sportEl);
 
       headerEl.appendChild(headerInfoEl);
@@ -680,28 +715,71 @@
         recContainer.className = 'recordings-container';
         recContainer.style.display = 'none';
 
-        const recTitle = document.createElement('div');
-        recTitle.className = 'recordings-title';
-
         if (recordings.length === 1) {
           const rec = recordings[0];
-          recTitle.textContent = 'Snimak: ';
-          recTitle.style.display = 'inline';
 
-          const recText = document.createElement('span');
-          recText.style.color = 'var(--text-muted)';
-          recText.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+          const singleRow = document.createElement('div');
+          singleRow.className = 'recording-row-single';
 
-          recContainer.appendChild(recTitle);
-          recContainer.appendChild(recText);
+          const recTitleText = document.createElement('span');
+          recTitleText.className = 'recordings-title';
+          recTitleText.textContent = 'Snimak: ';
+          singleRow.appendChild(recTitleText);
+
+          const timeText = document.createElement('span');
+          timeText.style.color = 'var(--text-muted)';
+          timeText.textContent = `${formatDate(rec.date)} u ${rec.time}`;
+          singleRow.appendChild(timeText);
+
+          const dash = document.createElement('span');
+          dash.style.color = 'var(--text-muted)';
+          dash.textContent = ' - ';
+          singleRow.appendChild(dash);
+
+          const recLogoSrc = getChannelLogo(rec.channel);
+          if (recLogoSrc) {
+            const recLogoImg = document.createElement('img');
+            recLogoImg.className = 'channel-logo-small';
+            recLogoImg.src = recLogoSrc;
+            recLogoImg.alt = rec.channel;
+            recLogoImg.loading = 'lazy';
+            singleRow.appendChild(recLogoImg);
+          } else {
+            const channelText = document.createElement('span');
+            channelText.style.color = 'var(--text-muted)';
+            channelText.textContent = rec.channel;
+            singleRow.appendChild(channelText);
+          }
+
+          recContainer.appendChild(singleRow);
         } else {
-          recTitle.textContent = 'Snimci:';
-          recContainer.appendChild(recTitle);
+          const recTitleText = document.createElement('div');
+          recTitleText.className = 'recordings-title';
+          recTitleText.textContent = 'Snimci:';
+          recContainer.appendChild(recTitleText);
 
           for (const rec of recordings) {
             const recRow = document.createElement('div');
             recRow.className = 'recording-row';
-            recRow.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+
+            const recLogoSrc = getChannelLogo(rec.channel);
+            if (recLogoSrc) {
+              const recText = document.createElement('span');
+              recText.textContent = `${formatDate(rec.date)} u ${rec.time} - `;
+              recRow.appendChild(recText);
+
+              const recLogoImg = document.createElement('img');
+              recLogoImg.className = 'channel-logo-small';
+              recLogoImg.src = recLogoSrc;
+              recLogoImg.alt = rec.channel;
+              recLogoImg.loading = 'lazy';
+              recRow.appendChild(recLogoImg);
+            } else {
+              const recText = document.createElement('span');
+              recText.textContent = `${formatDate(rec.date)} u ${rec.time} - ${rec.channel}`;
+              recRow.appendChild(recText);
+            }
+
             recContainer.appendChild(recRow);
           }
         }
