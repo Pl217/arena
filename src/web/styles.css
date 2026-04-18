@@ -7,6 +7,10 @@
   --drawer-bg: #fff;
   --overlay-bg: rgba(0,0,0,0.5);
   --text-muted: #777;
+  --badge-bg-desktop: #e9ecef;
+  --badge-text-desktop: #495057;
+  --badge-bg-mobile: #f7f7f7;
+  --badge-text-mobile: #777;
 }
 
 :root.dark {
@@ -17,6 +21,10 @@
   --border-color: #333;
   --drawer-bg: #1e1e1e;
   --text-muted: #aaa;
+  --badge-bg-desktop: #343a40;
+  --badge-text-desktop: #f8f9fa;
+  --badge-bg-mobile: #131313;
+  --badge-text-mobile: #ccc;
 }
 
 * {
@@ -378,8 +386,6 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--bg-color);
-  color: var(--text-muted);
   border: 1px solid var(--border-color);
   border-radius: 4px;
   font-size: 0.75rem;
@@ -390,11 +396,15 @@ body {
 
 .desktop-badge {
   display: inline-flex;
+  background-color: var(--badge-bg-desktop);
+  color: var(--badge-text-desktop);
 }
 
 .mobile-badge {
   display: none;
   margin-top: 0.25rem;
+  background-color: var(--badge-bg-mobile);
+  color: var(--badge-text-mobile);
 }
 
 @media (max-width: 600px) {
