@@ -112,7 +112,10 @@ jobs:
           # Create temporary directory '_site'
           mkdir _site
           cp index.html site.webmanifest _site/
-          cp src/web/public/*.{png,ico} _site/
+          # Grab the favicons from their specific folder. The '|| true' prevents the workflow
+          # from failing if you don't have one of these specific file types.
+          cp src/web/public/*.{png,ico} _site/ 2>/dev/null || true
+          cp -r src/web/public/logos _site/logos
 
       - name: Upload artifact
         if: steps.build_commit.outputs.has_build_changes == 'true'
