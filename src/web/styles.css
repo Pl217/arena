@@ -227,6 +227,7 @@ body {
   border: 1px solid var(--border-color);
   border-radius: 8px;
   overflow: hidden;
+  position: relative;
   transition: transform 0.2s;
 }
 
@@ -292,8 +293,15 @@ body {
   text-shadow: 0 0 2px rgba(255, 193, 7, 0.5);
 }
 
-.event-card.is-favorite {
-  border-left: 4px solid #ffc107;
+.event-card.is-favorite::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: #ffc107;
+  z-index: 10;
 }
 
 @media (hover: hover) {
