@@ -18,6 +18,10 @@
   --drawer-bg: #fff;
   --overlay-bg: rgba(0,0,0,0.5);
   --text-muted: #777;
+  --badge-bg-desktop: #e9ecef;
+  --badge-text-desktop: #495057;
+  --badge-bg-mobile: #f7f7f7;
+  --badge-text-mobile: #777;
 }
 
 :root.dark {
@@ -28,12 +32,47 @@
   --border-color: #333;
   --drawer-bg: #1e1e1e;
   --text-muted: #aaa;
+  --badge-bg-desktop: #343a40;
+  --badge-text-desktop: #f8f9fa;
+  --badge-bg-mobile: #131313;
+  --badge-text-mobile: #ccc;
 }
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+#menu-btn {
+  position: relative;
+}
+
+#menu-btn.has-new::after {
+  content: attr(data-new-count);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  min-width: 16px;
+  height: 16px;
+  background-color: #007bff;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 0 4px;
+  box-sizing: border-box;
+  box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7);
+  animation: pulse-blue 1.5s infinite;
+}
+
+@keyframes pulse-blue {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7); }
+  70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(0, 123, 255, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(0, 123, 255, 0); }
 }
 
 #menu-btn,
@@ -151,6 +190,23 @@ body {
   gap: 0.25rem;
 }
 
+.is-new-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.is-new-item::after {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  background-color: #007bff;
+  border-radius: 50%;
+  margin-left: 6px;
+  box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7);
+  animation: pulse-blue 1.5s infinite;
+}
+
 .filter-league {
   display: flex;
   align-items: center;
@@ -161,7 +217,7 @@ body {
 .main-content {
   max-width: 800px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 1rem 7rem 1rem;
 }
 
 .date-selector-wrapper {
@@ -238,6 +294,7 @@ body {
   border: 1px solid var(--border-color);
   border-radius: 8px;
   overflow: hidden;
+  position: relative;
   transition: transform 0.2s;
 }
 
@@ -303,8 +360,15 @@ body {
   text-shadow: 0 0 2px rgba(255, 193, 7, 0.5);
 }
 
-.event-card.is-favorite {
-  border-left: 4px solid #ffc107;
+.event-card.is-favorite::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: #ffc107;
+  z-index: 10;
 }
 
 @media (hover: hover) {
@@ -333,8 +397,6 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--bg-color);
-  color: var(--text-muted);
   border: 1px solid var(--border-color);
   border-radius: 4px;
   font-size: 0.75rem;
@@ -345,11 +407,15 @@ body {
 
 .desktop-badge {
   display: inline-flex;
+  background-color: var(--badge-bg-desktop);
+  color: var(--badge-text-desktop);
 }
 
 .mobile-badge {
   display: none;
   margin-top: 0.25rem;
+  background-color: var(--badge-bg-mobile);
+  color: var(--badge-text-mobile);
 }
 
 @media (max-width: 600px) {
@@ -491,6 +557,49 @@ body {
   let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
   let savedFavorites = JSON.parse(localStorage.getItem('tvFavorites')) ?? [];
 
+  let tvFilterMemory = JSON.parse(localStorage.getItem('tvFilterMemory'));
+  let filterMemoryChanged = false;
+
+  if (!tvFilterMemory) {
+    tvFilterMemory = {};
+    for (const sport in filters) {
+      tvFilterMemory[`s:${sport}`] = { state: 'known' };
+      for (const league of filters[sport]) {
+        tvFilterMemory[`l:${sport}|${league}`] = { state: 'known' };
+      }
+    }
+    filterMemoryChanged = true;
+  } else {
+    const now = Date.now();
+    for (const key in tvFilterMemory) {
+      if (
+        tvFilterMemory[key].state === 'seen' &&
+        now > tvFilterMemory[key].expiresAt
+      ) {
+        tvFilterMemory[key].state = 'known';
+        delete tvFilterMemory[key].expiresAt;
+        filterMemoryChanged = true;
+      }
+    }
+
+    for (const sport in filters) {
+      if (!tvFilterMemory[`s:${sport}`]) {
+        tvFilterMemory[`s:${sport}`] = { state: 'unseen' };
+        filterMemoryChanged = true;
+      }
+      for (const league of filters[sport]) {
+        if (!tvFilterMemory[`l:${sport}|${league}`]) {
+          tvFilterMemory[`l:${sport}|${league}`] = { state: 'unseen' };
+          filterMemoryChanged = true;
+        }
+      }
+    }
+  }
+
+  if (filterMemoryChanged) {
+    localStorage.setItem('tvFilterMemory', JSON.stringify(tvFilterMemory));
+  }
+
   const toggleFavorite = (matchKey) => {
     const idx = savedFavorites.indexOf(matchKey);
     if (idx > -1) {
@@ -544,10 +653,23 @@ body {
   };
 
   const renderApp = () => {
+    let newLeaguesCount = 0;
+    for (const sport in filters) {
+      for (const league of filters[sport]) {
+        if (tvFilterMemory[`l:${sport}|${league}`]?.state === 'unseen') {
+          newLeaguesCount++;
+        }
+      }
+    }
+
     const app = document.getElementById('app');
     app.innerHTML = `
       <header class="header">
-        <button id="menu-btn" class="icon-btn" aria-label="Meni">☰</button>
+        <button id="menu-btn" class="icon-btn ${
+          newLeaguesCount > 0 ? 'has-new' : ''
+        }" ${
+          newLeaguesCount > 0 ? `data-new-count="${newLeaguesCount}"` : ''
+        } aria-label="Meni">☰</button>
         <h1 id="header-title">Arena sport TV raspored</h1>
         <button id="theme-btn" class="icon-btn" aria-label="Tema">${isDark ? '☀️' : '🌘'}</button>
       </header>
@@ -584,6 +706,33 @@ body {
     `;
 
     document.getElementById('menu-btn').addEventListener('click', () => {
+      let triggeredSeen = false;
+      const now = Date.now();
+      for (const sport in filters) {
+        if (tvFilterMemory[`s:${sport}`]?.state === 'unseen') {
+          tvFilterMemory[`s:${sport}`] = {
+            state: 'seen',
+            expiresAt: now + 24 * 60 * 60 * 1000,
+          };
+          triggeredSeen = true;
+        }
+        for (const league of filters[sport]) {
+          if (tvFilterMemory[`l:${sport}|${league}`]?.state === 'unseen') {
+            tvFilterMemory[`l:${sport}|${league}`] = {
+              state: 'seen',
+              expiresAt: now + 24 * 60 * 60 * 1000,
+            };
+            triggeredSeen = true;
+          }
+        }
+      }
+
+      if (triggeredSeen) {
+        localStorage.setItem('tvFilterMemory', JSON.stringify(tvFilterMemory));
+        renderFilters(); // Re-render filters to show dots
+      }
+
+      document.getElementById('menu-btn').classList.remove('has-new');
       document.getElementById('drawer').classList.add('open');
       document.getElementById('drawer-overlay').classList.add('open');
     });
@@ -841,6 +990,9 @@ body {
       const sportLabel = document.createElement('label');
       sportLabel.htmlFor = `sport-${sport}`;
       sportLabel.textContent = sport;
+      if (['unseen', 'seen'].includes(tvFilterMemory[`s:${sport}`]?.state)) {
+        sportLabel.classList.add('is-new-item');
+      }
 
       sportHeader.appendChild(sportCb);
       sportHeader.appendChild(sportLabel);
@@ -861,6 +1013,13 @@ body {
         const leagueLabel = document.createElement('label');
         leagueLabel.htmlFor = `league-${sport}-${league}`;
         leagueLabel.textContent = league;
+        if (
+          ['unseen', 'seen'].includes(
+            tvFilterMemory[`l:${sport}|${league}`]?.state
+          )
+        ) {
+          leagueLabel.classList.add('is-new-item');
+        }
 
         leagueCb.addEventListener('change', (e) => {
           sportData.leagues[league] = e.target.checked;
@@ -952,7 +1111,7 @@ body {
       sportEl.className = 'event-sport';
       sportEl.textContent = `${ev.sport} ${ev.category ? '- ' + ev.category : ''}`;
 
-      const matchKey = `${currentDate}-${ev.content}-${ev.sport}`;
+      const matchKey = `${currentDate}-${ev.time}-${ev.content}-${ev.sport}`;
       const isFav = savedFavorites.includes(matchKey);
 
       const starBtn = document.createElement('button');
