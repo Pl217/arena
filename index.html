@@ -1337,9 +1337,17 @@ body {
   };
 
   const scrollToCurrentTime = () => {
-    const targetHour = nowBg.hour - 2;
-    const validHour = targetHour < 0 ? 0 : targetHour;
-    const targetTimeStr = `${validHour.toString().padStart(2, '0')}:00`;
+    let targetHour = nowBg.hour - 2;
+    let targetMinute = nowBg.minute;
+
+    if (targetHour < 0) {
+      targetHour = 0;
+      targetMinute = 0;
+    }
+
+    const targetTimeStr = `${targetHour
+      .toString()
+      .padStart(2, '0')}:${targetMinute.toString().padStart(2, '0')}`;
 
     const cards = document.querySelectorAll('.event-card');
     let targetCard = null;
