@@ -722,7 +722,7 @@
           singleRow.className = 'recording-row-single';
 
           const recTitleText = document.createElement('span');
-          recTitleText.className = 'recordings-title';
+          recTitleText.style.fontWeight = 'bold';
           recTitleText.textContent = 'Snimak: ';
           singleRow.appendChild(recTitleText);
 
