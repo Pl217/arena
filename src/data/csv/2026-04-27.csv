@@ -10,6 +10,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.04.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 5 prepodnevna sesija",ATP/WTA 1000 - Madrid
 26.04.,11:00,Arena Sport 8,Tenis,"Teren 1, dan 5 prepodnevna sesija",ATP/WTA 1000 - Madrid
 26.04.,11:00,Adrenalin,Moto Sport,Španija: Trka,MOTO 3
+26.04.,12:00,Arena Premium 3,Košarka,"Zenit - Uralmash, G1",VTB LIGA
 26.04.,12:15,Arena Premium 2,Košarka,Baskonia - Barcelona,ŠPANSKA LIGA
 26.04.,12:15,Adrenalin,Moto Sport,Španija: Trka,MOTO 2
 26.04.,12:30,Arena Premium 1,Fudbal,Fiorentina - Sassuolo,ITALIJANSKA LIGA
@@ -24,7 +25,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.04.,14:00,Arena 1X2,Fudbal,Basel - Sion,ŠVAJCARSKA LIGA
 26.04.,14:30,Arena Sport 6,Fudbal,Rapid - Salzburg,AUSTRIJSKA LIGA
 26.04.,14:30,Arena Sport 7,Košarka,Trabzonspor - Galatasaray,TURSKA LIGA
-26.04.,15:00,Arena Premium 4,Fudbal,Le Havre - Metz,FRANCUSKA LIGA
+26.04.,15:00,Arena Premium 4,Fudbal,Lorient - Strasbourg,FRANCUSKA LIGA
 26.04.,15:00,Arena Premium 5,Fudbal,Genoa - Como,ITALIJANSKA LIGA
 26.04.,15:30,Arena Sport 2,Fudbal,Stuttgart - Werder Bremen,NEMAČKA LIGA
 26.04.,16:00,Arena Premium 3,Fudbal,Chelsea - Leeds,FA CUP
@@ -41,15 +42,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.04.,17:30,Arena Premium 4,Fudbal,Dortmund - Freiburg,NEMAČKA LIGA
 26.04.,17:30,Arena Sport 2,Fudbal,Hibernian - Hearts,ŠKOTSKA LIGA
 26.04.,18:00,Arena Premium 3,Fudbal,Torino - Inter,ITALIJANSKA LIGA
-26.04.,18:00,Arena Sport 3,Košarka,Skyliners - Alba,NEMAČKA LIGA
 26.04.,18:00,Arena Sport 4,Rukomet,Brest - Gloria Bistrita,EHF LIGA ŠAMPIONA (Ž)
 26.04.,18:00,Arena Sport 5,Basket 3x3,Finale,BG U23 League
 26.04.,18:30,Arena Sport 1,Fudbal,Osasuna - Sevilla,ŠPANSKA LIGA
 26.04.,18:30,Arena Sport 6,Košarka,Virtus Bologna - Trieste,ITALIJANSKA LIGA
 26.04.,18:30,Arena 1X2,Fudbal,Zenit - Akhmat,RUSKA LIGA
-26.04.,18:45,Arena Sport 9,Fudbal,Dinamo - Varaždin,HRVATSKA LIGA
 26.04.,19:00,Arena Premium 2,Košarka,"Toronto - Cleveland, G4",NBA
 26.04.,19:00,Arena Premium 5,Fudbal,Galatasaray - Fenerbahce,TURSKA LIGA
+26.04.,19:00,Arena Sport 3,Fudbal,Estrela Amadora - Porto,PORTUGALSKA LIGA
 26.04.,19:00,Arena Sport 8,Tenis,"Teren 1, dan 5 popodnevna sesija",ATP/WTA 1000 - Madrid
 26.04.,20:00,Arena Premium 4,Košarka,Borac - Mega,ABA LIGA
 26.04.,20:00,Arena Tenis,Tenis,"Centralni teren, dan 5 popodnevna sesija",ATP/WTA 1000 - Madrid
@@ -60,6 +60,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.04.,21:00,Arena Premium 5,Fudbal,Villarreal - Celta,ŠPANSKA LIGA
 26.04.,21:00,Adrenalin,Moto Sport,Talladega,NASCAR CUP SERIES
 26.04.,21:30,Arena Premium 2,Košarka,"Portland - San Antonio, G4",NBA
+26.04.,21:30,Arena Sport 3,Fudbal,AVS - Sporting,PORTUGALSKA LIGA
 26.04.,23:30,Arena Premium 1,Fudbal,RB Bragantino - Palmeiras,BRAZILSKA LIGA
 27.04.,01:00,Arena Premium 2,Hokej,"Montreal Canadiens - Tampa Bay Lightning, G4",NHL
 27.04.,01:30,Arena Premium 1,Fudbal,Atletico MG - Flamengo,BRAZILSKA LIGA
@@ -76,112 +77,118 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 27.04.,19:00,Arena Premium 4,Košarka,SC Derby - Zadar,ABA LIGA
 27.04.,19:00,Arena Premium 5,Tenis,"Teren 1, dan 6 popodnevna sesija",ATP/WTA 1000 - Madrid
 27.04.,19:00,Arena Sport 3,Košarka,"Lokomotiv - Parma, G1",VTB LIGA
-27.04.,19:00,Arena Sport 4,Fudbal,Besiktas - Fatih Karagumruk,TURSKA LIGA
-27.04.,19:00,Arena Sport 7,Fudbal,Konyaspor - Trabzonspor,TURSKA LIGA
-27.04.,19:00,Arena Sport 8,Fudbal,Baltika - Akron,RUSKA LIGA
+27.04.,19:00,Arena Sport 4,Fudbal,Konyaspor - Trabzonspor,TURSKA LIGA
+27.04.,19:00,Arena Sport 7,Fudbal,Baltika - Akron,RUSKA LIGA
 27.04.,19:00,Arena Sport 10,Rukomet,Bekament BB - Mladost NP,SUPERLIGA SRBIJE Ž
-27.04.,19:00,Arena 1X2,Fudbal,Piast - Arka,POLJSKA LIGA
 27.04.,20:00,Arena Tenis,Tenis,"Centralni teren, dan 6 popodnevna sesija",ATP/WTA 1000 - Madrid
-27.04.,20:30,Arena Sport 2,Fudbal,Cadiz - Las Palmas,ŠPANSKA 2. LIGA
-27.04.,20:30,Arena Sport 5,Fudbal,Cadiz - Las Palmas,ŠPANSKA 2. LIGA
+27.04.,20:00,Arena Sport 9,Futsal,"Smederevo - Vojvodina, polufinale G3",PRVA LIGA
+27.04.,20:30,Arena 1X2,Fudbal,Cadiz - Las Palmas,ŠPANSKA 2. LIGA
 27.04.,20:45,Arena Premium 2,Fudbal,Lazio - Udinese,ITALIJANSKA LIGA
 27.04.,21:00,Arena Premium 1,Fudbal,Manchester United - Brentford,ENGLESKA LIGA
 27.04.,21:00,Arena Premium 3,Fudbal,Espanyol - Levante,ŠPANSKA LIGA
+27.04.,23:00,Adrenalin,Moto Sport,"Lake Como, Italy",E1
 28.04.,04:30,Arena Premium 1,Košarka,"Denver - Minnesota, G5",NBA
 28.04.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 28.04.,11:00,Arena Premium 5,Tenis,"Teren 1, dan 7 prepodnevna sesija",ATP/WTA 1000 - Madrid
 28.04.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 7 prepodnevna sesija",ATP/WTA 1000 - Madrid
 28.04.,15:30,Arena Sport 2,Hokej,"Avangard - Lokomotiv, PF1 G3",KHL
-28.04.,18:00,Arena Premium 4,Košarka,"Unics - TBD, G2",VTB LIGA
-28.04.,18:00,Arena Sport 3,Odbojka,"Finale, G1 (TBC)",SUPERLIGA
-28.04.,18:45,Arena Premium 2,Košarka,Bosna - Igokea PlayIn R1,ABA LIGA
-28.04.,18:45,Arena Sport 4,Rukomet,Nexe - Kiel,EHF LIGA EVROPE
+28.04.,18:00,Arena Premium 4,Košarka,"Unics - MBA, G2",VTB LIGA
+28.04.,18:45,Arena Premium 2,Košarka,Bosna - Igokea,ABA LIGA
+28.04.,18:45,Arena Sport 3,Rukomet,Nexe - Kiel,EHF LIGA EVROPE
 28.04.,19:00,Arena Sport 1,Tenis,"Teren 1, dan 7 popodnevna sesija",ATP/WTA 1000 - Madrid
-28.04.,19:00,Arena Sport 2,Košarka,"Zenit - TBD, G2",VTB LIGA
+28.04.,19:00,Arena Sport 2,Odbojka,"Radnički - Vojvodina, finale G1",SUPERLIGA
 28.04.,19:30,Arena Premium 5,Košarka,"Bourg - Besiktas, finale G2",EVROKUP
-28.04.,19:45,Arena Premium 3,Košarka,Fenerbahce - Zalgiris,EVROLIGA
-28.04.,20:00,Arena Premium 4,Košarka,Olympiacos,EVROLIGA
+28.04.,19:45,Arena Premium 3,Košarka,"Fenerbahce - Zalgiris, G1",EVROLIGA
+28.04.,20:00,Arena Premium 4,Košarka,"Olympiacos - Monaco, G1",EVROLIGA
 28.04.,20:00,Arena Tenis,Tenis,"Centralni teren, dan 7 popodnevna sesija",ATP/WTA 1000 - Madrid
-28.04.,20:45,Arena Premium 2,Košarka,Valencia,EVROLIGA
+28.04.,20:45,Arena Premium 2,Košarka,"Valencia - Panathinaikos, G1",EVROLIGA
 28.04.,20:45,Arena Sport 3,Rukomet,Montpellier - Vardar,EHF LIGA EVROPE
 28.04.,20:45,Arena Sport 4,Rukomet,Melsungen  - Porto,EHF LIGA EVROPE
+28.04.,20:45,Arena 1X2,Fudbal,Southampton - Ipswich,CHAMPIONSHIP
 28.04.,21:00,Arena Premium 1,Fudbal,"PSG - Bayern, polufinale G1",UEFA LIGA ŠAMPIONA
-28.04.,21:00,Arena Sport 2,Fudbal,Southampton - Ipswich,CHAMPIONSHIP
-29.04.,00:40,Arena Premium 3,Bejzbol,Philadelphia Phillies - San Francisco Giants,Major League Baseball
-29.04.,01:00,Arena Premium 1,Košarka,Playoff,NBA
+29.04.,00:00,Arena Premium 2,Fudbal,San Lorenzo - Santos,COPA SUDAMERICANA
+29.04.,01:00,Arena Premium 1,Košarka,"Boston - Philadelphia, G5",NBA
+29.04.,01:30,Arena Premium 3,Hokej,"Buffalo Sabres - Boston Sabres, G5",NHL
+29.04.,02:30,Arena Premium 2,Fudbal,Cruzeiro - Boca Juniors,COPA LIBERTADORES
 29.04.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 29.04.,13:00,Arena Tenis,Tenis,WTA - QF3,ATP/WTA 1000 - Madrid
 29.04.,16:00,Arena Tenis,Tenis,ATP - QF1,ATP/WTA 1000 - Madrid
-29.04.,18:00,Arena Premium 5,Odbojka,"Finale, G4 (TBC)",SUPERLIGA (Ž)
-29.04.,18:30,Arena Premium 2,Košarka,Crvena zvezda - Zlatibor,KLS
+29.04.,18:00,Arena Premium 5,Odbojka,"Dinamo - Zenit Kazan, finale G4",RUSKA LIGA
+29.04.,18:30,Arena Premium 2,Košarka,"Crvena zvezda - Zlatibor, G1",KLS
 29.04.,18:30,Arena Sport 5,Hokej,"AK Bars - Metallurg, PF2 G3",KHL
-29.04.,18:30,Arena Sport 7,Košarka,"CSKA - Enisey, G2",VTB LIGA
+29.04.,18:30,Arena Sport 6,Košarka,"CSKA - Enisey, G2",VTB LIGA
+29.04.,18:30,Arena Sport 10,Košarka,"Crvena zvezda - Zlatibor, G1",KLS
 29.04.,18:45,Arena Premium 4,Rukomet,Szeged - Magdeburg,EHF LIGA ŠAMPIONA
 29.04.,18:45,Arena Sport 3,Rukomet,Sporting - Aalborg,EHF LIGA ŠAMPIONA
 29.04.,19:00,Arena Sport 1,Košarka,"Lokomotiv - Parma, G2",VTB LIGA
 29.04.,19:00,Arena Sport 2,Košarka,"TFT - Široki, finale G2",ABA2 LIGA
 29.04.,19:10,Arena Sport 4,Bejzbol,Chicago White Sox - Los Angeles Angels,Major League Baseball
 29.04.,20:00,Arena Tenis,Tenis,WTA - QF4,ATP/WTA 1000 - Madrid
-29.04.,20:45,Arena Premium 2,Košarka,Real Madrid - Hapoel,EVROLIGA
+29.04.,20:45,Arena Premium 2,Košarka,"Real Madrid - Hapoel Tel Aviv, G1",EVROLIGA
 29.04.,20:45,Arena Premium 3,Rukomet,Flensburg - Hannover-Burgdorf,EHF LIGA EVROPE
 29.04.,21:00,Arena Premium 1,Fudbal,"Atletico - Arsenal, polufinale G1",UEFA LIGA ŠAMPIONA
+29.04.,21:15,Arena Premium 5,Fudbal,Sporting - Tondela,PORTUGALSKA LIGA
 29.04.,22:00,Arena Tenis,Tenis,ATP - QF2,ATP/WTA 1000 - Madrid
+30.04.,00:00,Arena Premium 2,Fudbal,Platense - Santa Fe,COPA LIBERTADORES
+30.04.,02:00,Arena Premium 1,Košarka,TBC,NBA
+30.04.,02:30,Arena Premium 2,Fudbal,Estudiantes - Flamengo,COPA LIBERTADORES
 30.04.,10:00,Arena Premium 1,Mali fudbal,Stari Grad,ARENINA LIGA ŠAMPIONA
 30.04.,13:00,Arena Tenis,Tenis,ATP - QF3,ATP/WTA 1000 - Madrid
-30.04.,15:00,Arena Premium 3,Košarka,Košarka: VTB LIGA: Plejof ep. 9,VTB LIGA
 30.04.,15:30,Arena Sport 1,Hokej,"Avangard - Lokomotiv, PF1 G4",KHL
 30.04.,16:00,Arena Tenis,Tenis,WTA - SF1,ATP/WTA 1000 - Madrid
-30.04.,18:00,Arena Premium 4,Košarka,Košarka: VTB LIGA: Plejof ep. 10,VTB LIGA
-30.04.,18:00,Arena Sport 3,Odbojka,"Galatasaray - Ziraat, finale G4, if needed",TURSKA LIGA
+30.04.,18:00,Arena Sport 3,Odbojka,"Galatasaray - Ziraat, finale G4, (eventualna)",TURSKA LIGA
 30.04.,18:30,Arena Premium 2,Košarka,Partizan - Hercegovac/Sloboda,KLS
 30.04.,18:45,Arena Sport 2,Rukomet,Veszprem - Fuchse Berlin,EHF LIGA ŠAMPIONA
-30.04.,19:00,Arena Premium 5,Košarka,Spartak-Zadar/FMP PlayIn R1,ABA LIGA
+30.04.,19:00,Arena Premium 5,Košarka,Spartak - Zadar,ABA LIGA
 30.04.,19:00,Arena Sport 4,Rukomet,Gummersbach - Goppingen,BUNDESLIGA
-30.04.,19:45,Arena Premium 3,Košarka,Fenerbahce - Zalgiris,EVROLIGA
-30.04.,20:00,Arena Premium 4,Košarka,Olympiacos,EVROLIGA
+30.04.,19:45,Arena Premium 3,Košarka,"Fenerbahce - Zalgiris, G2",EVROLIGA
+30.04.,20:00,Arena Premium 4,Košarka,"Olympiacos - Monaco, G2",EVROLIGA
 30.04.,20:00,Arena Tenis,Tenis,ATP - QF4,ATP/WTA 1000 - Madrid
 30.04.,20:00,Arena Sport 5,Pikado,Aberdeen,Premier League
+30.04.,20:00,Arena Sport 9,Futsal,Finale G1,PRVA LIGA
 30.04.,20:00,Arena Sport 10,Rukomet,Ruma - Crvena zvezda,SUPERLIGA SRBIJE Ž
 30.04.,20:30,Arena Sport 3,Odbojka,Perugia - Lube,ITALIJANSKA LIGA
-30.04.,20:45,Arena Premium 2,Košarka,Valencia,EVROLIGA
+30.04.,20:45,Arena Premium 2,Košarka,"Valencia - Panathinaikos, G2",EVROLIGA
 30.04.,20:45,Arena Sport 4,Rukomet,Nantes - Barca,EHF LIGA ŠAMPIONA
 30.04.,21:00,Arena Premium 1,Fudbal,Nottingham Forest - Aston Villa,UEFA LIGA EVROPE
 30.04.,21:00,Arena Premium 5,Fudbal,Braga - Freiburg,UEFA LIGA EVROPE
 30.04.,21:00,Arena Sport 1,Fudbal,Rayo Vallecano - Strasbourg,UEFA LIGA KONFERENCIJA
-30.04.,21:00,Arena Sport 2,Fudbal,Shakhtar - Crystal Palace,LIGA KONFERENCIJA
+30.04.,21:00,Arena Sport 2,Fudbal,Shakhtar - Crystal Palace,UEFA LIGA KONFERENCIJA
+30.04.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA EVROPE
 30.04.,22:00,Arena Tenis,Tenis,WTA - SF2,ATP/WTA 1000 - Madrid
-01.05.,13:00,Arena Premium 3,Košarka,Košarka: VTB LIGA: Plejof ep. 11,VTB LIGA
+01.05.,00:00,Arena Premium 2,Fudbal,Bolivar - Fluminense,COPA LIBERTADORES
+01.05.,01:30,Arena Premium 1,Košarka,Playoff- TBD (G6),NBA
+01.05.,02:30,Arena Premium 2,Fudbal,Bragantino - River Plate,COPA SUDAMERICANA
 01.05.,14:00,Arena Premium 5,Hokej,"AK Bars - Metallurg, PF2 G4",KHL
-01.05.,15:00,Arena Premium 2,Fudbal,Bari - V. Entella,ITALIJANSKA 2. LIGA
-01.05.,15:00,Arena Premium 3,Fudbal,Palermo - Catanzaro,ITALIJANSKA 2. LIGA
-01.05.,15:00,Arena Premium 4,Fudbal,Empoli - Avellino,ITALIJANSKA 2. LIGA
-01.05.,16:00,Arena Premium 1,Fudbal,Krylya Sovetov - Spartak,RUSKA LIGA
+01.05.,15:00,Arena Premium 3,Fudbal,Empoli - Avellino,ITALIJANSKA 2. LIGA
+01.05.,15:00,Arena Premium 4,Fudbal,Bari - V. Entella,ITALIJANSKA 2. LIGA
+01.05.,16:00,Arena Premium 2,Fudbal,Krylya Sovetov - Spartak,RUSKA LIGA
 01.05.,16:00,Arena Tenis,Tenis,ATP - SF1,ATP/WTA 1000 - Madrid
-01.05.,16:00,Arena Sport 1,Košarka,Košarka: VTB LIGA: Plejof ep. 12,VTB LIGA
-01.05.,16:00,Adrenalin,Moto Sport,Majami: Slobodan Trening,FORMULA 2
-01.05.,17:30,Arena Premium 5,Fudbal,Korona - Piast,POLJSKA LIGA
-01.05.,18:30,Arena Premium 2,Fudbal,Lokomotiv - Dinamo,RUSKA LIGA
-01.05.,18:30,Adrenalin,Moto Sport,Majami: Trening 1,FORMULA 1
-01.05.,19:00,Arena Premium 1,Košarka,"Besiktas - Bourg, finale G3",EVROKUP
+01.05.,17:30,Arena Sport 7,Fudbal,Korona - Piast,POLJSKA LIGA
+01.05.,18:00,Arena Premium 1,Košarka,"Zlatibor - Crvena zvezda, G2",KLS
+01.05.,18:00,Arena Premium 5,Košarka,Petkim Spor - Bahcesehir,TURSKA LIGA
+01.05.,18:00,Adrenalin,Moto Sport,Majami: Trening 1,FORMULA 1
+01.05.,18:30,Arena Premium 3,Fudbal,Lokomotiv - Dinamo,RUSKA LIGA
+01.05.,19:00,Arena Premium 2,Košarka,"Besiktas - Bourg, finale G3",EVROKUP
 01.05.,19:00,Arena Premium 4,Rukomet,RNL - Melsungen,BUNDESLIGA
+01.05.,19:00,Arena Sport 1,Odbojka,"Vojvodina - Radnički, finale G2",SUPERLIGA
 01.05.,19:00,Arena Sport 4,Fudbal,Brondby - Nordsjaelland,DANSKA LIGA
-01.05.,20:00,Arena Premium 5,Odbojka,"Finale, G2 (TBC)",SUPERLIGA
 01.05.,20:00,Arena Tenis,Tenis,ATP - SF2,ATP/WTA 1000 - Madrid
 01.05.,20:30,Arena Sport 2,Fudbal,Legia - Widzew,POLJSKA LIGA
 01.05.,20:30,Arena Sport 3,Košarka,Asvel - Dunkerque,FRANCUSKA LIGA
 01.05.,20:30,Adrenalin,Moto Sport,Majami: Kvalifikacije,FORMULA 2
-01.05.,20:45,Arena Premium 2,Košarka,Real Madrid - Hapoel,EVROLIGA
-01.05.,20:45,Arena Premium 3,Fudbal,Nantes - Marseille,FRANCUSKA LIGA
+01.05.,20:45,Arena Premium 1,Košarka,"Real Madrid - Hapoel Tel Aviv, G2",EVROLIGA
 01.05.,20:45,Arena Premium 4,Fudbal,Pisa - Lecce,ITALIJANSKA LIGA
-01.05.,21:00,Arena Premium 1,Fudbal,Leeds - Burnley,ENGLESKA LIGA
-01.05.,21:00,Arena Sport 1,Fudbal,Girona - Mallorca,ŠPANSKA LIGA
-01.05.,21:00,Arena Sport 4,Fudbal,Zaragoza - Granada,ŠPANSKA 2. LIGA
+01.05.,21:00,Arena Premium 2,Fudbal,Leeds - Burnley,ENGLESKA LIGA
+01.05.,21:00,Arena Premium 3,Fudbal,Girona - Mallorca,ŠPANSKA LIGA
+01.05.,21:00,Arena 1X2,Fudbal,Zaragoza - Granada,ŠPANSKA 2. LIGA
 01.05.,22:30,Adrenalin,Moto Sport,Majami: Sprint Kvalifikacije,FORMULA 1
 02.05.,04:00,Arena Premium 2,Basket 3x3,"Čengdu, grupna faza",FIBA 3x3 World Tour
+02.05.,12:00,Arena Sport 5,Košarka,Galatasaray - Manisa,TURSKA LIGA
 02.05.,12:30,Arena Sport 8,Golf,"Turkish Airlines Open, dan 3",DP WORLD TOUR
 02.05.,13:00,Arena Premium 4,Fudbal,Dresden - Kaiserslautern,NEMAČKA 2. LIGA
 02.05.,13:00,Arena Premium 5,Fudbal,Armenia Bielefeld - Bochum,NEMAČKA 2. LIGA
-02.05.,13:00,Arena Sport 3,Fudbal,Kiel - E. Braunschweig,NEMAČKA 2. LIGA
+02.05.,13:00,Arena Sport 3,Košarka,"MBA - Unics, G3",VTB LIGA
 02.05.,13:00,Arena Sport 4,Fudbal,Dynamo Makhachkala - Rostov,RUSKA LIGA
 02.05.,13:30,Arena Premium 1,Fudbal,TBC - TBC,CHAMPIONSHIP
 02.05.,13:30,Arena Premium 3,Fudbal,TBC - TBC,CHAMPIONSHIP
@@ -189,48 +196,48 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 02.05.,13:45,Arena Sport 1,Basket 3x3,"Čengdu, grupna faza",FIBA 3x3 World Tour
 02.05.,14:00,Arena Premium 2,Fudbal,Villarreal - Levante,ŠPANSKA LIGA
 02.05.,14:00,Arena Tenis,Tenis,ATP dubl - FINALE,ATP/WTA 1000 - Madrid
+02.05.,14:30,Arena Sport 6,Košarka,Mersin - Efes,TURSKA LIGA
 02.05.,15:00,Arena Premium 4,Fudbal,Udinese - Torino,ITALIJANSKA LIGA
+02.05.,15:00,Arena 1X2,Fudbal,Nantes - Marseille,FRANCUSKA LIGA
 02.05.,15:30,Arena Premium 3,Fudbal,Bayern - Heidenheim,NEMAČKA LIGA
 02.05.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
 02.05.,15:30,Arena Sport 3,Fudbal,Hoffenheim - Stuttgart,NEMAČKA LIGA
 02.05.,15:30,Arena Sport 4,Fudbal,Werder Bremen - Augsburg,NEMAČKA LIGA
-02.05.,15:30,Arena Sport 5,Fudbal,Union Berlin - Koln,NEMAČKA LIGA
-02.05.,15:30,Arena Sport 6,Fudbal,Frankfurt - HSV,NEMAČKA LIGA
+02.05.,15:30,Arena Sport 5,Fudbal,Frankfurt - HSV,NEMAČKA LIGA
 02.05.,16:00,Arena Premium 1,Fudbal,Newcastle - Brighton,ENGLESKA LIGA
 02.05.,16:00,Arena Premium 2,Fudbal,Brentford - West Ham,ENGLESKA LIGA
 02.05.,16:00,Arena Sport 2,Fudbal,Wolverhampton - Sunderland,ENGLESKA LIGA
-02.05.,16:00,Arena Sport 7,Fudbal,TBC - TBC,LEAGUE ONE
-02.05.,16:00,Arena Sport 9,Odbojka,"Vakifbank - Conegliano, polufinale 1",LIGA ŠAMPIONA Ž
+02.05.,16:00,Arena Sport 7,Odbojka,"Vakifbank - Conegliano, polufinale 1",LIGA ŠAMPIONA Ž
+02.05.,16:00,Arena Sport 9,Fudbal,TBC - TBC,LEAGUE ONE
 02.05.,16:00,Adrenalin,Moto Sport,Majami: Sprint,FORMULA 2
 02.05.,16:15,Arena Sport 1,Fudbal,Valencia - Atletico,ŠPANSKA LIGA
 02.05.,17:00,Arena Premium 4,Fudbal,PSG - Lorient,FRANCUSKA LIGA
 02.05.,17:00,Arena Tenis,Tenis,WTA - FINALE,ATP/WTA 1000 - Madrid
-02.05.,18:00,Arena Premium 3,Fudbal,Como - Napoli,ITALIJANSKA LIGA
-02.05.,18:00,Arena Premium 5,Fudbal,CSKA - Zenit,RUSKA LIGA
+02.05.,18:00,Arena Premium 3,Košarka,Hercegovac/Sloboda - Partizan,KLS
+02.05.,18:00,Arena Premium 5,Fudbal,Como - Napoli,ITALIJANSKA LIGA
+02.05.,18:00,Arena Sport 3,Fudbal,CSKA - Zenit,RUSKA LIGA
 02.05.,18:00,Arena Sport 6,Košarka,Joventut - Unicaja,ŠPANSKA LIGA
 02.05.,18:00,Adrenalin,Moto Sport,Majami: Sprint,FORMULA 1
 02.05.,18:30,Arena Premium 2,Fudbal,Arsenal - Fulham,ENGLESKA LIGA
 02.05.,18:30,Arena Sport 2,Fudbal,Bayer Leverkusen - Leipzig,NEMAČKA LIGA
-02.05.,18:30,Arena Sport 3,Fudbal,Alaves - Athletic,ŠPANSKA LIGA
 02.05.,18:30,Arena Sport 5,Košarka,Wurzburg - Ulm,NEMAČKA LIGA
+02.05.,18:30,Arena Sport 7,Fudbal,Alaves - Athletic,ŠPANSKA LIGA
 02.05.,19:00,Arena Premium 4,Fudbal,Metz - Monaco,FRANCUSKA LIGA
-02.05.,19:00,Arena Sport 1,Fudbal,Farnalicao - Benfica,PORTUGALSKA LIGA
+02.05.,19:00,Arena Sport 1,Fudbal,Familicao - Benfica,PORTUGALSKA LIGA
 02.05.,19:00,Arena Sport 4,Odbojka,"Eczacibasi - Scandicci, polufinale 2",LIGA ŠAMPIONA Ž
 02.05.,19:30,Adrenalin,Moto Sport,"Mađarska, Trka 1",SUPERBIKE WORLD CHAMPIONSHIP
 02.05.,20:00,Arena Premium 3,Fudbal,Ajax - PSV,HOLANDSKA LIGA
-02.05.,20:00,Arena Sport 6,Odbojka,"Finale, G5 (TBC)",SUPERLIGA (Ž)
-02.05.,20:00,Arena Sport 7,Fudbal,Le Mans - Reims,FRANCUSKA 2. LIGA
-02.05.,20:00,Arena Sport 9,Fudbal,Rodez - Saint-Etienne,FRANCUSKA 2. LIGA
-02.05.,20:15,Arena Sport 8,Fudbal,Motor - Lech,POLJSKA LIGA
-02.05.,20:30,Arena Premium 5,Fudbal,Schalke - Fortuna,NEMAČKA 2. LIGA
-02.05.,20:30,Arena Sport 2,Fudbal,Basel - Thun,ŠVAJCARSKA LIGA
+02.05.,20:00,Arena 1X2,Fudbal,Rodez - Saint-Etienne,FRANCUSKA 2. LIGA
+02.05.,20:15,Arena Sport 6,Fudbal,Motor - Lech,POLJSKA LIGA
+02.05.,20:30,Arena Sport 2,Fudbal,Schalke - Fortuna,NEMAČKA 2. LIGA
 02.05.,20:30,Arena Sport 3,Košarka,Paris - Chalon,FRANCUSKA LIGA
+02.05.,20:30,Arena Sport 7,Fudbal,Basel - Thun,ŠVAJCARSKA LIGA
 02.05.,20:45,Arena Premium 2,Fudbal,Atalanta - Genoa,ITALIJANSKA LIGA
-02.05.,20:45,Adrenalin,Moto Sport,Majami: Trka 1,Porsche Carrera Cup
 02.05.,21:00,Arena Premium 1,Fudbal,Osasuna - Barcelona,ŠPANSKA LIGA
 02.05.,21:00,Arena Premium 4,Fudbal,Nice - Lens,FRANCUSKA LIGA
 02.05.,21:00,Arena Sport 4,Fudbal,NEC - Telstar,HOLANDSKA LIGA
 02.05.,21:00,Arena Sport 5,Fudbal,Eibar - Malaga,ŠPANSKA 2. LIGA
 02.05.,21:30,Arena Sport 1,Fudbal,Porto - Alverca,PORTUGALSKA LIGA
 02.05.,22:00,Adrenalin,Moto Sport,Majami: Kvalifikacije,FORMULA 1
-02.05.,23:30,Arena Premium 1,Fudbal,Palmeiras - Sanatos,BRAZILSKA LIGA
+02.05.,23:30,Arena Premium 1,Košarka,Sedma utakmica,NBA
+02.05.,23:30,Arena Premium 2,Fudbal,Palmeiras - Sanatos,BRAZILSKA LIGA
