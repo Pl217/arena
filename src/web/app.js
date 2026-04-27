@@ -90,14 +90,28 @@
       }
     }
 
+    let hasNewBatch = false;
+
     for (const sport in filters) {
       if (!tvFilterMemory[`s:${sport}`]) {
         tvFilterMemory[`s:${sport}`] = { state: 'unseen' };
         filterMemoryChanged = true;
+        hasNewBatch = true;
       }
       for (const league of filters[sport]) {
         if (!tvFilterMemory[`l:${sport}|${league}`]) {
           tvFilterMemory[`l:${sport}|${league}`] = { state: 'unseen' };
+          filterMemoryChanged = true;
+          hasNewBatch = true;
+        }
+      }
+    }
+
+    if (hasNewBatch) {
+      for (const key in tvFilterMemory) {
+        if (tvFilterMemory[key].state === 'seen') {
+          tvFilterMemory[key].state = 'known';
+          delete tvFilterMemory[key].expiresAt;
           filterMemoryChanged = true;
         }
       }
