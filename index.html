@@ -589,6 +589,15 @@ body {
   let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
   let savedFavorites = JSON.parse(localStorage.getItem('tvFavorites')) ?? [];
 
+  const initialFavCount = savedFavorites.length;
+  savedFavorites = savedFavorites.filter((key) => {
+    const keyDate = key.substring(0, 10);
+    return keyDate >= dateList[0];
+  });
+  if (savedFavorites.length !== initialFavCount) {
+    localStorage.setItem('tvFavorites', JSON.stringify(savedFavorites));
+  }
+
   let tvFilterMemory = JSON.parse(localStorage.getItem('tvFilterMemory'));
   let filterMemoryChanged = false;
 
