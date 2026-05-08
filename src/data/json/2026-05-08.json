@@ -2071,11 +2071,11 @@
             "description": "snimak"
           },
           {
-            "content": "Doha",
+            "content": "Borac - TFT,  G1",
             "time": "18:00",
-            "category": "DIJAMANTSKA LIGA",
-            "sport": "Atletika",
-            "description": "uzivo"
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Najava 36. kola",
@@ -8643,6 +8643,141 @@
             "time": "20:30",
             "category": "POLJSKA LIGA",
             "sport": "Fudbal",
+            "description": "uzivo"
+          }
+        ]
+      }
+    }
+  },
+  "ABS1": {
+    "days": {
+      "2026-05-08": {
+        "emisije": [
+          {
+            "content": "Na Klupi - Saša Obradović, drugi deo",
+            "time": "04:00",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Radnički - Šabac, polufinale",
+            "time": "04:30",
+            "category": "Regionalna vaterpolo liga",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Široki - TFT, finale G1",
+            "time": "06:00",
+            "category": "ABA2 LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Dubai - Spartak, G1",
+            "time": "08:15",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - Bosna, G1",
+            "time": "10:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Emisija: Na Klupi - Andrej Žakelj",
+            "time": "14:00",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Budućnost - Cluj, G1",
+            "time": "14:30",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Šabac - Jadran, utakmica za 3. mesto",
+            "time": "16:30",
+            "category": "Regionalna vaterpolo liga",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Cluj - Budućnost, G2",
+            "time": "19:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
+            "content": "Crvena zvezda - Cedevita Olimpija, G1",
+            "time": "21:30",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          }
+        ]
+      }
+    }
+  },
+  "ABS2": {
+    "days": {
+      "2026-05-08": {
+        "emisije": [
+          {
+            "content": "Radnički - Vojvodina G3",
+            "time": "02:00",
+            "category": "SUPERLIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Mega - FMP",
+            "time": "04:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Vojvodina - Radnički, finale G2",
+            "time": "06:00",
+            "category": "SUPERLIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Smederevo - Loznica, finale G3",
+            "time": "08:00",
+            "category": "PRVA LIGA",
+            "sport": "Futsal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bor - Naisa",
+            "time": "10:00",
+            "category": "SUPERLIGA SRBIJE Ž",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Fudbalsko lice nacije: Bukurešt",
+            "time": "13:30",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Naisa - Bor",
+            "time": "20:00",
+            "category": "SUPERLIGA SRBIJE Ž",
+            "sport": "Rukomet",
             "description": "uzivo"
           }
         ]
