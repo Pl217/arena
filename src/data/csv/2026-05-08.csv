@@ -5,6 +5,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.05.,10:00,Arena Premium 1,Mali fudbal,Stari Grad,ARENINA LIGA ŠAMPIONA
 07.05.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 2 prepodnevna sesija",ATP/WTA 1000 - Rome
 07.05.,11:00,Arena Sport 1,Tenis,"Teren 1, dan 2",ATP/WTA 1000 - Rome
+07.05.,11:00,Arena Sport 2,Tenis,Svrcina - Kecmanovic,ATP/WTA 1000 - Rome
 07.05.,16:00,Adrenalin,Moto Sport,Portugal - Live Stage 1,WRC
 07.05.,18:00,Arena Premium 4,Košarka,"Rytas - Tenerife, PF1",FIBA LIGA ŠAMPIONA
 07.05.,18:30,Arena Premium 1,Košarka,"Crvena zvezda - Cedevita Olimpija, G1",ABA LIGA
@@ -39,10 +40,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 08.05.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 3 popodnevna sesija",ATP/WTA 1000 - Rome
 08.05.,19:00,Arena Sport 5,Rukomet,Minden - Bergischer,BUNDESLIGA
 08.05.,19:00,Arena Sport 8,Fudbal,Viborg - Sonderjyske,DANSKA LIGA
-08.05.,19:00,ABS1,Košarka,"Cluj - Budućnost, G2",ABA LIGA
 08.05.,20:00,Arena Sport 4,Košarka,Bonn - Trier,NEMAČKA LIGA
 08.05.,20:00,Arena Sport 10,Rukomet,Naisa - Bor,SUPERLIGA SRBIJE Ž
-08.05.,20:00,ABS2,Rukomet,Naisa - Bor,SUPERLIGA SRBIJE Ž
 08.05.,20:15,Arena Premium 2,Košarka,"Panathinaikos - Valencia, G4",EVROLIGA
 08.05.,20:30,Arena Premium 3,Fudbal,Dortmund - Frankfurt,NEMAČKA LIGA
 08.05.,20:30,Arena Sport 3,Fudbal,Venezia - Palermo,ITALIJANSKA 2. LIGA
@@ -88,8 +87,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.05.,16:00,Arena Sport 9,Fudbal,Dinamo - Hajduk,HRVATSKA LIGA
 09.05.,16:00,Adrenalin,Moto Sport,Portugal - Live Stage 3,WRC
 09.05.,16:15,Arena Premium 4,Fudbal,Sevilla - Espanyol,ŠPANSKA LIGA
-09.05.,17:00,Arena Sport 6,Košarka,Meč za 3. mesto,FIBA LIGA ŠAMPIONA
-09.05.,17:00,Arena 1X2,Fudbal,Saint-Etienne - Amiens,FRANCUSKA 2. LIGA
+09.05.,17:00,Arena Sport 6,Košarka,"Unicaja - Tenerife, meč za treće mesto",FIBA LIGA ŠAMPIONA
 09.05.,18:00,Arena Premium 5,Fudbal,Lazio - Inter,ITALIJANSKA LIGA
 09.05.,18:00,Arena Sport 3,Košarka,Murcia - Girona,ŠPANSKA LIGA
 09.05.,18:00,Arena Sport 9,RVANJE,Seniori,Prvenstvo Srbije
@@ -102,24 +100,23 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.05.,19:00,Arena Sport 4,Fudbal,Galatasaray - Antalyaspor,TURSKA LIGA
 09.05.,19:00,Arena Sport 5,Fudbal,Konyaspor - Fenerbahce,TURSKA LIGA
 09.05.,19:00,Arena Sport 6,Jedrenje,"Bermudi, dan 1",SailGP
-09.05.,20:00,Arena Premium 5,Košarka,Finale,FIBA LIGA ŠAMPIONA
+09.05.,20:00,Arena Premium 5,Košarka,"AEK - Rytas, finale",FIBA LIGA ŠAMPIONA
 09.05.,20:00,Adrenalin,Moto Sport,Portugal - Live Stage 4,WRC
+09.05.,20:00,Arena 1X2,Fudbal,Saint-Etienne - Amiens,FRANCUSKA 2. LIGA
 09.05.,20:30,Arena Sport 2,Fudbal,Nurnberg - Schalke,NEMAČKA 2. LIGA
-09.05.,20:30,Arena Sport 3,Odbojka,"Finale, G4",ITALIJANSKA LIGA
 09.05.,20:30,Arena Sport 6,Košarka,Asvel - Strasbourg,FRANCUSKA LIGA
 09.05.,20:45,Arena Premium 3,Fudbal,Lecce - Juventus,ITALIJANSKA LIGA
 09.05.,21:00,Arena Premium 1,Košarka,"Cleveland - Detroit, G3",NBA
 09.05.,21:00,Arena Premium 4,Fudbal,Real Sociedad - Betis,ŠPANSKA LIGA
 09.05.,21:00,Arena Sport 1,Fudbal,Motherwell - Hearts,ŠKOTSKA LIGA
-09.05.,21:00,Arena 1X2,Fudbal,"Bolton - Bradford, polufinale G1",LEAGUE ONE
+09.05.,21:00,Arena Sport 3,Fudbal,"Bolton - Bradford, polufinale G1",LEAGUE ONE
 09.05.,23:00,Arena Premium 2,Fudbal,Fluminense - Vitoria,BRAZILSKA LIGA
 10.05.,00:00,Arena Premium 1,Fudbal,Boca Juniors - Huracan,ARGENTINSKA LIGA
-10.05.,09:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
+10.05.,10:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 10.05.,10:30,Arena Premium 4,Moto Sport,Portugal - Live Stage 5,WRC
 10.05.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 5 prepodnevna sesija",ATP/WTA 1000 - Rome
 10.05.,11:00,Arena Sport 7,Tenis,"Teren 1, dan 5",ATP/WTA 1000 - Rome
 10.05.,11:00,Adrenalin,Moto Sport,Francuska: Trka,MOTO 3
-10.05.,11:30,Arena Premium 3,Fudbal,Orenburg - Krylya Sovetov,RUSKA LIGA
 10.05.,12:15,Adrenalin,Moto Sport,Francuska: Trka,MOTO 2
 10.05.,12:30,Arena Premium 2,Fudbal,Verona - Como,ITALIJANSKA LIGA
 10.05.,13:00,Arena Premium 1,Fudbal,Celtic - Rangers,ŠKOTSKA LIGA
@@ -131,6 +128,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 10.05.,14:00,Arena Sport 1,Fudbal,Zenit - Sochi,RUSKA LIGA
 10.05.,14:00,Arena Sport 3,Fudbal,Nordsjaelland - Midtjylland,DANSKA LIGA
 10.05.,14:00,Arena Sport 4,Fudbal,Lugano - St.Gallen,ŠVAJCARSKA LIGA
+10.05.,14:00,Arena Sport 10,Košarka,Finale Juniorske lige Srbije,
 10.05.,14:00,Adrenalin,Moto Sport,Francuska: Trka,MOTO GP
 10.05.,15:00,Arena Premium 1,Fudbal,Nottingham Forest - Newcastle,ENGLESKA LIGA
 10.05.,15:00,Arena Premium 2,Fudbal,Crystal Palace - Everton,ENGLESKA LIGA
@@ -148,11 +146,11 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 10.05.,17:00,Arena Premium 2,Košarka,"Bosna - Partizan, G2",ABA LIGA
 10.05.,17:00,Arena Premium 5,Košarka,Bahcesehir - Fenerbahce,TURSKA LIGA
 10.05.,17:00,Arena Sport 2,Fudbal,LASK - Salzburg,AUSTRIJSKA LIGA
+10.05.,17:00,Arena Sport 5,Košarka,Trento - Milano,ITALIJANSKA LIGA
 10.05.,17:30,Arena Premium 1,Fudbal,West Ham - Arsenal,ENGLESKA LIGA
 10.05.,17:30,Arena Premium 4,Fudbal,Koln - Heidenheim,NEMAČKA LIGA
 10.05.,17:30,Adrenalin,Moto Sport,Portugal - Live Stage 6,WRC
 10.05.,18:00,Arena Sport 1,Fudbal,Parma - Roma,ITALIJANSKA LIGA
-10.05.,18:00,Arena Sport 5,Fudbal,Brondby - Aarhus,DANSKA LIGA
 10.05.,18:30,Arena Premium 3,Fudbal,AEK - Panathinaikos,GRČKA LIGA
 10.05.,18:30,Arena Sport 3,Fudbal,Oviedo - Getafe,ŠPANSKA LIGA
 10.05.,19:00,Arena Premium 2,Košarka,Valencia - Baskonia,ŠPANSKA LIGA
@@ -184,16 +182,17 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.05.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 6 prepodnevna sesija",ATP/WTA 1000 - Rome
 11.05.,11:00,Arena Sport 1,Tenis,"Teren 1, dan 6",ATP/WTA 1000 - Rome
 11.05.,12:00,Arena Premium 2,Fudbal,Akron - Rostov,RUSKA LIGA
+11.05.,13:30,Arena Premium 3,Hokej,"Lokomotiv - AK Bars, finale G1",KHL
 11.05.,14:15,Arena Premium 2,Fudbal,Nizhny Novgorod - CSKA,RUSKA LIGA
 11.05.,16:30,Arena Premium 2,Fudbal,Spartak - Rubin,RUSKA LIGA
 11.05.,17:00,Arena Premium 3,Košarka,"UNICS - Zenit, G1",VTB LIGA
-11.05.,17:30,Arena Premium 5,Hokej,"AK Bars - TBD, finale G1",KHL
-11.05.,19:00,Arena Premium 3,Fudbal,Dinamo - Krasnodar,RUSKA LIGA
+11.05.,19:00,Arena Premium 2,Fudbal,Dinamo - Krasnodar,RUSKA LIGA
 11.05.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 6 popodnevna sesija",ATP/WTA 1000 - Rome
+11.05.,20:30,Arena Sport 10,Košarka,Finale U15 Pioniri,KSS - Mlađe kategorije
 11.05.,20:30,Arena 1X2,Fudbal,Huesca - Real Sociedad B,ŠPANSKA 2. LIGA
-11.05.,20:45,Arena Premium 2,Fudbal,Napoli - Bologna,ITALIJANSKA LIGA
+11.05.,20:45,Arena Premium 3,Fudbal,Napoli - Bologna,ITALIJANSKA LIGA
 11.05.,21:00,Arena Premium 1,Fudbal,Tottenham - Leeds,ENGLESKA LIGA
-11.05.,21:00,Arena Premium 3,Fudbal,Rayo Vallecano - Girona,ŠPANSKA LIGA
+11.05.,21:00,Arena Premium 2,Fudbal,Rayo Vallecano - Girona,ŠPANSKA LIGA
 11.05.,21:00,Arena Premium 4,Fudbal,"Millwall - Hull, polufinale G2",CHAMPIONSHIP
 11.05.,21:15,Arena Premium 5,Fudbal,Benfica - Braga,PORTUGALSKA LIGA
 11.05.,21:15,Arena Sport 1,Fudbal,Rio Ave - Sporting,PORTUGALSKA LIGA
@@ -203,33 +202,33 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 12.05.,11:00,Arena Tenis,Tenis,"Centralni teren, dan 7 prepodnevna sesija",ATP/WTA 1000 - Rome
 12.05.,11:00,Arena Sport 1,Tenis,"Teren 1, dan 7",ATP/WTA 1000 - Rome
 12.05.,15:00,Arena Premium 2,Rukomet,ŽREB FINAL4 2026,LIGA ŠAMPIONA
-12.05.,16:00,Arena Premium 1,Fudbal,Srbija - Bosna i Hercegovina,U16 Miljan Miljanić
+12.05.,16:00,Arena Premium 1,Fudbal,Srbija - Bosna i Hercegovina,"Turnir ,,Miljan Miljanić"""
 12.05.,18:00,Arena Premium 3,Košarka,FMP - Mega,KLS
 12.05.,18:00,Arena Sport 10,Košarka,FMP - Mega,KLS
 12.05.,18:30,Arena Premium 4,Košarka,"CSKA - Lokomotiv, G1",VTB LIGA
+12.05.,18:30,Arena Sport 9,Košarka,Finale kadetske ženske konkurencije,
 12.05.,19:00,Arena Premium 1,Košarka,"Cedevita Olimpija - Crvena zvezda, G2",ABA LIGA
 12.05.,19:00,Arena Premium 5,Fudbal,Celta - Levante,ŠPANSKA LIGA
 12.05.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 7 popodnevna sesija",ATP/WTA 1000 - Rome
 12.05.,20:00,Arena Premium 2,Fudbal,Betis - Elche,ŠPANSKA LIGA
 12.05.,20:30,Arena Premium 3,Vaterpolo,Ferencvaros - Hannover,Liga šampiona
-12.05.,20:30,Arena Premium 4,Odbojka,"Finale, G5",ITALIJANSKA LIGA
 12.05.,20:30,Arena Sport 2,Vaterpolo,Mladost - Pro Recco,Liga šampiona
 12.05.,21:00,Arena Premium 5,Fudbal,"Southampton - Middlesbrough, polufinale G2",CHAMPIONSHIP
 12.05.,21:30,Arena Premium 1,Fudbal,Osasuna - Atletico,ŠPANSKA LIGA
 13.05.,00:00,Arena Premium 3,Fudbal,Četvrtfinale 1,ARGENTINSKA LIGA
 13.05.,01:00,Arena Premium 1,Košarka,"Conference Semifinals, G5* TBD",NBA
-13.05.,01:00,Arena Premium 2,Hokej,"Vegas Golden Knights - Anaheim Ducks, G5",NHL
+13.05.,03:30,Arena Premium 1,Hokej,"Vegas Golden Knights - Anaheim Ducks, G5",NHL
+13.05.,10:00,Arena Premium 1,Mali fudbal,Četvrtfinala,ARENINA LIGA ŠAMPIONA
 13.05.,13:00,Arena Tenis,Tenis,"Centralni teren, dan 8 prepodnevna sesija",ATP/WTA 1000 - Rome
 13.05.,16:00,Arena Premium 1,Košarka,"Olympiacos - Kolossos, G1",GRČKA LIGA
 13.05.,16:00,Arena Premium 2,Košarka,"Panathinaikos - Mykonos, G1",GRČKA LIGA
-13.05.,17:30,Arena Sport 3,Hokej,"AK Bars - TBD, finale G2",KHL
-13.05.,18:00,Arena Premium 5,Košarka,"UNICS - Zenit, G2",VTB LIGA
-13.05.,18:00,Arena 1X2,Fudbal,Arka - Gornik,POLJSKA LIGA
+13.05.,18:00,Arena Premium 3,Košarka,"UNICS - Zenit, G2",VTB LIGA
+13.05.,18:00,Arena Sport 3,Hokej,"Lokomotiv - AK Bars, finale G2",KHL
 13.05.,18:30,Arena Premium 2,Fudbal,PAOK - AEK,GRČKA LIGA
-13.05.,19:00,Arena Premium 3,Fudbal,Villarreal - Sevilla,ŠPANSKA LIGA
-13.05.,19:00,Arena Premium 4,Fudbal,Espanyol - Athletic,ŠPANSKA LIGA
+13.05.,19:00,Arena Premium 4,Fudbal,Villarreal - Sevilla,ŠPANSKA LIGA
 13.05.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 8 popodnevna sesija",ATP/WTA 1000 - Rome
-13.05.,19:00,Arena Sport 1,Fudbal,Brest - Strasbourg,FRANCUSKA LIGA
+13.05.,19:00,Arena Sport 1,Fudbal,Espanyol - Athletic,ŠPANSKA LIGA
+13.05.,19:00,Arena Sport 4,Fudbal,Brest - Strasbourg,FRANCUSKA LIGA
 13.05.,19:10,Arena Sport 7,Bejzbol,Los Angeles Angels - Cleveland Guardians,Major League Baseball
 13.05.,19:30,Arena Sport 2,Fudbal,"Genclerbirligi - Trabzonspor, polufinale 2",TURSKI KUP
 13.05.,20:30,Arena Premium 5,Vaterpolo,Novi Beograd - Barceloneta,Liga šampiona
@@ -238,7 +237,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 13.05.,21:00,Arena Premium 2,Fudbal,"Lazio - Inter, finale",ITALIJANSKI KUP
 13.05.,21:00,Arena Premium 3,Fudbal,Manchester City - Crystal Palace,ENGLESKA LIGA
 13.05.,21:00,Arena Sport 1,Fudbal,Lens - PSG,FRANCUSKA LIGA
-13.05.,21:00,Arena Sport 4,Fudbal,tbc-tbc,ŠKOTSKA LIGA
+13.05.,21:00,Arena Sport 4,Fudbal,Plejof,ŠKOTSKA LIGA
 13.05.,21:00,Arena Sport 5,Fudbal,"Stockport - Stevenage, polufinale G2",LEAGUE ONE
 13.05.,21:30,Arena Premium 4,Fudbal,Alaves - Barcelona,ŠPANSKA LIGA
 13.05.,21:30,Arena Sport 2,Fudbal,Getafe - Mallorca,ŠPANSKA LIGA
