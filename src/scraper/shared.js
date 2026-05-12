@@ -65,6 +65,7 @@ const ignoreLeagues = new Set([
   'SUPERLIGA SRBIJE',
   'PRVA LIGA SRBIJE',
   'SRPSKA LIGA BEOGRAD',
+  'Srpska Liga Istok',
   'KUP SRBIJE',
   'KUP BIH',
   'WWIN LIGA BIH',
