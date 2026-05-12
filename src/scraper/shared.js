@@ -57,7 +57,7 @@ export const jsonToCsv = (data, fields) => {
 };
 
 const ignoreTeams = ['Plan igre', 'Pregled kola', 'Studio', 'Rukometna arena'];
-const ignoreLeagues = new Set([
+const ignoreLeagues = [
   'MOZZART BET SUPERLIGA',
   'MOZZARTBET SUPERLIGA',
   'MOZZARTBET SUPERLIGA SRBIJE',
@@ -65,13 +65,13 @@ const ignoreLeagues = new Set([
   'SUPERLIGA SRBIJE',
   'PRVA LIGA SRBIJE',
   'SRPSKA LIGA BEOGRAD',
-  'Srpska Liga Istok',
+  'SRPSKA LIGA ISTOK',
   'KUP SRBIJE',
   'KUP BIH',
   'WWIN LIGA BIH',
   'CRNOGORSKA LIGA',
   'SAUDIJSKA LIGA',
-]);
+];
 const ignoreSports = new Set();
 
 export const scrapeAndProcess = async () => {
@@ -174,7 +174,11 @@ export const scrapeAndProcess = async () => {
         if (ignoreSports.has(show.sport)) {
           continue;
         }
-        if (ignoreLeagues.has(show.category)) {
+        if (
+          ignoreLeagues.some(
+            (league) => league.toLowerCase() === show.category.toLowerCase()
+          )
+        ) {
           continue;
         }
         if (
