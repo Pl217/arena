@@ -67,6 +67,7 @@ const ignoreLeagues = [
   'SRPSKA LIGA BEOGRAD',
   'SRPSKA LIGA ISTOK',
   'KUP SRBIJE',
+  'KUP BEOGRADA',
   'KUP BIH',
   'WWIN LIGA BIH',
   'CRNOGORSKA LIGA',
