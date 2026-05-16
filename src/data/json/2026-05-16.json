@@ -299,18 +299,25 @@
             "description": "snimak"
           },
           {
-            "content": "NBA Action",
+            "content": "Multiprenos",
             "time": "21:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "uzivo"
+          },
+          {
+            "content": "Ligue 1 Show ep. 34",
+            "time": "23:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Conference Semifinals, G7*",
-            "time": "21:30",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "uzivo"
+            "content": "Liga Šampiona: Pregled polufinala 2",
+            "time": "23:30",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       },
@@ -856,11 +863,11 @@
             "description": "snimak"
           },
           {
-            "content": "SEIKO Golden Grand Prix",
+            "content": "Šangaj",
             "time": "08:00",
-            "category": "World Athletics Continental Tour",
+            "category": "DIJAMANTSKA LIGA",
             "sport": "Atletika",
-            "description": "uzivo"
+            "description": "snimak"
           },
           {
             "content": "Bahcesehir - Fenerbahce",
@@ -1498,13 +1505,6 @@
             "category": "EHF LIGA EVROPE (Ž)",
             "sport": "Rukomet",
             "description": "uzivo"
-          },
-          {
-            "content": "Fudbalsko lice nacije: Lisabon",
-            "time": "22:00",
-            "category": "",
-            "sport": "Fudbal",
-            "description": "snimak"
           },
           {
             "content": "Chelsea - Manchester City, finale",
@@ -2472,13 +2472,6 @@
             "description": "snimak"
           },
           {
-            "content": "Teleoptik - Budućnost Dobanovci",
-            "time": "17:00",
-            "category": "Kup Beograda",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Lokomotiv - CSKA, G4",
             "time": "19:00",
             "category": "VTB LIGA",
@@ -3234,21 +3227,21 @@
             "description": "snimak"
           },
           {
-            "content": "ATP Polufinale 1",
+            "content": "Ruud - Darderi",
             "time": "13:00",
             "category": "ATP/WTA 1000 - Rome",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "ATP Polufinale 2",
+            "content": "Sinner - Medvedev",
             "time": "15:00",
             "category": "ATP/WTA 1000 - Rome",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "WTA Finale",
+            "content": "Gauff - Svitolina",
             "time": "17:00",
             "category": "ATP/WTA 1000 - Rome",
             "sport": "Tenis",
@@ -3343,7 +3336,7 @@
             "description": "snimak"
           },
           {
-            "content": "ATP Finale",
+            "content": "Sinner - Ruud",
             "time": "17:00",
             "category": "ATP/WTA 1000 - Rome",
             "sport": "Tenis",
@@ -10541,13 +10534,6 @@
             "content": "Multiprenos",
             "time": "19:00",
             "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
-            "content": "Multiprenos",
-            "time": "21:00",
-            "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
           }
