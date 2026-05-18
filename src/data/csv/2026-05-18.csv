@@ -89,14 +89,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 18.05.,20:30,Arena Sport 1,Košarka,"Bamberg - Ulm, G2",NEMAČKA LIGA
 18.05.,20:45,Arena Premium 4,Košarka,"Milano - Reggio Emilia, G2",ITALIJANSKA LIGA
 18.05.,21:00,Arena Premium 2,Fudbal,Arsenal - Burnley,ENGLESKA LIGA
-19.05.,01:00,Arena Premium 1,Hokej,"Montreal Canadiens - Buffalo Sabres, G7",NHL
+19.05.,01:30,Arena Premium 1,Hokej,"Montreal Canadiens - Buffalo Sabres, G7",NHL
 19.05.,10:00,Arena Premium 1,Mali fudbal,Četvrtfinala,ARENINA LIGA ŠAMPIONA
 19.05.,12:00,Arena Tenis,Tenis,"Centralni teren, dan 2",ATP 500 - Hamburg
 19.05.,16:20,Arena Premium 3,Hokej,Italija - Norveška,SVETSKO PRVENSTVO
 19.05.,18:00,Arena Premium 5,Hokej,"Lokomotiv - AK Bars, finale G5",KHL
 19.05.,18:30,Arena Premium 2,Košarka,"Zenit - UNICS, G4",VTB LIGA
 19.05.,18:30,Arena Sport 1,Košarka,"Alba - Vechta, G2",NEMAČKA LIGA
-19.05.,18:30,Arena Sport 3,Fudbal,tbc - tbc,AUSTRIJSKA LIGA
+19.05.,18:30,Arena Sport 3,Fudbal,Ried - WAC,AUSTRIJSKA LIGA
 19.05.,19:00,Arena Premium 3,Košarka,"Borac - Spartak, G2",KLS
 19.05.,19:00,Arena Sport 10,Košarka,"Borac - Spartak, G2",KLS
 19.05.,20:00,Arena Premium 4,Košarka,"Virtus Bologna - Trentino, G2",ITALIJANSKA LIGA
@@ -107,18 +107,16 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 19.05.,20:30,Arena Sport 1,Košarka,"Bayern - Trier, G2",NEMAČKA LIGA
 19.05.,21:15,Arena Premium 2,Fudbal,Chelsea - Tottenham,ENGLESKA LIGA
 20.05.,00:00,Arena Premium 1,Fudbal,Fluminense - Bolivar,COPA LIBERTADORES
-20.05.,02:00,Arena Premium 1,Košarka,"Finale Istočne konferencije, G1",NBA
-20.05.,02:00,Arena Premium 3,Hokej,"Carolina - BUF/MON, G1 TBA",NHL
+20.05.,02:00,Arena Premium 1,Košarka,"New York - Cleveland, G1",NBA
 20.05.,02:30,Arena Premium 2,Fudbal,Boca Juniors - Cruzeiro,COPA LIBERTADORES
 20.05.,03:40,Arena Premium 4,Bejzbol,Los Angeles Dodgers - San Diego Padres,Major League Baseball
 20.05.,10:00,Arena Premium 1,Mali fudbal,Četvrtfinala - revanš utakmice,ARENINA LIGA ŠAMPIONA
 20.05.,12:00,Arena Tenis,Tenis,"Centralni teren, dan 3",ATP 500 - Hamburg
 20.05.,16:20,Arena Premium 2,Hokej,Češka - Italija,SVETSKO PRVENSTVO
-20.05.,17:30,Arena Premium 1,Košarka,"Dubai - Budućnost, G1",ABA LIGA
 20.05.,18:00,Arena Premium 3,Fudbal,"Crvena zvezda - Spartak, finale",KUP SRBIJE Ž
 20.05.,18:00,Arena Sport 10,Fudbal,"Crvena zvezda - Spartak, finale",KUP SRBIJE Ž
 20.05.,19:00,Arena Premium 4,Košarka,"Lokomotiv - CSKA, G4",VTB LIGA
-20.05.,19:00,Arena Sport 5,Košarka,Play-in 1,FRANCUSKA LIGA
+20.05.,19:30,Arena Sport 6,Košarka,Chalon - Nancy,FRANCUSKA LIGA
 20.05.,20:00,Arena Sport 4,Fudbal,"Palermo – Catanzaro, polufinale 2 G2",ITALIJANSKA 2. LIGA
 20.05.,20:20,Arena Premium 3,Hokej,SAD - Nemačka,SVETSKO PRVENSTVO
 20.05.,20:30,Arena Premium 2,Vaterpolo,Novi Beograd - Brescia,Liga šampiona
@@ -126,7 +124,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 20.05.,20:30,Arena Sport 1,Vaterpolo,Pro Recco - Hannover,Liga šampiona
 20.05.,20:30,Arena Sport 2,Vaterpolo,Ferencvaros - Mladost,Liga šampiona
 20.05.,21:00,Arena Premium 1,Fudbal,"Freiburg - Aston Villa, finale",UEFA LIGA EVROPE
-20.05.,21:00,Arena Sport 5,Košarka,Play-in 2,FRANCUSKA LIGA
+20.05.,21:00,Arena Sport 5,Košarka,Bourg - Strasbourg,FRANCUSKA LIGA
 21.05.,00:00,Arena Premium 1,Fudbal,Santos - San Lorenzo,COPA SUDAMERICANA
 21.05.,02:00,Arena Premium 2,Hokej,"Colorado Avalanche - Vegas Golden Knights, G1",NHL
 21.05.,02:30,Arena Premium 1,Fudbal,River Plate - RB Bragantino,COPA SUDAMERICANA
@@ -141,21 +139,25 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 21.05.,14:00,Arena Tenis,Tenis,Četvrtfinale 2,ATP 500 - Hamburg
 21.05.,14:30,Arena Sport 1,Tenis,Četvrtfinale 3,WTA 500 - Strasbourg
 21.05.,15:45,Arena Premium 2,Košarka,Zalgiris U18 - Next Gen Team U18,ANGT
-21.05.,16:00,Arena Premium 3,Hokej,"AK Bars - Lokomotiv, finale G6",KHL
 21.05.,16:00,Arena Tenis,Tenis,Četvrtfinale 3,ATP 500 - Hamburg
-21.05.,16:20,Arena Premium 1,Hokej,Kanada - Norveška,SVETSKO PRVENSTVO
+21.05.,16:20,Arena Premium 3,Hokej,Kanada - Norveška,SVETSKO PRVENSTVO
 21.05.,16:30,Arena Sport 1,Tenis,Četvrtfinale 4,WTA 500 - Strasbourg
+21.05.,18:00,Arena Premium 2,Košarka,"Dubai - Budućnost, G1",ABA LIGA
 21.05.,18:00,Arena Tenis,Tenis,Četvrtfinale 4,ATP 500 - Hamburg
-21.05.,19:00,Arena Premium 2,Rukomet,Fuchse Berlin - Burgdorf,BUNDESLIGA
-21.05.,19:10,Arena Premium 5,Bejzbol,Cleveland Guardians - Detroit Tigers,Major League Baseball
+21.05.,18:30,Arena Sport 2,Hokej,"AK Bars - Lokomotiv, finale G6",KHL
+21.05.,18:45,Arena 1X2,Fudbal,Ajax - Groningen,HOLANDSKA LIGA
+21.05.,19:00,Arena Premium 5,Rukomet,Fuchse Berlin - Burgdorf,BUNDESLIGA
+21.05.,19:10,Arena Sport 1,Bejzbol,Cleveland Guardians - Detroit Tigers,Major League Baseball
 21.05.,20:00,Arena Premium 1,Košarka,"Crvena zvezda - Partizan, G2",ABA LIGA
-21.05.,20:00,Arena Premium 3,Košarka,"Trieste - Brescia, G3",ITALIJANSKA LIGA
+21.05.,20:00,Arena Sport 3,Košarka,"Trieste - Brescia, G3",ITALIJANSKA LIGA
 21.05.,20:00,Arena Sport 5,Pikado,Sheffield,Premier League
 21.05.,20:20,Arena Premium 4,Hokej,Danska - Slovačka,SVETSKO PRVENSTVO
+21.05.,20:30,Arena Premium 3,Fudbal,"Wolfsburg - Paderborn, G1",NEMAČKA LIGA
 21.05.,20:45,Arena Premium 2,Košarka,"Reggio Emilia - Milano, G3",ITALIJANSKA LIGA
+21.05.,21:00,Arena 1X2,Fudbal,Utrecht - Heerenveen,HOLANDSKA LIGA
 22.05.,00:00,Arena Premium 3,Fudbal,Deportivo La Guaira - Independiente Rivadavia,COPA LIBERTADORES
-22.05.,02:00,Arena Premium 1,Košarka,"Finale Istočne konferencije, G2",NBA
-22.05.,02:00,Arena Premium 2,Hokej,"Carolina - BUF/MON, G2 TBA",NHL
+22.05.,02:00,Arena Premium 1,Košarka,"New York - Cleveland, G2",NBA
+22.05.,02:00,Arena Premium 2,Hokej,"Carolina - BUF/MON, G1 TBA",NHL
 22.05.,02:30,Arena Premium 3,Fudbal,Penarol - Corinthians,COPA LIBERTADORES
 22.05.,09:00,Arena Premium 2,Košarka,Real Madrid U18 - Insep U18,ANGT
 22.05.,11:15,Arena Premium 2,Košarka,Next Gen Team U18 - Crvena zvezda U18,ANGT
@@ -163,7 +165,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.05.,14:00,Arena Sport 2,Tenis,Polufinale 1,ATP 250 - Geneva
 22.05.,14:30,Arena Sport 1,Tenis,Polufinale 1,WTA 500 - Strasbourg
 22.05.,15:30,Arena Tenis,Tenis,Polufinale 1,ATP 500 - Hamburg
-22.05.,15:45,Arena Premium 4,Košarka,Barcelona U18 - Zalgiris U18,ANGT
+22.05.,15:45,Arena Premium 3,Košarka,Barcelona U18 - Zalgiris U18,ANGT
 22.05.,16:00,Arena Sport 2,Tenis,Polufinale 2,ATP 250 - Geneva
 22.05.,16:20,Arena Premium 5,Hokej,Kanada - Slovenija,SVETSKO PRVENSTVO
 22.05.,16:30,Arena Sport 1,Tenis,Polufinale 2,WTA 500 - Strasbourg
@@ -179,7 +181,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.05.,20:00,Adrenalin,Moto Sport,Kanada: Kvalifikacije,FORMULA 2
 22.05.,20:00,Arena 1X2,Fudbal,"Sudtirol - Bari, G2",ITALIJANSKA 2. LIGA
 22.05.,20:20,Arena Premium 5,Hokej,Švedska - Italija,SVETSKO PRVENSTVO
-22.05.,20:45,Arena Premium 3,Košarka,"Tortona - Venezia, G3",ITALIJANSKA LIGA
+22.05.,20:45,Arena Premium 3,Fudbal,Fiorentina - Atalanta,ITALIJANSKA LIGA
+22.05.,20:45,Arena Premium 4,Košarka,"Tortona - Venezia, G3",ITALIJANSKA LIGA
 22.05.,22:30,Adrenalin,Moto Sport,Kanada: Sprint Kvalifikacije,FORMULA 1
 23.05.,02:00,Arena Premium 1,Hokej,"Colorado Avalanche - Vegas Golden Knights, G2",NHL
 23.05.,08:00,Arena Sport 2,Basket 3x3,"Šangaj, grupna faza",FIBA 3x3 World Tour
@@ -193,24 +196,21 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.05.,14:00,Arena Sport 1,Tenis,Finale,WTA 250 - Rabat
 23.05.,14:00,Arena Sport 3,Tenis,Finale,WTA 500 - Strasbourg
 23.05.,14:30,Arena Tenis,Tenis,Finale,ATP 500 - Hamburg
+23.05.,15:00,Arena Premium 3,Fudbal,"Celtic - Dunfermline, finale",ŠKOTSKI KUP
 23.05.,15:00,Arena Sport 4,Tenis,Finale,ATP 250 - Geneva
 23.05.,15:45,Arena Premium 2,Košarka,Next Gen Team U18 - Barcelona U18,ANGT
 23.05.,16:00,Arena Premium 1,Košarka,"CSKA - Lokomotiv, G5",VTB LIGA
-23.05.,16:00,Arena Premium 4,Fudbal,"Celtic - Dunfermline, finale",ŠKOTSKI KUP
 23.05.,16:00,Arena Sport 5,Hokej,"Lokomotiv - AK Bars, finale G7",KHL
-23.05.,16:20,Arena Premium 5,Hokej,Slovačka - Češka,SVETSKO PRVENSTVO
-23.05.,16:20,Arena Sport 1,Hokej,Švajcarska - Mađarska,SVETSKO PRVENSTVO
+23.05.,16:20,Arena Sport 1,Hokej,Slovačka - Češka,SVETSKO PRVENSTVO
 23.05.,16:45,Adrenalin,Moto Sport,Zandvoort - Trka 1,FORMULA REGIONAL
-23.05.,17:00,Arena Sport 6,Fudbal,Dinamo - Lokomotiva,HRVATSKA LIGA
-23.05.,17:00,Arena Sport 7,Fudbal,Hajduk - Vukovar,HRVATSKA LIGA
 23.05.,17:30,Arena Premium 3,Fudbal,"Hull - Southampton, finale",CHAMPIONSHIP
-23.05.,18:00,Arena Premium 4,Košarka,Play-in 3,FRANCUSKA LIGA
+23.05.,18:00,Arena Premium 4,Fudbal,Bologna - Inter,ITALIJANSKA LIGA
+23.05.,18:00,Arena Premium 5,Košarka,"Play-in 3, proveriti termin",FRANCUSKA LIGA
 23.05.,18:00,Adrenalin,Moto Sport,Kanada: Sprint,FORMULA 1
-23.05.,19:00,Arena Premium 5,Košarka,"Finale, G5",FRANCUSKA LIGA
 23.05.,20:00,Arena Premium 1,Fudbal,"Bayern - Stuttgart, finale",NEMAČKI KUP
 23.05.,20:10,Adrenalin,Moto Sport,Kanada: Sprint Trka,FORMULA 2
-23.05.,20:20,Arena Sport 6,Hokej,Norveška - Švedska,SVETSKO PRVENSTVO
-23.05.,20:20,Arena Sport 7,Hokej,Austria - Nemačka,SVETSKO PRVENSTVO
+23.05.,20:20,Arena Sport 7,Hokej,Norveška - Švedska,SVETSKO PRVENSTVO
+23.05.,20:45,Arena Sport 6,Fudbal,Lazio - Pisa,ITALIJANSKA LIGA
 23.05.,21:00,Arena Premium 2,Fudbal,Valencia - Barcelona,ŠPANSKA LIGA
 23.05.,21:00,Arena Premium 3,Fudbal,Real Madrid - Athletic,ŠPANSKA LIGA
 23.05.,21:00,Arena Premium 4,Fudbal,Celta - Sevilla,ŠPANSKA LIGA
@@ -220,4 +220,5 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.05.,21:00,Arena Sport 3,Fudbal,Getafe - Osasuna,ŠPANSKA LIGA
 23.05.,21:00,Arena Sport 4,Fudbal,Alaves - Rayo Vallecano,ŠPANSKA LIGA
 23.05.,21:00,Arena Sport 5,Fudbal,Mallorca - Oviedo,ŠPANSKA LIGA
+23.05.,21:00,Arena 1X2,Fudbal,MULTIPRENOS,ŠPANSKA LIGA
 23.05.,22:00,Adrenalin,Moto Sport,Kanada: Kvalifikacije,FORMULA 1
