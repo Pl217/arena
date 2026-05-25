@@ -47,12 +47,11 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 25.05.,02:00,Arena Premium 1,Hokej,"Vegas Golden Knights - Colorado Avalanche, G3",NHL
 25.05.,16:00,Arena Premium 2,Fudbal,"Notts County - Salford City, finale",LEAGUE TWO
 25.05.,16:20,Arena Premium 3,Hokej,Češka - Norveška,SVETSKO PRVENSTVO
-25.05.,16:30,Arena Premium 4,Košarka,"Ulm - Bamberg, G4",NEMAČKA LIGA
 25.05.,17:00,Arena Sport 1,Fudbal,Rapid - Ried,AUSTRIJSKA LIGA
-25.05.,18:30,Arena Premium 5,Košarka,"Zenit - UNICS, G6",VTB LIGA
-25.05.,18:30,Arena Sport 2,Košarka,"Trier - Bayern, G4",NEMAČKA LIGA
 25.05.,19:00,Arena Premium 1,Košarka,"Budućnost - Dubai, G2",ABA LIGA
 25.05.,19:00,Arena Premium 4,Košarka,"Nanterre - Le Mans, G1",FRANCUSKA LIGA
+25.05.,19:00,Arena Premium 5,Košarka,"Zenit - UNICS, G6",VTB LIGA
+25.05.,20:00,Arena Sport 1,Košarka,"Brescia - Trieste, G5",ITALIJANSKA LIGA
 25.05.,20:20,Arena Sport 3,Hokej,Slovenija - Italija,SVETSKO PRVENSTVO
 25.05.,20:30,Arena Premium 2,Fudbal,"Paderborn - Wolfsburg, G2",NEMAČKA LIGA
 25.05.,21:00,Arena Premium 4,Košarka,"Monaco - Bourg, G1",FRANCUSKA LIGA
@@ -62,22 +61,21 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.05.,12:20,Arena Premium 2,Hokej,Norveška - Danska,SVETSKO PRVENSTVO
 26.05.,16:20,Arena Premium 2,Hokej,SAD - Austrija,SVETSKO PRVENSTVO
 26.05.,17:00,Arena Premium 1,Košarka,"Bahcesehir - Trabzonspor, G1",TURSKA LIGA
-26.05.,19:00,Arena Premium 2,Košarka,"Lokomotiv - CSKA, G6",VTB LIGA
 26.05.,19:00,Arena Premium 4,Košarka,"Asvel - Cholet, G1",FRANCUSKA LIGA
 26.05.,19:30,Arena Premium 1,Košarka,"Besiktas - Galatasaray, G1",TURSKA LIGA
 26.05.,20:00,Arena Premium 3,Košarka,Joventut - Unicaja,ŠPANSKA LIGA
-26.05.,20:20,Arena Sport 1,Hokej,Češka - Kanada,SVETSKO PRVENSTVO
+26.05.,20:00,Arena Sport 1,Košarka,"Virtus Bologna - Trentino, G5",ITALIJANSKA LIGA
+26.05.,20:00,Arena Sport 2,Košarka,"Venezia - Tortona, G5",ITALIJANSKA LIGA
+26.05.,20:20,Arena Sport 3,Hokej,Češka - Kanada,SVETSKO PRVENSTVO
 26.05.,20:45,Arena Premium 5,Fudbal,Saint-Etienne - Nice,FRANCUSKA LIGA
-26.05.,21:00,Arena Premium 4,Košarka,"Četvrtfinale, G1",FRANCUSKA LIGA
+26.05.,21:00,Arena Premium 4,Košarka,"Paris - Strasbourg, G1",FRANCUSKA LIGA
 26.05.,21:15,Arena Premium 2,Košarka,Zaragoza - Valencia,ŠPANSKA LIGA
 27.05.,00:00,Arena Premium 2,Fudbal,Lanus - Mirassol,COPA LIBERTADORES
 27.05.,02:30,Arena Premium 2,Fudbal,Flamengo - Cusco,COPA LIBERTADORES
 27.05.,03:00,Arena Premium 1,Hokej,"Vegas Golden Knights - Colorado Avalanche, G4",NHL
 27.05.,10:00,Arena Premium 1,Mali fudbal,Četvrtfinala - revanš utakmice,ARENINA LIGA ŠAMPIONA
 27.05.,17:00,Arena Premium 2,Košarka,"Efes - Turk Telekom, G1",TURSKA LIGA
-27.05.,18:30,Arena Premium 5,Košarka,"Bamberg - Ulm, G5",NEMAČKA LIGA
-27.05.,18:30,Arena Sport 1,Košarka,"Alba - Vechta, G5",NEMAČKA LIGA
-27.05.,18:30,Arena Sport 2,Košarka,"Bayern - Trier, G5",NEMAČKA LIGA
+27.05.,18:30,Arena Premium 5,Košarka,"Alba - Vechta, G5",NEMAČKA LIGA
 27.05.,19:00,Arena Premium 2,Košarka,"Le Mans - Nanterre, G2",FRANCUSKA LIGA
 27.05.,19:00,Arena Sport 3,Bejzbol,Miami Marlins - Toronto Blue Jays,Major League Baseball
 27.05.,19:30,Arena Premium 3,Košarka,"Fenerbahce - Erokspor, G1",TURSKA LIGA
@@ -92,21 +90,21 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.05.,16:20,Arena Sport 1,Hokej,QF1,SVETSKO PRVENSTVO
 28.05.,16:20,Arena Sport 2,Hokej,QF2,SVETSKO PRVENSTVO
 28.05.,17:00,Arena Premium 2,Košarka,"Panathinaikos - PAOK, PF1 G1",GRČKA LIGA
-28.05.,17:00,Arena Premium 4,Košarka,Olympiacos - AEK/Aris PF2 G1,GRČKA LIGA
-28.05.,17:00,Arena Premium 5,Košarka,"Trabzonspor - Bahcesehir, G2",TURSKA LIGA
-28.05.,18:00,Arena Premium 1,Košarka,"UNICS - Zenit, G7",VTB LIGA
+28.05.,17:00,Arena Premium 4,Košarka,"Trabzonspor - Bahcesehir, G2",TURSKA LIGA
+28.05.,18:00,Arena Premium 1,Košarka,"UNICS - Zenit, G7*",VTB LIGA
 28.05.,19:00,Arena Premium 3,Rukomet,"Crvena zvezda - Naisa, finale G3",SUPERLIGA SRBIJE Ž
-28.05.,19:00,Arena Premium 4,Košarka,"Cholet - Asvel, G2",FRANCUSKA LIGA
-28.05.,19:00,Arena Sport 4,Bejzbol,Los Angeles Angels - Detroit Tigers,Major League Baseball
+28.05.,19:00,Arena Sport 4,Košarka,"Cholet - Asvel, G2",FRANCUSKA LIGA
 28.05.,19:00,Arena Sport 10,Rukomet,"Crvena zvezda - Naisa, finale G3",SUPERLIGA SRBIJE Ž
-28.05.,19:30,Arena Premium 2,Košarka,"Galatasaray - Besiktas, G2",TURSKA LIGA
+28.05.,19:10,Arena Sport 5,Bejzbol,Los Angeles Angels - Detroit Tigers,Major League Baseball
+28.05.,19:15,Arena Premium 2,Košarka,Olympiacos - AEK/Aris PF2 G1,GRČKA LIGA
+28.05.,19:30,Arena Premium 4,Košarka,"Galatasaray - Besiktas, G2",TURSKA LIGA
 28.05.,20:00,Arena Premium 1,Košarka,"Dubai - Budućnost, G3",ABA LIGA
 28.05.,20:00,Arena Premium 5,Pikado,Play-Offs London,Premier League
 28.05.,20:20,Arena Sport 1,Hokej,QF3,SVETSKO PRVENSTVO
 28.05.,20:20,Arena Sport 2,Hokej,QF4,SVETSKO PRVENSTVO
 28.05.,20:45,Arena Sport 3,Fudbal,Irska - Katar,PRIJATELJSKE UTAKMICE
 28.05.,21:00,Arena Premium 3,Košarka,"Četvrtfinale, G2",FRANCUSKA LIGA
-28.05.,21:00,Arena Premium 4,Fudbal,Casa Pia - Torreense,PORTUGALSKA LIGA
+28.05.,21:00,Arena Sport 4,Fudbal,Casa Pia - Torreense,PORTUGALSKA LIGA
 29.05.,00:00,Arena Premium 2,Fudbal,Palmeiras - Junior,COPA LIBERTADORES
 29.05.,02:00,Arena Premium 1,Hokej,"Colorado Avalanche - Vegas Golden Knights, G5",NHL
 29.05.,02:30,Arena Premium 2,Fudbal,Boca Juniors - Universidad Catolica,COPA LIBERTADORES
@@ -120,7 +118,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.05.,16:00,Arena Sport 10,Košarka,Polufinale 1,KLS
 29.05.,17:00,Arena Premium 3,Košarka,"Turk Telekom - Efes, G2",TURSKA LIGA
 29.05.,18:00,Arena Premium 5,Atletika,8th Irena Szewinska Memorial,World Athletics Continental Tour
-29.05.,18:30,Arena Premium 2,Košarka,"CSKA - Lokomotiv, G7",VTB LIGA
 29.05.,19:00,Arena Premium 3,Košarka,"Četvrtfinale, G3",FRANCUSKA LIGA
 29.05.,19:30,Arena Premium 4,Košarka,"Erokspor - Fenerbahce, G2",TURSKA LIGA
 29.05.,20:00,Arena Premium 1,Košarka,Polufinale 2,KLS
