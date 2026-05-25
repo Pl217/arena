@@ -74,7 +74,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "20:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -162,7 +162,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "15:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -556,7 +556,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "16:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -570,7 +570,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "20:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -595,14 +595,14 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "06:00",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "08:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -729,7 +729,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "23:30",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -754,7 +754,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "06:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -824,7 +824,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "23:45",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -856,7 +856,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "08:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -958,7 +958,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "11:30",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -1060,7 +1060,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "14:30",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -1149,24 +1149,31 @@
           },
           {
             "content": "UNICS - Zenit, G7*",
-            "time": "12:30",
+            "time": "12:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "New York - Cleveland, G5*",
-            "time": "14:30",
+            "time": "14:00",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Galatasaray - Besiktas, G2",
-            "time": "16:30",
+            "time": "16:00",
             "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
+          },
+          {
+            "content": "Manresa - Real Madrid",
+            "time": "18:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
           },
           {
             "content": "Nice - Saint-Etienne",
@@ -1229,14 +1236,14 @@
             "description": "snimak"
           },
           {
-            "content": "Montpellier - Kiel, polufinale 2",
+            "content": "Montpellier - Kiel, polufinale 1",
             "time": "12:30",
             "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",
             "description": "uzivo"
           },
           {
-            "content": "Melsungen - Flensburg, polufinale 1",
+            "content": "Melsungen - Flensburg, polufinale 2",
             "time": "15:30",
             "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",
@@ -1736,14 +1743,7 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Naisa, finale G3",
-            "time": "19:00",
-            "category": "SUPERLIGA SRBIJE Ž",
-            "sport": "Rukomet",
-            "description": "uzivo"
-          },
-          {
-            "content": "Četvrtfinale, G2",
+            "content": "Strasbourg - Paris, G2",
             "time": "21:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
@@ -1871,7 +1871,7 @@
           },
           {
             "content": "AEK/Aris - Olympiacos, PF2 G2",
-            "time": "17:00",
+            "time": "16:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
@@ -2423,7 +2423,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "23:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -2434,7 +2434,7 @@
       "2026-05-30": {
         "emisije": [
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "01:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -2462,14 +2462,14 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "11:00",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "13:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -3019,18 +3019,18 @@
             "description": "snimak"
           },
           {
-            "content": "Bayern - Stuttgart, finale",
-            "time": "14:30",
-            "category": "NEMAČKI KUP",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "PAOK - Panathinaikos, PF1 G2",
-            "time": "17:00",
+            "time": "14:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
+          },
+          {
+            "content": "Bayern - Stuttgart, finale",
+            "time": "16:00",
+            "category": "NEMAČKI KUP",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Hull - Middlesbrough, finale",
@@ -5061,13 +5061,6 @@
             "description": "snimak"
           },
           {
-            "content": "Austrian Alpine Open, dan 3",
-            "time": "13:00",
-            "category": "DP WORLD TOUR",
-            "sport": "Golf",
-            "description": "uzivo"
-          },
-          {
             "content": "Pregled 38. kola",
             "time": "17:30",
             "category": "ŠPANSKA LIGA",
@@ -6660,7 +6653,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "17:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -6713,7 +6706,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "08:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -6787,7 +6780,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "06:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -6882,16 +6875,16 @@
             "description": "snimak"
           },
           {
-            "content": "Real Madrid - Baskonia",
+            "content": "Galatasaray - Besiktas, G2",
             "time": "12:00",
-            "category": "ŠPANSKA LIGA",
+            "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "Galatasaray - Besiktas, G2",
+            "content": "Real Madrid - Baskonia",
             "time": "14:00",
-            "category": "TURSKA LIGA",
+            "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -6903,7 +6896,7 @@
             "description": "snimak"
           },
           {
-            "content": "Final 4: Finale",
+            "content": "Real Madrid - Olympiacos, finale",
             "time": "19:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
@@ -6956,7 +6949,7 @@
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinale, G2",
+            "content": "Strasbourg - Paris, G2",
             "time": "10:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
@@ -6977,14 +6970,14 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "17:00",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "19:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -7453,9 +7446,9 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Naisa, finale G3",
+            "content": "RNL - Magdeburg",
             "time": "08:00",
-            "category": "SUPERLIGA SRBIJE Ž",
+            "category": "BUNDESLIGA",
             "sport": "Rukomet",
             "description": "snimak"
           },
@@ -7555,11 +7548,11 @@
             "description": "snimak"
           },
           {
-            "content": "QF3",
+            "content": "Spa-Francorchamps - Trka 1",
             "time": "10:00",
-            "category": "SVETSKO PRVENSTVO",
-            "sport": "Hokej",
-            "description": "snimak"
+            "category": "FORMULA REGIONAL",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           },
           {
             "content": "QF4",
@@ -7567,6 +7560,13 @@
             "category": "SVETSKO PRVENSTVO",
             "sport": "Hokej",
             "description": "snimak"
+          },
+          {
+            "content": "Spa-Francorchamps - Trka 2",
+            "time": "14:10",
+            "category": "FORMULA REGIONAL",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           }
         ]
       }
@@ -8098,9 +8098,9 @@
             "description": "snimak"
           },
           {
-            "content": "Spa - Trka 2",
-            "time": "14:20",
-            "category": "FORMULA REGIONAL",
+            "content": "Španija, Trka 1",
+            "time": "14:00",
+            "category": "SUPERBIKE WORLD CHAMPIONSHIP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
@@ -8746,32 +8746,18 @@
             "description": "snimak"
           },
           {
-            "content": "Spa - Trka 1",
-            "time": "10:05",
-            "category": "FORMULA REGIONAL",
-            "sport": "Moto Sport",
-            "description": "uzivo"
-          },
-          {
             "content": "Vegas Golden Knights - Colorado Avalanche, G4",
-            "time": "11:30",
+            "time": "10:00",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
           },
           {
-            "content": "Španija, Trka 1",
-            "time": "14:00",
-            "category": "SUPERBIKE WORLD CHAMPIONSHIP",
-            "sport": "Moto Sport",
+            "content": "Austrian Alpine Open, dan 3",
+            "time": "13:00",
+            "category": "DP WORLD TOUR",
+            "sport": "Golf",
             "description": "uzivo"
-          },
-          {
-            "content": "Cleveland - New York, G6*",
-            "time": "15:30",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
           },
           {
             "content": "San Antonio - Oklahoma, G6*",
@@ -9523,11 +9509,11 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Naisa, finale G3",
+            "content": "Spartak - Borac, G1",
             "time": "19:00",
-            "category": "SUPERLIGA SRBIJE Ž",
-            "sport": "Rukomet",
-            "description": "uzivo"
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
           }
         ]
       },
@@ -9562,7 +9548,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "16:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -9576,7 +9562,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Crvena zvezda - Spartak, polufinale 2",
             "time": "20:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -9587,7 +9573,7 @@
       "2026-05-30": {
         "emisije": [
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "02:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -9601,7 +9587,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Partizan - FMP, polufinale 1",
             "time": "20:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -10308,13 +10294,6 @@
             "description": "snimak"
           },
           {
-            "content": "Red Bull: Ride United",
-            "time": "12:00",
-            "category": "",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Italija: Trening",
             "time": "13:15",
             "category": "MOTO 3",
@@ -10495,14 +10474,21 @@
           },
           {
             "content": "Kanada: Trka",
-            "time": "17:00",
+            "time": "16:00",
+            "category": "FORMULA 2",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Kanada: Trka",
+            "time": "17:30",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Daytona 500",
-            "time": "21:30",
+            "time": "20:45",
             "category": "NASCAR CUP SERIES",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -10541,7 +10527,7 @@
             "description": "snimak"
           },
           {
-            "content": "Montpellier - Kiel, polufinale 2",
+            "content": "Montpellier - Kiel, polufinale 1",
             "time": "23:00",
             "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",

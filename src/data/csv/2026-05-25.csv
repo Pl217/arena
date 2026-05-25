@@ -31,7 +31,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.05.,18:30,Arena Sport 6,Fudbal,Malaga - Racing,ŠPANSKA 2. LIGA
 24.05.,19:00,Arena Premium 1,Fudbal,Najava 38. kola,ENGLESKA LIGA
 24.05.,19:00,Arena Sport 5,Rukomet,"Guardes - Mihalovce, finale G2",EHF EUROCUP (Ž)
-24.05.,20:00,Arena Premium 1,Košarka,Final 4: Finale,EVROLIGA
+24.05.,20:00,Arena Premium 1,Košarka,"Real Madrid - Olympiacos, finale",EVROLIGA
 24.05.,20:00,Arena Sport 8,Fudbal,"Catanzaro - Monza, finale G1",ITALIJANSKA 2. LIGA
 24.05.,20:00,Arena Sport 10,Rukomet,"Naisa - Crvena zvezda, finale G2",SUPERLIGA SRBIJE Ž
 24.05.,20:30,Arena Premium 3,Fudbal,"River Plate - Belgrano, finale",ARGENTINSKA LIGA
@@ -92,9 +92,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.05.,17:00,Arena Premium 2,Košarka,"Panathinaikos - PAOK, PF1 G1",GRČKA LIGA
 28.05.,17:00,Arena Premium 4,Košarka,"Trabzonspor - Bahcesehir, G2",TURSKA LIGA
 28.05.,18:00,Arena Premium 1,Košarka,"UNICS - Zenit, G7*",VTB LIGA
-28.05.,19:00,Arena Premium 3,Rukomet,"Crvena zvezda - Naisa, finale G3",SUPERLIGA SRBIJE Ž
 28.05.,19:00,Arena Sport 4,Košarka,"Cholet - Asvel, G2",FRANCUSKA LIGA
-28.05.,19:00,Arena Sport 10,Rukomet,"Crvena zvezda - Naisa, finale G3",SUPERLIGA SRBIJE Ž
 28.05.,19:10,Arena Sport 5,Bejzbol,Los Angeles Angels - Detroit Tigers,Major League Baseball
 28.05.,19:15,Arena Premium 2,Košarka,Olympiacos - AEK/Aris PF2 G1,GRČKA LIGA
 28.05.,19:30,Arena Premium 4,Košarka,"Galatasaray - Besiktas, G2",TURSKA LIGA
@@ -103,7 +101,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.05.,20:20,Arena Sport 1,Hokej,QF3,SVETSKO PRVENSTVO
 28.05.,20:20,Arena Sport 2,Hokej,QF4,SVETSKO PRVENSTVO
 28.05.,20:45,Arena Sport 3,Fudbal,Irska - Katar,PRIJATELJSKE UTAKMICE
-28.05.,21:00,Arena Premium 3,Košarka,"Četvrtfinale, G2",FRANCUSKA LIGA
+28.05.,21:00,Arena Premium 3,Košarka,"Strasbourg - Paris, G2",FRANCUSKA LIGA
 28.05.,21:00,Arena Sport 4,Fudbal,Casa Pia - Torreense,PORTUGALSKA LIGA
 29.05.,00:00,Arena Premium 2,Fudbal,Palmeiras - Junior,COPA LIBERTADORES
 29.05.,02:00,Arena Premium 1,Hokej,"Colorado Avalanche - Vegas Golden Knights, G5",NHL
@@ -114,16 +112,17 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.05.,13:15,Adrenalin,Moto Sport,Italija: Trening,MOTO 3
 29.05.,14:05,Adrenalin,Moto Sport,Italija: Trening,MOTO 2
 29.05.,15:00,Adrenalin,Moto Sport,Italija: Trening,MOTO GP
-29.05.,16:00,Arena Premium 1,Košarka,Polufinale 1,KLS
-29.05.,16:00,Arena Sport 10,Košarka,Polufinale 1,KLS
+29.05.,16:00,Arena Premium 1,Košarka,"Partizan - FMP, polufinale 1",KLS
+29.05.,16:00,Arena Sport 10,Košarka,"Partizan - FMP, polufinale 1",KLS
 29.05.,17:00,Arena Premium 3,Košarka,"Turk Telekom - Efes, G2",TURSKA LIGA
+29.05.,18:00,Arena Premium 2,Košarka,Manresa - Real Madrid,ŠPANSKA LIGA
 29.05.,18:00,Arena Premium 5,Atletika,8th Irena Szewinska Memorial,World Athletics Continental Tour
 29.05.,19:00,Arena Premium 3,Košarka,"Četvrtfinale, G3",FRANCUSKA LIGA
 29.05.,19:30,Arena Premium 4,Košarka,"Erokspor - Fenerbahce, G2",TURSKA LIGA
-29.05.,20:00,Arena Premium 1,Košarka,Polufinale 2,KLS
+29.05.,20:00,Arena Premium 1,Košarka,"Crvena zvezda - Spartak, polufinale 2",KLS
 29.05.,20:00,Arena Sport 1,Fudbal,"Monza - Catanzaro, finale G2",ITALIJANSKA 2. LIGA
 29.05.,20:00,Arena Sport 2,Rukomet,Eisenach - Fuchse Berlin,BUNDESLIGA
-29.05.,20:00,Arena Sport 10,Košarka,Polufinale 2,KLS
+29.05.,20:00,Arena Sport 10,Košarka,"Crvena zvezda - Spartak, polufinale 2",KLS
 29.05.,20:30,Arena Premium 5,Fudbal,BiH - Sev. Makedonija,PRIJATELJSKE UTAKMICE
 29.05.,20:45,Arena Premium 2,Fudbal,Nice - Saint-Etienne,FRANCUSKA LIGA
 29.05.,21:00,Arena Premium 3,Košarka,"Četvrtfinale, G3",FRANCUSKA LIGA
@@ -135,28 +134,28 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.05.,09:25,Adrenalin,Moto Sport,Italija: Slobodan Trening 2,MOTO 2
 30.05.,10:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 30.05.,10:00,Arena Tenis,Tenis,Girls Semifinal 1,ITF - Kuršumlijska banja
-30.05.,10:05,Arena Sport 8,Moto Sport,Spa - Trka 1,FORMULA REGIONAL
+30.05.,10:00,Arena Sport 6,Moto Sport,Spa-Francorchamps - Trka 1,FORMULA REGIONAL
 30.05.,10:10,Adrenalin,Moto Sport,Italija: Slobodan Trening 2,MOTO GP
 30.05.,10:50,Adrenalin,Moto Sport,Italija: Kvalifikacije 1,MOTO GP
 30.05.,11:15,Adrenalin,Moto Sport,Italija: Kvalifikacije 2,MOTO GP
 30.05.,12:00,Arena Tenis,Tenis,Girls Semifinal 2,ITF - Kuršumlijska banja
-30.05.,12:30,Arena Premium 2,Rukomet,"Montpellier - Kiel, polufinale 2",EHF LIGA EVROPE
+30.05.,12:30,Arena Premium 2,Rukomet,"Montpellier - Kiel, polufinale 1",EHF LIGA EVROPE
 30.05.,12:45,Adrenalin,Moto Sport,Italija: Kvalifikacije 1,MOTO 3
-30.05.,13:00,Arena Sport 2,Golf,"Austrian Alpine Open, dan 3",DP WORLD TOUR
+30.05.,13:00,Arena Sport 8,Golf,"Austrian Alpine Open, dan 3",DP WORLD TOUR
 30.05.,13:10,Adrenalin,Moto Sport,Italija: Kvalifikacije 2,MOTO 3
 30.05.,13:40,Adrenalin,Moto Sport,Italija: Kvalifikacije 1,MOTO 2
 30.05.,14:00,Arena Premium 3,Fudbal,Škotska - Kurasao,PRIJATELJSKE UTAKMICE
+30.05.,14:00,Arena Premium 5,Košarka,"PAOK - Panathinaikos, PF1 G2",GRČKA LIGA
 30.05.,14:00,Arena Tenis,Tenis,Boys Semifinal 1,ITF - Kuršumlijska banja
-30.05.,14:00,Arena Sport 8,Moto Sport,"Španija, Trka 1",SUPERBIKE WORLD CHAMPIONSHIP
+30.05.,14:00,Arena Sport 7,Moto Sport,"Španija, Trka 1",SUPERBIKE WORLD CHAMPIONSHIP
 30.05.,14:05,Adrenalin,Moto Sport,Italija: Kvalifikacije 2,MOTO 2
-30.05.,14:20,Arena Sport 7,Moto Sport,Spa - Trka 2,FORMULA REGIONAL
+30.05.,14:10,Arena Sport 6,Moto Sport,Spa-Francorchamps - Trka 2,FORMULA REGIONAL
 30.05.,15:00,Adrenalin,Moto Sport,Italija: Sprint,MOTO GP
 30.05.,15:20,Arena Premium 4,Hokej,SF1,SVETSKO PRVENSTVO
-30.05.,15:30,Arena Premium 2,Rukomet,"Melsungen - Flensburg, polufinale 1",EHF LIGA EVROPE
+30.05.,15:30,Arena Premium 2,Rukomet,"Melsungen - Flensburg, polufinale 2",EHF LIGA EVROPE
+30.05.,16:00,Arena Premium 3,Košarka,"AEK/Aris - Olympiacos, PF2 G2",GRČKA LIGA
 30.05.,16:00,Arena Tenis,Tenis,Boys Semifinal 2,ITF - Kuršumlijska banja
 30.05.,16:00,Arena Sport 1,Basket 3x3,Niš: Memorijal Ivan Ica Jovanović,BG League
-30.05.,17:00,Arena Premium 3,Košarka,"AEK/Aris - Olympiacos, PF2 G2",GRČKA LIGA
-30.05.,17:00,Arena Premium 5,Košarka,"PAOK - Panathinaikos, PF1 G2",GRČKA LIGA
 30.05.,18:00,Arena Premium 1,Fudbal,PSG - Arsenal,UEFA LIGA ŠAMPIONA
 30.05.,18:00,Arena Sport 3,Košarka,"SF2, G1",NEMAČKA LIGA
 30.05.,18:30,Arena Premium 2,Košarka,"SF1, G1",NEMAČKA LIGA
