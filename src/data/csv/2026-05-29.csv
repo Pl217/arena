@@ -43,8 +43,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.05.,03:30,Adrenalin,Moto Sport,Japan - Live Stage 1,WRC
 30.05.,06:00,Adrenalin,Moto Sport,Japan - Live Stage 2,WRC
 30.05.,08:40,Adrenalin,Moto Sport,Italija: Slobodan Trening 2,MOTO 3
+30.05.,09:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 30.05.,09:25,Adrenalin,Moto Sport,Italija: Slobodan Trening 2,MOTO 2
-30.05.,10:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 30.05.,10:00,Arena Tenis,Tenis,Girls Semifinal 1,ITF - Kuršumlijska banja
 30.05.,10:00,Arena Sport 6,Moto Sport,Spa-Francorchamps - Trka 1,FORMULA REGIONAL
 30.05.,10:10,Adrenalin,Moto Sport,Italija: Slobodan Trening 2,MOTO GP
@@ -64,22 +64,22 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.05.,14:10,Arena Sport 6,Moto Sport,Spa-Francorchamps - Trka 2,FORMULA REGIONAL
 30.05.,14:30,Arena Premium 5,Košarka,"Bayern - Bonn, polufinale G1",NEMAČKA LIGA
 30.05.,15:00,Adrenalin,Moto Sport,Italija: Sprint,MOTO GP
-30.05.,15:20,Arena Premium 4,Hokej,SF1,SVETSKO PRVENSTVO
+30.05.,15:20,Arena Premium 4,Hokej,"Švajcarska - Norveška, polufinale 1",SVETSKO PRVENSTVO
 30.05.,15:30,Arena Premium 2,Rukomet,"Melsungen - Flensburg, polufinale 2",EHF LIGA EVROPE
-30.05.,16:00,Arena Premium 3,Košarka,"AEK - Olympiacos, PF2 G2",GRČKA LIGA
+30.05.,15:30,Arena Sport 2,Košarka,"Paris - Strasbourg, G3",FRANCUSKA LIGA
 30.05.,16:00,Arena Tenis,Tenis,Boys Semifinal 2,ITF - Kuršumlijska banja
 30.05.,16:00,Arena Sport 1,Basket 3x3,Niš: Memorijal Ivan Ica Jovanović,BG League
+30.05.,16:15,Arena Premium 3,Košarka,"AEK - Olympiacos, PF2 G2",GRČKA LIGA
 30.05.,16:30,Arena Premium 5,Košarka,"Alba - Bamberg, polufinale G1",NEMAČKA LIGA
 30.05.,18:00,Arena Premium 1,Fudbal,PSG - Arsenal,UEFA LIGA ŠAMPIONA
-30.05.,19:00,Arena Premium 3,Košarka,"Četvrtfinale, G3",FRANCUSKA LIGA
 30.05.,20:00,Arena Premium 2,Košarka,"Virtus Bologna - Venezia , polufinale G1",ITALIJANSKA LIGA
-30.05.,20:00,Arena Premium 4,Hokej,SF2,SVETSKO PRVENSTVO
-30.05.,21:00,Arena Premium 3,Košarka,"Četvrtfinale, G3",FRANCUSKA LIGA
+30.05.,20:00,Arena Premium 4,Hokej,"Kanada - Finska, polufinale 2",SVETSKO PRVENSTVO
+30.05.,21:00,Arena Premium 3,Košarka,"Asvel - Cholet, G3",FRANCUSKA LIGA
 30.05.,21:30,Arena Premium 5,Jedrenje,"Njujork, dan 1",SailGP
 30.05.,22:30,Arena Premium 1,Fudbal,Gremio - Corinthians,BRAZILSKA LIGA
 31.05.,02:00,Adrenalin,Moto Sport,Japan - Live Stage 3,WRC
 31.05.,07:00,Adrenalin,Moto Sport,Japan - Live Stage 4,WRC
-31.05.,10:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
+31.05.,09:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 31.05.,10:00,Arena Tenis,Tenis,Girls Final,ITF - Kuršumlijska banja
 31.05.,11:00,Adrenalin,Moto Sport,Italija: Trka,MOTO 3
 31.05.,11:10,Arena Sport 7,Moto Sport,"Španija, Superpole Race",SUPERBIKE WORLD CHAMPIONSHIP
@@ -104,6 +104,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 31.05.,20:00,Arena Premium 1,Košarka,Finale,KLS
 31.05.,20:00,Arena Premium 2,Košarka,"Brescia - Milano, polufinale G2",ITALIJANSKA LIGA
 31.05.,20:00,Arena Sport 1,Atletika,Rabat,DIJAMANTSKA LIGA
+31.05.,20:00,Arena Sport 4,Rukomet,"Ohrid - Tatabanya, finale G2",EHF: European Cup (M)
 31.05.,20:00,Arena Sport 10,Košarka,Finale,KLS
 31.05.,20:20,Arena Premium 5,Hokej,FINALE,SVETSKO PRVENSTVO
 31.05.,20:45,Arena Premium 3,Fudbal,Nemačka - Finska,PRIJATELJSKE UTAKMICE
@@ -112,39 +113,66 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 01.06.,01:00,Adrenalin,Moto Sport,Nashville,NASCAR CUP SERIES
 01.06.,01:30,Arena Premium 2,Fudbal,Cruzeiro - Fluminense,BRAZILSKA LIGA
 01.06.,02:00,Arena Premium 1,Hokej,"Montreal Canadiens - Carolina Hurricanes, G6* TBD",NHL
-01.06.,12:30,Arena Premium 5,Basket 3x3,Dan 1,FIBA 3X3 World Cup
+01.06.,13:20,Arena Premium 5,Basket 3x3,Kina - Japan,FIBA 3X3 World Cup
+01.06.,13:45,Arena Premium 5,Basket 3x3,Novi Zeland - Holandija,FIBA 3X3 World Cup
+01.06.,15:10,Arena Premium 5,Basket 3x3,Japan - Nemačka,FIBA 3X3 World Cup
+01.06.,15:35,Arena Premium 5,Basket 3x3,Kina - Holandija,FIBA 3X3 World Cup
 01.06.,17:00,Arena Premium 2,Košarka,"Panathinaikos - PAOK, PF1 G3*",GRČKA LIGA
-01.06.,18:00,Arena Premium 4,Košarka,"TBD - Lokomotiv, G1",VTB LIGA
+01.06.,17:30,Arena Premium 5,Basket 3x3,Nemačka - Novi Zeland,FIBA 3X3 World Cup
+01.06.,17:55,Arena Premium 5,Basket 3x3,Austrija - Madagaskar,FIBA 3X3 World Cup
 01.06.,18:00,Arena Sport 2,Fudbal,Bugarska - Crna Gora (termin tbc),PRIJATELJSKE UTAKMICE
 01.06.,18:30,Arena Premium 3,Košarka,"Alba - Bamberg, polufinale G2",NEMAČKA LIGA
+01.06.,18:30,Arena Sport 1,Košarka,"Zenit - Lokomotiv, G1",VTB LIGA
 01.06.,19:00,Arena Premium 1,Fudbal,Norveška - Švedska,PRIJATELJSKE UTAKMICE
-01.06.,19:00,Arena Sport 1,Košarka,"Polufinale, G1",FRANCUSKA LIGA
 01.06.,19:15,Arena Premium 2,Košarka,"Olympiacos - AEK, PF2 G3*",GRČKA LIGA
+01.06.,19:20,Arena Premium 5,Basket 3x3,Španija - Australija,FIBA 3X3 World Cup
 01.06.,19:30,Arena Sport 3,Fudbal,Turska - Sev. Makedonija (termin tbc),PRIJATELJSKE UTAKMICE
+01.06.,19:45,Arena Premium 5,Basket 3x3,Madagaskar - Srbija,FIBA 3X3 World Cup
 01.06.,20:00,Arena Premium 4,Košarka,"Virtus Bologna - Venezia , polufinale G2",ITALIJANSKA LIGA
+01.06.,20:00,Arena Sport 4,Košarka,"Monaco - Nanterre, polufinale G1",FRANCUSKA LIGA
 01.06.,20:30,Arena Premium 3,Košarka,"Bayern - Bonn, polufinale G2",NEMAČKA LIGA
 01.06.,20:45,Arena Sport 2,Fudbal,Austrija - Tunis,PRIJATELJSKE UTAKMICE
+01.06.,21:10,Arena Premium 5,Basket 3x3,Australija - Austrija,FIBA 3X3 World Cup
+01.06.,21:35,Arena Premium 5,Basket 3x3,Španija - Srbija,FIBA 3X3 World Cup
 02.06.,10:00,Arena Premium 1,Mali fudbal,Polufinala,ARENINA LIGA ŠAMPIONA
-02.06.,12:30,Arena Premium 5,Basket 3x3,Dan 2,FIBA 3X3 World Cup
+02.06.,13:20,Arena Premium 5,Basket 3x3,Belgija - Litvanija,FIBA 3X3 World Cup
+02.06.,13:45,Arena Premium 5,Basket 3x3,Puerto Rico - Brazil,FIBA 3X3 World Cup
+02.06.,15:10,Arena Premium 5,Basket 3x3,Francuska - Belgija,FIBA 3X3 World Cup
+02.06.,15:35,Arena Premium 5,Basket 3x3,Brazil - Litvanija,FIBA 3X3 World Cup
+02.06.,17:30,Arena Premium 5,Basket 3x3,Puerto Rico - Francuska,FIBA 3X3 World Cup
+02.06.,17:55,Arena Premium 5,Basket 3x3,Češka - Mongolija,FIBA 3X3 World Cup
 02.06.,18:00,Arena Sport 1,Fudbal,Hrvatska - Belgija,PRIJATELJSKE UTAKMICE
-02.06.,18:30,Arena Premium 1,Košarka,"CSKA - TBD, finale G1",VTB LIGA
+02.06.,18:30,Arena Premium 1,Košarka,"CSKA - UNICS, finale G1",VTB LIGA
 02.06.,19:00,Arena Premium 2,Košarka,"Polufinale, G1",FRANCUSKA LIGA
+02.06.,19:20,Arena Premium 5,Basket 3x3,SAD - Letonija,FIBA 3X3 World Cup
+02.06.,19:45,Arena Premium 5,Basket 3x3,Mongolija - Poljska,FIBA 3X3 World Cup
 02.06.,20:45,Arena Premium 1,Fudbal,Vels - Gana,PRIJATELJSKE UTAKMICE
+02.06.,21:10,Arena Premium 5,Basket 3x3,Češka - SAD,FIBA 3X3 World Cup
+02.06.,21:35,Arena Premium 5,Basket 3x3,Poljska - Letonija,FIBA 3X3 World Cup
 03.06.,02:00,Arena Premium 1,Hokej,"Carolina Hurricanes - Montreal Canadiens, G7*",NHL
 03.06.,05:30,Arena Premium 2,Odbojka,Belgija - Poljska,Liga Nacija
 03.06.,09:00,Arena Premium 2,Odbojka,Tajland  - Srbija,Liga Nacija
 03.06.,10:00,Arena Premium 1,Mali fudbal,Polufinala - revanš utakmice,ARENINA LIGA ŠAMPIONA
-03.06.,12:30,Arena Premium 5,Basket 3x3,Dan 3,FIBA 3X3 World Cup
+03.06.,13:20,Arena Premium 5,Basket 3x3,Holandija - Japan,FIBA 3X3 World Cup
 03.06.,13:30,Arena Premium 2,Odbojka,Kina - Češka,Liga Nacija
+03.06.,13:45,Arena Premium 5,Basket 3x3,Novi Zeland - Kina,FIBA 3X3 World Cup
+03.06.,15:10,Arena Premium 5,Basket 3x3,Holandija - Nemačka,FIBA 3X3 World Cup
+03.06.,15:35,Arena Premium 5,Basket 3x3,Japan - Novi Zeland,FIBA 3X3 World Cup
 03.06.,17:00,Arena Premium 2,Odbojka,Ukrajina - SAD,Liga Nacija
-03.06.,18:00,Arena Premium 1,Košarka,"TBD - Lokomotiv, G2",VTB LIGA
+03.06.,17:30,Arena Premium 5,Basket 3x3,Nemačka - Kina,FIBA 3X3 World Cup
+03.06.,17:55,Arena Premium 5,Basket 3x3,Australija - Madagaskar,FIBA 3X3 World Cup
+03.06.,18:00,Arena Premium 1,Košarka,"Zenit - Lokomotiv, G2",VTB LIGA
 03.06.,18:00,Arena Premium 3,Odbojka,Dominikanska Republika - Turska,Liga Nacija
 03.06.,18:00,Arena Premium 4,Atletika,Paavo Nurmi Games,World Athletics Continental Tour
-03.06.,19:00,Arena Premium 2,Košarka,"Polufinale, G2",FRANCUSKA LIGA
+03.06.,19:00,Arena Premium 2,Košarka,"Monaco - Nanterre, polufinale G2",FRANCUSKA LIGA
+03.06.,19:20,Arena Premium 5,Basket 3x3,Austrija - Španija,FIBA 3X3 World Cup
+03.06.,19:45,Arena Premium 5,Basket 3x3,Srbija - Australija,FIBA 3X3 World Cup
 03.06.,20:00,Arena Premium 1,Košarka,Finale G1,GRČKA LIGA
 03.06.,20:00,Arena Premium 4,Fudbal,Danska - Kongo,PRIJATELJSKE UTAKMICE
 03.06.,20:00,Arena Sport 1,Rukomet,Magdeburg - Gummersbach,BUNDESLIGA
-03.06.,20:00,Arena Sport 2,Košarka,"Milano - Brescia, PF1 G3",ITALIJANSKA LIGA
+03.06.,20:00,Arena Sport 2,Košarka,"Milano - Brescia, polufinale G3",ITALIJANSKA LIGA
 03.06.,20:45,Arena Premium 3,Fudbal,Holandija - Alžir,PRIJATELJSKE UTAKMICE
+03.06.,21:10,Arena Premium 5,Basket 3x3,Madagaskar - Španija,FIBA 3X3 World Cup
 03.06.,21:30,Arena Premium 2,Odbojka,Italija - Bugarska,Liga Nacija
+03.06.,21:35,Arena Premium 5,Basket 3x3,Srbija - Austrija,FIBA 3X3 World Cup
 03.06.,22:30,Arena Premium 1,Odbojka,Francuska - Japan,Liga Nacija
