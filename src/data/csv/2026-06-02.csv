@@ -72,7 +72,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 04.06.,13:45,Arena Premium 5,Basket 3x3,Litvanija - Puerto Rico,FIBA 3X3 World Cup
 04.06.,15:10,Arena Premium 5,Basket 3x3,Francuska - Brazil,FIBA 3X3 World Cup
 04.06.,15:35,Arena Premium 5,Basket 3x3,Belgija - Puerto Rico,FIBA 3X3 World Cup
-04.06.,16:00,Arena Sport 10,Basket 3x3,Novi Sad: BG League x Bulut hoops U15,BG League
 04.06.,17:30,Arena Premium 5,Basket 3x3,Litvanija - Francuska,FIBA 3X3 World Cup
 04.06.,17:55,Arena Premium 5,Basket 3x3,Letonija - Češka,FIBA 3X3 World Cup
 04.06.,18:00,Arena Premium 1,Košarka,"Dubai - Partizan, finale G1",ABA LIGA
@@ -111,8 +110,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.06.,15:00,Arena Sport 8,Moto Sport,Mađarska: Trening,MOTO GP
 05.06.,15:10,Adrenalin,Moto Sport,Monako: Kvalifikacije A,FORMULA 2
 05.06.,15:35,Adrenalin,Moto Sport,Monako: Kvalifikacije B,FORMULA 2
-05.06.,16:00,Arena Sport 10,Basket 3x3,Novi Sad: BG League x Bulut hoops U15,BG League
 05.06.,17:00,Arena Premium 2,Fudbal,Italija - Srbija,KVALIFIKACIJE ZA SVETSKO PRVENSTVO Ž
+05.06.,17:00,Arena Sport 10,Basket 3x3,Novi Sad: BG League x Bulut hoops U15,BG League
 05.06.,17:00,Adrenalin,Moto Sport,Monako: Trening 2,FORMULA 1
 05.06.,18:30,Arena Sport 1,Fudbal,Slovačka - Crna Gora,PRIJATELJSKE UTAKMICE
 05.06.,19:00,Arena Premium 2,Košarka,"Bilbao - Valencia, G2",ŠPANSKA LIGA
@@ -131,7 +130,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.06.,10:00,Arena Premium 1,Mali fudbal,Arenino Svetsko Prvenstvo,ARENINO SVETSKO PRVENSTVO
 06.06.,10:00,Arena Tenis,Tenis,Girls Semifinal 1,ITF - Kuršumlijska banja
 06.06.,10:10,Arena Sport 8,Moto Sport,Mađarska: Slobodan Trening 2,MOTO GP
-06.06.,10:45,Adrenalin,Moto Sport,Monako: Sprint Trka,FORMULA 3
+06.06.,10:45,Adrenalin,Moto Sport,Monako: Sprint,FORMULA 3
 06.06.,10:50,Arena Sport 8,Moto Sport,Mađarska: Kvalifikacije 1,MOTO GP
 06.06.,11:15,Arena Sport 8,Moto Sport,Mađarska: Kvalifikacije 2,MOTO GP
 06.06.,12:00,Arena Tenis,Tenis,Girls Semifinal 2,ITF - Kuršumlijska banja
@@ -161,14 +160,18 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.06.,19:00,Arena Sport 4,Američki fudbal,Thonon Black Panthers — Guelfi Firenze,CENTRAL EUROPEAN FOOTBALL LEAGUE
 06.06.,19:00,Arena Sport 5,Pikado,"Četvrtfinala,polufinala i finale",Nordic Darts Master
 06.06.,19:00,Adrenalin,Skokovi u vodu,"SAD: St. Petersburg, Florida",Red Bull Cliff Diving World Series
+06.06.,19:30,Arena Sport 10,Futsal,Polufinala,
 06.06.,19:45,Arena Premium 3,Fudbal,Portugal - Čile,PRIJATELJSKE UTAKMICE
 06.06.,20:00,Arena Premium 5,Basket 3x3,Četvrtfinala 3 i 4,FIBA 3X3 World Cup
 06.06.,20:00,Arena Sport 1,Košarka,"Venezia - Virtus Bologna, polufinale, G4*",ITALIJANSKA LIGA
+06.06.,20:00,Arena Sport 7,Box,Billam-Smith vs. Rozicki,Zuffa Boxing 7
 06.06.,20:30,Arena Sport 2,Odbojka,Italija - Turska,Liga Nacija (Ž)
 06.06.,20:30,Arena Sport 3,Košarka,"Bonn - Bayern, polufinale G4*",NEMAČKA LIGA
 06.06.,21:00,Arena Premium 2,Fudbal,Engleska - Novi Zeland,PRIJATELJSKE UTAKMICE
 06.06.,21:00,Arena Premium 4,Košarka,"Murcia - Barcelona, G3*",ŠPANSKA LIGA
 06.06.,21:00,Arena Premium 5,Fudbal,Švajcarska - Australija,PRIJATELJSKE UTAKMICE
+06.06.,21:00,Arena Sport 10,Futsal,Polufinala,
+06.06.,21:00,Arena 1X2,Fudbal,Castellon - Almeria,ŠPANSKA 2. LIGA
 06.06.,22:00,Arena Premium 1,Fudbal,Bolivija - Škotska,PRIJATELJSKE UTAKMICE
 06.06.,22:00,Arena Premium 3,Atletika,USATF Lone Star Grand Prix,World Athletics Continental Tour
 06.06.,22:30,Arena Sport 2,Odbojka,Kanada - Francuska,Liga Nacija (Ž)
@@ -185,23 +188,25 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.06.,12:00,Arena Tenis,Tenis,Boys Final,ITF - Kuršumlijska banja
 07.06.,12:15,Arena Premium 4,Moto Sport,Mađarska: Trka,MOTO 2
 07.06.,12:30,Arena Sport 8,Golf,"KLM Open, dan 4",DP WORLD TOUR
-07.06.,13:00,Arena Premium 2,Odbojka,Kina -Poljska,Liga Nacija (Ž)
+07.06.,13:00,Arena Premium 2,Odbojka,Kina - Poljska,Liga Nacija (Ž)
 07.06.,14:00,Arena Premium 4,Moto Sport,Mađarska: Trka,MOTO GP
 07.06.,14:15,Adrenalin,Moto Sport,Monako: Trka,FORMULA 1
 07.06.,15:00,Arena Premium 1,Rukomet,Meč za treće mesto,EHF LIGA ŠAMPIONA (Ž)
 07.06.,15:00,Arena Premium 3,Košarka,"Lokomotiv - Zenit, G3",VTB LIGA
 07.06.,15:00,Arena Premium 5,Rukomet,Fuchse Berlin - Flensburg,BUNDESLIGA
 07.06.,16:00,Arena Premium 2,Odbojka,Dominikanska Republika - Holandija,Liga Nacija (Ž)
+07.06.,16:30,Arena Sport 3,Odbojka,Portugal - Severna Makedonija,CEV EUROPEAN LEAGUE Ž
 07.06.,17:00,Arena Premium 4,Basket 3x3,Polufinala Ž,FIBA 3X3 World Cup
 07.06.,17:00,Arena Sport 2,Atletika,Stokholm,DIJAMANTSKA LIGA
-07.06.,17:30,Arena Sport 3,Odbojka,Portugal - Severna Makedonija,CEV EUROPEAN LEAGUE Ž
 07.06.,18:00,Arena Premium 1,Rukomet,FINALE,EHF LIGA ŠAMPIONA (Ž)
 07.06.,18:00,Arena Premium 3,Košarka,"Valencia - Bilbao, G3*",ŠPANSKA LIGA
+07.06.,18:00,Arena Sport 10,Basket 3x3,Novi Beograd,BG U23 League
 07.06.,18:10,Arena Premium 4,Basket 3x3,Polufinala,FIBA 3X3 World Cup
 07.06.,18:30,Arena Sport 1,Fudbal,Danska - Ukrajina,PRIJATELJSKE UTAKMICE
 07.06.,19:00,Arena Sport 2,Košarka,"Cholet - Paris, polufinale, G3",FRANCUSKA LIGA
 07.06.,19:00,Arena Sport 4,Odbojka,Severna Makedonija - Luksemburg,CEV EUROPEAN LEAGUE
 07.06.,19:30,Arena Premium 2,Odbojka,Brazil - Italija,Liga Nacija (Ž)
+07.06.,19:30,Arena Sport 9,Futsal,Utakmica za treće mesto,
 07.06.,19:35,Arena Premium 4,Basket 3x3,Meč za treće mesto Ž,FIBA 3X3 World Cup
 07.06.,20:05,Arena Premium 4,Basket 3x3,Meč za treće mesto,FIBA 3X3 World Cup
 07.06.,20:45,Arena Premium 4,Basket 3x3,Finale Ž,FIBA 3X3 World Cup
@@ -209,6 +214,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.06.,21:00,Arena Premium 1,Fudbal,Maroko - Norveška,PRIJATELJSKE UTAKMICE
 07.06.,21:00,Arena Premium 3,Košarka,"Baskonia - Joventut, G3*",ŠPANSKA LIGA
 07.06.,21:00,Arena Sport 1,Fudbal,Grčka - Italija,PRIJATELJSKE UTAKMICE
+07.06.,21:00,Arena Sport 9,Futsal,Finale,
 07.06.,21:00,Adrenalin,Moto Sport,Michigan,NASCAR CUP SERIES
+07.06.,21:00,Arena 1X2,Fudbal,Las Palmas - Malaga,ŠPANSKA 2. LIGA
 07.06.,21:15,Arena Premium 4,Basket 3x3,Finale,FIBA 3X3 World Cup
 07.06.,23:00,Arena Premium 2,Odbojka,Bugarska - Turska,Liga Nacija (Ž)
