@@ -1532,51 +1532,37 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: KLS Rez ep. 16 - KK Borac Čačak",
-            "time": "17:30",
-            "category": "KLS",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Valencia - Bilbao, G3*",
-            "time": "18:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Košarka",
+            "content": "Stokholm",
+            "time": "17:00",
+            "category": "DIJAMANTSKA LIGA",
+            "sport": "Atletika",
             "description": "uzivo"
           },
           {
-            "content": "Košarka: EVROLIGA: Pregled sezone",
-            "time": "20:00",
-            "category": "EVROLIGA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "NBA Action",
-            "time": "20:30",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Baskonia - Joventut, G3*",
-            "time": "21:00",
-            "category": "ŠPANSKA LIGA",
+            "content": "Efes - Fenerbahce, polufinale G4",
+            "time": "19:00",
+            "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
             "content": "Serijal: The Last Train to North America (2026) ep. 7",
-            "time": "23:00",
+            "time": "21:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Priče iz gradova: Gvadalahara",
-            "time": "23:30",
+            "time": "21:30",
             "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Brazil - Egipat",
+            "time": "22:00",
+            "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -2157,6 +2143,13 @@
             "category": "FIBA 3X3 World Cup",
             "sport": "Basket 3x3",
             "description": "uzivo"
+          },
+          {
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "19:10",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Meč za treće mesto Ž",
@@ -2828,11 +2821,11 @@
             "description": "snimak"
           },
           {
-            "content": "PSG - Bayern, polufinale G1",
+            "content": "Baskonia - Joventut, G3",
             "time": "19:00",
-            "category": "UEFA LIGA ŠAMPIONA",
-            "sport": "Fudbal",
-            "description": "snimak"
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
           },
           {
             "content": "Bayern - PSG, polufinale G2",
@@ -4373,11 +4366,11 @@
             "description": "snimak"
           },
           {
-            "content": "Stokholm",
+            "content": "Lazio - Torino",
             "time": "17:00",
-            "category": "DIJAMANTSKA LIGA",
-            "sport": "Atletika",
-            "description": "uzivo"
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Cholet - Paris, polufinale, G3",
@@ -5105,18 +5098,18 @@
             "description": "snimak"
           },
           {
-            "content": "Portugal - Severna Makedonija",
-            "time": "16:30",
-            "category": "CEV EUROPEAN LEAGUE Ž",
-            "sport": "Odbojka",
-            "description": "uzivo"
-          },
-          {
             "content": "Bundesliga specijal: Pregled sezone",
-            "time": "19:00",
+            "time": "16:30",
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Portugal - Severna Makedonija",
+            "time": "17:30",
+            "category": "CEV EUROPEAN LEAGUE Ž",
+            "sport": "Odbojka",
+            "description": "uzivo"
           },
           {
             "content": "Hrvatska - Slovenija",
@@ -7101,13 +7094,6 @@
             "description": "snimak"
           },
           {
-            "content": "Francuska - SAD",
-            "time": "18:00",
-            "category": "Liga Nacija (Ž)",
-            "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
             "content": "Metz - CSM Bucuresti, polufinale 1",
             "time": "21:00",
             "category": "EHF LIGA ŠAMPIONA (Ž)",
@@ -7158,13 +7144,6 @@
             "time": "09:30",
             "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Nemačka - Japan",
-            "time": "11:00",
-            "category": "Liga Nacija (Ž)",
-            "sport": "Odbojka",
             "description": "snimak"
           },
           {
