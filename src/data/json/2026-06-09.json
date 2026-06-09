@@ -264,11 +264,32 @@
             "description": "snimak"
           },
           {
+            "content": "Bundesliga specijal: Analiza II",
+            "time": "16:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Žreb",
             "time": "17:00",
             "category": "SVETSKO PRVENSTVO",
             "sport": "Rukomet",
             "description": "uzivo"
+          },
+          {
+            "content": "Rukometni umovi: Bojana Popović",
+            "time": "17:30",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "18:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Partizan - Dubai, finale G3",
@@ -1204,15 +1225,8 @@
             "description": "uzivo"
           },
           {
-            "content": "Tenerife - Barcelona, polufinale G3",
-            "time": "19:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Košarka",
-            "description": "uzivo"
-          },
-          {
             "content": "Milano - Venezia, finale G2",
-            "time": "21:00",
+            "time": "20:00",
             "category": "ITALIJANSKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
@@ -1637,25 +1651,25 @@
             "description": "snimak"
           },
           {
-            "content": "Engleska - Kostarika",
-            "time": "21:00",
-            "category": "PRIJATELJSKE UTAKMICE",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Priče iz gradova: San Francisko",
-            "time": "23:00",
+            "time": "21:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Priče iz gradova: Dalas",
-            "time": "23:30",
+            "time": "21:30",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Engleska - Kostarika",
+            "time": "22:00",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "uzivo"
           }
         ]
       },
@@ -2166,7 +2180,7 @@
             "description": "snimak"
           },
           {
-            "content": "Alba - Bamberg, polufinale G5*",
+            "content": "Alba - Bamberg, polufinale G5",
             "time": "02:00",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
@@ -2705,7 +2719,7 @@
             "description": "snimak"
           },
           {
-            "content": "Alba - Bamberg, polufinale G5*",
+            "content": "Alba - Bamberg, polufinale G5",
             "time": "20:30",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
@@ -2892,6 +2906,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Bayern - TBC, finale G1",
+            "time": "20:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
             "content": "Emisija: Sa Draganom Jakovljevićem ep. 39",
             "time": "22:30",
             "category": "",
@@ -2938,10 +2959,10 @@
             "description": "snimak"
           },
           {
-            "content": "Bugarska - Argentina",
-            "time": "20:30",
-            "category": "Liga Nacija",
-            "sport": "Odbojka",
+            "content": "Tenerife - Barcelona, polufinale G3",
+            "time": "20:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
             "description": "uzivo"
           },
           {
@@ -3679,24 +3700,38 @@
             "description": "snimak"
           },
           {
-            "content": "Celtic - Hearts",
+            "content": "Pregled sezone",
             "time": "15:00",
-            "category": "ŠKOTSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Sunderland - Arsenal",
-            "time": "17:00",
             "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Leicester - Blackburn",
-            "time": "19:00",
-            "category": "CHAMPIONSHIP",
-            "sport": "Fudbal",
+            "content": "Stojsavljević - Kostyuk",
+            "time": "16:00",
+            "category": "WTA 500 - London",
+            "sport": "Tenis",
+            "description": "uzivo"
+          },
+          {
+            "content": "Rome - pregled turnira",
+            "time": "18:00",
+            "category": "WTA",
+            "sport": "Tenis",
+            "description": "snimak"
+          },
+          {
+            "content": "Mboko/Williams - Melichar-Martinez/Routliffe",
+            "time": "18:30",
+            "category": "WTA 500 - London",
+            "sport": "Tenis",
+            "description": "uzivo"
+          },
+          {
+            "content": "ATP Tour: Pregled nedelje ep. 21",
+            "time": "20:30",
+            "category": "ATP",
+            "sport": "Tenis",
             "description": "snimak"
           },
           {
@@ -3788,18 +3823,18 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled 6. kola",
+            "content": "Besiktas - Bahcesehir, polufinale G5",
             "time": "19:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
+            "content": "Pregled 6. kola",
+            "time": "21:30",
             "category": "CHAMPIONSHIP",
             "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Oslo",
-            "time": "20:00",
-            "category": "DIJAMANTSKA LIGA",
-            "sport": "Atletika",
-            "description": "uzivo"
           },
           {
             "content": "Wrexham - Preston",
@@ -3813,9 +3848,9 @@
       "2026-06-11": {
         "emisije": [
           {
-            "content": "Engleska - Kostarika",
+            "content": "Manchester United - Brighton",
             "time": "00:00",
-            "category": "PRIJATELJSKE UTAKMICE",
+            "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -3971,13 +4006,6 @@
             "description": "snimak"
           },
           {
-            "content": "FINALE, G1",
-            "time": "20:00",
-            "category": "NEMAČKA LIGA",
-            "sport": "Košarka",
-            "description": "uzivo"
-          },
-          {
             "content": "NETBUSTERS ep. 5",
             "time": "22:00",
             "category": "ENGLESKA LIGA",
@@ -4080,25 +4108,18 @@
             "description": "uzivo"
           },
           {
-            "content": "ATP Tour: Pregled nedelje ep. 22",
-            "time": "18:30",
-            "category": "ATP",
-            "sport": "Tenis",
-            "description": "snimak"
-          },
-          {
             "content": "WBA - Middlesbrough",
-            "time": "19:00",
+            "time": "18:30",
             "category": "CHAMPIONSHIP",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Arsenal - Manchester United",
-            "time": "21:00",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
+            "content": "Bugarska - Argentina",
+            "time": "20:30",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "uzivo"
           },
           {
             "content": "Bournemouth - Liverpool",
@@ -4175,7 +4196,7 @@
             "description": "snimak"
           },
           {
-            "content": "FINALE, G2",
+            "content": "Bayern - TBC, finale G2",
             "time": "20:00",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
@@ -4768,20 +4789,6 @@
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Polufinale 1",
-            "time": "11:00",
-            "category": "WTA 250 - Libema",
-            "sport": "Tenis",
-            "description": "uzivo"
-          },
-          {
-            "content": "Polufinale 2",
-            "time": "12:30",
-            "category": "WTA 250 - Libema",
-            "sport": "Tenis",
-            "description": "uzivo"
           },
           {
             "content": "Full Impact ep. 13",
@@ -5928,11 +5935,11 @@
             "description": "snimak"
           },
           {
-            "content": "PAOK - Celta",
+            "content": "Oslo",
             "time": "20:00",
-            "category": "UEFA LIGA EVROPE",
-            "sport": "Fudbal",
-            "description": "snimak"
+            "category": "DIJAMANTSKA LIGA",
+            "sport": "Atletika",
+            "description": "uzivo"
           },
           {
             "content": "Samsunspor - Rayo Vallecano",
@@ -6812,7 +6819,7 @@
             "description": "snimak"
           },
           {
-            "content": "Alba - Bamberg, polufinale G5*",
+            "content": "Alba - Bamberg, polufinale G5",
             "time": "06:00",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
@@ -6872,7 +6879,7 @@
             "description": "snimak"
           },
           {
-            "content": "FINALE, G1",
+            "content": "Bayern - TBC, finale G1",
             "time": "06:00",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
@@ -8924,7 +8931,7 @@
           },
           {
             "content": "Split - SC Derby",
-            "time": "22:00",
+            "time": "21:45",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -10219,6 +10226,17 @@
             "time": "16:00",
             "category": "EVROPSKO PRVENSTVO (M)",
             "sport": "Rukomet",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-06-13": {
+        "emisije": [
+          {
+            "content": "Arsenal - Manchester United",
+            "time": "22:30",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
           }
         ]
