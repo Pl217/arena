@@ -264,30 +264,9 @@
             "description": "snimak"
           },
           {
-            "content": "Bundesliga specijal: Analiza II",
+            "content": "Dubai - Partizan, finale G2",
             "time": "16:30",
-            "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Žreb",
-            "time": "17:00",
-            "category": "SVETSKO PRVENSTVO",
-            "sport": "Rukomet",
-            "description": "uzivo"
-          },
-          {
-            "content": "Rukometni umovi: Bojana Popović",
-            "time": "17:30",
-            "category": "EVROPSKO PRVENSTVO (M)",
-            "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
-            "content": "Košarka: EVROLIGA: Pregled sezone",
-            "time": "18:00",
-            "category": "EVROLIGA",
+            "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -454,6 +433,27 @@
             "description": "snimak"
           },
           {
+            "content": "Krv Šampiona",
+            "time": "10:00",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Serijal: The Last Train to North America (2026) ep. 9",
+            "time": "11:15",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Skrivene priče Svetskog prvenstva EP02: Luis Monti, Dučeov fetiš",
+            "time": "11:45",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
             "content": "Zenit - Lokomotiv, G5",
             "time": "12:00",
             "category": "VTB LIGA",
@@ -497,7 +497,7 @@
           },
           {
             "content": "Kanada - BiH",
-            "time": "21:00",
+            "time": "20:30",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "uzivo"
@@ -528,6 +528,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Liga Šampiona: Pregled sezone",
+            "time": "05:00",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Arsenal - Brighton",
             "time": "06:00",
             "category": "ENGLESKA LIGA",
@@ -550,7 +557,7 @@
           },
           {
             "content": "Pregled dana 12.06.",
-            "time": "13:30",
+            "time": "12:15",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1109,7 +1116,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale, G5",
+            "content": "Paris - Cholet, polufinale, G5*",
             "time": "08:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
@@ -1151,6 +1158,13 @@
             "description": "snimak"
           },
           {
+            "content": "New York - San Antonio, finale G4",
+            "time": "17:15",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Partizan - Dubai, finale G4*",
             "time": "20:00",
             "category": "ABA LIGA",
@@ -1158,8 +1172,15 @@
             "description": "uzivo"
           },
           {
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "22:30",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Finale: Panathinaikos - Olympiacos, G4",
-            "time": "23:30",
+            "time": "23:15",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -1180,6 +1201,13 @@
             "time": "03:30",
             "category": "Liga Nacija",
             "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Emisija: KLS Rez ep. 15 - KK Hercegovac",
+            "time": "05:30",
+            "category": "KLS",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
@@ -1827,8 +1855,22 @@
             "description": "snimak"
           },
           {
-            "content": "Atalanta - Inter",
+            "content": "Serijal: The Last Train to North America (2026) ep. 9",
             "time": "18:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled dana 11.06.",
+            "time": "18:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Atalanta - Inter",
+            "time": "19:00",
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -2412,7 +2454,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale, G5",
+            "content": "Paris - Cholet, polufinale, G5*",
             "time": "11:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
@@ -2811,7 +2853,7 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale, G5",
+            "content": "Paris - Cholet, polufinale, G5*",
             "time": "19:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
@@ -2924,6 +2966,27 @@
       "2026-06-13": {
         "emisije": [
           {
+            "content": "Genoa - Inter",
+            "time": "00:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bayern München - St. Pauli",
+            "time": "02:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Metz - PSG",
+            "time": "04:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Kanada - BiH",
             "time": "06:00",
             "category": "FIFA SVETSKO PRVENSTVO",
@@ -3020,16 +3083,9 @@
           },
           {
             "content": "Joventut - Valencia, polufinale G3",
-            "time": "19:00",
+            "time": "20:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
-            "description": "uzivo"
-          },
-          {
-            "content": "Finale G1",
-            "time": "21:00",
-            "category": "ŠPANSKA 2. LIGA",
-            "sport": "Fudbal",
             "description": "uzivo"
           }
         ]
@@ -4006,6 +4062,13 @@
             "description": "snimak"
           },
           {
+            "content": "Arsenal - Liverpool",
+            "time": "20:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "NETBUSTERS ep. 5",
             "time": "22:00",
             "category": "ENGLESKA LIGA",
@@ -4196,16 +4259,30 @@
             "description": "snimak"
           },
           {
-            "content": "Bayern - TBC, finale G2",
-            "time": "20:00",
-            "category": "NEMAČKA LIGA",
-            "sport": "Košarka",
+            "content": "Bournemouth - Arsenal",
+            "time": "19:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Finale G1",
+            "time": "21:00",
+            "category": "ŠPANSKA 2. LIGA",
+            "sport": "Fudbal",
             "description": "uzivo"
           },
           {
-            "content": "Bournemouth - Arsenal",
-            "time": "22:00",
+            "content": "NETBUSTERS ep. 6",
+            "time": "23:00",
             "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 7. kola",
+            "time": "23:30",
+            "category": "CHAMPIONSHIP",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -5632,15 +5709,22 @@
             "description": "snimak"
           },
           {
-            "content": "Strasbourg - Marseille",
+            "content": "Pregled 10. kola",
             "time": "15:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Pregled 10. kola",
-            "time": "17:00",
+            "content": "Bayern - TBC, finale G2",
+            "time": "15:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
+            "content": "Strasbourg - Marseille",
+            "time": "17:30",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -8514,29 +8598,22 @@
             "description": "snimak"
           },
           {
-            "content": "New York - San Antonio, finale G4",
-            "time": "17:00",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
             "content": "Cleveland Guardians - New York Yankees",
-            "time": "19:00",
+            "time": "17:00",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
           },
           {
             "content": "Las Vegas Golden Knights - Carolina Hurricanes, Finale G4",
-            "time": "21:30",
+            "time": "19:30",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
           },
           {
             "content": "Philadelphia Phillies - San Diego Padres",
-            "time": "23:30",
+            "time": "21:30",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
@@ -8545,6 +8622,13 @@
       },
       "2026-06-13": {
         "emisije": [
+          {
+            "content": "New York - San Antonio, finale G4",
+            "time": "00:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
           {
             "content": "Baltimore Ravens - New England Patriots",
             "time": "02:00",
@@ -9910,20 +9994,13 @@
           {
             "content": "Katalonija: Trka",
             "time": "19:15",
-            "category": "MOTO 3",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Katalonija: Trka",
-            "time": "20:15",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Katalonija: Trka",
-            "time": "21:30",
+            "time": "20:30",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -9934,14 +10011,14 @@
         "emisije": [
           {
             "content": "All-Star Race",
-            "time": "00:30",
+            "time": "00:00",
             "category": "NASCAR CUP SERIES",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Lake Como, Italy",
-            "time": "04:30",
+            "time": "04:00",
             "category": "E1",
             "sport": "Moto Sport",
             "description": "snimak"
