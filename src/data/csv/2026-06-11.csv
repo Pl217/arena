@@ -74,21 +74,21 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 13.06.,14:30,Arena Sport 1,Tenis,Polufinale 1,WTA 500 - London
 13.06.,15:00,Arena Premium 3,Rukomet,"Magdeburg - Fuchse Berlin, polufinale 1",EHF LIGA ŠAMPIONA
 13.06.,15:00,Arena Sport 2,Tenis,Polufinale 1,ATP 250 - Libema
-13.06.,15:30,Arena Premium 4,Košarka,"CSKA - UNICS, finale G5",VTB LIGA
 13.06.,15:30,Arena Sport 8,Moto Sport,"Italija, Trka 1",SUPERBIKE WORLD CHAMPIONSHIP
 13.06.,16:00,Arena Premium 1,Odbojka,Brazil - Srbija,Liga Nacija
 13.06.,16:00,Arena Sport 3,Tenis,Boys Semifinal 2,ITF - Kuršumlijska banja
 13.06.,16:00,Arena Sport 7,Moto Sport,"Dubrovnik, Croatia",E1
 13.06.,16:00,Adrenalin,Moto Sport,Barselona: Kvalifikacije,FORMULA 1
 13.06.,16:30,Arena Sport 1,Tenis,Polufinale 2,WTA 500 - London
-13.06.,17:00,Arena Premium 2,Košarka,"Finale: Olympiacos - Panathinaikos, G5*",GRČKA LIGA
+13.06.,17:00,Arena Premium 2,Košarka,"Finale: Olympiacos - Panathinaikos, G5",GRČKA LIGA
 13.06.,17:00,Arena Sport 2,Tenis,Polufinale 2,ATP 250 - Libema
 13.06.,18:00,Arena Premium 3,Rukomet,"Aalborg - Barcelona, polufinale 2",EHF LIGA ŠAMPIONA
+13.06.,19:00,Arena Premium 4,Košarka,"Fenerbahce - Besiktas, finale G1",TURSKA LIGA
 13.06.,19:00,Arena Sport 5,Pikado,Druga runda - večernja sesija,SVETSKI KUP
 13.06.,19:45,Arena Sport 8,BOX,Medjunarodni bokserski turnir u Kumanovu - Miroslav Petrović,
 13.06.,20:00,Arena Premium 2,Košarka,"Milano - Venezia, finale G2",ITALIJANSKA LIGA
-13.06.,20:00,Arena Premium 4,Basket 3x3,"Beč, grupna faza",FIBA 3x3 World Tour
 13.06.,20:00,Arena Premium 5,Košarka,"Tenerife - Barcelona, polufinale G3",ŠPANSKA LIGA
+13.06.,20:00,Arena Sport 2,Basket 3x3,"Beč, grupna faza",FIBA 3x3 World Tour
 13.06.,20:30,Arena Sport 1,Odbojka,Bugarska - Argentina,Liga Nacija
 13.06.,21:00,Arena Premium 1,Fudbal,Katar - Švajcarska,FIFA SVETSKO PRVENSTVO
 13.06.,21:00,Arena Premium 3,Vaterpolo,FINALE,Liga šampiona
@@ -128,7 +128,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 14.06.,19:30,Arena Sport 2,Fleg fudbal,FINALE,ARENA TV SPORT PRVENSTVO SRBIJE
 14.06.,20:00,Arena Premium 5,Košarka,"Joventut - Valencia, polufinale G3",ŠPANSKA LIGA
 14.06.,20:30,Arena Premium 2,Odbojka,Kanada - Turska,Liga Nacija
-14.06.,21:00,Arena Sport 1,Fudbal,"Almeria - TBD, G1",ŠPANSKA 2. LIGA
+14.06.,21:00,Arena Sport 1,Fudbal,"Almeria - Malaga, G1",ŠPANSKA 2. LIGA
 14.06.,21:00,Adrenalin,Moto Sport,Pocono,NASCAR CUP SERIES
 14.06.,22:00,Arena Premium 1,Fudbal,Holandija - Japan,FIFA SVETSKO PRVENSTVO
 14.06.,22:00,Arena Premium 3,Atletika,USATF LA Grand Prix,World Athletics Continental Tour
@@ -139,6 +139,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 15.06.,11:30,Arena Premium 5,Tenis,"Centralni teren, dan 1",ATP 500 - Halle
 15.06.,12:30,Arena Tenis,Tenis,"Centralni teren, dan 1",ATP 500 - London
 15.06.,18:00,Arena Premium 1,Fudbal,Španija - Zelenortska Ostrva,FIFA SVETSKO PRVENSTVO
+15.06.,19:00,Arena Premium 3,Košarka,"Fenerbahce - Besiktas, finale G2",TURSKA LIGA
 15.06.,20:00,Arena Premium 2,Košarka,Polufinale 1 G4*,ŠPANSKA LIGA
 15.06.,21:00,Arena Premium 1,Fudbal,Belgija - Egipat,FIFA SVETSKO PRVENSTVO
 16.06.,00:00,Arena Premium 1,Fudbal,Saudijska Arabija - Urugvaj,FIFA SVETSKO PRVENSTVO
@@ -146,8 +147,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.06.,11:30,Arena Premium 5,Tenis,"Centralni teren, dan 2",ATP 500 - Halle
 16.06.,12:30,Arena Tenis,Tenis,"Centralni teren, dan 2",ATP 500 - London
 16.06.,18:00,Arena Premium 1,Košarka,"Dubai - Partizan, finale G5*",ABA LIGA
-16.06.,18:00,Arena Premium 2,Košarka,"UNICS - CSKA, finale G6",VTB LIGA
 16.06.,18:00,Arena Premium 4,Atletika,65th Ostrava Golden Spike,World Athletics Continental Tour
 16.06.,20:00,Arena Premium 2,Košarka,Polufinale 2 G4*,ŠPANSKA LIGA
-16.06.,20:00,Arena Premium 3,Košarka,"Venezia - Milano, finale G3",ITALIJANSKA LIGA
+16.06.,20:00,Arena Premium 4,Košarka,"Venezia - Milano, finale G3",ITALIJANSKA LIGA
 16.06.,21:00,Arena Premium 1,Fudbal,Francuska - Senegal,FIFA SVETSKO PRVENSTVO

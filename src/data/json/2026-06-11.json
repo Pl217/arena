@@ -633,7 +633,7 @@
             "description": "snimak"
           },
           {
-            "content": "Priče iz gradova: Atlanta",
+            "content": "Pregled dana 14.06.",
             "time": "17:30",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
@@ -1052,15 +1052,22 @@
             "description": "uzivo"
           },
           {
-            "content": "Barceloneta - Ferencvaros, polufinale 1",
+            "content": "Pregled polufinala 2",
             "time": "16:00",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "New York - San Antonio, finale G4",
-            "time": "17:15",
+            "time": "16:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NBA Action",
+            "time": "19:00",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
@@ -1154,7 +1161,7 @@
             "description": "snimak"
           },
           {
-            "content": "Finale: Olympiacos - Panathinaikos, G5*",
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
             "time": "17:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
@@ -1214,16 +1221,16 @@
             "description": "snimak"
           },
           {
-            "content": "Finale: Olympiacos - Panathinaikos, G5*",
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
             "time": "06:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "Tenerife - Barcelona, polufinale G3",
             "time": "08:00",
-            "category": "VTB LIGA",
+            "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -1263,9 +1270,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Pregled polufinala i finala",
+            "content": "Rukometni umovi: Antonio Carlos Ortega",
             "time": "20:00",
-            "category": "EHF LIGA EVROPE",
+            "category": "EVROPSKO PRVENSTVO (M)",
             "sport": "Rukomet",
             "description": "snimak"
           },
@@ -1439,7 +1446,7 @@
             "description": "snimak"
           },
           {
-            "content": "Finale: Olympiacos - Panathinaikos, G5*",
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
             "time": "14:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
@@ -1451,13 +1458,6 @@
             "category": "FRANCUSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
-          },
-          {
-            "content": "UNICS - CSKA, finale G6",
-            "time": "18:00",
-            "category": "VTB LIGA",
-            "sport": "Košarka",
-            "description": "uzivo"
           },
           {
             "content": "Polufinale 2 G4*",
@@ -1742,9 +1742,9 @@
             "description": "snimak"
           },
           {
-            "content": "Austrija - Gvatemala",
+            "content": "Malaga - Las Palmas",
             "time": "12:00",
-            "category": "PRIJATELJSKE UTAKMICE",
+            "category": "ŠPANSKA 2. LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -1858,10 +1858,10 @@
             "description": "snimak"
           },
           {
-            "content": "Priče iz gradova: Monterej",
+            "content": "Rukometni umovi: Antonio Carlos Ortega",
             "time": "14:30",
-            "category": "FIFA SVETSKO PRVENSTVO",
-            "sport": "Fudbal",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Rukomet",
             "description": "snimak"
           },
           {
@@ -2069,15 +2069,85 @@
             "description": "snimak"
           },
           {
-            "content": "Španija - Zelenortska Ostrva",
-            "time": "20:30",
+            "content": "Australija - Turska",
+            "time": "06:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Belgija - Egipat",
-            "time": "23:30",
+            "content": "Brazil - Maroko",
+            "time": "08:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Južna Koreja - Češka",
+            "time": "10:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Krv Šampiona",
+            "time": "12:00",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Meksiko - Južna Afrika",
+            "time": "13:15",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled dana 14.06.",
+            "time": "15:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Haiti - Škotska",
+            "time": "16:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Skrivene priče Svetskog prvenstva EP03: Huan Hohgberg, ubiti ili umreti",
+            "time": "18:15",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Priče iz gradova: Atlanta",
+            "time": "18:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fenerbahce - Besiktas, finale G2",
+            "time": "19:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
+            "content": "Revolucija 304 - Lamin Jamal",
+            "time": "21:00",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Španija - Zelenortska Ostrva",
+            "time": "22:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
@@ -2087,25 +2157,88 @@
       "2026-06-16": {
         "emisije": [
           {
-            "content": "Nemačka - Kurasao",
+            "content": "Belgija - Egipat",
+            "time": "00:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Obala Slonovače - Ekvador",
             "time": "02:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Holandija - Japan",
+            "content": "Švedska - Tunis",
             "time": "04:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Venezia - Milano, finale G3",
-            "time": "20:00",
-            "category": "ITALIJANSKA LIGA",
-            "sport": "Košarka",
-            "description": "uzivo"
+            "content": "Kanada - BiH",
+            "time": "06:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Obala Slonovače - Ekvador",
+            "time": "08:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Švedska - Tunis",
+            "time": "10:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Revolucija 304 - Lamin Jamal",
+            "time": "12:00",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Nemačka - Kurasao",
+            "time": "13:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled dana 15.06.",
+            "time": "15:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Holandija - Japan",
+            "time": "16:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Skrivene priče Svetskog prvenstva EP04: Crveni od sramote",
+            "time": "18:15",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Gol za Kubu",
+            "time": "18:45",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
           },
           {
             "content": "Belgija - Egipat",
@@ -2246,13 +2379,6 @@
             "description": "snimak"
           },
           {
-            "content": "Kuba - Poljska",
-            "time": "08:00",
-            "category": "Liga Nacija",
-            "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
             "content": "UNICS - CSKA, finale G4",
             "time": "10:00",
             "category": "VTB LIGA",
@@ -2334,13 +2460,6 @@
             "description": "snimak"
           },
           {
-            "content": "Bugarska - Iran",
-            "time": "04:00",
-            "category": "Liga Nacija",
-            "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
             "content": "Barceloneta - Ferencvaros, polufinale 1",
             "time": "06:00",
             "category": "Liga šampiona",
@@ -2398,7 +2517,7 @@
           },
           {
             "content": "Finale: Panathinaikos - Olympiacos, G4",
-            "time": "18:00",
+            "time": "17:45",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -2485,11 +2604,11 @@
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "Valencia - Joventut, polufinale G2",
             "time": "15:30",
-            "category": "VTB LIGA",
+            "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
-            "description": "uzivo"
+            "description": "snimak"
           },
           {
             "content": "Barceloneta - Ferencvaros, polufinale 1",
@@ -2499,22 +2618,22 @@
             "description": "snimak"
           },
           {
-            "content": "Pro Recco - Olympiacos, polufinale 2",
-            "time": "18:45",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Beč, grupna faza",
-            "time": "20:00",
-            "category": "FIBA 3x3 World Tour",
-            "sport": "Basket 3x3",
+            "content": "Fenerbahce - Besiktas, finale G1",
+            "time": "19:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
             "description": "uzivo"
           },
           {
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
+            "time": "21:00",
+            "category": "GRČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Magdeburg - Fuchse Berlin, polufinale 1",
-            "time": "23:00",
+            "time": "23:15",
             "category": "EHF LIGA ŠAMPIONA",
             "sport": "Rukomet",
             "description": "snimak"
@@ -2524,9 +2643,9 @@
       "2026-06-14": {
         "emisije": [
           {
-            "content": "Finale: Olympiacos - Panathinaikos, G5*",
-            "time": "00:30",
-            "category": "GRČKA LIGA",
+            "content": "Milano - Venezia, finale G2",
+            "time": "00:45",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -2689,6 +2808,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled finala",
+            "time": "20:30",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
             "content": "Bugarska - Srbija",
             "time": "21:00",
             "category": "Liga Nacija",
@@ -2763,11 +2889,11 @@
             "description": "uzivo"
           },
           {
-            "content": "UNICS - CSKA, finale G6",
-            "time": "22:30",
-            "category": "VTB LIGA",
+            "content": "Venezia - Milano, finale G3",
+            "time": "20:00",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Košarka",
-            "description": "snimak"
+            "description": "uzivo"
           }
         ]
       }
@@ -3000,7 +3126,7 @@
             "description": "snimak"
           },
           {
-            "content": "Austrija - Gvatemala",
+            "content": "Engleska - Kostarika",
             "time": "06:00",
             "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
@@ -3155,7 +3281,7 @@
       "2026-06-15": {
         "emisije": [
           {
-            "content": "Almeria - TBD, G1",
+            "content": "Almeria - Malaga, G1",
             "time": "00:00",
             "category": "ŠPANSKA 2. LIGA",
             "sport": "Fudbal",
@@ -3176,16 +3302,16 @@
             "description": "snimak"
           },
           {
-            "content": "Obala Slonovače - Ekvador",
-            "time": "06:30",
-            "category": "FIFA SVETSKO PRVENSTVO",
+            "content": "Arsenal - Aston Villa",
+            "time": "06:00",
+            "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Švedska - Tunis",
-            "time": "09:00",
-            "category": "FIFA SVETSKO PRVENSTVO",
+            "content": "Parma - Inter",
+            "time": "09:30",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -3202,22 +3328,43 @@
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Arsenal - Aston Villa",
+            "time": "22:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       },
       "2026-06-16": {
         "emisije": [
           {
-            "content": "Saudijska Arabija - Urugvaj",
-            "time": "06:30",
-            "category": "FIFA SVETSKO PRVENSTVO",
+            "content": "Parma - Inter",
+            "time": "02:00",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Iran - Novi Zeland",
-            "time": "09:00",
-            "category": "FIFA SVETSKO PRVENSTVO",
+            "content": "Betis - Barcelona",
+            "time": "04:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bournemouth - Arsenal",
+            "time": "06:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Inter - Napoli",
+            "time": "09:30",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -3229,9 +3376,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Švedska - Tunis",
-            "time": "20:00",
-            "category": "FIFA SVETSKO PRVENSTVO",
+            "content": "Bournemouth - Arsenal",
+            "time": "22:00",
+            "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -4146,7 +4293,7 @@
             "description": "snimak"
           },
           {
-            "content": "Almeria - TBD, G1",
+            "content": "Almeria - Malaga, G1",
             "time": "21:00",
             "category": "ŠPANSKA 2. LIGA",
             "sport": "Fudbal",
@@ -4748,9 +4895,16 @@
             "description": "snimak"
           },
           {
-            "content": "Full Impact ep. 13",
-            "time": "14:30",
-            "category": "ITALIJANSKA LIGA",
+            "content": "Almeria - Castellon",
+            "time": "11:00",
+            "category": "ŠPANSKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Malaga - Las Palmas",
+            "time": "13:00",
+            "category": "ŠPANSKA 2. LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -4769,30 +4923,23 @@
             "description": "uzivo"
           },
           {
-            "content": "Villarreal - Mallorca",
-            "time": "19:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
+            "content": "Beč, grupna faza",
+            "time": "20:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "uzivo"
           },
           {
             "content": "Fudbalsko lice nacije: Tirana",
-            "time": "21:00",
+            "time": "23:00",
             "category": "",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Pregled 13. kola",
-            "time": "21:30",
+            "time": "23:30",
             "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Pisa - Inter",
-            "time": "22:00",
-            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -4857,9 +5004,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Sevilla - Betis",
+            "content": "Full Impact ep. 18",
             "time": "16:00",
-            "category": "ŠPANSKA LIGA",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -4945,16 +5092,16 @@
             "description": "snimak"
           },
           {
-            "content": "Milan - Sassuolo",
+            "content": "Athletic - Atletico",
             "time": "10:00",
-            "category": "ITALIJANSKA LIGA",
+            "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Athletic - Atletico",
+            "content": "Milan - Sassuolo",
             "time": "12:00",
-            "category": "ŠPANSKA LIGA",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -4994,7 +5141,7 @@
             "description": "snimak"
           },
           {
-            "content": "Valencia - Sevilla",
+            "content": "Betis - Barcelona",
             "time": "21:30",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
@@ -5019,7 +5166,7 @@
             "description": "snimak"
           },
           {
-            "content": "Betis - Barcelona",
+            "content": "Valencia - Sevilla",
             "time": "02:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
@@ -5028,6 +5175,83 @@
           {
             "content": "Torino - Como",
             "time": "04:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fiorentina - Udinese",
+            "time": "06:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Castellon - Mirandes",
+            "time": "08:00",
+            "category": "ŠPANSKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Alaves - Real Madrid",
+            "time": "10:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Como - Milan",
+            "time": "12:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 16. kola",
+            "time": "14:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Barcelona - Osasuna",
+            "time": "14:30",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Full Impact ep. 16",
+            "time": "16:30",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bologna - Juventus",
+            "time": "17:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Genoa - Inter",
+            "time": "19:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Atletico - Valencia",
+            "time": "21:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 16. kola",
+            "time": "23:00",
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -5417,6 +5641,13 @@
             "description": "snimak"
           },
           {
+            "content": "St. Pauli - Augsburg",
+            "time": "18:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Bundesliga specijal: Harry Kane",
             "time": "20:30",
             "category": "NEMAČKA LIGA",
@@ -5547,6 +5778,213 @@
             "content": "Rapid - LASK",
             "time": "04:00",
             "category": "AUSTRIJSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Rapid - Sturm",
+            "time": "06:00",
+            "category": "AUSTRIJSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Darmstadt - Elversberg",
+            "time": "08:00",
+            "category": "NEMAČKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Ajax - AZ Alkmaar",
+            "time": "10:00",
+            "category": "HOLANDSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 11. kola",
+            "time": "12:00",
+            "category": "HOLANDSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Eintracht Frankfurt - Bayern",
+            "time": "13:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Brest - PSG",
+            "time": "15:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 11. kola",
+            "time": "17:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bundesliga specijal: Hamburg - Two Clubs, One Rivalry",
+            "time": "17:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "B. Monchengladbach - Bayern",
+            "time": "18:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 6. kola",
+            "time": "20:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Priče iz gradova: Atlanta",
+            "time": "21:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Marseille - Brest",
+            "time": "21:30",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Priče iz gradova: Gvadalahara",
+            "time": "23:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-06-16": {
+        "emisije": [
+          {
+            "content": "PSV - Fortuna",
+            "time": "00:00",
+            "category": "HOLANDSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Schalke - Hertha",
+            "time": "02:00",
+            "category": "NEMAČKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Sturm - Austria",
+            "time": "04:00",
+            "category": "AUSTRIJSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Thun - Luzern",
+            "time": "06:00",
+            "category": "ŠVAJCARSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Paderborn - Schalke",
+            "time": "08:00",
+            "category": "NEMAČKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Arouca - Porto",
+            "time": "10:00",
+            "category": "PORTUGALSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 12. kola",
+            "time": "12:00",
+            "category": "HOLANDSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "HSV -  Mainz",
+            "time": "13:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Lens - Marseille",
+            "time": "15:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 12. kola",
+            "time": "17:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bundesliga specijal: Thomas Muller - Oproštaj od Bajerna",
+            "time": "17:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Leverkusen - Freiburg",
+            "time": "18:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 7. kola",
+            "time": "20:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Priče iz gradova: Boston",
+            "time": "21:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Monaco - Lens",
+            "time": "21:30",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Priče iz gradova: Hjuston",
+            "time": "23:30",
+            "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -6573,17 +7011,17 @@
       "2026-06-14": {
         "emisije": [
           {
-            "content": "Milano - Venezia, finale G2",
+            "content": "Beč, grupna faza",
             "time": "00:00",
-            "category": "ITALIJANSKA LIGA",
-            "sport": "Košarka",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
             "description": "snimak"
           },
           {
-            "content": "Beč, grupna faza",
-            "time": "02:30",
-            "category": "FIBA 3x3 World Tour",
-            "sport": "Basket 3x3",
+            "content": "Milano - Venezia, finale G2",
+            "time": "04:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
@@ -6601,17 +7039,17 @@
             "description": "snimak"
           },
           {
-            "content": "Tenerife - Barcelona, polufinale G3",
+            "content": "Druga runda - večernja sesija",
             "time": "10:00",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Košarka",
+            "category": "SVETSKI KUP",
+            "sport": "Pikado",
             "description": "snimak"
           },
           {
-            "content": "Druga runda - večernja sesija",
-            "time": "12:00",
-            "category": "SVETSKI KUP",
-            "sport": "Pikado",
+            "content": "Tenerife - Barcelona, polufinale G3",
+            "time": "11:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
@@ -6633,7 +7071,7 @@
       "2026-06-15": {
         "emisije": [
           {
-            "content": "Finale: Olympiacos - Panathinaikos, G5*",
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
             "time": "00:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
@@ -6651,6 +7089,157 @@
             "time": "04:30",
             "category": "BG League",
             "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Efes - Fenerbahce, polufinale G4",
+            "time": "06:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Finale: Olympiacos - Panathinaikos, G1",
+            "time": "08:00",
+            "category": "GRČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Nanterre - Monaco, polufinale G3",
+            "time": "11:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Bayern - Alba, finale G2",
+            "time": "13:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Milano - Venezia, finale G2",
+            "time": "15:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "CSKA - UNICS, finale G1",
+            "time": "17:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Beč, polufinala i finale",
+            "time": "19:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Paris - Monaco, finale G1",
+            "time": "20:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Tenerife - Barcelona, polufinale G3",
+            "time": "22:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-06-16": {
+        "emisije": [
+          {
+            "content": "Fenerbahce - Besiktas, finale G1",
+            "time": "00:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "SC Rakovica Beograd",
+            "time": "02:30",
+            "category": "BG League",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Bahcesehir - Besiktas, polufinale G4",
+            "time": "06:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Finale: Panathinaikos - Olympiacos, G2",
+            "time": "08:00",
+            "category": "GRČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "10:30",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Nanterre - Monaco, polufinale, G4",
+            "time": "11:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Fenerbahce - Besiktas, finale G1",
+            "time": "13:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Joventut - Valencia, polufinale G3",
+            "time": "15:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "CSKA - UNICS, finale G2",
+            "time": "17:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Finale",
+            "time": "19:30",
+            "category": "FIBA 3X3 World Cup",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Finale: Olympiacos - Panathinaikos, G5",
+            "time": "20:00",
+            "category": "GRČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Polufinale 1 G4*",
+            "time": "22:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
             "description": "snimak"
           }
         ]
@@ -7121,6 +7710,83 @@
             "category": "TURSKA LIGA",
             "sport": "Odbojka",
             "description": "snimak"
+          },
+          {
+            "content": "Rukometni umovi: Bojana Popović",
+            "time": "06:00",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Metz - CSM Bucuresti, polufinale 1",
+            "time": "06:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Brest - Gyori, polufinale 2",
+            "time": "08:00",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled polufinala i finala",
+            "time": "09:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Paavo Nurmi Games",
+            "time": "10:00",
+            "category": "World Athletics Continental Tour",
+            "sport": "Atletika",
+            "description": "snimak"
+          },
+          {
+            "content": "Turska - Francuska",
+            "time": "12:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "FINALE",
+            "time": "14:00",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Polufinala i Finale",
+            "time": "15:30",
+            "category": "SVETSKI KUP",
+            "sport": "Pikado",
+            "description": "snimak"
+          },
+          {
+            "content": "Brazil - Argentina",
+            "time": "19:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Kuba - Slovenija",
+            "time": "21:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "USATF Lone Star Grand Prix",
+            "time": "23:00",
+            "category": "World Athletics Continental Tour",
+            "sport": "Atletika",
+            "description": "snimak"
           }
         ]
       },
@@ -7138,6 +7804,90 @@
             "time": "04:00",
             "category": "TURSKA LIGA",
             "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Brest - CSM Bucuresti, meč za treće mesto",
+            "time": "06:00",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Rukometni umovi: Bojana Popović",
+            "time": "07:30",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Gyori - Metz, finale",
+            "time": "08:00",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Rim",
+            "time": "10:00",
+            "category": "DIJAMANTSKA LIGA",
+            "sport": "Atletika",
+            "description": "snimak"
+          },
+          {
+            "content": "Kina - Japan",
+            "time": "12:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Magdeburg - Fuchse Berlin, polufinale 1",
+            "time": "14:00",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Barceloneta - Ferencvaros, polufinale 1",
+            "time": "15:30",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Pro Recco - Olympiacos, polufinale 2",
+            "time": "16:45",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled finala",
+            "time": "18:00",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Kanada - Turska",
+            "time": "19:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Bugarska - Srbija",
+            "time": "21:00",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Stokholm",
+            "time": "23:00",
+            "category": "DIJAMANTSKA LIGA",
+            "sport": "Atletika",
             "description": "snimak"
           }
         ]
@@ -7476,7 +8226,7 @@
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "UNICS - CSKA, finale G4",
             "time": "22:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7529,7 +8279,7 @@
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "UNICS - CSKA, finale G4",
             "time": "13:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7617,7 +8367,7 @@
             "description": "snimak"
           },
           {
-            "content": "UNICS - CSKA, finale G4",
+            "content": "CSKA - UNICS, finale G2",
             "time": "13:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7645,7 +8395,7 @@
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "UNICS - CSKA, finale G4",
             "time": "22:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7698,7 +8448,7 @@
             "description": "snimak"
           },
           {
-            "content": "CSKA - UNICS, finale G5",
+            "content": "UNICS - CSKA, finale G3",
             "time": "13:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -8647,7 +9397,7 @@
           },
           {
             "content": "Partizan - Dubai, finale G4*",
-            "time": "03:15",
+            "time": "03:30",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -9021,7 +9771,7 @@
       "2026-06-13": {
         "emisije": [
           {
-            "content": "BKK Radnički - Sloboda",
+            "content": "Borac Zemun – BKK Radnički",
             "time": "00:00",
             "category": "KLS",
             "sport": "Košarka",
@@ -9115,6 +9865,66 @@
           {
             "content": "Vojvodina - Zlatibor",
             "time": "00:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Vojvodina - Zlatibor",
+            "time": "06:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Crvena zvezda - Borac, finale zene",
+            "time": "10:00",
+            "category": "SVESRPSKI KUP",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Radnički - Vršac",
+            "time": "18:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Takovo - Vojvodina",
+            "time": "20:00",
+            "category": "SUPERLIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-06-16": {
+        "emisije": [
+          {
+            "content": "TENT - Ub",
+            "time": "02:00",
+            "category": "SUPERLIGA (Ž)",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Temerin - Napredak",
+            "time": "04:00",
+            "category": "SUPERLIGA SRBIJE Ž",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - Sloga Doboj, finale",
+            "time": "06:00",
+            "category": "SVESRPSKI KUP",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Zlatibor - SPD Radnički",
+            "time": "18:00",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
