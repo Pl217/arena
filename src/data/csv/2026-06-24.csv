@@ -9,6 +9,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.06.,19:00,Arena Premium 4,Košarka,"Paris - Monaco, finale G5",FRANCUSKA LIGA
 23.06.,22:00,Arena Premium 1,Fudbal,Engleska - Gana,FIFA SVETSKO PRVENSTVO
 24.06.,01:00,Arena Premium 1,Fudbal,Panama - Hrvatska,FIFA SVETSKO PRVENSTVO
+24.06.,02:00,Arena Premium 2,Košarka,Draft - Prva Runda,NBA
 24.06.,04:00,Arena Premium 1,Fudbal,Kolumbija - DR Kongo,FIFA SVETSKO PRVENSTVO
 24.06.,12:30,Arena Tenis,Tenis,"Dan 3, Meč 1",ATP 250 - Mallorca
 24.06.,13:00,Arena Premium 2,Odbojka,Bugarska - Italija,Liga Nacija
@@ -17,13 +18,16 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.06.,16:30,Arena Premium 2,Odbojka,Ukrajina - Brazil,Liga Nacija
 24.06.,17:30,Arena Tenis,Tenis,"Dan 3, Meč 3",ATP 250 - Mallorca
 24.06.,18:00,Arena Premium 5,Bejzbol,Miami Marlins - Texas Rangers,Major League Baseball
-24.06.,20:00,Arena Premium 4,Košarka,"Barcelona - Valencia, finale G4*",ŠPANSKA LIGA
+24.06.,18:30,Arena Premium 2,Fudbal,Vojvodina – Gyor,PRIJATELJSKE UTAKMICE
+24.06.,18:30,Arena Sport 10,Fudbal,Vojvodina – Gyor,PRIJATELJSKE UTAKMICE
+24.06.,20:00,Arena Premium 4,Košarka,"Barcelona - Valencia, finale G4",ŠPANSKA LIGA
 24.06.,20:00,Arena Sport 2,Odbojka,Poljska - Belgija,Liga Nacija
 24.06.,20:30,Arena Sport 1,Odbojka,Slovenija - Kanada,Liga Nacija
 24.06.,21:00,Arena Premium 1,Fudbal,Švajcarska - Kanada,FIFA SVETSKO PRVENSTVO
 24.06.,21:00,Arena Premium 2,Fudbal,BiH - Katar,FIFA SVETSKO PRVENSTVO
 25.06.,00:00,Arena Premium 1,Fudbal,Škotska - Brazil,FIFA SVETSKO PRVENSTVO
 25.06.,00:00,Arena Premium 2,Fudbal,Maroko - Haiti,FIFA SVETSKO PRVENSTVO
+25.06.,02:00,Arena Premium 4,Košarka,Draft - Druga Runda,NBA
 25.06.,03:00,Arena Premium 1,Fudbal,Češka - Meksiko,FIFA SVETSKO PRVENSTVO
 25.06.,03:00,Arena Premium 2,Fudbal,Južna Afrika - Južna Koreja,FIFA SVETSKO PRVENSTVO
 25.06.,11:00,Arena Premium 5,Tenis,Četvrtfinale 1,WTA 500 - Bad Homburg
@@ -35,7 +39,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 25.06.,16:30,Arena Premium 2,Odbojka,Kina - Belgija,Liga Nacija
 25.06.,16:30,Arena Premium 4,Odbojka,Ukrajina - Italija,Liga Nacija
 25.06.,17:00,Arena Premium 5,Tenis,Četvrtfinale 4,WTA 500 - Bad Homburg
+25.06.,17:30,Arena Premium 1,Fudbal,Crvena zvezda – Amstetten,PRIJATELJSKE UTAKMICE
 25.06.,17:30,Arena Tenis,Tenis,Četvrtfinale 4,ATP 250 - Mallorca
+25.06.,17:30,Arena Sport 10,Fudbal,Crvena zvezda – Amstetten,PRIJATELJSKE UTAKMICE
 25.06.,18:00,Arena Sport 1,Bejzbol,Tampa Bay Rays - Kansas City Royals,Major League Baseball
 25.06.,18:00,Adrenalin,Moto Sport,Akropolj - Live Stage 1,WRC
 25.06.,20:00,Arena Premium 4,Odbojka,Poljska - Turska,Liga Nacija
@@ -60,8 +66,10 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.06.,15:30,Arena Sport 1,Tenis,Polufinale 2,WTA 500 - Bad Homburg
 26.06.,15:55,Adrenalin,Moto Sport,Austrija: Kvalifikacije,FORMULA 2
 26.06.,16:30,Arena Premium 2,Odbojka,Ukrajina - Kanada,Liga Nacija
+26.06.,17:00,Arena Premium 3,Fudbal,IMT – Borac Banja Luka,PRIJATELJSKE UTAKMICE
 26.06.,17:00,Arena Premium 4,Odbojka,Iran - Japan,Liga Nacija
 26.06.,17:00,Arena Premium 5,Tenis,Polufinale 2,ATP 250 - Eastbourne
+26.06.,17:00,Arena Sport 10,Fudbal,IMT – Borac Banja Luka,PRIJATELJSKE UTAKMICE
 26.06.,17:00,Adrenalin,Moto Sport,Austrija: Trening 2,FORMULA 1
 26.06.,17:30,Arena Tenis,Tenis,Polufinale 2,ATP 250 - Mallorca
 26.06.,18:00,Arena Sport 1,Atletika,76. Boris Hanzekovic Memorial,World Athletics Continental Tour
@@ -83,8 +91,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 27.06.,11:15,Arena Premium 4,Moto Sport,Holandija: Kvalifikacije 2,MOTO GP
 27.06.,12:30,Adrenalin,Moto Sport,Austrija: Trening 3,FORMULA 1
 27.06.,12:45,Arena Premium 4,Moto Sport,Holandija: Kvalifikacije 1,MOTO 3
+27.06.,13:00,Arena Premium 5,Tenis,Finale,WTA 250 - Eastbourne
 27.06.,13:10,Arena Premium 4,Moto Sport,Holandija: Kvalifikacije 2,MOTO 3
-27.06.,13:30,Arena Premium 5,Tenis,Finale,WTA 500 - Bad Homburg
+27.06.,13:30,Arena Sport 1,Tenis,Finale,WTA 500 - Bad Homburg
 27.06.,13:40,Arena Premium 4,Moto Sport,Holandija: Kvalifikacije 1,MOTO 2
 27.06.,14:00,Arena Sport 10,Konjički sport,Subotica - Subotička milja,KASAČKE TRKE
 27.06.,14:05,Arena Premium 4,Moto Sport,Holandija: Kvalifikacije 2,MOTO 2
@@ -93,10 +102,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 27.06.,15:00,Arena Premium 4,Moto Sport,Holandija: Sprint,MOTO GP
 27.06.,15:00,Arena Tenis,Tenis,Finale,ATP 250 - Mallorca
 27.06.,15:30,Arena Premium 5,Tenis,Finale,ATP 250 - Eastbourne
+27.06.,16:00,Arena Sport 2,Basket 3x3,"Portonovi FIBA Lite Quest 2K26, prvi dan",Montenegro 3x3 2k26
 27.06.,16:00,Adrenalin,Moto Sport,Austrija: Kvalifikacije,FORMULA 1
+27.06.,16:30,Arena Premium 3,Fudbal,Vojvodina – Ararat,PRIJATELJSKE UTAKMICE
 27.06.,17:00,Arena Premium 2,Odbojka,SAD - Japan,Liga Nacija
 27.06.,17:00,Arena Premium 4,Odbojka,Poljska - Nemačka,Liga Nacija
+27.06.,17:00,Arena Sport 3,Fudbal,Mačva – OFK Petrovac,PRIJATELJSKE UTAKMICE
 27.06.,18:00,Adrenalin,Moto Sport,Akropolj - Live Stage 3,WRC
+27.06.,19:00,Arena Premium 5,Američki fudbal,Finale: Thonon Black Panthers — Calanda Broncos,CENTRAL EUROPEAN FOOTBALL LEAGUE
 27.06.,20:00,Arena Premium 1,Košarka,"Valencia - Barcelona, finale G5*",ŠPANSKA LIGA
 27.06.,20:30,Arena Premium 2,Odbojka,Francuska - Srbija,Liga Nacija
 27.06.,20:30,Arena Premium 3,Odbojka,Slovenija - Brazil,Liga Nacija
@@ -119,19 +132,22 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.06.,13:30,Arena Premium 2,Odbojka,Iran - Kuba,Liga Nacija
 28.06.,14:00,Arena Premium 4,Moto Sport,Holandija: Trka,MOTO GP
 28.06.,14:15,Adrenalin,Moto Sport,Austrija: Trka,FORMULA 1
+28.06.,16:00,Arena Sport 2,Basket 3x3,"Portonovi FIBA Lite Quest 2K26, drugi dan",Montenegro 3x3 2k26
 28.06.,16:30,Arena Premium 2,Odbojka,Belgija - Turska,Liga Nacija
 28.06.,16:30,Arena Premium 4,Odbojka,Kanada - Brazil,Liga Nacija
+28.06.,18:00,Arena Premium 3,Fudbal,Čukarički – Olimpija,PRIJATELJSKE UTAKMICE
 28.06.,18:00,Arena Premium 5,Atletika,Pariz,DIJAMANTSKA LIGA
 28.06.,18:00,Arena Sport 1,Basket 3x3,SC Rakovica Beograd,BG U23 League
 28.06.,18:00,Arena Sport 10,Basket 3x3,SC Rakovica Beograd,BG U23 League
-28.06.,19:00,Arena Sport 2,Basket 3x3,Portonovi Lite Quest 2K26,Montenegro 3x3 2k26
 28.06.,20:30,Arena Premium 2,Odbojka,Srbija - SAD,Liga Nacija
 28.06.,20:30,Arena Premium 3,Odbojka,Slovenija - Italija,Liga Nacija
 28.06.,21:00,Arena Premium 1,Fudbal,2A-2B,FIFA SVETSKO PRVENSTVO
 28.06.,21:30,Adrenalin,Moto Sport,Sonoma,NASCAR CUP SERIES
-29.06.,12:00,Arena Premium 5,Tenis,"Teren 2, dan 1",WIMBLEDON
-29.06.,14:00,Arena Premium 4,Tenis,"Teren 1, dan 1",WIMBLEDON
+29.06.,12:00,Arena Sport 1,Tenis,"Teren 2, dan 1",WIMBLEDON
+29.06.,14:00,Arena Premium 5,Tenis,"Teren 1, dan 1",WIMBLEDON
 29.06.,14:30,Arena Tenis,Tenis,"Centralni teren, dan 1",WIMBLEDON
-29.06.,17:00,Arena Premium 2,Fudbal,Italija - Srbija,UEFA U19 Evropsko Prvenstvo
+29.06.,17:00,Arena Premium 3,Fudbal,Partizan – CSKA 1948,PRIJATELJSKE UTAKMICE
+29.06.,17:00,Arena Premium 4,Fudbal,Italija - Srbija,UEFA U19 Evropsko Prvenstvo
+29.06.,17:30,Arena Premium 2,Fudbal,Crvena zvezda – Slovan Bratislava,PRIJATELJSKE UTAKMICE
 29.06.,19:00,Arena Premium 1,Fudbal,1C-2F,FIFA SVETSKO PRVENSTVO
 29.06.,22:30,Arena Premium 1,Fudbal,1E- 3A,FIFA SVETSKO PRVENSTVO
