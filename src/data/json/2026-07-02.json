@@ -475,6 +475,20 @@
             "description": "snimak"
           },
           {
+            "content": "Crvena zvezda – Linz",
+            "time": "01:30",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Zemun – Borac Čačak",
+            "time": "03:30",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Skrivene priče Svetskog prvenstva EP13: Pakt iz Molinjona",
             "time": "05:45",
             "category": "",
@@ -860,30 +874,23 @@
           },
           {
             "content": "Vojvodina - Cluj",
-            "time": "11:00",
+            "time": "11:30",
             "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
             "description": "uzivo"
           },
           {
             "content": "New York - San Antonio, finale G4",
-            "time": "13:00",
+            "time": "13:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Srbija - Švajcarska",
-            "time": "15:30",
+            "time": "16:00",
             "category": "Svetsko prvenstvo - Kvalifikacije",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "MLB Plays of the Week",
-            "time": "17:30",
-            "category": "Major League Baseball",
-            "sport": "Bejzbol",
             "description": "snimak"
           },
           {
@@ -901,6 +908,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "22:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "BIH - Turska",
             "time": "22:30",
             "category": "Svetsko prvenstvo - Kvalifikacije",
@@ -912,10 +926,10 @@
       "2026-07-03": {
         "emisije": [
           {
-            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "content": "MLB Plays of the Week",
             "time": "00:30",
-            "category": "EVROLIGA",
-            "sport": "Košarka",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
             "description": "snimak"
           },
           {
@@ -954,43 +968,71 @@
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinale 1",
+            "content": "NBA Action",
             "time": "11:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Kanada - Australija",
+            "time": "11:30",
             "category": "FIBA U17 (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
-            "content": "Četvrtfinale 2",
-            "time": "13:45",
+            "content": "Košarka: EVROLIGA: Pregled sezone",
+            "time": "13:30",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "SAD - Portoriko",
+            "time": "14:15",
             "category": "FIBA U17 (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
-            "content": "Četvrtfinale 3",
+            "content": "Put Šampiona: Dubai",
             "time": "16:30",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Litvanija - Srbija",
+            "time": "17:00",
             "category": "FIBA U17 (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
-            "content": "Četvrtfinale 4",
-            "time": "19:15",
+            "content": "Put Šampiona: Olympiacos",
+            "time": "19:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Francuska - Turska",
+            "time": "19:45",
             "category": "FIBA U17 (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
             "content": "Švajcarska - Srbija",
-            "time": "21:30",
+            "time": "21:45",
             "category": "Svetsko prvenstvo - Kvalifikacije",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Ulaanbaatar, polufinala i finala",
-            "time": "23:30",
+            "time": "23:45",
             "category": "FIBA 3x3 World Tour",
             "sport": "Basket 3x3",
             "description": "snimak"
@@ -1001,15 +1043,8 @@
         "emisije": [
           {
             "content": "Denver - Minnesota, G5",
-            "time": "01:00",
+            "time": "01:15",
             "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Put Šampiona: Olympiacos",
-            "time": "03:00",
-            "category": "EVROLIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -1483,6 +1518,13 @@
             "description": "snimak"
           },
           {
+            "content": "Argentina - Alžir",
+            "time": "02:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Portugal - Hrvatska",
             "time": "04:00",
             "category": "FIFA SVETSKO PRVENSTVO",
@@ -1585,6 +1627,13 @@
             "description": "snimak"
           },
           {
+            "content": "Holandija - Maroko",
+            "time": "02:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Argentina - Zelenortska Ostrva",
             "time": "04:00",
             "category": "FIFA SVETSKO PRVENSTVO",
@@ -1594,6 +1643,13 @@
           {
             "content": "Ćavijev ubitačni dodir",
             "time": "08:00",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Neki drugi fudbal",
+            "time": "11:00",
             "category": "",
             "sport": "Dokumentarni film",
             "description": "snimak"
@@ -1670,6 +1726,13 @@
             "time": "09:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fudbalski monolozi",
+            "time": "11:00",
+            "category": "",
+            "sport": "Dokumentarni film",
             "description": "snimak"
           },
           {
@@ -6617,7 +6680,7 @@
             "description": "snimak"
           },
           {
-            "content": "Lokomotiv - CSKA",
+            "content": "Zenit - CSKA",
             "time": "22:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7378,7 +7441,7 @@
             "description": "snimak"
           },
           {
-            "content": "Carolina Hurricanes - Montreal Canadiens, G2",
+            "content": "Carolina Hurricanes - Montreal Canadiens, G1",
             "time": "19:00",
             "category": "NHL",
             "sport": "Hokej",
@@ -8239,11 +8302,11 @@
             "description": "snimak"
           },
           {
-            "content": "Zemun – Borac Čačak",
+            "content": "Crvena zvezda - BW Linz",
             "time": "15:00",
             "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
-            "description": "uzivo"
+            "description": "snimak"
           },
           {
             "content": "Železničar – Maribor",
@@ -8919,7 +8982,7 @@
             "description": "snimak"
           },
           {
-            "content": "Monako: Trka",
+            "content": "Austrija: Trka",
             "time": "08:00",
             "category": "Porsche Supercup",
             "sport": "Moto Sport",
