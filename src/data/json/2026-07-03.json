@@ -184,17 +184,24 @@
           },
           {
             "content": "Švajcarska - Alžir",
-            "time": "13:30",
+            "time": "13:15",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Marakana",
-            "time": "15:30",
+            "time": "15:15",
             "category": "",
             "sport": "Dokumentarni film",
             "description": "snimak"
+          },
+          {
+            "content": "Na licu mesta: pripreme Crvene zvezde",
+            "time": "16:30",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "uzivo"
           },
           {
             "content": "Crvena zvezda – Linz",
@@ -327,15 +334,8 @@
             "description": "uzivo"
           },
           {
-            "content": "Skrivene priče Svetskog prvenstva EP13: Pakt iz Molinjona",
-            "time": "21:45",
-            "category": "",
-            "sport": "Dokumentarni film",
-            "description": "snimak"
-          },
-          {
             "content": "Priče iz gradova: Filadelfija",
-            "time": "22:00",
+            "time": "21:45",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
@@ -770,7 +770,7 @@
           {
             "content": "Kanada - Australija",
             "time": "11:30",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
@@ -784,7 +784,7 @@
           {
             "content": "SAD - Portoriko",
             "time": "14:15",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
@@ -798,7 +798,7 @@
           {
             "content": "Litvanija - Srbija",
             "time": "17:00",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
@@ -812,7 +812,7 @@
           {
             "content": "Francuska - Turska",
             "time": "19:45",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
@@ -856,6 +856,13 @@
             "description": "snimak"
           },
           {
+            "content": "Litvanija - Srbija",
+            "time": "08:00",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Ulaanbaatar, polufinala i finala",
             "time": "10:00",
             "category": "FIBA 3x3 World Tour",
@@ -872,14 +879,14 @@
           {
             "content": "Polufinale 1",
             "time": "17:00",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
             "content": "Polufinale 2",
             "time": "20:00",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
@@ -1304,7 +1311,7 @@
             "description": "snimak"
           },
           {
-            "content": "Kolumbija - Portugal",
+            "content": "SAD - BiH",
             "time": "13:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
@@ -1371,7 +1378,7 @@
             "description": "snimak"
           },
           {
-            "content": "Holandija - Maroko",
+            "content": "Portugal - Hrvatska",
             "time": "02:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
@@ -1385,6 +1392,13 @@
             "description": "snimak"
           },
           {
+            "content": "Engleska - DR Kongo",
+            "time": "06:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Ćavijev ubitačni dodir",
             "time": "08:00",
             "category": "",
@@ -1392,10 +1406,24 @@
             "description": "snimak"
           },
           {
+            "content": "Holandija - Maroko",
+            "time": "09:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Neki drugi fudbal",
             "time": "11:00",
             "category": "",
             "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Francuska - Švedska",
+            "time": "13:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -1454,6 +1482,13 @@
           {
             "content": "Argentina - Zelenortska Ostrva",
             "time": "04:00",
+            "category": "FIFA SVETSKO PRVENSTVO",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Brazil - Japan",
+            "time": "06:00",
             "category": "FIFA SVETSKO PRVENSTVO",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1927,14 +1962,14 @@
           {
             "content": "Utakmica za 3.mesto",
             "time": "16:15",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           },
           {
             "content": "Finale",
             "time": "19:15",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "uzivo"
           }
@@ -2818,7 +2853,7 @@
             "description": "snimak"
           },
           {
-            "content": "Oni žive za fudbal ep. 235",
+            "content": "Oni žive za fudbal ep. 235 - OFK GOL",
             "time": "22:30",
             "category": "",
             "sport": "Fudbal",
@@ -2906,7 +2941,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Oni žive za fudbal ep. 235",
+            "content": "Oni žive za fudbal ep. 235 - OFK GOL",
             "time": "18:30",
             "category": "",
             "sport": "Fudbal",
@@ -5155,7 +5190,7 @@
           },
           {
             "content": "Švajcarska - Srbija",
-            "time": "20:00",
+            "time": "20:15",
             "category": "Svetsko prvenstvo - Kvalifikacije",
             "sport": "Košarka",
             "description": "snimak"
@@ -5244,7 +5279,7 @@
           {
             "content": "Utakmica za 3.mesto",
             "time": "22:00",
-            "category": "FIBA U17 (M)",
+            "category": "Svetsko Prvenstvo za kadete (U17) (M)",
             "sport": "Košarka",
             "description": "snimak"
           }
@@ -7415,7 +7450,7 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - BW Linz",
+            "content": "Crvena zvezda – Linz",
             "time": "15:00",
             "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
@@ -7436,7 +7471,7 @@
             "description": "snimak"
           },
           {
-            "content": "Oni žive za fudbal ep. 235",
+            "content": "Oni žive za fudbal ep. 235 - OFK GOL",
             "time": "21:30",
             "category": "",
             "sport": "Fudbal",
