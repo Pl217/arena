@@ -2609,6 +2609,13 @@
             "description": "snimak"
           },
           {
+            "content": "Ferencvaros - Vojvodina",
+            "time": "12:00",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Polufinale 1, žene",
             "time": "14:30",
             "category": "Nations Cup",
@@ -3551,32 +3558,11 @@
             "description": "snimak"
           },
           {
-            "content": "Celtic - Rangers",
-            "time": "14:00",
-            "category": "ŠKOTSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Tottenham - Manchester City",
-            "time": "16:00",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Novi Sad",
-            "time": "18:00",
+            "time": "15:00",
             "category": "BG U23 League",
             "sport": "Basket 3x3",
             "description": "uzivo"
-          },
-          {
-            "content": "Oni žive za fudbal ep. 236 - FK JEDINSTVO Konjevići, prvi deo",
-            "time": "22:00",
-            "category": "",
-            "sport": "Fudbal",
-            "description": "snimak"
           },
           {
             "content": "Oni žive za fudbal ep. 237 - FK JEDINSTVO Konjevići, drugi deo",
@@ -7396,7 +7382,7 @@
             "description": "snimak"
           },
           {
-            "content": "Sochi - Lokomotiv",
+            "content": "Lokomotiv - Sochi",
             "time": "15:00",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
@@ -7484,7 +7470,7 @@
             "description": "snimak"
           },
           {
-            "content": "Lokomotiv - Nizhny Novgorod",
+            "content": "Krasnodar - Lokomotiv",
             "time": "15:00",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
@@ -7572,7 +7558,7 @@
             "description": "snimak"
           },
           {
-            "content": "Lokomotiv - Akhmat",
+            "content": "Lokomotiv - Spartak",
             "time": "15:00",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
@@ -8139,17 +8125,24 @@
             "description": "snimak"
           },
           {
-            "content": "Carolina Hurricanes - Las Vegas Golden Knights, Finale G5",
+            "content": "The 153rd Open Official Film 2025",
             "time": "10:00",
-            "category": "NHL",
-            "sport": "Hokej",
+            "category": "",
+            "sport": "Golf",
             "description": "snimak"
           },
           {
-            "content": "Denver - Detroit",
-            "time": "12:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "content": "THE 154TH OPEN - Dan 1",
+            "time": "11:00",
+            "category": "MAJORS",
+            "sport": "Golf",
+            "description": "uzivo"
+          },
+          {
+            "content": "Specijal: Rory McIlroy at the Melbourne Sandbelt",
+            "time": "13:00",
+            "category": "",
+            "sport": "Golf",
             "description": "snimak"
           },
           {
@@ -8175,14 +8168,7 @@
           },
           {
             "content": "Bejzbol: MLB: All Star",
-            "time": "20:00",
-            "category": "Major League Baseball",
-            "sport": "Bejzbol",
-            "description": "snimak"
-          },
-          {
-            "content": "MLB Plays of the Week",
-            "time": "23:30",
+            "time": "21:30",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
@@ -8192,22 +8178,22 @@
       "2026-07-17": {
         "emisije": [
           {
+            "content": "MLB Plays of the Week",
+            "time": "01:00",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
             "content": "Tampa Bay Lightning - Florida Panthers",
-            "time": "00:00",
+            "time": "01:30",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
           },
           {
             "content": "Baltimore Ravnes - Detroit Lions",
-            "time": "02:00",
-            "category": "NFL",
-            "sport": "Američki fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Pregled nedelje Week 11",
-            "time": "04:30",
+            "time": "03:30",
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "snimak"
@@ -8227,18 +8213,18 @@
             "description": "snimak"
           },
           {
-            "content": "Las Vegas Golden Knights - Carolina Hurricanes, Finale G6",
+            "content": "Dokumentarni film: Heroes Classic",
             "time": "10:00",
-            "category": "NHL",
-            "sport": "Hokej",
+            "category": "",
+            "sport": "Golf",
             "description": "snimak"
           },
           {
-            "content": "Put Šampiona: Carolina Hurricanes",
-            "time": "12:30",
-            "category": "NHL",
-            "sport": "Hokej",
-            "description": "snimak"
+            "content": "THE 154TH OPEN - Dan 2",
+            "time": "11:00",
+            "category": "MAJORS",
+            "sport": "Golf",
+            "description": "uzivo"
           },
           {
             "content": "THE 154TH OPEN - Dan 1",
@@ -8256,14 +8242,14 @@
           },
           {
             "content": "Denver - Oklahoma",
-            "time": "20:00",
+            "time": "21:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Bejzbol: MLB: Home Run Derby",
-            "time": "22:00",
+            "time": "23:30",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
@@ -8274,21 +8260,14 @@
         "emisije": [
           {
             "content": "Carolina Hurricanes - Tampa Bay Lightning",
-            "time": "00:00",
+            "time": "01:30",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
           },
           {
             "content": "Arizona Cardinals - Seattle Seahawks",
-            "time": "02:00",
-            "category": "NFL",
-            "sport": "Američki fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Pregled nedelje Week 12",
-            "time": "04:30",
+            "time": "03:30",
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "snimak"
@@ -8344,14 +8323,14 @@
           },
           {
             "content": "Bejzbol: MLB: Home Run Derby",
-            "time": "20:00",
+            "time": "21:00",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
           },
           {
             "content": "Carolina Hurricanes - Las Vegas Golden Knights, Finale G5",
-            "time": "22:00",
+            "time": "23:00",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
@@ -8362,21 +8341,21 @@
         "emisije": [
           {
             "content": "Colorado Avalanche - Minnesota Wild",
-            "time": "00:00",
+            "time": "01:00",
             "category": "NHL",
             "sport": "Hokej",
             "description": "snimak"
           },
           {
             "content": "Pittsburgh Steelers - Minnesota Vikings",
-            "time": "02:00",
+            "time": "03:00",
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "snimak"
           },
           {
             "content": "Pregled nedelje Week 13",
-            "time": "04:30",
+            "time": "05:30",
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "snimak"
@@ -10228,22 +10207,22 @@
           },
           {
             "content": "Nemačka: Trka",
-            "time": "19:30",
-            "category": "MOTO 3",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Nemačka: Trka",
-            "time": "20:30",
+            "time": "19:45",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Nemačka: Trka",
-            "time": "21:45",
+            "time": "21:00",
             "category": "MOTO GP",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "San Diego",
+            "time": "23:00",
+            "category": "NASCAR CUP SERIES",
             "sport": "Moto Sport",
             "description": "snimak"
           }
@@ -10251,13 +10230,6 @@
       },
       "2026-07-18": {
         "emisije": [
-          {
-            "content": "San Diego",
-            "time": "00:00",
-            "category": "NASCAR CUP SERIES",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
           {
             "content": "Kildare - Round 3",
             "time": "03:30",
@@ -10520,28 +10492,6 @@
             "category": "FORMULA REGIONAL",
             "sport": "Moto Sport",
             "description": "snimak"
-          }
-        ]
-      }
-    }
-  },
-  "Arena 1X2": {
-    "days": {
-      "2026-07-17": {
-        "emisije": [
-          {
-            "content": "Četvrtfinale 1, žene",
-            "time": "14:45",
-            "category": "Nations Cup",
-            "sport": "Odbojka na pesku",
-            "description": "uzivo"
-          },
-          {
-            "content": "Četvrtfinale 2, žene",
-            "time": "17:00",
-            "category": "Nations Cup",
-            "sport": "Odbojka na pesku",
-            "description": "uzivo"
           }
         ]
       }
