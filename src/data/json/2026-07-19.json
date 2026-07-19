@@ -846,7 +846,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Finale",
+            "content": "Finale: SAD - Španija",
             "time": "04:10",
             "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
             "sport": "Košarka",
@@ -2635,6 +2635,13 @@
             "description": "snimak"
           },
           {
+            "content": "Finale",
+            "time": "19:00",
+            "category": "FIBA U20 Evropsko prvenstvo",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
             "content": "Pregled sezone",
             "time": "21:00",
             "category": "ITALIJANSKA LIGA",
@@ -4411,32 +4418,25 @@
             "description": "snimak"
           },
           {
-            "content": "Utakmica za 3.mesto",
-            "time": "17:15",
-            "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
-            "sport": "Košarka",
-            "description": "uzivo"
+            "content": "Napoli - Juventus",
+            "time": "17:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Pregled 11. kola",
-            "time": "19:15",
+            "time": "21:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Full Impact ep. 11",
-            "time": "19:45",
+            "time": "21:30",
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Finale",
-            "time": "20:15",
-            "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
-            "sport": "Košarka",
-            "description": "uzivo"
           },
           {
             "content": "Betis - Atletico",
@@ -5122,44 +5122,30 @@
             "description": "snimak"
           },
           {
+            "content": "Utakmica za 3.mesto: Kanada - Australija",
+            "time": "17:15",
+            "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
+            "content": "Finale: SAD - Španija",
+            "time": "20:15",
+            "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
+            "sport": "Košarka",
+            "description": "uzivo"
+          },
+          {
             "content": "Pregled 6. kola",
-            "time": "17:00",
+            "time": "22:30",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Bundesliga specijal: Harry Kane",
-            "time": "17:30",
+            "time": "23:00",
             "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Bayern - Union Berlin",
-            "time": "18:00",
-            "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Pregled 1. kola",
-            "time": "20:00",
-            "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Serijal: The Last Train to North America (2026) ep. 4",
-            "time": "21:00",
-            "category": "FIFA SVETSKO PRVENSTVO",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Le Havre - Metz",
-            "time": "21:30",
-            "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -6376,6 +6362,13 @@
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Vardar - KuPS",
+            "time": "17:00",
+            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       }
@@ -6738,7 +6731,7 @@
             "description": "snimak"
           },
           {
-            "content": "Utakmica za 3.mesto",
+            "content": "Utakmica za 3.mesto: Kanada - Australija",
             "time": "15:00",
             "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
             "sport": "Košarka",
@@ -6791,7 +6784,7 @@
             "description": "snimak"
           },
           {
-            "content": "Utakmica za 3.mesto",
+            "content": "Utakmica za 3.mesto: Kanada - Australija",
             "time": "11:00",
             "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
             "sport": "Košarka",
@@ -6805,7 +6798,7 @@
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Finale: SAD - Španija",
             "time": "15:00",
             "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
             "sport": "Košarka",
@@ -6865,7 +6858,7 @@
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Finale: SAD - Španija",
             "time": "11:00",
             "category": "Svetsko Prvenstvo za kadetkinje (U17) (Ž)",
             "sport": "Košarka",
@@ -10659,6 +10652,43 @@
             "time": "21:30",
             "category": "MOTO GP",
             "sport": "Moto Sport",
+            "description": "snimak"
+          }
+        ]
+      }
+    }
+  },
+  "Arena 1X2": {
+    "days": {
+      "2026-07-19": {
+        "emisije": [
+          {
+            "content": "Utakmica za treće mesto",
+            "time": "16:30",
+            "category": "FIBA U20 Evropsko prvenstvo",
+            "sport": "Košarka",
+            "description": "uzivo"
+          }
+        ]
+      },
+      "2026-07-22": {
+        "emisije": [
+          {
+            "content": "Sturm - Hearts",
+            "time": "18:00",
+            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-07-23": {
+        "emisije": [
+          {
+            "content": "Brazil - Japan",
+            "time": "11:00",
+            "category": "Liga Nacija (Ž)",
+            "sport": "Odbojka",
             "description": "snimak"
           }
         ]
