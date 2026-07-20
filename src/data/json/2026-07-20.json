@@ -779,13 +779,6 @@
             "description": "snimak"
           },
           {
-            "content": "Kina - Brazil",
-            "time": "10:30",
-            "category": "Liga Nacija",
-            "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
             "content": "SAD - Poljska",
             "time": "12:30",
             "category": "Liga Nacija",
@@ -1079,14 +1072,14 @@
           },
           {
             "content": "Finala: 1. dan",
-            "time": "17:00",
+            "time": "17:45",
             "category": "Letnje državno prvenstvo",
             "sport": "Plivanje",
             "description": "uzivo"
           },
           {
             "content": "Turska - Kanada",
-            "time": "20:30",
+            "time": "21:00",
             "category": "Liga Nacija (Ž)",
             "sport": "Odbojka",
             "description": "snimak"
@@ -1413,18 +1406,32 @@
             "description": "snimak"
           },
           {
-            "content": "Brazil - Haiti",
-            "time": "20:30",
-            "category": "FIFA SVETSKO PRVENSTVO",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Posebna atmosfera",
-            "time": "22:30",
+            "time": "20:30",
             "category": "",
             "sport": "Dokumentarni film",
             "description": "snimak"
+          },
+          {
+            "content": "Skrivene priče Svetskog prvenstva EP11: Bajron Moreno - \"Pravednik\"",
+            "time": "21:30",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Skrivene priče Svetskog prvenstva EP14: Šeikova pravila",
+            "time": "21:45",
+            "category": "",
+            "sport": "Dokumentarni film",
+            "description": "snimak"
+          },
+          {
+            "content": "Brzopotezni šahovski turnir",
+            "time": "22:00",
+            "category": "6.МЕЂУНАРОДНИ ШАХОВСКИ ФЕСТИВАЛ",
+            "sport": "Šah",
+            "description": "uzivo"
           },
           {
             "content": "Larne - Crvena zvezda",
@@ -1617,9 +1624,9 @@
             "description": "snimak"
           },
           {
-            "content": "Paksi - Panathinaikos",
+            "content": "Beşiktaş - Midtjylland",
             "time": "20:00",
-            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
             "sport": "Fudbal",
             "description": "uzivo"
           },
@@ -2231,17 +2238,17 @@
           },
           {
             "content": "Monaco - Barcelona",
-            "time": "18:30",
+            "time": "18:15",
             "category": "EVROLIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "Zalgiris - Hapoel Tel Aviv",
-            "time": "20:30",
-            "category": "EVROLIGA",
-            "sport": "Košarka",
-            "description": "snimak"
+            "content": "Paksi - Panathinaikos",
+            "time": "20:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "uzivo"
           },
           {
             "content": "New York - San Antonio, finale G4",
@@ -7059,17 +7066,17 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinala",
+            "content": "Srbija - Slovenija",
             "time": "18:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Bugarska - Francuska",
             "time": "20:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7126,31 +7133,31 @@
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinala",
+            "content": "Runda 1",
             "time": "10:00",
             "category": "World Matchplay",
             "sport": "Pikado",
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinala",
+            "content": "Srbija - Slovenija",
             "time": "12:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
-            "description": "snimak"
-          },
-          {
-            "content": "Polufinala",
-            "time": "14:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
             "content": "Thuringer - Viborg, polufinale 1",
-            "time": "16:00",
+            "time": "14:00",
             "category": "EHF LIGA EVROPE (Ž)",
             "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Japan - Argentina",
+            "time": "15:30",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7179,22 +7186,15 @@
             "description": "snimak"
           },
           {
-            "content": "Grand Prix Final: Parovi - kratki program",
+            "content": "Grand Prix Final: Žene - kratki program",
             "time": "02:00",
             "category": "ISU GRAND PRIX",
             "sport": "Klizanje",
             "description": "snimak"
           },
           {
-            "content": "Grand Prix Final: Žene - kratki program",
-            "time": "03:00",
-            "category": "ISU GRAND PRIX",
-            "sport": "Klizanje",
-            "description": "snimak"
-          },
-          {
             "content": "Galatasaray - Eczacibasi",
-            "time": "04:00",
+            "time": "03:15",
             "category": "TURSKA LIGA Ž",
             "sport": "Odbojka",
             "description": "snimak"
@@ -7221,17 +7221,17 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinala",
+            "content": "Ukrajina - Nemačka",
             "time": "10:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Bugarska - Francuska",
             "time": "12:00",
-            "category": "World Matchplay",
-            "sport": "Pikado",
+            "category": "Liga Nacija",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7274,9 +7274,9 @@
       "2026-07-23": {
         "emisije": [
           {
-            "content": "Monako",
+            "content": "76. Boris Hanzekovic Memorial",
             "time": "00:00",
-            "category": "DIJAMANTSKA LIGA",
+            "category": "World Athletics Continental Tour",
             "sport": "Atletika",
             "description": "snimak"
           },
@@ -7324,14 +7324,14 @@
           },
           {
             "content": "Srbija - Nemačka",
-            "time": "10:00",
+            "time": "09:30",
             "category": "Liga Nacija",
             "sport": "Odbojka",
             "description": "snimak"
           },
           {
             "content": "Argentina - Italija",
-            "time": "12:00",
+            "time": "12:15",
             "category": "Liga Nacija",
             "sport": "Odbojka",
             "description": "snimak"
@@ -7432,9 +7432,9 @@
             "description": "snimak"
           },
           {
-            "content": "Mihalovce - Guardes, finale G1",
+            "content": "Kiel - Melsungen, finale",
             "time": "14:00",
-            "category": "EHF EUROCUP (Ž)",
+            "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",
             "description": "snimak"
           },
@@ -9285,7 +9285,7 @@
             "description": "snimak"
           },
           {
-            "content": "Partizan - Crvena zvezda, G1",
+            "content": "Crvena zvezda - Ilirija",
             "time": "18:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
@@ -9373,7 +9373,7 @@
             "description": "snimak"
           },
           {
-            "content": "Crvena zvezda - Ilirija",
+            "content": "Partizan - Crvena zvezda, G1",
             "time": "18:30",
             "category": "ABA LIGA",
             "sport": "Košarka",
@@ -9381,7 +9381,7 @@
           },
           {
             "content": "Borac - Krka",
-            "time": "20:00",
+            "time": "20:30",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -10646,17 +10646,6 @@
   },
   "Arena 1X2": {
     "days": {
-      "2026-07-19": {
-        "emisije": [
-          {
-            "content": "Utakmica za treće mesto",
-            "time": "16:30",
-            "category": "FIBA U20 Evropsko prvenstvo",
-            "sport": "Košarka",
-            "description": "uzivo"
-          }
-        ]
-      },
       "2026-07-22": {
         "emisije": [
           {
@@ -10664,17 +10653,6 @@
             "time": "18:00",
             "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
             "sport": "Fudbal",
-            "description": "snimak"
-          }
-        ]
-      },
-      "2026-07-23": {
-        "emisije": [
-          {
-            "content": "Brazil - Japan",
-            "time": "11:00",
-            "category": "Liga Nacija (Ž)",
-            "sport": "Odbojka",
             "description": "snimak"
           }
         ]
@@ -10687,6 +10665,20 @@
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "AZ Alkmaar - Olympiakos",
+            "time": "15:00",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "uzivo"
+          },
+          {
+            "content": "PSV Eindhoven - Villarreal",
+            "time": "18:00",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "uzivo"
           },
           {
             "content": "Luzern - Thun",
