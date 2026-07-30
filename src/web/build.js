@@ -71,8 +71,25 @@ const build = async () => {
           continue;
         }
 
-        const sport = em.sport ? em.sport.trim() : 'Ostalo';
-        const category = em.category ? em.category.trim() : 'Ostalo';
+        const sportRaw = em.sport ? em.sport.trim() : 'Ostalo';
+        const categoryRaw = em.category ? em.category.trim() : 'Ostalo';
+
+        const sportKey = sportRaw.toLowerCase();
+        const categoryKey = categoryRaw.toLowerCase();
+
+        if (!sportsAndLeagues[sportKey]) {
+          sportsAndLeagues[sportKey] = {
+            originalName: sportRaw,
+            leagues: {},
+          };
+        }
+
+        if (!sportsAndLeagues[sportKey].leagues[categoryKey]) {
+          sportsAndLeagues[sportKey].leagues[categoryKey] = categoryRaw;
+        }
+
+        const sport = sportsAndLeagues[sportKey].originalName;
+        const category = sportsAndLeagues[sportKey].leagues[categoryKey];
 
         const eventObj = {
           time: em.time,
@@ -84,10 +101,10 @@ const build = async () => {
         };
 
         if (eventObj.desc === 'uzivo') {
-          if (!sportsAndLeagues[sport]) {
-            sportsAndLeagues[sport] = new Set();
+          if (!sportsAndLeagues[sportKey].allLeagues) {
+            sportsAndLeagues[sportKey].allLeagues = new Set();
           }
-          sportsAndLeagues[sport].add(category);
+          sportsAndLeagues[sportKey].allLeagues.add(category);
 
           if (!eventsByDay[date]) {
             eventsByDay[date] = [];
@@ -109,8 +126,14 @@ const build = async () => {
   }
 
   const filters = {};
-  for (const sport in sportsAndLeagues) {
-    filters[sport] = [...sportsAndLeagues[sport]].toSorted((a, b) => {
+  for (const sportKey in sportsAndLeagues) {
+    const allLeagues = sportsAndLeagues[sportKey].allLeagues;
+    if (!allLeagues || allLeagues.size === 0) {
+      continue;
+    }
+
+    const originalSport = sportsAndLeagues[sportKey].originalName;
+    filters[originalSport] = [...allLeagues].toSorted((a, b) => {
       const normalize = (s) => s.replace(/(?<!\d\.?) LIGA$/i, ' 1. LIGA');
       return normalize(a).localeCompare(normalize(b), 'sr-Latn-RS');
     });

@@ -63,6 +63,33 @@
   }
 
   let savedFilters = JSON.parse(localStorage.getItem('tvFilters')) ?? {};
+
+  const migratedFilters = {};
+  for (const sport in savedFilters) {
+    const sportLower = sport.toLowerCase();
+    const migratedSportKey =
+      Object.keys(filters).find((k) => k.toLowerCase() === sportLower) || sport;
+    if (!migratedFilters[migratedSportKey]) {
+      migratedFilters[migratedSportKey] = {
+        all: savedFilters[sport].all,
+        leagues: {},
+      };
+    } else {
+      migratedFilters[migratedSportKey].all =
+        migratedFilters[migratedSportKey].all || savedFilters[sport].all;
+    }
+    for (const league in savedFilters[sport].leagues) {
+      const leagueLower = league.toLowerCase();
+      const migratedLeagueKey =
+        (filters[migratedSportKey] || []).find(
+          (k) => k.toLowerCase() === leagueLower
+        ) || league;
+      migratedFilters[migratedSportKey].leagues[migratedLeagueKey] =
+        savedFilters[sport].leagues[league];
+    }
+  }
+  savedFilters = migratedFilters;
+
   let savedFavorites = JSON.parse(localStorage.getItem('tvFavorites')) ?? [];
 
   const initialFavCount = savedFavorites.length;
@@ -74,7 +101,42 @@
     localStorage.setItem('tvFavorites', JSON.stringify(savedFavorites));
   }
 
-  let tvFilterMemory = JSON.parse(localStorage.getItem('tvFilterMemory'));
+  let tvFilterMemoryRaw = JSON.parse(localStorage.getItem('tvFilterMemory'));
+  let tvFilterMemory = null;
+  if (tvFilterMemoryRaw) {
+    tvFilterMemory = {};
+    for (const key in tvFilterMemoryRaw) {
+      if (key.startsWith('s:')) {
+        const sport = key.substring(2);
+        const sportLower = sport.toLowerCase();
+        const migratedSportKey =
+          Object.keys(filters).find((k) => k.toLowerCase() === sportLower) ||
+          sport;
+        tvFilterMemory[`s:${migratedSportKey}`] = tvFilterMemoryRaw[key];
+      } else if (key.startsWith('l:')) {
+        const parts = key.substring(2).split('|');
+        if (parts.length === 2) {
+          const sport = parts[0];
+          const league = parts[1];
+          const sportLower = sport.toLowerCase();
+          const leagueLower = league.toLowerCase();
+          const migratedSportKey =
+            Object.keys(filters).find((k) => k.toLowerCase() === sportLower) ||
+            sport;
+          const migratedLeagueKey =
+            (filters[migratedSportKey] || []).find(
+              (k) => k.toLowerCase() === leagueLower
+            ) || league;
+          tvFilterMemory[`l:${migratedSportKey}|${migratedLeagueKey}`] =
+            tvFilterMemoryRaw[key];
+        } else {
+          tvFilterMemory[key] = tvFilterMemoryRaw[key];
+        }
+      } else {
+        tvFilterMemory[key] = tvFilterMemoryRaw[key];
+      }
+    }
+  }
   let filterMemoryChanged = false;
 
   if (!tvFilterMemory) {
