@@ -194,6 +194,7 @@ body {
   margin-left: 6px;
   box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.7);
   animation: pulse-blue 1.5s infinite;
+  flex-shrink: 0;
 }
 
 .filter-league {
