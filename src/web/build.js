@@ -94,7 +94,7 @@ const build = async () => {
           }
           eventsByDay[date].push(eventObj);
         } else if (eventObj.desc === 'snimak') {
-          const matchKey = eventObj.content;
+          const matchKey = `${eventObj.sport}|${eventObj.category}|${eventObj.content}`;
           if (!recordingsByMatch[matchKey]) {
             recordingsByMatch[matchKey] = [];
           }

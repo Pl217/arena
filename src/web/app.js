@@ -713,7 +713,8 @@
       card.appendChild(timeEl);
       card.appendChild(detailsEl);
 
-      const recordings = recordingsByMatch[ev.content];
+      const recordings =
+        recordingsByMatch[`${ev.sport}|${ev.category}|${ev.content}`];
       if (recordings && recordings.length > 0) {
         card.classList.add('has-recordings');
 
