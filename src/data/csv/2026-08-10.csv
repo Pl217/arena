@@ -4,6 +4,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.08.,01:00,Arena Premium 5,Tenis,"Centralni teren, dan 6, popodnevna sesija",WTA 1000 - Toronto
 09.08.,02:00,Arena Premium 1,Fudbal,Botafogo - Fluminense,BRAZILSKA LIGA
 09.08.,04:00,Adrenalin,Boks,Cherneka Johnson vs Dina Thorslund,MVP 05
+09.08.,12:00,Arena Sport 2,Rukomet,Švedska - Srbija,EP U18
 09.08.,12:15,Arena Premium 3,Fudbal,Sparta - Feyenoord,HOLANDSKA LIGA
 09.08.,12:15,Adrenalin,Moto Sport,Velika Britanija: Trka,MOTO 2
 09.08.,13:00,Arena Premium 1,Fudbal,Manchester City - Atletico Madrid,PRIJATELJSKE UTAKMICE
@@ -23,14 +24,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.08.,16:30,Arena Premium 5,Fudbal,St. Gallen - Luzern,ŠVAJCARSKA LIGA
 09.08.,17:00,Arena Premium 1,Fudbal,Mansfield - Sheffield United,ENGLESKI LIGA KUP
 09.08.,17:00,Arena Premium 3,Fudbal,Rangers - Hibernian,ŠKOTSKA LIGA
-09.08.,17:00,Arena Sport 1,Rukomet,Meč za treće mesto,Evropsko prvenstvo U18 (M)
+09.08.,17:00,Arena Sport 1,Rukomet,"Španija - Danska, meč za treće mesto",Evropsko prvenstvo U18 (M)
 09.08.,17:00,Arena 1X2,Fudbal,WAC - Salzburg,AUSTRIJSKA LIGA
 09.08.,18:30,Arena Premium 5,Tenis,"Centralni teren, dan 7, prepodnevna sesija",WTA 1000 - Toronto
 09.08.,18:30,Arena Tenis,Tenis,"Centralni teren, dan 8, prepodnevna sesija",ATP 1000 - Montreal
 09.08.,19:00,Arena Premium 2,Fudbal,Austria Wien -  LASK,AUSTRIJSKA LIGA
+09.08.,19:00,Arena Sport 2,Fudbal,Spartak - Krasnodar,RUSKA LIGA
 09.08.,19:00,Arena Sport 7,Basket 3x3,II Stop: SC Rakovica Beograd,BG League
-09.08.,19:30,Arena Sport 1,Rukomet,Finale,Evropsko prvenstvo U18 (M)
-09.08.,19:30,Arena Sport 2,Fudbal,Spartak - Krasnodar,RUSKA LIGA
+09.08.,19:30,Arena Sport 1,Rukomet,Finale: Nemačka - Slovenija,Evropsko prvenstvo U18 (M)
 09.08.,19:30,Arena Sport 4,Fudbal,Rubin - Orenburg,RUSKA LIGA
 09.08.,19:35,Arena Sport 3,Bejzbol,Toronto Blue Jays - Philadelphia Phillies,Major League Baseball
 09.08.,21:00,Arena 1X2,Fudbal,Palmeiras - Internacional,BRAZILSKA LIGA
@@ -50,7 +51,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.08.,18:00,Arena Premium 3,Fudbal,Bodø/Glimt - Union Saint-Gilloise,UEFA LIGA ŠAMPIONA - Kvalifikacije
 11.08.,18:00,Arena Premium 4,Fudbal,Sabah - AGF,UEFA Liga Šampiona - Kvalifikacije
 11.08.,19:00,Arena Premium 1,Fudbal,Arena sa terena,UEFA Liga Šampiona - Kvalifikacije
-11.08.,19:00,Arena Premium 5,Fudbal,Apollon Limassol - Brann,UEFA Liga Konferencija - Kvalifikacije
+11.08.,19:00,Arena Premium 5,Fudbal,Apollon Limassol - Brann,UEFA LIGA ŠAMPIONA - Kvalifikacije
 11.08.,19:30,Arena Premium 2,Fudbal,NEC Nijmegen - Olympiacos,UEFA LIGA ŠAMPIONA - Kvalifikacije
 11.08.,20:00,Arena Premium 1,Fudbal,Crvena zvezda - Hapoel Be'er Sheva,UEFA LIGA ŠAMPIONA - Kvalifikacije
 11.08.,20:30,Arena Premium 4,Fudbal,Sturm - Fenerbahce,UEFA Liga Šampiona - Kvalifikacije
@@ -82,19 +83,20 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 13.08.,17:00,Arena Premium 1,Fudbal,Tobol - Partizan,UEFA LIGA KONFERENCIJA - Kvalifikacije
 13.08.,18:20,Arena Sport 7,Rukomet,Sporting - Qatar,DOBOJ 2026
 13.08.,19:00,Arena Premium 2,Fudbal,Pafos - Salzburg,UEFA LIGA EVROPE - Kvalifikacije
-13.08.,19:00,Arena Premium 4,Fudbal,Besiktas - Hradec Kralove / Gornik - Ferencvaros,UEFA Liga Evrope - Kvalifikacije
-13.08.,19:00,Arena Sport 2,Fudbal,Dinamo Minsk - Braga,UEFA Liga Konferencija - Kvalifikacije
+13.08.,19:00,Arena Premium 4,Fudbal,Besiktas - Hradec Kralove,UEFA LIGA EVROPE - Kvalifikacije
+13.08.,19:00,Arena Sport 2,Fudbal,Vitebsk - Borac,UEFA LIGA KONFERENCIJA - Kvalifikacije
 13.08.,19:30,Arena Premium 5,Fudbal,KI Klasvik - Lech,UEFA Liga Evrope - Kvalifikacije
 13.08.,20:20,Arena Sport 7,Rukomet,Melsungen - Al Ahly,DOBOJ 2026
 13.08.,20:30,Arena Premium 1,Fudbal,Anderlecht - PAOK,UEFA LIGA EVROPE - Kvalifikacije
-13.08.,20:30,Arena Premium 3,Fudbal,Rangers - Jagiellonia,UEFA Liga Evrope - Kvalifikacije
-13.08.,20:30,Arena Sport 1,Fudbal,Gent - Goteborg / Motherwell - Helsinki,UEFA Liga Konferencija - Kvalifikacije
+13.08.,20:30,Arena Premium 3,Fudbal,Rangers - Jagiellonia,UEFA LIGA EVROPE - Kvalifikacije
+13.08.,20:30,Arena Sport 1,Fudbal,Gent - Göteborg,UEFA LIGA KONFERENCIJA - Kvalifikacije
 13.08.,21:30,Arena Tenis,Tenis,Finale dubl,WTA 1000 - Toronto
 13.08.,23:30,Arena Tenis,Tenis,Finale dubl,ATP 1000 - Montreal
 14.08.,00:00,Arena Premium 1,Fudbal,Mirassol - Quito,COPA LIBERTADORES
 14.08.,00:00,Arena Premium 5,Tenis,Finale,WTA 1000 - Toronto
 14.08.,02:00,Arena Tenis,Tenis,Finale,ATP 1000 - Montreal
 14.08.,02:30,Arena Premium 1,Fudbal,Rosario - Corinthians,COPA LIBERTADORES
+14.08.,08:00,Arena Sport 5,Pikado,Dan 1,New Zealand Darts Master
 14.08.,16:00,Arena Premium 2,Fudbal,Orenburg - Lokomotiv,RUSKA LIGA
 14.08.,16:00,Arena Premium 4,Basket 3x3,"Lozana, grupna faza",FIBA 3x3 World Tour
 14.08.,17:00,Arena Tenis,Tenis,"Centralni teren, dan 1, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
@@ -115,6 +117,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 14.08.,21:00,Arena Premium 1,Fudbal,Wolverhampton - Blackburn,CHAMPIONSHIP
 14.08.,21:15,Arena Premium 2,Fudbal,Fiorentina - Benevento/Ravenna,ITALIJANSKI KUP
 15.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 1, popodnevna sesija",ATP/WTA 1000 - Cincinnati
+15.08.,08:00,Arena Sport 5,Pikado,Dan 2,New Zealand Darts Master
 15.08.,13:00,Arena Premium 2,Fudbal,Hertha - Heidenheim,NEMAČKA 2. LIGA
 15.08.,13:00,Arena Premium 3,Fudbal,Greuter Furth - Nurnberg,NEMAČKA 2. LIGA
 15.08.,13:00,Arena Premium 4,Fudbal,Rodina - Akron,RUSKA LIGA
