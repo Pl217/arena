@@ -40,7 +40,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 13.08.,01:00,Arena Premium 5,Tenis,Polufinale 1,WTA 1000 - Toronto
 13.08.,02:00,Arena Tenis,Tenis,Polufinale 2,ATP 1000 - Montreal
 13.08.,02:30,Arena Premium 1,Fudbal,Cruzeiro - Flamengo,COPA LIBERTADORES
-13.08.,02:30,Arena Premium 2,Fudbal,Independiente Santa Fe - River Plate,COPA SUDAMERICANA
 13.08.,03:00,Arena Premium 5,Tenis,Polufinale 2,WTA 1000 - Toronto
 13.08.,12:00,Arena Premium 1,,Konferencija za medije,Košarkaški Savez Srbije
 13.08.,17:00,Arena Premium 1,Fudbal,Tobol - Partizan,UEFA LIGA KONFERENCIJA - Kvalifikacije
@@ -63,9 +62,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 14.08.,16:00,Arena Premium 2,Fudbal,Orenburg - Lokomotiv,RUSKA LIGA
 14.08.,16:00,Arena Premium 4,Basket 3x3,"Lozana, grupna faza",FIBA 3x3 World Tour
 14.08.,17:00,Arena Tenis,Tenis,"Centralni teren, dan 1, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
-14.08.,18:00,Arena Premium 1,Fudbal,Parma - Vicenza/Catania,ITALIJANSKI KUP
+14.08.,18:00,Arena Premium 1,Fudbal,Parma - Catania,ITALIJANSKI KUP
 14.08.,18:20,Arena Sport 7,Rukomet,Sloga - Melsungen,DOBOJ 2026
-14.08.,18:30,Arena Premium 2,Fudbal,Cagliari - Arezzo/Brescia,ITALIJANSKI KUP
+14.08.,18:30,Arena Premium 2,Fudbal,Cagliari - Arezzo,ITALIJANSKI KUP
 14.08.,18:30,Arena Premium 3,Fudbal,E. Braunschweig - Bochum,NEMAČKA 2. LIGA
 14.08.,18:30,Arena Premium 5,Fudbal,Kiel - St. Pauli,NEMAČKA 2. LIGA
 14.08.,19:00,Arena Sport 3,Fudbal,Viborg - AGF,DANSKA LIGA
@@ -78,13 +77,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 14.08.,20:45,Arena Sport 2,Fudbal,Saint-Etienne - Clermont,FRANCUSKA 2. LIGA
 14.08.,20:45,Arena 1X2,Fudbal,Kilmarnock - Ayr United,ŠKOTSKI LIGA KUP
 14.08.,21:00,Arena Premium 1,Fudbal,Wolverhampton - Blackburn,CHAMPIONSHIP
-14.08.,21:15,Arena Premium 2,Fudbal,Fiorentina - Benevento/Ravenna,ITALIJANSKI KUP
+14.08.,21:15,Arena Premium 2,Fudbal,Fiorentina - Benevento,ITALIJANSKI KUP
 15.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 1, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 15.08.,08:00,Arena Sport 5,Pikado,Dan 2,New Zealand Darts Master
 15.08.,13:00,Arena Premium 2,Fudbal,Hertha - Heidenheim,NEMAČKA 2. LIGA
 15.08.,13:00,Arena Premium 3,Fudbal,Greuter Furth - Nurnberg,NEMAČKA 2. LIGA
 15.08.,13:00,Arena Premium 4,Fudbal,Rodina - Akron,RUSKA LIGA
 15.08.,13:30,Arena Premium 1,Fudbal,Notts County - Leicester,LEAGUE ONE
+15.08.,13:30,Arena Sport 6,Odbojka na pesku,Polufinala (Ž),Evropsko prvenstvo
 15.08.,13:30,Adrenalin,Moto Sport,Nurburgring: Trka 1,DTM
 15.08.,14:45,Arena 1X2,Fudbal,Zaglebie - Slask,POLJSKA LIGA
 15.08.,15:15,Arena Premium 2,Fudbal,CSKA - Fakel,RUSKA LIGA
@@ -122,6 +122,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 2, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 16.08.,01:00,Adrenalin,Moto Sport,Richmond,NASCAR CUP SERIES
 16.08.,02:15,Arena Premium 1,Fudbal,Platense - Boca Juniors,ARGENTINSKA LIGA
+16.08.,11:00,Arena Sport 6,Odbojka na pesku,Polufinala (M),Evropsko prvenstvo
 16.08.,12:00,Arena Sport 8,Golf,"Danish Golf Championship, finalni dan",DP WORLD TOUR
 16.08.,13:30,Arena Premium 1,Fudbal,Zenit - Dinamo,RUSKA LIGA
 16.08.,13:30,Arena Premium 4,Fudbal,Hannover - Wolfsburg,NEMAČKA 2. LIGA
@@ -129,6 +130,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.08.,13:30,Adrenalin,Moto Sport,Nurburgring: Trka 2,DTM
 16.08.,14:30,Arena Premium 2,Fudbal,Watford - Southampton,CHAMPIONSHIP
 16.08.,14:30,Arena Premium 3,Fudbal,Feyenoord - GA Eagles,HOLANDSKA LIGA
+16.08.,14:45,Arena Sport 6,Odbojka na pesku,Finale (Ž),Evropsko prvenstvo
 16.08.,16:00,Arena Premium 1,Fudbal,Arsenal - Manchester City,COMMUNITY SHIELD
 16.08.,16:00,Arena Premium 4,Fudbal,Krylya Sovetov - Dinamo Makhachkala,RUSKA LIGA
 16.08.,16:45,Arena Sport 3,Fudbal,Ajax - Heerenveen,HOLANDSKA LIGA
@@ -139,8 +141,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.08.,17:00,Arena Sport 1,Fudbal,Rangers - St Mirren,ŠKOTSKI LIGA KUP
 16.08.,17:00,Arena Sport 4,Fudbal,Newcastle United - Strasbourg,PRIJATELJSKE UTAKMICE
 16.08.,17:00,Arena Sport 5,Fudbal,Tirol - Salzburg,AUSTRIJSKA LIGA
+16.08.,17:15,Arena Sport 6,Odbojka na pesku,Finale (M),Evropsko prvenstvo
 16.08.,18:30,Arena Premium 4,Fudbal,Baltika - Spartak,RUSKA LIGA
-16.08.,18:30,Arena Sport 2,Fudbal,Genova - Ascoli/Potenza,ITALIJANSKI KUP
+16.08.,18:30,Arena Sport 2,Fudbal,Genova - Ascoli,ITALIJANSKI KUP
 16.08.,19:00,Arena Premium 2,Fudbal,Espanyol - Levante,ŠPANSKA LIGA
 16.08.,19:00,Arena Premium 3,Fudbal,Girona - Leganes,ŠPANSKA 2. LIGA
 16.08.,19:00,Arena Sport 5,Basket 3x3,III Stop: SC Rakovica Beograd,BG League
