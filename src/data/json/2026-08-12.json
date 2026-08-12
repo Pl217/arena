@@ -148,15 +148,22 @@
             "description": "snimak"
           },
           {
-            "content": "Arsenal - Borussia Dortmund",
-            "time": "14:00",
+            "content": "Manchester City - Atletico Madrid",
+            "time": "13:30",
             "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "NEC Nijmegen - Olympiacos",
-            "time": "16:00",
+            "content": "Arsenal - Borussia Dortmund",
+            "time": "14:30",
+            "category": "PRIJATELJSKE UTAKMICE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Lyon - Sparta",
+            "time": "16:15",
             "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
             "sport": "Fudbal",
             "description": "snimak"
@@ -820,6 +827,27 @@
       },
       "2026-08-13": {
         "emisije": [
+          {
+            "content": "Al Ahly - Sloga",
+            "time": "01:00",
+            "category": "DOBOJ 2026",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled polufinala i finala",
+            "time": "02:30",
+            "category": "EHF LIGA EVROPE",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Qatar - RD Grosist Slovan",
+            "time": "03:00",
+            "category": "DOBOJ 2026",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
           {
             "content": "Košarka: EVROLIGA: Pregled 29. kola",
             "time": "05:00",
@@ -3897,7 +3925,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Oni žive za fudbal ep. 241",
+            "content": "Oni žive za fudbal ep. 241 - FK Crvena zvezda Novi Sad, prvi deo",
             "time": "22:30",
             "category": "",
             "sport": "Fudbal",
@@ -4168,7 +4196,7 @@
             "description": "snimak"
           },
           {
-            "content": "Oni žive za fudbal ep. 241",
+            "content": "Oni žive za fudbal ep. 241 - FK Crvena zvezda Novi Sad, prvi deo",
             "time": "23:00",
             "category": "",
             "sport": "Fudbal",
@@ -6257,6 +6285,27 @@
             "category": "UEFA LIGA EVROPE",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Barcelona - Copenhagen",
+            "time": "06:00",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Freiburg - Genk",
+            "time": "08:00",
+            "category": "UEFA LIGA EVROPE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Ajax - Shelbourne",
+            "time": "10:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       }
@@ -7316,6 +7365,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Polufinala (Ž)",
+            "time": "21:00",
+            "category": "Evropsko prvenstvo",
+            "sport": "Odbojka na pesku",
+            "description": "snimak"
+          },
+          {
             "content": "Partizan - Jagodina",
             "time": "23:00",
             "category": "SUPERLIGA SRBIJE Ž",
@@ -7882,6 +7938,13 @@
           {
             "content": "Meč za 3. mesto",
             "time": "18:20",
+            "category": "DOBOJ 2026",
+            "sport": "Rukomet",
+            "description": "uzivo"
+          },
+          {
+            "content": "Uključenje sa terena",
+            "time": "20:05",
             "category": "DOBOJ 2026",
             "sport": "Rukomet",
             "description": "uzivo"
@@ -9110,7 +9173,7 @@
             "description": "snimak"
           },
           {
-            "content": "Oni žive za fudbal ep. 241",
+            "content": "Oni žive za fudbal ep. 241 - FK Crvena zvezda Novi Sad, prvi deo",
             "time": "20:30",
             "category": "",
             "sport": "Fudbal",
@@ -10296,6 +10359,17 @@
   },
   "Arena 1X2": {
     "days": {
+      "2026-08-12": {
+        "emisije": [
+          {
+            "content": "NEC Nijmegen - Olympiacos",
+            "time": "16:00",
+            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          }
+        ]
+      },
       "2026-08-14": {
         "emisije": [
           {
