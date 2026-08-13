@@ -1029,13 +1029,6 @@
             "description": "snimak"
           },
           {
-            "content": "VI Stop: SC Rakovica Beograd",
-            "time": "11:00",
-            "category": "BG U23 League",
-            "sport": "Basket 3x3",
-            "description": "snimak"
-          },
-          {
             "content": "Richmond",
             "time": "15:00",
             "category": "NASCAR CUP SERIES",
@@ -1103,9 +1096,9 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled 2. kola",
+            "content": "Najava sezone",
             "time": "23:00",
-            "category": "HOLANDSKA LIGA",
+            "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -2458,6 +2451,13 @@
             "category": "ŠPANSKA 2. LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "Mirassol - Quito",
+            "time": "22:30",
+            "category": "COPA LIBERTADORES",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       },
@@ -3427,9 +3427,9 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - St. Mirren",
+            "content": "Real Betis - Bournemouth",
             "time": "06:00",
-            "category": "ŠKOTSKA LIGA",
+            "category": "PRIJATELJSKE UTAKMICE",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -3522,7 +3522,7 @@
             "description": "snimak"
           },
           {
-            "content": "Celtic - Dundee",
+            "content": "Kilmarnock - Celtic",
             "time": "04:00",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -3757,6 +3757,13 @@
             "content": "Arsenal - Manchester City",
             "time": "18:00",
             "category": "COMMUNITY SHIELD",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Burnley - West Ham",
+            "time": "21:00",
+            "category": "CHAMPIONSHIP",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -5850,6 +5857,55 @@
             "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Liga Šampiona: Pregled sezone",
+            "time": "12:00",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Olympiacos - NEC Nijmegen",
+            "time": "13:00",
+            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "NEC Nijmegen - Olympiacos",
+            "time": "15:00",
+            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Panathinaikos - CSKA 1948",
+            "time": "17:30",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 241 - FK Crvena zvezda Novi Sad, prvi deo",
+            "time": "19:30",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Anderlecht - PAOK",
+            "time": "20:00",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "PAOK - Anderlecht",
+            "time": "22:00",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
           }
         ]
       },
@@ -5893,6 +5949,55 @@
           {
             "content": "Anderlecht - PAOK",
             "time": "10:00",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fudbalsko lice nacije: Varšava",
+            "time": "12:00",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "GKS Katowice - Hapoel Tel-Aviv",
+            "time": "13:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - Strassen",
+            "time": "15:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Strassen - Partizan",
+            "time": "17:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Liga Konferencija, pregled sezone",
+            "time": "19:00",
+            "category": "UEFA LIGA EVROPE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Vitebsk - Borac",
+            "time": "20:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Ferencvaros - Vojvodina",
+            "time": "22:00",
             "category": "UEFA LIGA EVROPE - Kvalifikacije",
             "sport": "Fudbal",
             "description": "snimak"
@@ -6124,29 +6229,29 @@
             "description": "snimak"
           },
           {
-            "content": "Dan 1",
-            "time": "08:00",
-            "category": "New Zealand Darts Master",
-            "sport": "Pikado",
-            "description": "uzivo"
-          },
-          {
             "content": "Košarka: EVROLIGA: Pregled 19. kola",
-            "time": "12:00",
+            "time": "08:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
+            "content": "Dan 1 - osmina finala",
+            "time": "09:00",
+            "category": "New Zealand Darts Master",
+            "sport": "Pikado",
+            "description": "uzivo"
+          },
+          {
             "content": "Panathinaikos - Kolossos",
-            "time": "12:45",
+            "time": "13:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Vechta - Alba, G3",
-            "time": "14:30",
+            "time": "14:45",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -6212,36 +6317,36 @@
             "description": "snimak"
           },
           {
-            "content": "Dan 2",
-            "time": "08:00",
-            "category": "New Zealand Darts Master",
-            "sport": "Pikado",
-            "description": "uzivo"
-          },
-          {
             "content": "Košarka: EVROLIGA: Pregled 20. kola",
-            "time": "12:00",
+            "time": "08:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
+            "content": "Dan 2 - četvrtfinala, polufinala i finale",
+            "time": "09:00",
+            "category": "New Zealand Darts Master",
+            "sport": "Pikado",
+            "description": "uzivo"
+          },
+          {
             "content": "Panathinaikos - AEK",
-            "time": "12:45",
+            "time": "13:00",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Trier - Bayern, G3",
-            "time": "14:30",
+            "time": "14:45",
             "category": "NEMAČKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Besiktas - Efes",
-            "time": "16:30",
+            "time": "16:45",
             "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -6279,9 +6384,16 @@
             "description": "snimak"
           },
           {
-            "content": "VI Stop: SC Rakovica Beograd",
+            "content": "Ulaanbaatar, polufinala i finala",
             "time": "03:00",
-            "category": "BG U23 League",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Marsej, polufinala i finale",
+            "time": "04:30",
+            "category": "FIBA 3x3 World Tour",
             "sport": "Basket 3x3",
             "description": "snimak"
           },
@@ -6381,6 +6493,13 @@
             "description": "snimak"
           },
           {
+            "content": "Košarka: EVROLIGA: Pregled 22. kola",
+            "time": "10:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Le Mans - Nanterre, G2",
             "time": "11:00",
             "category": "FRANCUSKA LIGA",
@@ -6402,6 +6521,27 @@
             "description": "snimak"
           },
           {
+            "content": "III Stop: SC Rakovica Beograd",
+            "time": "16:30",
+            "category": "BG League",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Lozana, četvrtfinala",
+            "time": "19:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Lozana, polufinala i finale",
+            "time": "21:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
             "content": "Virtus Bologna - Milano",
             "time": "23:00",
             "category": "ITALIJANSKA LIGA",
@@ -6420,6 +6560,20 @@
             "description": "snimak"
           },
           {
+            "content": "Utsunomiya, polufinala i finale",
+            "time": "03:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Čengdu, polufinala i finale",
+            "time": "04:30",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
             "content": "Trento - Ulm",
             "time": "06:00",
             "category": "EVROKUP",
@@ -6429,6 +6583,13 @@
           {
             "content": "Crvena zvezda - Panathinaikos",
             "time": "08:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Košarka: EVROLIGA: Pregled 23. kola",
+            "time": "10:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -7118,7 +7279,7 @@
             "description": "snimak"
           },
           {
-            "content": "UNICS - Parma",
+            "content": "Zenit - Lokomotiv",
             "time": "23:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
@@ -7442,13 +7603,6 @@
             "description": "snimak"
           },
           {
-            "content": "UNICS - CSKA",
-            "time": "19:00",
-            "category": "VTB LIGA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
             "content": "Zenit - Dinamo",
             "time": "21:00",
             "category": "RUSKA LIGA",
@@ -7495,16 +7649,72 @@
             "description": "snimak"
           },
           {
-            "content": "Zenit - Lokomotiv",
-            "time": "23:00",
+            "content": "Baltika - Spartak",
+            "time": "11:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "CSKA - Fakel",
+            "time": "13:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "UNICS - CSKA",
+            "time": "15:00",
             "category": "VTB LIGA",
             "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Zenit - Dinamo",
+            "time": "18:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "CSKA - Enisey, G1",
+            "time": "20:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 231 - FK MSK, prvi deo",
+            "time": "22:00",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 232 - FK MSK, drugi deo",
+            "time": "22:30",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Krasnodar - Akhmat",
+            "time": "23:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
           }
         ]
       },
       "2026-08-18": {
         "emisije": [
+          {
+            "content": "Rostov - Rubin",
+            "time": "01:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
           {
             "content": "Lokomotiv - Avangard, PF1 G7",
             "time": "03:00",
@@ -7520,10 +7730,66 @@
             "description": "snimak"
           },
           {
-            "content": "Leningradka - Dinamo Kazan",
-            "time": "08:00",
+            "content": "Tulitsa - Dinamo Kazan",
+            "time": "09:00",
             "category": "RUSKA LIGA (Ž)",
             "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Krylya Sovetov - Dinamo Makhachkala",
+            "time": "11:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Krasnodar - Akhmat",
+            "time": "13:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Zenit - Lokomotiv",
+            "time": "15:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Rostov - Rubin",
+            "time": "18:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "CSKA - Enisey, G2",
+            "time": "20:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 233 - FK POLET Nikinci, prvi deo",
+            "time": "22:00",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 234 - FK POLET Nikinci, drugi deo",
+            "time": "22:30",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Baltika - Spartak",
+            "time": "23:00",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
           }
         ]
@@ -9553,17 +9819,6 @@
   },
   "Arena 1X2": {
     "days": {
-      "2026-08-12": {
-        "emisije": [
-          {
-            "content": "NEC Nijmegen - Olympiacos",
-            "time": "16:00",
-            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
-            "sport": "Fudbal",
-            "description": "snimak"
-          }
-        ]
-      },
       "2026-08-14": {
         "emisije": [
           {
