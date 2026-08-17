@@ -9,6 +9,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.08.,13:30,Arena Premium 4,Fudbal,Hannover - Wolfsburg,NEMAČKA 2. LIGA
 16.08.,13:30,Arena Premium 5,Fudbal,Dresden - Darmstadt,NEMAČKA 2. LIGA
 16.08.,13:30,Adrenalin,Moto Sport,Nurburgring: Trka 2,DTM
+16.08.,14:00,Arena Premium 2,Fudbal,Konferencija za medije trenera FK Crvena zvezda,
 16.08.,14:30,Arena Premium 2,Fudbal,Watford - Southampton,CHAMPIONSHIP
 16.08.,14:30,Arena Premium 3,Fudbal,Feyenoord - GA Eagles,HOLANDSKA LIGA
 16.08.,14:45,Arena Sport 6,Odbojka na pesku,Finale (Ž),Evropsko prvenstvo
@@ -26,14 +27,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.08.,18:30,Arena Premium 4,Fudbal,Baltika - Spartak,RUSKA LIGA
 16.08.,18:30,Arena Sport 2,Fudbal,Genova - Ascoli,ITALIJANSKI KUP
 16.08.,19:00,Arena Premium 2,Fudbal,Espanyol - Levante,ŠPANSKA LIGA
-16.08.,19:00,Arena Premium 3,Fudbal,Girona - Leganes,ŠPANSKA 2. LIGA
 16.08.,19:00,Arena Sport 5,Basket 3x3,III Stop: SC Rakovica Beograd,BG League
 16.08.,19:00,Arena Sport 6,Basket 3x3,Mojkovac Open 2K26,Montenegro 3x3 2k26
 16.08.,19:30,Arena Sport 4,Bejzbol,New York Yankees - Toronto Blue Jays,Major League Baseball
 16.08.,20:30,Arena Sport 1,Fudbal,Besiktas - Eyupspor,TURSKA LIGA
-16.08.,20:45,Arena Premium 4,Fudbal,PSG - Lens,FRANCUSKI SUPERKUP
+16.08.,20:45,Arena Premium 3,Fudbal,PSG - Lens,FRANCUSKI SUPERKUP
 16.08.,20:45,Arena Sport 2,Fudbal,Verona - Virtus Entella,ITALIJANSKI KUP
-16.08.,21:15,Arena Premium 3,Fudbal,Lazio - Mantova,ITALIJANSKI KUP
+16.08.,21:00,Arena Sport 3,Mali Fudbal,Finale,MURINO TURNIR
+16.08.,21:15,Arena Premium 4,Fudbal,Lazio - Mantova,ITALIJANSKI KUP
 16.08.,23:00,Arena Premium 1,Fudbal,River Plate - Argentinos Juniors,ARGENTINSKA LIGA
 16.08.,23:30,Arena Premium 2,Fudbal,Mirassol - Flamengo,BRAZILSKA LIGA
 17.08.,00:30,Arena Premium 3,Fudbal,Corinthians - Cruzeiro,BRAZILSKA LIGA
@@ -41,9 +42,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 17.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 3, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 17.08.,17:00,Arena Premium 5,Tenis,"Teren 1, dan 4, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
 17.08.,17:00,Arena Tenis,Tenis,"Centralni teren, dan 4, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
-17.08.,18:00,Arena Sport 1,Fudbal,Pisa - Empoli,ITALIJANSKI KUP
+17.08.,18:00,Arena Premium 3,Fudbal,Pisa - Empoli,ITALIJANSKI KUP
 17.08.,18:30,Arena Premium 2,Fudbal,Sassuolo - Cesena,ITALIJANSKI KUP
-17.08.,19:00,Arena Premium 3,Fudbal,Sporting Gijon - Sabadell,ŠPANSKA 2. LIGA
 17.08.,19:00,Arena Premium 4,Fudbal,Brøndby - Sønderjyske,DANSKA LIGA
 17.08.,20:45,Arena Premium 2,Fudbal,Cremonese - Sampdoria,ITALIJANSKI KUP
 17.08.,21:00,Arena Premium 3,Fudbal,Deportivo - Elche,ŠPANSKA LIGA
@@ -51,78 +51,81 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 17.08.,22:00,Arena Sport 2,Fudbal,Lanus - Independiente,ARGENTINSKA LIGA
 18.08.,01:00,Arena Premium 5,Tenis,"Teren 1, dan 4, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 18.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 4, popodnevna sesija",ATP/WTA 1000 - Cincinnati
-18.08.,16:30,Arena Sport 5,Rukomet,Vardar - Olympiacos,Rukometni turnir Ohrid 2026
+18.08.,16:30,Arena Premium 4,Rukomet,Vardar - Olympiacos,OHRID 2026
 18.08.,17:00,Arena Premium 5,Tenis,"Teren 1, dan 5, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
 18.08.,17:00,Arena Tenis,Tenis,"Centralni teren, dan 5, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
-18.08.,18:45,Arena Sport 5,Rukomet,Ohrid - Zamalek,Rukometni turnir Ohrid 2026
+18.08.,18:45,Arena Premium 4,Rukomet,Ohrid - Zamalek,OHRID 2026
 18.08.,21:00,Arena Premium 1,Fudbal,Fenerbahce - Lyon,UEFA LIGA ŠAMPIONA - Kvalifikacije
 18.08.,21:00,Arena Premium 2,Fudbal,Levski - AEK,UEFA LIGA ŠAMPIONA - Kvalifikacije
 18.08.,21:00,Arena Premium 3,Fudbal,Dinamo - Viking,UEFA LIGA ŠAMPIONA - Kvalifikacije
-18.08.,21:00,Arena Sport 5,Rukomet,Vojvodina - Zagreb,Rukometni turnir Ohrid 2026
+18.08.,21:00,Arena Premium 4,Rukomet,Vojvodina - Zagreb,OHRID 2026
 19.08.,00:00,Arena Premium 1,Fudbal,Independiente Rivadavia - Fluminense,COPA LIBERTADORES
 19.08.,00:00,Arena Premium 2,Fudbal,Recoleta - Boca Juniors,COPA SUDAMERICANA
 19.08.,01:00,Arena Premium 5,Tenis,"Teren 1, dan 5, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 19.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 5, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 19.08.,02:30,Arena Premium 1,Fudbal,Universidad Catolica - Estudiantes,COPA LIBERTADORES
-19.08.,16:30,Arena Sport 5,Rukomet,Zagreb - Zamalek,Rukometni turnir Ohrid 2026
-19.08.,17:00,Arena Premium 5,Tenis,"Teren 1, dan 6",ATP/WTA 1000 - Cincinnati
+19.08.,16:30,Arena Premium 4,Rukomet,Zagreb - Zamalek,OHRID 2026
 19.08.,17:00,Arena Tenis,Tenis,"Centralni teren, dan 6, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
+19.08.,17:00,Arena Sport 1,Tenis,"Teren 1, dan 6",ATP/WTA 1000 - Cincinnati
 19.08.,18:30,Arena Sport 2,Bejzbol,Detroit Tigers - Pittsburgh Pirates,Major League Baseball
-19.08.,18:45,Arena Sport 5,Rukomet,Ohrid - Vojvodina,Rukometni turnir Ohrid 2026
+19.08.,18:45,Arena Premium 4,Rukomet,Ohrid - Vojvodina,OHRID 2026
 19.08.,21:00,Arena Premium 1,Fudbal,NEC - Bodo/Glimt,UEFA LIGA ŠAMPIONA - Kvalifikacije
 19.08.,21:00,Arena Premium 2,Fudbal,Celtic - LASK,UEFA LIGA ŠAMPIONA - Kvalifikacije
 19.08.,21:00,Arena Premium 3,Fudbal,Slovan - Celje,UEFA LIGA ŠAMPIONA - Kvalifikacije
 19.08.,21:00,Arena Premium 4,Fudbal,Hapoel Be'er Sheva - Sabah,UEFA LIGA ŠAMPIONA - Kvalifikacije
-19.08.,21:00,Arena Sport 1,Fudbal,Atletico Madrid - Malaga,ŠPANSKA LIGA
-19.08.,21:00,Arena Sport 5,Rukomet,Nexe - Trimo Trebnje ,Rukometni turnir Ohrid 2026
+19.08.,21:00,Arena Premium 5,Fudbal,Atletico Madrid - Malaga,ŠPANSKA LIGA
+19.08.,21:00,Arena Sport 5,Rukomet,Nexe - Trimo Trebnje ,OHRID 2026
 20.08.,00:00,Arena Premium 1,Fudbal,Cerro Porteno - Palmeiras,COPA LIBERTADORES
 20.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 6, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 20.08.,02:30,Arena Premium 1,Fudbal,Flamengo - Cruzeiro,COPA LIBERTADORES
-20.08.,16:30,Arena Sport 5,Rukomet,Vojvodina - Zamalek,Rukometni turnir Ohrid 2026
-20.08.,18:45,Arena Sport 5,Rukomet,Olympiacos - Trimo Trebnje,Rukometni turnir Ohrid 2026
+20.08.,02:30,Arena Premium 2,Fudbal,Independiente Santa Fe - River Plate,COPA SUDAMERICANA
+20.08.,16:30,Arena Sport 5,Rukomet,Vojvodina - Zamalek,OHRID 2026
+20.08.,18:45,Arena Sport 5,Rukomet,Olympiacos - Trimo Trebnje,OHRID 2026
+20.08.,19:00,Arena Premium 1,Fudbal,Arena sa terena,UEFA Liga Evrope - Kvalifikacije
 20.08.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 7, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
-20.08.,20:00,Arena Premium 1,Košarka,Srbija - Francuska,PRIJATELJSKA UTAKMICA
-20.08.,21:00,Arena Premium 4,Fudbal,Rayo Vallecano - Alaves,ŠPANSKA LIGA
-20.08.,21:00,Arena Premium 5,Fudbal,Sheffield Wednesday - Bradford,LEAGUE ONE
-20.08.,21:00,Arena Sport 5,Rukomet,Vardar - Nexe,Rukometni turnir Ohrid 2026
+20.08.,20:00,Arena Premium 1,Fudbal,Crvena Zvezda - Viktoria Plzen,UEFA LIGA EVROPE - Kvalifikacije
+20.08.,20:00,Arena Premium 3,Košarka,Srbija - Francuska,PRIJATELJSKA UTAKMICA
+20.08.,21:00,Arena Premium 2,Fudbal,Getafe - Partizan,UEFA Liga Konferencija - Kvalifikacije
+20.08.,21:00,Arena Sport 4,Fudbal,Rayo Vallecano - Alaves,ŠPANSKA LIGA
+20.08.,21:00,Arena Sport 5,Rukomet,Vardar - Nexe,OHRID 2026
+20.08.,21:00,Arena 1X2,Fudbal,Sheffield Wednesday - Bradford,LEAGUE ONE
+20.08.,22:00,Arena Premium 1,Fudbal,Arena sa terena,UEFA Liga Evrope - Kvalifikacije
 21.08.,00:00,Arena Premium 1,Fudbal,Quito - Mirassol,COPA LIBERTADORES
 21.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 7, popodnevna sesija",ATP/WTA 1000 - Cincinnati
 21.08.,02:00,Arena Premium 1,Američki fudbal,Houston Texans - Las Vegas Raiders,NFL
 21.08.,02:30,Arena Premium 2,Fudbal,Corinthians - Rosario,COPA LIBERTADORES
 21.08.,11:00,Arena Sport 5,Pikado,Dan 1,Australia Darts Master
 21.08.,12:30,Adrenalin,Moto Sport,Holandija: Trening 1,FORMULA 1
-21.08.,13:00,Arena Premium 4,Odbojka,Francuska - Slovačka,EVROPSKO PRVENSTVO (Ž)
 21.08.,14:00,Arena Premium 1,Odbojka,Austrija - Srbija,EVROPSKO PRVENSTVO (Ž)
 21.08.,14:00,Arena Premium 2,Fudbal,Wehen - Bayer Leverkusen,NEMAČKI KUP
 21.08.,16:00,Arena Premium 4,Odbojka,Hrvatska - Italija,EVROPSKO PRVENSTVO (Ž)
-21.08.,16:30,Arena Sport 5,Rukomet,Nexe - Olympiacos,Rukometni turnir Ohrid 2026
+21.08.,16:30,Arena Sport 5,Rukomet,Nexe - Olympiacos,OHRID 2026
 21.08.,16:30,Adrenalin,Moto Sport,Holandija: Sprint Kvalifikacije,FORMULA 1
 21.08.,18:00,Arena Premium 4,Odbojka,Turska - Letonija,EVROPSKO PRVENSTVO (Ž)
-21.08.,18:45,Arena Sport 5,Rukomet,Vardar - Trimo Trebnje,Rukometni turnir Ohrid 2026
+21.08.,18:45,Arena Sport 5,Rukomet,Vardar - Trimo Trebnje,OHRID 2026
 21.08.,19:00,Arena Tenis,Tenis,"Centralni teren, dan 8, prepodnevna sesija",ATP/WTA 1000 - Cincinnati
 21.08.,19:00,Arena Sport 2,Odbojka,Švedska - Crna Gora,EVROPSKO PRVENSTVO (Ž)
-21.08.,19:30,Arena Sport 1,Fudbal,Ried - Grazer,AUSTRIJSKA LIGA
+21.08.,19:30,Arena Sport 3,Fudbal,Ried - Grazer,AUSTRIJSKA LIGA
 21.08.,20:00,Arena Premium 4,Odbojka,Češka - Grčka,EVROPSKO PRVENSTVO (Ž)
 21.08.,20:00,Arena Premium 5,Atletika,Lozana,DIJAMANTSKA LIGA
-21.08.,20:30,Arena Sport 3,Fudbal,Cracovia - Wieczysta,POLJSKA LIGA
+21.08.,20:30,Arena Sport 1,Fudbal,Erzurumspor - Galatasaray,TURSKA LIGA
 21.08.,20:30,Arena 1X2,Fudbal,Vicenza - Catanzaro,ITALIJANSKA 2. LIGA
 21.08.,20:45,Arena Premium 2,Fudbal,Marseille - Strasbourg,FRANCUSKA LIGA
 21.08.,21:00,Arena Premium 1,Fudbal,Arsenal - Coventry,ENGLESKA LIGA
 21.08.,21:00,Arena Premium 3,Fudbal,Betis - Real Sociedad,ŠPANSKA LIGA
-21.08.,21:00,Arena Sport 5,Rukomet,Ohrid - Zagreb,Rukometni turnir Ohrid 2026
+21.08.,21:00,Arena Sport 5,Rukomet,Ohrid - Zagreb,OHRID 2026
 21.08.,22:00,Arena Premium 5,Bejzbol,Atlanta Braves - Milwaukee Brewers,Major League Baseball
 22.08.,01:00,Arena Tenis,Tenis,"Centralni teren, dan 8, popodnevna sesija",ATP/WTA 1000 - Cincinnati
-22.08.,10:30,Arena Sport 4,Rukomet,Meč za 7. mesto,Rukometni turnir Ohrid 2026
+22.08.,10:30,Arena Sport 4,Rukomet,Meč za 7. mesto,OHRID 2026
 22.08.,11:00,Arena Sport 5,Pikado,Dan 2,Australia Darts Master
 22.08.,12:00,Adrenalin,Moto Sport,Holandija: Sprint,FORMULA 1
-22.08.,12:30,Arena Sport 4,Rukomet,Meč za 5. mesto,Rukometni turnir Ohrid 2026
+22.08.,12:30,Arena Sport 4,Rukomet,Meč za 5. mesto,OHRID 2026
 22.08.,13:30,Arena Premium 1,Fudbal,Hull - Manchester United,ENGLESKA LIGA
 22.08.,13:30,Arena Premium 2,Fudbal,Lincoln - Portsmouth,CHAMPIONSHIP
 22.08.,14:00,Arena Sport 2,Jedrenje,"Sasnic, dan 1",SailGP
 22.08.,14:30,Arena Premium 5,Fudbal,Fakel - Orenburg,RUSKA LIGA
-22.08.,14:45,Arena Sport 7,Fudbal,Korona - Motor,POLJSKA LIGA
 22.08.,15:00,Arena Premium 4,Odbojka,Nemačka - Slovenija,EVROPSKO PRVENSTVO (Ž)
-22.08.,15:00,Arena Sport 4,Odbojka,Italija - Crna Gora,EVROPSKO PRVENSTVO (Ž)
+22.08.,15:00,Arena Sport 3,Odbojka,Italija - Crna Gora,EVROPSKO PRVENSTVO (Ž)
 22.08.,16:00,Arena Premium 1,Fudbal,Nottingham Forest - Leeds,ENGLESKA LIGA
 22.08.,16:00,Arena Premium 2,Fudbal,Everton - Crystal Palace,ENGLESKA LIGA
 22.08.,16:00,Arena Premium 3,Fudbal,Ipswich - Sunderland,ENGLESKA LIGA
@@ -134,26 +137,29 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.08.,17:00,Arena Sport 7,Fudbal,Akmat - Rostov,RUSKA LIGA
 22.08.,17:15,Arena 1X2,Fudbal,Lens - Auxerre,FRANCUSKA LIGA
 22.08.,17:30,Arena Sport 8,Fudbal,Piast - Legia,POLJSKA LIGA
-22.08.,17:45,Arena Sport 5,Rukomet,Meč za 3. mesto,Rukometni turnir Ohrid 2026
+22.08.,17:45,Arena Sport 5,Rukomet,Meč za 3. mesto,OHRID 2026
 22.08.,18:00,Arena Sport 4,Rukomet,"Magdeburg - Fuchse Berlin, finale",NEMAČKI SUPERKUP
 22.08.,18:00,Adrenalin,Moto Sport,Holandija: Trka,Porsche Supercup
 22.08.,18:30,Arena Premium 1,Fudbal,Brentford - Tottenham,ENGLESKA LIGA
 22.08.,18:30,Arena Premium 2,Fudbal,Inter - Monza,ITALIJANSKA LIGA
-22.08.,18:30,Arena Sport 1,Fudbal,Udinese - Como,ITALIJANSKA LIGA
-22.08.,18:45,Arena Sport 3,Fudbal,Dundee United - Dundee,ŠKOTSKA LIGA
-22.08.,19:30,Arena Premium 4,Fudbal,CSKA - Lokomotiv,RUSKA LIGA
-22.08.,19:30,Arena Premium 5,Fudbal,Valencia - Celta,ŠPANSKA LIGA
+22.08.,18:30,Arena Sport 2,Fudbal,Udinese - Como,ITALIJANSKA LIGA
+22.08.,18:45,Arena Sport 1,Fudbal,Dundee United - Dundee,ŠKOTSKA LIGA
+22.08.,19:00,Arena Sport 6,Fudbal,AEK - Iraklis,GRČKA LIGA
+22.08.,19:30,Arena Premium 4,Fudbal,Valencia - Celta,ŠPANSKA LIGA
+22.08.,19:30,Arena Premium 5,Fudbal,CSKA - Lokomotiv,RUSKA LIGA
 22.08.,19:30,Arena Tenis,Tenis,Polufinale 1 ATP,ATP/WTA 1000 - Cincinnati
 22.08.,19:35,Arena Sport 8,Bejzbol,Toronto Blue Jays - New York Yankees,Major League Baseball
-22.08.,20:00,Arena Sport 5,Rukomet,Finale,Rukometni turnir Ohrid 2026
-22.08.,20:00,Arena Sport 7,Fudbal,Saint-Etienne - Grenoble,FRANCUSKA 2. LIGA
-22.08.,20:30,Arena Premium 3,Fudbal,Borussia Dortmund - Bayern,NEMAČKI SUPERKUP
+22.08.,20:00,Arena Sport 5,Rukomet,Finale,OHRID 2026
+22.08.,20:00,Arena 1X2,Fudbal,Saint-Etienne - Grenoble,FRANCUSKA 2. LIGA
+22.08.,20:30,Arena Premium 1,Fudbal,Borussia Dortmund - Bayern,NEMAČKI SUPERKUP
+22.08.,20:30,Arena Sport 4,Fudbal,Fenerbahce - Konyaspor,TURSKA LIGA
 22.08.,20:45,Arena Premium 2,Fudbal,Genoa - Napoli,ITALIJANSKA LIGA
-22.08.,20:45,Arena Sport 1,Fudbal,Parma - Cagliari,ITALIJANSKA LIGA
+22.08.,20:45,Arena Sport 1,Fudbal,Toulouse - Lyon,FRANCUSKA LIGA
 22.08.,20:45,Arena Sport 2,Fudbal,Le Mans - Brest,FRANCUSKA LIGA
-22.08.,20:45,Arena Sport 3,Fudbal,Nice - Lorient,FRANCUSKA LIGA
-22.08.,20:45,Arena Sport 4,Fudbal,Toulouse - Lyon,FRANCUSKA LIGA
-22.08.,20:45,Arena 1X2,Fudbal,Troyes - Paris,FRANCUSKA LIGA
+22.08.,20:45,Arena Sport 3,Fudbal,Parma - Cagliari,ITALIJANSKA LIGA
+22.08.,20:45,Arena Sport 9,Fudbal,Nice - Lorient,FRANCUSKA LIGA
+22.08.,21:00,Arena Sport 6,Fudbal,Olympiacos - Atromitos,GRČKA LIGA
 22.08.,21:30,Arena Premium 4,Fudbal,Espanyol - Real Madrid,ŠPANSKA LIGA
 22.08.,21:30,Arena Tenis,Tenis,Polufinale 1 WTA,ATP/WTA 1000 - Cincinnati
+22.08.,23:30,Arena Premium 2,Fudbal,Internacional - Atletico MG,BRAZILSKA LIGA
 22.08.,23:30,Arena Premium 4,Fudbal,Independiente - Independiente Rivadivia,ARGENTINSKA LIGA
