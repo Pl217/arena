@@ -465,13 +465,6 @@
             "description": "snimak"
           },
           {
-            "content": "Najava sezone",
-            "time": "20:00",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Arsenal - Coventry",
             "time": "21:00",
             "category": "ENGLESKA LIGA",
@@ -1603,6 +1596,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled 1. kola",
+            "time": "18:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Ni u dobru ni u zlu",
             "time": "19:00",
             "category": "",
@@ -1970,7 +1970,7 @@
             "description": "snimak"
           },
           {
-            "content": "Ohrid - Zamalek",
+            "content": "Ohrid - Egipat U20",
             "time": "18:45",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -1991,10 +1991,10 @@
             "description": "uzivo"
           },
           {
-            "content": "Pregled 1. kola",
+            "content": "Pregled polufinala i finala",
             "time": "22:45",
-            "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
             "description": "snimak"
           },
           {
@@ -2016,7 +2016,7 @@
             "description": "snimak"
           },
           {
-            "content": "Ohrid - Zamalek",
+            "content": "Ohrid - Egipat U20",
             "time": "03:00",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -2065,7 +2065,7 @@
             "description": "snimak"
           },
           {
-            "content": "Zagreb - Zamalek",
+            "content": "Zagreb - Egipat U20",
             "time": "16:30",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -2111,7 +2111,7 @@
       "2026-08-20": {
         "emisije": [
           {
-            "content": "Zagreb - Zamalek",
+            "content": "Zagreb - Egipat U20",
             "time": "01:30",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -2199,7 +2199,7 @@
       "2026-08-21": {
         "emisije": [
           {
-            "content": "Vojvodina - Zamalek",
+            "content": "Vojvodina - Egipat U20",
             "time": "01:30",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -4259,6 +4259,13 @@
             "description": "snimak"
           },
           {
+            "content": "Sassuolo - Cesena",
+            "time": "08:00",
+            "category": "ITALIJANSKI KUP",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Palermo - Lecce",
             "time": "10:00",
             "category": "ITALIJANSKI KUP",
@@ -4299,6 +4306,13 @@
             "category": "EVROPSKO PRVENSTVO (Ž)",
             "sport": "Odbojka",
             "description": "uzivo"
+          },
+          {
+            "content": "Genova - Ascoli",
+            "time": "21:00",
+            "category": "ITALIJANSKI KUP",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Vicenza - Catanzaro",
@@ -6318,7 +6332,7 @@
             "description": "snimak"
           },
           {
-            "content": "Vojvodina - Zamalek",
+            "content": "Vojvodina - Egipat U20",
             "time": "16:30",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -6392,14 +6406,14 @@
             "description": "snimak"
           },
           {
-            "content": "Dan 1",
+            "content": "Dan 1 - osmina finala",
             "time": "11:00",
             "category": "Australia Darts Master",
             "sport": "Pikado",
             "description": "uzivo"
           },
           {
-            "content": "Vojvodina - Zamalek",
+            "content": "Vojvodina - Egipat U20",
             "time": "15:00",
             "category": "OHRID 2026",
             "sport": "Rukomet",
@@ -6480,7 +6494,7 @@
             "description": "snimak"
           },
           {
-            "content": "Dan 2",
+            "content": "Dan 2 - četvrtfinala, polufinala i finale",
             "time": "11:00",
             "category": "Australia Darts Master",
             "sport": "Pikado",
@@ -6794,7 +6808,7 @@
             "description": "snimak"
           },
           {
-            "content": "Millrose Games",
+            "content": "New Balance Indoor Grand Prix",
             "time": "04:00",
             "category": "World Athletics Indoor Tour",
             "sport": "Atletika",
@@ -6882,9 +6896,9 @@
             "description": "snimak"
           },
           {
-            "content": "Czech Indoor Gala",
+            "content": "Doha",
             "time": "04:00",
-            "category": "World Athletics Indoor Tour",
+            "category": "DIJAMANTSKA LIGA",
             "sport": "Atletika",
             "description": "snimak"
           },
@@ -6977,9 +6991,9 @@
             "description": "snimak"
           },
           {
-            "content": "World Indoor Tour Gold Madrid",
+            "content": "Šangaj",
             "time": "04:00",
-            "category": "World Athletics Indoor Tour",
+            "category": "DIJAMANTSKA LIGA",
             "sport": "Atletika",
             "description": "snimak"
           },
@@ -7104,6 +7118,13 @@
             "time": "15:30",
             "category": "EHF LIGA EVROPE",
             "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Lozana",
+            "time": "17:00",
+            "category": "DIJAMANTSKA LIGA",
+            "sport": "Atletika",
             "description": "snimak"
           },
           {
@@ -8545,7 +8566,7 @@
             "description": "snimak"
           },
           {
-            "content": "Primorje - Borac",
+            "content": "MZT - Podgorica",
             "time": "06:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
@@ -8612,7 +8633,7 @@
       "2026-08-19": {
         "emisije": [
           {
-            "content": "Primorje - Borac",
+            "content": "MZT - Podgorica",
             "time": "00:00",
             "category": "ABA2 LIGA",
             "sport": "Košarka",
@@ -10141,6 +10162,13 @@
       },
       "2026-08-21": {
         "emisije": [
+          {
+            "content": "Najava sezone",
+            "time": "19:30",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
           {
             "content": "Vicenza - Catanzaro",
             "time": "20:30",
