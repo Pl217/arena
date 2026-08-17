@@ -363,7 +363,7 @@
             "description": "snimak"
           },
           {
-            "content": "Hapoel Be'er Sheva - Sabah",
+            "content": "Slovan - Celje",
             "time": "12:00",
             "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
             "sport": "Fudbal",
@@ -377,18 +377,18 @@
             "description": "snimak"
           },
           {
-            "content": "Slovan - Celje",
+            "content": "NEC - Bodo/Glimt",
             "time": "15:00",
             "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "NEC - Bodo/Glimt",
+            "content": "Kairat - Anderlecht",
             "time": "17:00",
-            "category": "UEFA LIGA ŠAMPIONA - Kvalifikacije",
+            "category": "UEFA LIGA EVROPE - Kvalifikacije",
             "sport": "Fudbal",
-            "description": "snimak"
+            "description": "uzivo"
           },
           {
             "content": "Arena sa terena",
@@ -719,8 +719,15 @@
             "description": "uzivo"
           },
           {
-            "content": "Lozana, polufinala i finale",
+            "content": "Legends Interview - Yaya Toure",
             "time": "23:00",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Lozana, polufinala i finale",
+            "time": "23:30",
             "category": "FIBA 3x3 World Tour",
             "sport": "Basket 3x3",
             "description": "snimak"
@@ -971,7 +978,7 @@
           {
             "content": "Getafe - Partizan",
             "time": "21:00",
-            "category": "UEFA Liga Konferencija - Kvalifikacije",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
             "sport": "Fudbal",
             "description": "uzivo"
           }
@@ -4417,9 +4424,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Girona - Leganes",
+            "content": "Vicenza - Catanzaro",
             "time": "23:00",
-            "category": "ŠPANSKA 2. LIGA",
+            "category": "ITALIJANSKA 2. LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -4973,8 +4980,15 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled 28. kola",
+            "content": "Twente - Qarabag",
             "time": "20:00",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
+            "sport": "Fudbal",
+            "description": "uzivo"
+          },
+          {
+            "content": "Pregled 28. kola",
+            "time": "22:00",
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -5151,6 +5165,13 @@
           {
             "content": "Bayern - Borussia Dortmund",
             "time": "12:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Bundesliga specijal: Rurska dolina - srce nemačkog fudbala, 2. deo",
+            "time": "14:00",
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
