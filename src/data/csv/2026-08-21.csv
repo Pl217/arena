@@ -34,7 +34,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 21.08.,11:00,Arena Sport 5,Pikado,Dan 1 - osmina finala,Australia Darts Master
 21.08.,12:30,Adrenalin,Moto Sport,Holandija: Trening 1,FORMULA 1
 21.08.,14:00,Arena Premium 1,Odbojka,Austrija - Srbija,EVROPSKO PRVENSTVO (Ž)
-21.08.,14:00,Arena Premium 2,Fudbal,Wehen - Bayer Leverkusen,NEMAČKI KUP
 21.08.,16:00,Arena Premium 4,Odbojka,Hrvatska - Italija,EVROPSKO PRVENSTVO (Ž)
 21.08.,16:00,Arena Sport 10,Fudbal,Spartak - Milutinac 2023,SUPERLIGA Ž
 21.08.,16:30,Arena Sport 5,Rukomet,Nexe - Olympiacos,OHRID 2026
@@ -58,6 +57,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.08.,11:00,Arena Sport 5,Pikado,"Dan 2 - četvrtfinala, polufinala i finale",Australia Darts Master
 22.08.,12:00,Adrenalin,Moto Sport,Holandija: Sprint,FORMULA 1
 22.08.,12:30,Arena Sport 4,Rukomet,Meč za 5. mesto,OHRID 2026
+22.08.,13:00,Arena Premium 4,Fudbal,Wehen - Bayer Leverkusen,NEMAČKI KUP
 22.08.,13:30,Arena Premium 1,Fudbal,Hull - Manchester United,ENGLESKA LIGA
 22.08.,13:30,Arena Premium 2,Fudbal,Lincoln - Portsmouth,CHAMPIONSHIP
 22.08.,14:00,Arena Sport 2,Jedrenje,"Sasnic, dan 1",SailGP
@@ -72,7 +72,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.08.,16:30,Arena Premium 5,Fudbal,Fortuna - AZ Alkmaar,HOLANDSKA LIGA
 22.08.,16:30,Arena Sport 2,Odbojka,Rumunija - Holandija,EVROPSKO PRVENSTVO (Ž)
 22.08.,17:00,Arena Premium 4,Fudbal,Athletic Bilbao - Sevilla,ŠPANSKA LIGA
-22.08.,17:00,Arena Sport 7,Fudbal,Akmat - Rostov,RUSKA LIGA
+22.08.,17:00,Arena Sport 7,Fudbal,Akhmat - Rostov,RUSKA LIGA
 22.08.,17:15,Arena 1X2,Fudbal,Lens - Auxerre,FRANCUSKA LIGA
 22.08.,17:30,Arena Sport 8,Fudbal,Piast - Legia,POLJSKA LIGA
 22.08.,17:45,Arena Sport 5,Rukomet,Meč za 3. mesto,OHRID 2026
@@ -83,8 +83,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 22.08.,18:30,Arena Sport 2,Fudbal,Udinese - Como,ITALIJANSKA LIGA
 22.08.,18:45,Arena Sport 1,Fudbal,Dundee United - Dundee,ŠKOTSKA LIGA
 22.08.,19:00,Arena Sport 6,Fudbal,AEK - Iraklis,GRČKA LIGA
+22.08.,19:15,Arena Premium 5,Fudbal,CSKA - Lokomotiv,RUSKA LIGA
 22.08.,19:30,Arena Premium 4,Fudbal,Valencia - Celta,ŠPANSKA LIGA
-22.08.,19:30,Arena Premium 5,Fudbal,CSKA - Lokomotiv,RUSKA LIGA
 22.08.,19:30,Arena Tenis,Tenis,Polufinale 1 ATP,ATP/WTA 1000 - Cincinnati
 22.08.,19:35,Arena Sport 8,Bejzbol,Toronto Blue Jays - New York Yankees,Major League Baseball
 22.08.,20:00,Arena Sport 5,Rukomet,Finale,OHRID 2026
@@ -126,7 +126,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.08.,16:00,Arena Premium 4,Atletika,Šleska,DIJAMANTSKA LIGA
 23.08.,16:00,Arena Sport 3,Odbojka,Grčka - Bugarska,EVROPSKO PRVENSTVO (Ž)
 23.08.,16:30,Arena Premium 5,Fudbal,Dinamo Makhachkala - Krasnodar,RUSKA LIGA
-23.08.,16:45,Arena Sport 1,Fudbal,Cambuur - Feyenord,HOLANDSKA LIGA
+23.08.,16:45,Arena Sport 1,Fudbal,Cambuur - Feyenoord,HOLANDSKA LIGA
 23.08.,17:00,Arena Premium 1,Fudbal,Atletico Madrid - Villareal,ŠPANSKA LIGA
 23.08.,17:15,Arena 1X2,Fudbal,Le Havre - Monaco,FRANCUSKA LIGA
 23.08.,17:30,Arena Premium 2,Fudbal,Newcastle - Liverpool,ENGLESKA LIGA
@@ -142,7 +142,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.08.,19:30,Arena Sport 6,Fudbal,Getafe - Racing,ŠPANSKA LIGA
 23.08.,20:00,Arena Tenis,Tenis,Finale ATP dubl,ATP/WTA 1000 - Cincinnati
 23.08.,20:00,Arena Sport 7,Fudbal,PAOK - Levadiakos,GRČKA LIGA
-23.08.,20:15,Arena 1X2,Fudbal,Pogon - Wisla Krakow,POLJSKA LIGA
 23.08.,20:30,Arena Sport 5,Fudbal,Alanyaspor - Besiktas,TURSKA LIGA
 23.08.,20:45,Arena Premium 2,Fudbal,PSG - Rennes,FRANCUSKA LIGA
 23.08.,20:45,Arena Premium 4,Fudbal,Torino - Milan,ITALIJANSKA LIGA
@@ -156,43 +155,42 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.08.,01:00,Arena Tenis,Tenis,Finale WTA,ATP/WTA 1000 - Cincinnati
 24.08.,02:00,Arena Premium 1,Američki fudbal,Tennessee Titans - Seattle Seahawks,NFL
 24.08.,02:30,Arena Premium 2,Fudbal,Racing - Boca Juniors,ARGENTINSKA LIGA
-24.08.,15:00,Arena Premium 4,Odbojka,Poljska - Letonija,EVROPSKO PRVENSTVO (Ž)
-24.08.,16:00,Arena Sport 9,Fudbal,Vojvodina - Crvena zvezda,SUPERLIGA Ž
-24.08.,18:00,Arena Premium 4,Odbojka,Turska - Mađarska,EVROPSKO PRVENSTVO (Ž)
-24.08.,18:30,Arena Premium 2,Fudbal,Bologna - Lazio,ITALIJANSKA LIGA
-24.08.,19:00,Arena Premium 1,Odbojka,Srbija - Bugarska,EVROPSKO PRVENSTVO (Ž)
+24.08.,15:00,Arena Premium 2,Odbojka,Poljska - Letonija,EVROPSKO PRVENSTVO (Ž)
+24.08.,16:00,Arena Premium 5,Fudbal,Vojvodina - Crvena zvezda,SUPERLIGA Ž
+24.08.,18:30,Arena Premium 3,Fudbal,Bologna - Lazio,ITALIJANSKA LIGA
+24.08.,19:00,Arena Premium 2,Odbojka,Srbija - Bugarska,EVROPSKO PRVENSTVO (Ž)
 24.08.,19:00,Arena Premium 5,Fudbal,Brondby - Silkeborg,DANSKA LIGA
 24.08.,19:00,Arena Sport 1,Odbojka,Crna Gora - Francuska,EVROPSKO PRVENSTVO (Ž)
-24.08.,19:30,Arena Premium 3,Fudbal,Osasuna - Levante,ŠPANSKA LIGA
-24.08.,19:30,Arena Sport 3,Fudbal,Baltika - Rubin,RUSKA LIGA
-24.08.,20:45,Arena Premium 2,Fudbal,Roma - Fiorentina,ITALIJANSKA LIGA
+24.08.,19:30,Arena Premium 4,Fudbal,Osasuna - Levante,ŠPANSKA LIGA
+24.08.,19:30,Arena Sport 2,Fudbal,Baltika - Rubin,RUSKA LIGA
+24.08.,20:45,Arena Premium 3,Fudbal,Roma - Fiorentina,ITALIJANSKA LIGA
 24.08.,20:45,Arena 1X2,Fudbal,Reims - Annecy,FRANCUSKA 2. LIGA
 24.08.,21:00,Arena Premium 1,Fudbal,Fulham - Chelsea,ENGLESKA LIGA
-24.08.,21:30,Arena Premium 3,Fudbal,Malaga - Deportivo,ŠPANSKA LIGA
+24.08.,21:30,Arena Premium 2,Fudbal,Malaga - Deportivo,ŠPANSKA LIGA
 25.08.,01:00,Arena Premium 2,Fudbal,Botafogo - Athletico PR,BRAZILSKA LIGA
 25.08.,02:15,Arena Premium 1,Fudbal,Talleres - Rosario Central,ARGENTINSKA LIGA
-25.08.,15:00,Arena Premium 4,Odbojka,Mađarska - Nemačka,EVROPSKO PRVENSTVO (Ž)
+25.08.,13:30,Arena Premium 2,Odbojka,Rumunija - Belgija,EVROPSKO PRVENSTVO (Ž)
 25.08.,16:00,Arena Premium 2,Odbojka,Italija - Slovačka,EVROPSKO PRVENSTVO (Ž)
-25.08.,16:30,Arena Premium 3,Odbojka,Holandija - Španija,EVROPSKO PRVENSTVO (Ž)
 25.08.,18:00,Arena Premium 2,Odbojka,Poljska - Slovenija,EVROPSKO PRVENSTVO (Ž)
 25.08.,18:45,Arena Premium 1,Fudbal,Sabah - Hapoel Be'er Sheva,UEFA LIGA ŠAMPIONA - Kvalifikacije
-25.08.,19:00,Arena Premium 4,Odbojka,Češka - Ukrajina,EVROPSKO PRVENSTVO (Ž)
 25.08.,20:45,Arena Premium 5,Fudbal,Southampton - West Ham,ENGLESKI LIGA KUP
-25.08.,21:00,Arena Premium 1,Fudbal,LASK - Celtic,UEFA LIGA ŠAMPIONA - Kvalifikacije
-25.08.,21:00,Arena Premium 2,Fudbal,Bodo/Glimt - NEC,UEFA LIGA ŠAMPIONA - Kvalifikacije
+25.08.,20:45,Arena 1X2,Fudbal,Ipswich - Leicester,ENGLESKI LIGA KUP
+25.08.,21:00,Arena Premium 1,Fudbal,Bodo/Glimt - NEC,UEFA LIGA ŠAMPIONA - Kvalifikacije
+25.08.,21:00,Arena Premium 2,Fudbal,LASK - Celtic,UEFA LIGA ŠAMPIONA - Kvalifikacije
 25.08.,21:00,Arena Premium 3,Fudbal,Nottingham Forrest - Leeds,ENGLESKI LIGA KUP
 25.08.,21:00,Arena Premium 4,Fudbal,Valencia - Betis,ŠPANSKA LIGA
-25.08.,21:00,Arena Sport 1,Fudbal,Viking - Dinamo,UEFA LIGA ŠAMPIONA - Kvalifikacije
+25.08.,21:00,Arena Sport 1,Fudbal,Birmingham - Brentford,ENGLESKI LIGA KUP
+25.08.,21:00,Arena Sport 2,Fudbal,Viking - Dinamo,UEFA LIGA ŠAMPIONA - Kvalifikacije
 26.08.,13:30,Arena Premium 2,Odbojka,Španija - Portugal,EVROPSKO PRVENSTVO (Ž)
-26.08.,16:00,Arena Premium 2,Odbojka,Austrija - Bugarska,EVROPSKO PRVENSTVO (Ž)
-26.08.,16:00,Arena Premium 3,Odbojka,Francuska - Italija,EVROPSKO PRVENSTVO (Ž)
-26.08.,18:00,Arena Premium 3,Odbojka,Nemačka - Turska,EVROPSKO PRVENSTVO (Ž)
+26.08.,16:00,Arena Premium 2,Odbojka,Francuska - Italija,EVROPSKO PRVENSTVO (Ž)
+26.08.,18:30,Arena Premium 1,Fudbal,Rapid - Hearts,UEFA LIGA EVROPE - Kvalifikacije
 26.08.,19:00,Arena Premium 2,Odbojka,Srbija - Grcka,EVROPSKO PRVENSTVO (Ž)
 26.08.,19:00,Arena Sport 1,Odbojka,Slovačka - Crna Gora,EVROPSKO PRVENSTVO (Ž)
 26.08.,19:00,Arena Sport 2,Bejzbol,Tampa Bay Rays - Detroit Tigers,Major League Baseball
-26.08.,20:45,Arena Premium 4,Fudbal,Newcastle - WBA,ENGLESKI LIGA KUP
-26.08.,20:45,Arena Premium 5,Fudbal,Totthenham - Charlton,ENGLESKI LIGA KUP
-26.08.,21:00,Arena Premium 1,Fudbal,AEK - Levski,UEFA LIGA ŠAMPIONA - Kvalifikacije
-26.08.,21:00,Arena Premium 2,Fudbal,Lyon - Fenerbahce,UEFA LIGA ŠAMPIONA - Kvalifikacije
+26.08.,20:45,Arena Premium 4,Fudbal,Totthenham - Charlton,ENGLESKI LIGA KUP
+26.08.,20:45,Arena Premium 5,Fudbal,Newcastle - WBA,ENGLESKI LIGA KUP
+26.08.,21:00,Arena Premium 1,Fudbal,Lyon - Fenerbahce,UEFA LIGA ŠAMPIONA - Kvalifikacije
+26.08.,21:00,Arena Premium 2,Fudbal,AEK - Levski,UEFA LIGA ŠAMPIONA - Kvalifikacije
 26.08.,21:00,Arena Premium 3,Fudbal,Real Madrid - Real Sociedad,ŠPANSKA LIGA
 26.08.,21:00,Arena Sport 1,Fudbal,Celje - Slovan,UEFA LIGA ŠAMPIONA - Kvalifikacije
+26.08.,21:00,Arena 1X2,Fudbal,Preston - Everton,ENGLESKI LIGA KUP
