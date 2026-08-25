@@ -90,7 +90,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.08.,17:30,Arena Sport 1,Košarka,Gruzija - Crna Gora,Svetsko prvenstvo - Kvalifikacije
 28.08.,18:00,Arena Premium 4,Odbojka,Turska - Poljska,EVROPSKO PRVENSTVO (Ž)
 28.08.,18:00,Arena 1X2,Fudbal,Wisla Plock - Korona,POLJSKA LIGA
-28.08.,18:30,Arena Premium 3,Fudbal,Bochum - Osnabruck,NEMAČKA 2. LIGA
+28.08.,18:30,Arena Premium 3,Fudbal,E. Branusnschweig - Hertha,NEMAČKA 2. LIGA
 28.08.,19:00,Arena Premium 2,Fudbal,Racing - Elche,ŠPANSKA LIGA
 28.08.,20:00,Arena Premium 1,Košarka,Srbija - Island,Svetsko prvenstvo - Kvalifikacije
 28.08.,20:00,Arena Sport 2,Košarka,Turska - Litvanija,Svetsko prvenstvo - Kvalifikacije
@@ -106,7 +106,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.08.,00:30,Arena Sport 1,Tenis,Polufinale 2,ATP 250 - Winston-Salem
 29.08.,01:00,Arena Tenis,Tenis,Polufinale 1,WTA 500 - Monterrey
 29.08.,02:00,Arena Premium 1,Američki fudbal,Philadelphia Eagles - Cincinnati Bengals,NFL
-29.08.,02:30,Arena 1X2,Fudbal,Boca Juniors - Lanus,ARGENTINSKA LIGA
+29.08.,02:30,Arena Premium 2,Fudbal,Boca Juniors - Lanus,ARGENTINSKA LIGA
 29.08.,03:00,Arena Tenis,Tenis,Polufinale 2,WTA 500 - Monterrey
 29.08.,08:40,Adrenalin,Moto Sport,Aragon: Slobodan Trening 2,MOTO 3
 29.08.,09:25,Adrenalin,Moto Sport,Aragon: Slobodan Trening 2,MOTO 2
@@ -116,8 +116,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.08.,11:15,Adrenalin,Moto Sport,Aragon: Kvalifikacije 2,MOTO GP
 29.08.,12:00,Arena Tenis,Tenis,Girls Semifinal 2,ITF - Kuršumlijska banja
 29.08.,12:45,Adrenalin,Moto Sport,Aragon: Kvalifikacije 1,MOTO 3
-29.08.,13:00,Arena Premium 2,Fudbal,E. Branusnschweig - Hertha,NEMAČKA 2. LIGA
-29.08.,13:00,Arena Premium 3,Fudbal,Karlsruhe - Wolfsburg,NEMAČKA 2. LIGA
+29.08.,13:00,Arena Premium 2,Fudbal,Karlsruhe - Wolfsburg,NEMAČKA 2. LIGA
+29.08.,13:00,Arena Premium 3,Fudbal,Nurnberg - Armenia Bielefeld,NEMAČKA 2. LIGA
 29.08.,13:10,Adrenalin,Moto Sport,Aragon: Kvalifikacije 2,MOTO 3
 29.08.,13:30,Arena Premium 1,Fudbal,Liverpool - Nottingham Forest,ENGLESKA LIGA
 29.08.,13:30,Arena Sport 1,Fudbal,Middlesbrough - WBA,CHAMPIONSHIP
@@ -138,16 +138,16 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.08.,16:00,Arena Premium 2,Fudbal,Coventry - Hull,ENGLESKA LIGA
 29.08.,16:00,Arena Tenis,Tenis,Boys Semifinal 2,ITF - Kuršumlijska banja
 29.08.,16:00,Arena Sport 6,Basket 3x3,"Debrecen, grupna faza",FIBA 3x3 World Tour
+29.08.,16:00,Arena Sport 7,Fudbal,Cardiff - Sheffield United,CHAMPIONSHIP
 29.08.,16:30,Arena Sport 5,Fudbal,Krasnodar - Rostov,RUSKA LIGA
 29.08.,17:00,Arena Premium 4,Fudbal,Levante - Betis,ŠPANSKA LIGA
-29.08.,17:00,Arena Sport 7,Fudbal,Cardiff - Sheffield United,CHAMPIONSHIP
 29.08.,17:15,Arena 1X2,Fudbal,Strasbourg - Lens,FRANCUSKA LIGA
 29.08.,17:30,Arena Sport 3,Fudbal,Wisla Krakow - Wieczysta,POLJSKA LIGA
-29.08.,18:00,Arena Sport 1,Fudbal,Fiorentina - Frosinone,ITALIJANSKA LIGA
 29.08.,18:00,Arena Sport 4,Fudbal,Guingamp - Nantes,FRANCUSKA 2. LIGA
 29.08.,18:30,Arena Premium 1,Fudbal,Tottenham - Newcastle,ENGLESKA LIGA
 29.08.,18:30,Arena Premium 2,Fudbal,Borussia Dortmund - HSV,NEMAČKA LIGA
 29.08.,18:30,Arena Premium 3,Fudbal,Sassuolo - Torino,ITALIJANSKA LIGA
+29.08.,18:30,Arena Sport 1,Fudbal,Fiorentina - Frosinone,ITALIJANSKA LIGA
 29.08.,18:30,Arena Sport 2,Fudbal,Monza - Udinese,ITALIJANSKA LIGA
 29.08.,18:30,Arena Sport 8,Fudbal,Istra - Dinamo,HRVATSKA LIGA
 29.08.,18:45,Arena Sport 5,Fudbal,AZ Alkmaar - GA Eagles,HOLANDSKA LIGA
@@ -175,7 +175,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.08.,12:15,Arena Premium 2,Fudbal,Utrecht - PSV,HOLANDSKA LIGA
 30.08.,12:15,Adrenalin,Moto Sport,Aragon: Trka,MOTO 2
 30.08.,13:00,Arena Premium 1,Fudbal,Aberdeen - Rangers,ŠKOTSKA LIGA
-30.08.,13:00,Arena Sport 7,Golf,"Husqvarna British Masters hosted by Sir Nick Faldo, finalni dan",DP WORLD TOUR
+30.08.,13:00,Arena Sport 8,Golf,"Husqvarna British Masters hosted by Sir Nick Faldo, finalni dan",DP WORLD TOUR
 30.08.,13:30,Arena Sport 2,Fudbal,St. Pauli - Kaiserslautern,NEMAČKA 2. LIGA
 30.08.,13:30,Arena Sport 3,Fudbal,Darmstadt - Hannover,NEMAČKA 2. LIGA
 30.08.,14:00,Arena Sport 10,Fudbal,Polufinale 1,NIKA CUP 2026 (2015)
@@ -191,8 +191,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.08.,15:00,Arena Sport 10,Fudbal,Meč za 3. mesto,NIKA CUP 2026
 30.08.,15:30,Arena Sport 10,Fudbal,Finale,NIKA CUP 2026
 30.08.,15:30,Arena 1X2,Fudbal,Freiburg - Werder Bremen,NEMAČKA LIGA
+30.08.,16:00,Arena Sport 4,Odbojka,Osmina finala,EVROPSKO PRVENSTVO (Ž)
 30.08.,16:00,Arena Sport 6,Fudbal,Athletico Paranaense - Fluminense,BRAZILSKA LIGA
-30.08.,16:00,Arena Sport 8,Odbojka,Osmina finala,EVROPSKO PRVENSTVO (Ž)
 30.08.,16:30,Arena Premium 3,Fudbal,Spartak - Orenburg,RUSKA LIGA
 30.08.,16:30,Arena Sport 2,Fudbal,St. Gallen - Thun,ŠVAJCARSKA LIGA
 30.08.,16:45,Arena Sport 1,Fudbal,Telstar - Ajax,HOLANDSKA LIGA
@@ -206,7 +206,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.08.,18:00,Arena 1X2,Fudbal,Nordsjaelland - Brondby,DANSKA LIGA
 30.08.,18:30,Arena Premium 3,Fudbal,Napoli - Como,ITALIJANSKA LIGA
 30.08.,19:00,Arena Sport 2,Fudbal,Salzburg - Austria Wien,AUSTRIJSKA LIGA
-30.08.,19:00,Arena Sport 4,Fudbal,Rubin - Dinamo Makhachkala,RUSKA LIGA
+30.08.,19:00,Arena Sport 4,Odbojka,Osmina finala,EVROPSKO PRVENSTVO (Ž)
 30.08.,19:00,Arena Sport 7,Basket 3x3,SC Rakovica Beograd,BG League
 30.08.,19:00,Adrenalin,Moto Sport,Paragvaj - Live Stage 4,WRC
 30.08.,19:30,Arena Premium 5,Fudbal,Deportivo - Valencia,ŠPANSKA LIGA
@@ -222,3 +222,4 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.08.,20:45,Arena Sport 1,Fudbal,Lazio - Genoa,ITALIJANSKA LIGA
 30.08.,21:00,Arena Sport 2,Fudbal,Pisa - Catanzaro,ITALIJANSKA 2. LIGA
 30.08.,21:30,Arena Premium 5,Fudbal,Celta - Athletic Bilbao,ŠPANSKA LIGA
+30.08.,23:30,Arena Premium 2,Fudbal,Mirassol - Palmeiras,BRAZILSKA LIGA
