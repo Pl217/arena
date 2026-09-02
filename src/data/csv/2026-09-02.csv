@@ -22,7 +22,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 02.09.,21:00,Arena Premium 3,Fudbal,Burnley - Middlesbrough,CHAMPIONSHIP
 03.09.,15:00,Arena Premium 2,Odbojka,Poljska - Holandija,EVROPSKO PRVENSTVO (Ž)
 03.09.,18:00,Arena Premium 1,Fudbal,Palermo - Mantova,ITALIJANSKI KUP
-03.09.,18:00,Arena Premium 2,Odbojka,Četvrfinale 4,EVROPSKO PRVENSTVO (Ž)
+03.09.,18:00,Arena Premium 2,Odbojka,Nemačka - Turska,EVROPSKO PRVENSTVO (Ž)
 03.09.,18:00,Arena Premium 5,Fudbal,Rakow - Gornik,POLJSKA LIGA
 03.09.,20:15,Arena Sport 1,Rukomet,Magdeburg - Fuchse  Berlin,BUNDESLIGA
 03.09.,20:30,Arena Premium 4,Fudbal,Basel - Sion,ŠVAJCARSKA LIGA
@@ -38,19 +38,19 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 04.09.,14:55,Adrenalin,Moto Sport,Italija: Kvalifikacije,FORMULA 2
 04.09.,16:00,Arena Sport 10,Fudbal,Crvena zvezda -Milutinac,SUPERLIGA Ž
 04.09.,16:00,Adrenalin,Moto Sport,Italija: Trening 2,FORMULA 1
-04.09.,17:00,Arena Premium 3,Rukomet,Partizan - Dinamo,SUPER KUP SRBIJE
+04.09.,17:00,Arena Premium 3,Rukomet,Partizan - Dinamo,SUPERKUP SRBIJE
 04.09.,17:30,Arena Premium 1,Košarka,Milano - Crvena zvezda,PRIJATELJSKA UTAKMICA
-04.09.,18:30,Arena Premium 2,Fudbal,Hannover - Karlsruhe,NEMAČKA 2. LIGA
 04.09.,18:30,Arena Premium 5,Fudbal,Arminia Bielefeld - St. Pauli,NEMAČKA 2. LIGA
+04.09.,18:30,Arena Sport 3,Fudbal,Hannover - Karlsruhe,NEMAČKA 2. LIGA
 04.09.,19:00,Arena Premium 3,Fudbal,Lyon - Auxerre,FRANCUSKA LIGA
 04.09.,19:00,Arena Sport 5,Fudbal,Basaksehir - Galatasaray,TURSKA LIGA
 04.09.,19:00,Arena 1X2,Fudbal,Viborg - Lyngby,DANSKA LIGA
 04.09.,20:00,Arena Premium 4,košarka,Svecanost povodom 25 godina ABA Lige,ABA Liga
-04.09.,20:00,Arena Sport 2,Košarka,Olympiacos - Fenerbahce,PRIJATELJSKA UTAKMICA
-04.09.,20:00,Arena Sport 4,Rukomet,Crvena zvezda - Bor,SUPER KUP SRBIJE Ž
+04.09.,20:00,Arena Sport 1,Košarka,Olympiacos - Fenerbahce,PRIJATELJSKA UTAKMICA
+04.09.,20:00,Arena Sport 2,Rukomet,Crvena zvezda - Bor,SUPERKUP SRBIJE Ž
+04.09.,20:00,Arena Sport 4,Atletika,Brisel,DIJAMANTSKA LIGA
 04.09.,20:00,Arena Sport 6,Bejzbol,Detroit Tigers - Cleveland Guardians,Major League Baseball
-04.09.,20:00,Arena Sport 7,Atletika,Brisel,DIJAMANTSKA LIGA
-04.09.,20:30,Arena Sport 1,Fudbal,Stuttgart - Koln,NEMAČKA LIGA
+04.09.,20:30,Arena Premium 5,Fudbal,Stuttgart - Koln,NEMAČKA LIGA
 04.09.,20:45,Arena Sport 3,Fudbal,Genoa - Como,ITALIJANSKA LIGA
 04.09.,21:00,Arena Premium 1,Fudbal,Ipswich - Liverpool,ENGLESKA LIGA
 04.09.,21:00,Arena Premium 2,Fudbal,Betis - Real Madrid,ŠPANSKA LIGA
@@ -120,7 +120,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.09.,09:45,Adrenalin,Moto Sport,Italija: Trka,FORMULA 2
 06.09.,10:00,Arena Tenis,Tenis,Girls Final,ITF - Kuršumlijska banja
 06.09.,11:10,Arena Sport 6,Moto Sport,"Francuska, Superpole Race",SUPERBIKE WORLD CHAMPIONSHIP
-06.09.,11:15,Adrenalin,Moto Sport,Historic F1 Cars Demonstration,FORMULA 1
 06.09.,11:30,Arena Premium 2,Košarka,Turska - Australija,Svetsko prvenstvo (Ž)
 06.09.,11:45,Adrenalin,Moto Sport,Italija: Trka,Porsche Supercup
 06.09.,12:00,Arena Tenis,Tenis,Boys Final,ITF - Kuršumlijska banja
