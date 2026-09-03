@@ -95,7 +95,7 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "23:30",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -736,7 +736,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "21:00",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -1374,7 +1374,7 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "08:30",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -1599,17 +1599,17 @@
             "description": "uzivo"
           },
           {
-            "content": "Liga Šampiona: Magazin ep. 2",
+            "content": "Polufinale 1",
             "time": "15:00",
-            "category": "UEFA LIGA ŠAMPIONA",
-            "sport": "Fudbal",
-            "description": "snimak"
+            "category": "EVROPSKO PRVENSTVO (Ž)",
+            "sport": "Odbojka",
+            "description": "uzivo"
           },
           {
-            "content": "Nottingham Forest - Tottenham",
-            "time": "16:00",
-            "category": "ENGLESKA LIGA",
-            "sport": "Fudbal",
+            "content": "Polufinale 2",
+            "time": "18:00",
+            "category": "EVROPSKO PRVENSTVO (Ž)",
+            "sport": "Odbojka",
             "description": "uzivo"
           },
           {
@@ -1866,6 +1866,13 @@
             "content": "Pregled 4. kola",
             "time": "23:00",
             "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Real Madrid - Inter",
+            "time": "23:30",
+            "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -2853,17 +2860,17 @@
             "description": "uzivo"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Liga Šampiona: Magazin ep. 2",
             "time": "15:00",
-            "category": "EVROPSKO PRVENSTVO (Ž)",
-            "sport": "Odbojka",
-            "description": "uzivo"
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
-            "time": "18:00",
-            "category": "EVROPSKO PRVENSTVO (Ž)",
-            "sport": "Odbojka",
+            "content": "Nottingham Forest - Tottenham",
+            "time": "16:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
             "description": "uzivo"
           },
           {
@@ -4012,7 +4019,7 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "23:00",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -4051,7 +4058,7 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "06:00",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -4086,7 +4093,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "13:30",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -4283,7 +4290,7 @@
             "description": "snimak"
           },
           {
-            "content": "Falkrik - Rangers",
+            "content": "Falkirk - Rangers",
             "time": "12:30",
             "category": "ŠKOTSKA LIGA",
             "sport": "Fudbal",
@@ -4607,11 +4614,18 @@
             "description": "snimak"
           },
           {
-            "content": "Real Madrid - Malaga",
+            "content": "Fudbal: Italijanska Liga: TOP 100 Assists",
             "time": "19:00",
-            "category": "ŠPANSKA LIGA",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Srbija - Nemačka",
+            "time": "19:40",
+            "category": "WORLD CUP",
+            "sport": "Socca",
+            "description": "uzivo"
           },
           {
             "content": "Atalanta - Bologna",
@@ -6079,9 +6093,9 @@
       "2026-09-05": {
         "emisije": [
           {
-            "content": "Viktoria Plzen - Crvena zvezda",
+            "content": "Getafe - Partizan",
             "time": "00:00",
-            "category": "UEFA LIGA EVROPE - Kvalifikacije",
+            "category": "UEFA LIGA KONFERENCIJA - Kvalifikacije",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -7259,6 +7273,13 @@
             "description": "snimak"
           },
           {
+            "content": "MLB Plays of the Week",
+            "time": "19:30",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
             "content": "Detroit Tigers - Cleveland Guardians",
             "time": "20:00",
             "category": "Major League Baseball",
@@ -8264,7 +8285,7 @@
             "description": "snimak"
           },
           {
-            "content": "Atlanta Braves - Washington Nationals",
+            "content": "Los Angeles Dodgers - Detroit Tigers",
             "time": "10:00",
             "category": "Major League Baseball",
             "sport": "Bejzbol",
@@ -8556,6 +8577,27 @@
             "description": "snimak"
           },
           {
+            "content": "MLB Plays of the Week",
+            "time": "10:00",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "Boston Red Sox - New York Yankees",
+            "time": "10:30",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "Philadelphia Eagles - Cincinnati Bengals",
+            "time": "13:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Golden State - Denver",
             "time": "15:30",
             "category": "NBA",
@@ -8570,8 +8612,15 @@
             "description": "snimak"
           },
           {
+            "content": "Chicago Cubs - Miami Marlins",
+            "time": "19:45",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
             "content": "Denver - Minnesota",
-            "time": "22:00",
+            "time": "22:15",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
@@ -8595,6 +8644,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled nedelje Week 17",
+            "time": "04:30",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Minnesota - Cleveland",
             "time": "06:00",
             "category": "NBA",
@@ -8606,6 +8662,27 @@
             "time": "08:00",
             "category": "NBA",
             "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Chicago Cubs - Miami Marlins",
+            "time": "10:00",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "MLB Plays of the Week",
+            "time": "12:30",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "Cleveland Browns - New England Patriots",
+            "time": "13:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
             "description": "snimak"
           },
           {
@@ -8623,8 +8700,22 @@
             "description": "snimak"
           },
           {
-            "content": "Orlando - Denver",
+            "content": "Cincinnati Reds - Los Angeles Dodgers",
+            "time": "19:30",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "MLB Plays of the Week",
             "time": "22:00",
+            "category": "Major League Baseball",
+            "sport": "Bejzbol",
+            "description": "snimak"
+          },
+          {
+            "content": "Orlando - Denver",
+            "time": "22:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
@@ -9777,6 +9868,13 @@
             "description": "uzivo"
           },
           {
+            "content": "F2: Trka za snom: Mađarska",
+            "time": "14:35",
+            "category": "FORMULA 2",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
             "content": "Italija: Kvalifikacije",
             "time": "14:55",
             "category": "FORMULA 2",
@@ -10023,6 +10121,13 @@
             "description": "uzivo"
           },
           {
+            "content": "FastZone E21",
+            "time": "09:15",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
             "content": "Italija: Trka",
             "time": "09:45",
             "category": "FORMULA 2",
@@ -10045,7 +10150,7 @@
           },
           {
             "content": "Italija: Trka",
-            "time": "14:15",
+            "time": "14:10",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "uzivo"
@@ -10058,16 +10163,23 @@
             "description": "snimak"
           },
           {
-            "content": "Aragon: Trka",
+            "content": "Imola - Trka 1",
             "time": "18:45",
-            "category": "MOTO 2",
+            "category": "FORMULA REGIONAL",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Aragon: Trka",
-            "time": "20:00",
-            "category": "MOTO GP",
+            "content": "Imola - Trka 2",
+            "time": "19:30",
+            "category": "FORMULA REGIONAL",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Imola - Trka 3",
+            "time": "20:30",
+            "category": "FORMULA REGIONAL",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10146,9 +10258,37 @@
             "description": "snimak"
           },
           {
-            "content": "Lone Star Le Mans",
+            "content": "Rim - Round 1",
+            "time": "06:00",
+            "category": "DRIFT MASTERS",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Dokumentarni film: Scuderia Alpha Tauri",
+            "time": "08:30",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Imola - Trka 1",
             "time": "09:00",
-            "category": "World Endurance Championship",
+            "category": "FORMULA REGIONAL",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Imola - Trka 2",
+            "time": "10:00",
+            "category": "FORMULA REGIONAL",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Imola - Trka 3",
+            "time": "11:00",
+            "category": "FORMULA REGIONAL",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10220,9 +10360,16 @@
       "2026-09-08": {
         "emisije": [
           {
-            "content": "Michigan",
+            "content": "Darlington",
             "time": "00:30",
             "category": "NASCAR CUP SERIES",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Sports Unlimited E35",
+            "time": "04:00",
+            "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10234,10 +10381,31 @@
             "description": "snimak"
           },
           {
-            "content": "Darlington",
-            "time": "10:00",
-            "category": "NASCAR CUP SERIES",
+            "content": "Madrid - Round 2",
+            "time": "06:00",
+            "category": "DRIFT MASTERS",
             "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Reli Čile, najava",
+            "time": "08:30",
+            "category": "WRC",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Lone Star Le Mans",
+            "time": "09:00",
+            "category": "World Endurance Championship",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Valensija, dan 2",
+            "time": "12:00",
+            "category": "SailGP",
+            "sport": "Jedrenje",
             "description": "snimak"
           },
           {
@@ -10248,9 +10416,30 @@
             "description": "snimak"
           },
           {
+            "content": "Kanada: Sprint Trka",
+            "time": "14:00",
+            "category": "FORMULA 2",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Kanada: Trka",
+            "time": "15:00",
+            "category": "FORMULA 2",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
             "content": "Kanada: Trka",
             "time": "16:30",
             "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Dokumentarni film: Scuderia Alpha Tauri",
+            "time": "18:45",
+            "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
