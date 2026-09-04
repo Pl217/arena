@@ -51,7 +51,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.09.,13:30,Arena Sport 8,Jedrenje,"Valensija, dan 1",SailGP
 05.09.,14:00,Arena Tenis,Tenis,Boys Semifinal 1,ITF - Kuršumlijska banja
 05.09.,14:15,Adrenalin,Moto Sport,Italija: Sprint,FORMULA 2
-05.09.,15:00,Arena Premium 3,Odbojka,Polufinale 1,EVROPSKO PRVENSTVO (Ž)
+05.09.,15:00,Arena Premium 3,Odbojka,"Turska - Srbija, polufinale 1",EVROPSKO PRVENSTVO (Ž)
 05.09.,15:00,Arena Sport 6,Fudbal,Fiorentina - Torino,ITALIJANSKA LIGA
 05.09.,15:30,Arena Premium 4,Fudbal,Multiprenos,NEMAČKA LIGA
 05.09.,15:30,Arena Sport 1,Fudbal,Zenit - CSKA,RUSKA LIGA
@@ -70,7 +70,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.09.,16:30,Arena Sport 8,Fudbal,NEC - Feyenoord,HOLANDSKA LIGA
 05.09.,17:15,Arena Sport 6,Fudbal,Lens - Lorient,FRANCUSKA LIGA
 05.09.,18:00,Arena Premium 1,Fudbal,Inter - Napoli,ITALIJANSKA LIGA
-05.09.,18:00,Arena Premium 3,Odbojka,Polufinale 2,EVROPSKO PRVENSTVO (Ž)
+05.09.,18:00,Arena Premium 3,Odbojka,"Poljska - Italija, polufinale 2",EVROPSKO PRVENSTVO (Ž)
 05.09.,18:00,Arena Sport 2,Fudbal,Rostov - Fakel,RUSKA LIGA
 05.09.,18:00,Arena Sport 3,Fudbal,Volos - Olympiacos,GRČKA LIGA
 05.09.,18:00,Arena Sport 5,Rukomet,Storhamar - Metz,EHF LIGA ŠAMPIONA (Ž)
@@ -118,7 +118,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.09.,15:00,Arena Premium 5,Odbojka,Utakmica za 3.mesto,EVROPSKO PRVENSTVO (Ž)
 06.09.,15:00,Arena Sport 2,Fudbal,Parma - Monza,ITALIJANSKA LIGA
 06.09.,15:00,Arena Sport 4,Fudbal,Troyes - Strasbourg,FRANCUSKA LIGA
-06.09.,15:00,Arena Sport 5,Fudbal,Modena - Avellino,ITALIJANSKA 2. LIGA
 06.09.,15:00,Arena Sport 7,Rukomet,Goppingen - Kiel,BUNDESLIGA
 06.09.,15:30,Arena Premium 2,Fudbal,HSV - Mainz,NEMAČKA LIGA
 06.09.,16:00,Arena Sport 3,Fudbal,St. Johnstone - Hibernian,ŠKOTSKA LIGA
@@ -126,7 +125,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.09.,16:15,Arena Premium 3,Fudbal,Valencia - Barcelona,ŠPANSKA LIGA
 06.09.,16:30,Arena Sport 9,Moto Sport,Imola - Trka 3,FORMULA REGIONAL
 06.09.,17:00,Arena Premium 4,Košarka,Utakmica za 3. mesto,PRIJATELJSKA UTAKMICA
-06.09.,17:15,Arena Sport 5,Fudbal,Verona - Arezzo,ITALIJANSKA 2. LIGA
 06.09.,17:15,Arena 1X2,Fudbal,Angers - Rennes,FRANCUSKA LIGA
 06.09.,17:30,Arena Premium 2,Fudbal,Arsenal - Chelsea,ENGLESKA LIGA
 06.09.,17:30,Arena Sport 2,Fudbal,Frankfurt - Augsburg,NEMAČKA LIGA
@@ -152,21 +150,23 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.09.,00:00,Arena Premium 4,Moto Sport,Lone Star Le Mans,World Endurance Championship
 07.09.,00:15,Arena Premium 5,Fudbal,River Plate - Independiente Rivadavia,ARGENTINSKA LIGA
 07.09.,16:00,Arena Sport 10,Fudbal,Spartak - Mašinac,SUPERLIGA Ž
-07.09.,18:00,Arena Premium 5,Fudbal,Cagliari - Lecce,ITALIJANSKA LIGA
-07.09.,18:30,Arena Premium 3,Fudbal,Rubin - Akhmat,RUSKA LIGA
+07.09.,18:00,Arena Premium 3,Fudbal,Cagliari - Lecce,ITALIJANSKA LIGA
+07.09.,18:30,Arena Premium 5,Fudbal,Rubin - Akhmat,RUSKA LIGA
 07.09.,19:00,Arena Premium 2,Fudbal,Getafe - Celta,ŠPANSKA LIGA
 07.09.,19:00,Arena Premium 4,Fudbal,Midtjylland - Nordsjaelland,DANSKA LIGA
 07.09.,20:30,Arena Premium 5,Fudbal,Palermo - Sampdoria,ITALIJANSKA 2. LIGA
 07.09.,20:45,Arena Premium 3,Fudbal,Udinese - Lazio,ITALIJANSKA LIGA
 07.09.,20:45,Arena Sport 1,Košarka,SAD - Češka,Svetsko prvenstvo (Ž)
-07.09.,20:45,Arena Sport 3,Fudbal,Nantes - Nancy,FRANCUSKA 2. LIGA
+07.09.,20:45,Arena 1X2,Fudbal,Nantes - Nancy,FRANCUSKA 2. LIGA
 07.09.,21:00,Arena Premium 4,Fudbal,Bromley - Wimbledon,LEAGUE ONE
 07.09.,21:30,Arena Premium 2,Fudbal,Elche - Real Sociedad,ŠPANSKA LIGA
 08.09.,03:10,Arena Premium 2,Bejzbol,Cincinnati Reds - Los Angeles Dodgers,Major League Baseball
 08.09.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
+08.09.,17:30,Arena 1X2,Košarka,2A - 3B,Svetsko prvenstvo (Ž)
 08.09.,18:45,Arena Premium 1,Fudbal,Club Brugge - Aston Villa,UEFA LIGA ŠAMPIONA
 08.09.,18:45,Arena Premium 2,Fudbal,AEK - LASK,UEFA LIGA ŠAMPIONA
 08.09.,20:45,Arena Premium 5,Fudbal,Sunderland - Hull,ENGLESKI LIGA KUP
+08.09.,20:45,Arena Sport 3,Fudbal,Crystal Palace - Middlesbrough,ENGLESKI LIGA KUP
 08.09.,21:00,Arena Premium 1,Fudbal,Real Madrid - Inter,UEFA LIGA ŠAMPIONA
 08.09.,21:00,Arena Premium 2,Fudbal,Porto - Manchetser City,UEFA LIGA ŠAMPIONA
 08.09.,21:00,Arena Premium 3,Fudbal,Borussia Dortmund - Villarreal,UEFA LIGA ŠAMPIONA
@@ -178,17 +178,17 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.09.,00:00,Arena Premium 2,Fudbal,Independiente Santa Fe - Vasco da Gama,COPA SUDAMERICANA
 09.09.,02:30,Arena Premium 2,Fudbal,Boca Juniors - Sao Paulo,COPA SUDAMERICANA
 09.09.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
-09.09.,17:00,Arena Premium 3,Odbojka,Rumunija - Letonija,EVROPSKO PRVENSTVO (M)
-09.09.,18:00,Arena Sport 3,Odbojka,Bugarska - Severna Makedonija,EVROPSKO PRVENSTVO (M)
+09.09.,18:00,Arena Premium 4,Odbojka,Bugarska - Severna Makedonija,EVROPSKO PRVENSTVO (M)
+09.09.,18:30,Arena 1X2,Košarka,3D - 2C,Svetsko prvenstvo (Ž)
 09.09.,18:45,Arena Premium 1,Fudbal,Barcelona - Feyenoord,UEFA LIGA ŠAMPIONA
 09.09.,18:45,Arena Premium 2,Fudbal,Stuttgart - Viking,UEFA LIGA ŠAMPIONA
-09.09.,18:45,Arena Premium 4,Rukomet,Aalborg - PSG,EHF LIGA ŠAMPIONA
+09.09.,18:45,Arena Premium 3,Rukomet,Aalborg - PSG,EHF LIGA ŠAMPIONA
 09.09.,18:45,Arena Sport 2,Rukomet,Zagreb - Celje,EHF LIGA ŠAMPIONA
-09.09.,20:45,Arena Sport 1,Fudbal,Everton - Wolves,ENGLESKI LIGA KUP
 09.09.,20:45,Arena Sport 2,Rukomet,Nantes - Wisla Plock,EHF LIGA ŠAMPIONA
 09.09.,21:00,Arena Premium 1,Fudbal,Liverpool - Atletico Madrid,UEFA LIGA ŠAMPIONA
 09.09.,21:00,Arena Premium 2,Fudbal,Napoli - Arsenal,UEFA LIGA ŠAMPIONA
 09.09.,21:00,Arena Premium 3,Fudbal,PSG - Slovan,UEFA LIGA ŠAMPIONA
 09.09.,21:00,Arena Premium 4,Fudbal,Sporting - Galatasaray,UEFA LIGA ŠAMPIONA
 09.09.,21:00,Arena Premium 5,Fudbal,Chelsea - Leeds,ENGLESKI LIGA KUP
-09.09.,21:00,Arena Sport 3,Fudbal,Charlton - QPR,CHAMPIONSHIP
+09.09.,21:00,Arena Sport 1,Fudbal,Charlton - QPR,CHAMPIONSHIP
+09.09.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
