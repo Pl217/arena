@@ -1155,6 +1155,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Pregled nedelje: Week 1",
+            "time": "04:30",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Buffallo Bills - Detroit Lions",
             "time": "06:00",
             "category": "NFL",
@@ -2268,13 +2275,6 @@
             "description": "snimak"
           },
           {
-            "content": "Temerin - Napredak-12",
-            "time": "16:00",
-            "category": "SUPERLIGA SRBIJE Ž",
-            "sport": "Rukomet",
-            "description": "snimak"
-          },
-          {
             "content": "Rostov - Dinamo",
             "time": "17:30",
             "category": "RUSKA LIGA",
@@ -2339,6 +2339,13 @@
             "time": "06:00",
             "category": "EVROLIGA",
             "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Srbija - Belgija",
+            "time": "07:00",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -2874,6 +2881,13 @@
             "content": "Montevideo City - Cienciano",
             "time": "16:00",
             "category": "COPA SUDAMERICANA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 1. kola",
+            "time": "18:00",
+            "category": "UEFA LIGA EVROPE",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -4873,6 +4887,20 @@
             "category": "FIBA 3x3 U23 World Cup",
             "sport": "Basket 3x3",
             "description": "uzivo"
+          },
+          {
+            "content": "Fudbal: Italijanska Liga: TOP 100 Assists",
+            "time": "11:15",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fudbal: Italijanska Liga: TOP 100 Goals",
+            "time": "12:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Polufinale 1",
@@ -7775,10 +7803,31 @@
             "description": "snimak"
           },
           {
-            "content": "Emisija: Sa Draganom Jakovljevićem ep. 53",
-            "time": "11:00",
+            "content": "Porto - Partizan",
+            "time": "08:00",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Amgen Irish Open, pregled",
+            "time": "09:30",
             "category": "",
-            "sport": "Košarka",
+            "sport": "Golf",
+            "description": "snimak"
+          },
+          {
+            "content": "BMW PGA CHAMPIONSHIP, dan 2",
+            "time": "10:00",
+            "category": "DP WORLD TOUR",
+            "sport": "Golf",
+            "description": "snimak"
+          },
+          {
+            "content": "Srbija - Belgija",
+            "time": "13:00",
+            "category": "EVROPSKO PRVENSTVO (M)",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -9635,16 +9684,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: KLS Rez ep. 13 - KK Mladost",
-            "time": "19:30",
-            "category": "KLS",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: KLS Rez ep. 11 - KK Tamiš",
-            "time": "20:00",
-            "category": "KLS",
+            "content": "FMP - Dubai",
+            "time": "19:15",
+            "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -9940,11 +9982,32 @@
             "description": "snimak"
           },
           {
+            "content": "Emisija: KLS Rez: EP 02 - Borac Zemun",
+            "time": "12:30",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Borac Zemun - BKK Radnički",
             "time": "13:00",
             "category": "Zemun kup",
             "sport": "Košarka",
             "description": "uzivo"
+          },
+          {
+            "content": "Emisija: KLS Rez: EP 10 - BKK Radnički",
+            "time": "15:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Emisija: KLS Rez ep. 13 - KK Mladost",
+            "time": "15:30",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Mladost - Tamiš",
@@ -9954,15 +10017,8 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: KLS Rez: EP 02 - Borac Zemun",
+            "content": "Emisija: KLS Rez ep. 11 - KK Tamiš",
             "time": "18:00",
-            "category": "KLS",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Emisija: KLS Rez: EP 10 - BKK Radnički",
-            "time": "18:30",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
@@ -10756,16 +10812,23 @@
             "description": "uzivo"
           },
           {
-            "content": "GP Confidential E16",
+            "content": "Ženeva, dan 1",
             "time": "16:00",
+            "category": "SailGP",
+            "sport": "Jedrenje",
+            "description": "uzivo"
+          },
+          {
+            "content": "GP Confidential E16",
+            "time": "17:00",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Luanda",
-            "time": "16:30",
-            "category": "E1",
+            "content": "F2: Trka za snom: Madrid",
+            "time": "17:30",
+            "category": "FORMULA 2",
             "sport": "Moto Sport",
             "description": "snimak"
           },
