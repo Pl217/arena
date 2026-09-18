@@ -43,6 +43,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 18.09.,09:50,Adrenalin,Moto Sport,Austrija: Slobodan Trening 1,MOTO 2
 18.09.,10:00,Arena Premium 1,Mali fudbal,Surčin,ARENINA LIGA ŠAMPIONA
 18.09.,10:45,Adrenalin,Moto Sport,Austrija: Slobodan Trening 1,MOTO GP
+18.09.,12:00,Arena Premium 2,Mali fudbal,Surčin,ARENINA LIGA ŠAMPIONA
 18.09.,13:00,Arena Sport 8,Golf,"BMW PGA CHAMPIONSHIP, dan 2",DP WORLD TOUR
 18.09.,13:15,Adrenalin,Moto Sport,Austrija: Trening,MOTO 3
 18.09.,13:30,Arena Sport 10,Basket 3x3,Bor,Moje pravo da biram sport – Sport pobeđuje
@@ -91,11 +92,11 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 19.09.,13:00,Arena Sport 5,Pikado,"Druga runda, prepodnevna sesija",Amsterdam Darts Master Final
 19.09.,13:00,Arena Sport 8,Golf,"BMW PGA CHAMPIONSHIP, dan 3",DP WORLD TOUR
 19.09.,13:00,Arena Sport 10,Košarka,Borac Zemun - BKK Radnički,Zemun kup
-19.09.,13:00,Arena 1X2,Odbojka,Osmina finala VREME TBD!,EVROPSKO PRVENSTVO (M)
 19.09.,13:10,Adrenalin,Moto Sport,Austrija: Kvalifikacije 2,MOTO 3
 19.09.,13:15,Arena Sport 2,Basket 3x3,Polufinale 2,FIBA 3x3 U23 World Cup
 19.09.,13:30,Arena Premium 1,Fudbal,Tottenham - Aston Villa,ENGLESKA LIGA
 19.09.,13:30,Arena Premium 2,Fudbal,Millwall - West Ham,CHAMPIONSHIP
+19.09.,13:30,Arena 1X2,Odbojka,Osmina finala,EVROPSKO PRVENSTVO (M)
 19.09.,13:40,Adrenalin,Moto Sport,Austrija: Kvalifikacije 1,MOTO 2
 19.09.,14:00,Arena Premium 4,Fudbal,Osasuna - Rayo Vallecano,ŠPANSKA LIGA
 19.09.,14:05,Adrenalin,Moto Sport,Austrija: Kvalifikacije 2,MOTO 2
@@ -106,7 +107,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 19.09.,15:00,Adrenalin,Moto Sport,Austrija: Sprint,MOTO GP
 19.09.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
 19.09.,15:30,Arena Sport 4,Fudbal,Frankfurt - Freiburg,NEMAČKA LIGA
-19.09.,15:30,Arena 1X2,Fudbal,B. Monchengladbach - Mainz,NEMAČKA LIGA
 19.09.,16:00,Arena Premium 1,Fudbal,Brighton - Arsenal,ENGLESKA LIGA
 19.09.,16:00,Arena Premium 2,Fudbal,Newcastle - Hull,ENGLESKA LIGA
 19.09.,16:00,Arena Premium 3,Fudbal,Everton - Ipswich,ENGLESKA LIGA
@@ -116,6 +116,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 19.09.,16:00,Arena Sport 7,Rukomet,Budućnost - Brest,EHF LIGA ŠAMPIONA (Ž)
 19.09.,16:00,Arena Sport 10,Košarka,Mladost - Tamiš,Zemun kup
 19.09.,16:00,Adrenalin,Jedrenje,"Ženeva, dan 1",SailGP
+19.09.,16:00,Arena 1X2,Fudbal,Multiprenos,ENGLESKA LIGA
 19.09.,16:15,Arena Premium 4,Fudbal,Athletic Bilbao - Alaves,ŠPANSKA LIGA
 19.09.,17:15,Arena Sport 9,Fudbal,Paris - Strasbourg,FRANCUSKA LIGA
 19.09.,18:00,Arena Premium 2,Fudbal,Roma - Inter,ITALIJANSKA LIGA
@@ -148,6 +149,7 @@ Otvoreni kup Srbije"
 20.09.,00:00,Arena Tenis,Tenis,Finale,WTA 500 - Guadalajara
 20.09.,01:30,Adrenalin,Moto Sport,Bristol,NASCAR CUP SERIES
 20.09.,11:00,Adrenalin,Moto Sport,Austrija: Trka,MOTO 3
+20.09.,11:30,Arena 1X2,Odbojka,Osmina finala,EVROPSKO PRVENSTVO (M)
 20.09.,12:00,Arena Sport 7,Fudbal,Vojvodina - Radnički 1923,SUPERLIGA Ž
 20.09.,12:00,Arena Sport 9,Košarka,Utakmica za 3. mesto,Zemun kup
 20.09.,12:15,Arena Sport 2,Fudbal,Feyenoord - Utrecht,HOLANDSKA LIGA
@@ -209,15 +211,16 @@ Otvoreni kup Srbije"
 20.09.,22:25,Arena Premium 5,Američki fudbal,Dallas Cowboys - Washington Commanders,NFL
 21.09.,02:30,Arena Premium 1,Američki fudbal,Kansas City Chiefs - Indianapolis Colts,NFL
 21.09.,11:00,Arena Premium 1,Mali fudbal,Niš,ARENINA LIGA ŠAMPIONA
-21.09.,19:00,Arena Sport 3,Vaterpolo,Jadran m:tel - Budućnost,Regionalna vaterpolo liga
+21.09.,19:00,Arena Premium 4,Vaterpolo,Jadran m:tel - Budućnost,Regionalna vaterpolo liga
+21.09.,20:00,Arena Sport 9,Futsal,Ekonomac - Vojvodina,PRVA LIGA
 22.09.,02:15,Arena Premium 1,Američki fudbal,Los Angeles Rams - New York Giants,NFL
 22.09.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 22.09.,15:00,Arena Premium 2,Odbojka,četvrtfinale 1 ???,EP
 22.09.,16:00,Arena Sport 1,Fudbal 3x3,MTS Karavan 3x3 - Ćuprija,Arena Karavan
 22.09.,18:00,Arena Premium 2,Odbojka,četvrtfinale 2 ???,EP
+22.09.,20:00,Arena Premium 4,Vaterpolo,Novi Beograd - Partizan,Regionalna vaterpolo liga
 23.09.,04:10,Arena Premium 2,Bejzbol,Los Angeles Dodgers - San Diego Padres,Major League Baseball
 23.09.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 23.09.,13:30,Arena Sport 1,Basket 3x3,Negotin,Moje pravo da biram sport – Sport pobeđuje
 23.09.,16:00,Arena Premium 2,Odbojka,četvrtfinale 3 ???,EP
-23.09.,18:30,Arena Premium 1,Vaterpolo,Novi Beograd - Partizan,Regionalna vaterpolo liga
 23.09.,21:00,Arena Premium 2,Odbojka,četvrtfinale 4 ???,EP
