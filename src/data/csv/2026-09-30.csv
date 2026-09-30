@@ -30,13 +30,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.09.,09:00,Arena Tenis,Tenis,"Popodnevna sesija, dan 1",ATP 500 - Tokyo
 30.09.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 30.09.,11:00,Arena Premium 2,Fudbal,Srbija U17 - Slovačka U17,PRIJATELJSKE UTAKMICE
+30.09.,13:00,Arena Premium 5,Tenis,Đoković - Borges,ATP 500 - Beijing
 30.09.,17:30,Arena Premium 2,Košarka,Siauliai - London,EVROKUP
 30.09.,18:00,Arena Premium 1,Košarka,Bahcesehir - Roma,EVROKUP
 30.09.,18:00,Arena Premium 4,Košarka,UNICS - Dynamo,VTB LIGA
 30.09.,18:00,Arena Sport 2,Košarka,Riga - Tortona,EVROKUP
 30.09.,18:00,Arena Sport 10,Rukomet,Radnički - Temerin,SUPERLIGA SRBIJE Ž
 30.09.,18:30,Arena Premium 3,Košarka,PAOK - Manresa,EVROKUP
-30.09.,18:30,Arena Sport 3,Košarka,Lietkabelis - Bosna,EVROKUP
+30.09.,18:30,Arena Sport 8,Košarka,Lietkabelis - Bosna,EVROKUP
 30.09.,18:45,Arena Sport 4,Rukomet,Flensburg - Granollers,EHF LIGA EVROPE
 30.09.,18:45,Arena Sport 6,Rukomet,Tatabanya - Slovan,EHF LIGA EVROPE
 30.09.,19:00,Arena Premium 5,Košarka,Slask - Budućnost,EVROKUP
@@ -47,6 +48,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.09.,20:00,Arena Sport 2,Vaterpolo,Radnički - Jadran,Regionalna vaterpolo liga
 30.09.,20:00,Arena Sport 5,Pikado,Runda 2,World Grand Prix
 30.09.,20:15,Arena Premium 1,Košarka,Panathinaikos - ASVEL,EVROLIGA
+30.09.,20:15,Arena Sport 3,Rukomet,Borac - Partizan,Svesrpski kup
 30.09.,20:45,Arena Sport 1,Rukomet,Pelister - La Rioja,EHF LIGA EVROPE
 30.09.,21:00,Arena Premium 3,Košarka,Tenerife - Turk Telekom,EVROKUP
 30.09.,21:00,Arena Premium 5,Košarka,Maxima Roma - Cluj,EVROKUP
@@ -138,6 +140,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 03.10.,17:00,Arena Premium 3,Košarka,Igokea - Slovan,ABA LIGA
 03.10.,17:00,Arena Premium 5,Košarka,Cedevita Olimpija - Cibona,ABA LIGA
 03.10.,17:00,Arena Sport 3,Košarka,Vienna - Cluj,ABA LIGA
+03.10.,17:30,Arena Sport 4,Odbojka,Dynamo Kazan - Zarechie,RUSKA LIGA Ž
 03.10.,18:00,Arena Premium 1,Fudbal,Island - Bugarska,UEFA LIGA NACIJA
 03.10.,18:00,Arena Premium 2,Fudbal,Hrvatska - Engleska,UEFA LIGA NACIJA
 03.10.,18:00,Arena Premium 4,Rukomet,Kiel - Gummersbach,BUNDESLIGA
@@ -150,7 +153,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 03.10.,20:45,Arena Premium 4,Fudbal,Švajcarska - Slovenija,UEFA LIGA NACIJA
 03.10.,21:00,Arena Premium 3,Košarka,Manresa - Breogan,ŠPANSKA LIGA
 03.10.,21:00,Arena Sport 5,Pikado,Polufinala,World Grand Prix
-04.10.,01:00,Arena Premium 4,Hokej,Tampa Bay Lightning - Washington Capitals,NHL
+04.10.,01:00,Arena Premium 1,Hokej,Tampa Bay Lightning - Washington Capitals,NHL
 04.10.,04:00,Arena Premium 5,Tenis,Četvrtfinale 1,ATP 500 - Tokyo
 04.10.,04:00,Adrenalin,Moto Sport,Japan: Trka,MOTO 3
 04.10.,05:00,Arena Tenis,Tenis,"Prepodnevna sesija, dan 3",WTA 1000 - Beijing
@@ -162,32 +165,34 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 04.10.,09:00,Arena Premium 5,Tenis,Četvrtfinale 3,ATP 500 - Tokyo
 04.10.,10:00,Arena Sport 8,Moto Sport,Italija - Live Stage 4,WRC
 04.10.,11:00,Arena Premium 5,Tenis,Četvrtfinale 4,ATP 500 - Tokyo
-04.10.,12:00,Arena Premium 2,Košarka,Bandirma - Efes,TURSKA LIGA
-04.10.,12:00,Arena Premium 3,Košarka,Coruna - Bilbao,ŠPANSKA LIGA
+04.10.,12:00,Arena Premium 2,Košarka,Cayirova - Bahcesehir,TURSKA LIGA
 04.10.,12:30,Arena Premium 1,Košarka,Obradoiro - Real Madrid,ŠPANSKA LIGA
 04.10.,12:30,Arena Sport 8,Golf,"Alfred Dunhill Links Championship, finalni dan",DP WORLD TOUR
+04.10.,13:00,Arena Premium 4,Odbojka,Uralochka - Leningradka,RUSKA LIGA Ž
 04.10.,13:00,Arena Tenis,Tenis,"Popodnevna sesija, dan 3",WTA 1000 - Beijing
 04.10.,13:15,Arena Sport 9,Konjički sport,Ada - Revanš derbi,KASAČKE TRKE
-04.10.,14:00,Arena Premium 5,Rukomet,Esbjerg - Budućnost,EHF LIGA ŠAMPIONA (Ž)
+04.10.,14:00,Arena Premium 3,Rukomet,Esbjerg - Budućnost,EHF LIGA ŠAMPIONA (Ž)
 04.10.,14:00,Adrenalin,Moto Sport,Italija - Live Stage 5,WRC
 04.10.,14:30,Arena Premium 2,Košarka,Fenerbahce - Korfez,TURSKA LIGA
 04.10.,14:30,Arena Tenis,Tenis,"Popodnevna sesija, dan 4",ATP 500 - Beijing
-04.10.,15:00,Arena Premium 4,Rukomet,Magdenburg - Erlangen,BUNDESLIGA
-04.10.,16:00,Arena Premium 1,Fudbal,Azerbejdžan - Litvanija,UEFA LIGA NACIJA
-04.10.,16:00,Arena Premium 5,Rukomet,Brest - Krim,EHF LIGA ŠAMPIONA (Ž)
+04.10.,15:00,Arena Premium 1,Fudbal,Azerbejdžan - Litvanija,UEFA LIGA NACIJA
+04.10.,15:00,Arena Premium 4,Rukomet,Magdeburg - Erlangen,BUNDESLIGA
+04.10.,15:30,Arena Premium 5,Američki fudbal,Washington Commanders - Indianapolis Colts,NFL
+04.10.,16:00,Arena Premium 3,Rukomet,Brest - Krim,EHF LIGA ŠAMPIONA (Ž)
 04.10.,16:30,Arena Sport 2,Košarka,Gravelines - Asvel,FRANCUSKA LIGA
-04.10.,17:00,Arena Premium 2,Košarka,UNICS - Zenit,VTB LIGA
-04.10.,17:00,Arena Premium 4,Košarka,Zaragoza - Valencia,ŠPANSKA LIGA
-04.10.,17:00,Arena Sport 1,Košarka,Cayirova - Bahcesehir,TURSKA LIGA
+04.10.,17:00,Arena Premium 2,Košarka,Bandirma - Efes,TURSKA LIGA
+04.10.,17:00,Arena Premium 4,Košarka,UNICS - Zenit,VTB LIGA
+04.10.,17:00,Arena Sport 1,Košarka,Zaragoza - Valencia,ŠPANSKA LIGA
 04.10.,18:00,Arena Premium 1,Košarka,FMP - Crvena zvezda,ABA LIGA
 04.10.,18:00,Arena Premium 3,Košarka,Baskonia - Girona,ŠPANSKA LIGA
 04.10.,18:00,Arena Sport 10,Košarka,Sloboda - Sloga,KLS
-04.10.,19:00,Arena Premium 5,Američki fudbal,Sunday Afternoon Football,NFL
+04.10.,19:00,Arena Premium 5,Američki fudbal,Philadelphia Eagles - Los Angeles Rams,NFL
 04.10.,19:00,Arena Sport 2,Košarka,Murcia - Barcelona,ŠPANSKA LIGA
 04.10.,19:00,Arena Sport 4,Košarka,Le Mans - Paris,FRANCUSKA LIGA
 04.10.,19:00,Arena Sport 6,Hokej,Detroit Red Wings - Winnipeg Jets,NHL
 04.10.,19:00,Arena 1X2,Američki fudbal,Redzone Week 4,NFL
 04.10.,20:00,Arena Sport 3,Košarka,Ilirija - Dubai,ABA LIGA
+04.10.,20:00,Arena Sport 10,Košarka,Vojvodina - Mladost,KLS
 04.10.,20:45,Arena Premium 1,Fudbal,Holandija - Srbija,UEFA LIGA NACIJA
 04.10.,20:45,Arena Premium 2,Fudbal,Grčka - Nemačka,UEFA LIGA NACIJA
 04.10.,20:45,Arena Premium 3,Fudbal,Portugal - Norveška,UEFA LIGA NACIJA
@@ -195,7 +200,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 04.10.,20:45,Arena Sport 1,Fudbal,Irska - Izrael,UEFA LIGA NACIJA
 04.10.,21:00,Arena Sport 5,Pikado,Finale,World Grand Prix
 04.10.,22:00,Arena Sport 2,Fudbal,Talleres - Belgrano,ARGENTINSKA LIGA
-04.10.,22:25,Arena Premium 5,Američki fudbal,Sunday Afternoon Football,NFL
+04.10.,22:25,Arena Premium 5,Američki fudbal,San Francisco 49ers - Denver Broncos,NFL
 04.10.,23:30,Adrenalin,Moto Sport,Las Vegas,NASCAR CUP SERIES
 05.10.,02:20,Arena Premium 1,Američki fudbal,Carolina Panthers - Detroit Lions,NFL
 05.10.,05:00,Arena Tenis,Tenis,"Prepodnevna sesija, dan 4",WTA 1000 - Beijing
@@ -207,8 +212,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.10.,14:30,Arena Tenis,Tenis,"Popodnevna sesija, dan 4",WTA 1000 - Beijing
 05.10.,18:00,Arena Premium 2,Fudbal,Srbija U21 - Rusija U21,PRIJATELJSKE UTAKMICE
 05.10.,18:00,Arena Premium 3,Košarka,Beiktas - Trabzonspor,TURSKA LIGA
-05.10.,18:00,Arena Premium 4,Košarka,Vojvodina - Mladost,KLS
-05.10.,18:00,Arena Premium 5,Rukomet,Bekament BB - Partizan,SUPERLIGA SRBIJE Ž
+05.10.,18:00,Arena Premium 4,Rukomet,Bekament BB - Partizan,SUPERLIGA SRBIJE Ž
 05.10.,18:30,Arena Premium 1,Košarka,Partizan - Mega,ABA LIGA
 05.10.,20:00,Arena Sport 9,Futsal,Loznica grad 2018 - Smederevo,PRVA LIGA
 05.10.,20:30,Arena Sport 2,Košarka,Zadar - SC Derby,ABA LIGA
