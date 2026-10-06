@@ -62,15 +62,16 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.10.,19:00,Arena Sport 4,Košarka,Juventus - Unicaja,FIBA LIGA ŠAMPIONA
 07.10.,19:00,Arena Sport 5,Košarka,Zenit - Parma,VTB LIGA
 07.10.,19:30,Arena Sport 3,Košarka,Tortona - Le Mans,EVROKUP
+07.10.,19:30,Arena Sport 6,Košarka,FMP - Lokomotiv,WINLINE Basket Cup
 07.10.,20:00,Arena Premium 2,Košarka,Spartak - Vechta,FIBA LIGA ŠAMPIONA
 07.10.,20:00,Arena Sport 1,Košarka,Roma - Lietkabelis,EVROKUP
 07.10.,20:30,Arena Premium 3,Košarka,Manresa - Ulm,EVROKUP
 07.10.,20:30,Arena Premium 4,Košarka,Murcia - Varese,FIBA LIGA ŠAMPIONA
 07.10.,20:30,Arena Premium 5,Vaterpolo,Barceloneta - Novi Beograd,Liga šampiona
 07.10.,20:45,Arena Premium 1,Košarka,Paris - ASVEL,EVROLIGA
-07.10.,20:45,Arena Sport 6,Rukomet,Kielce - Magdeburg,EHF LIGA ŠAMPIONA
-07.10.,20:45,Arena Sport 7,Rukomet,PSG - Celje,EHF LIGA ŠAMPIONA
-07.10.,21:00,Arena Sport 2,Bejzbol,NLDS G3,Major League Baseball
+07.10.,20:45,Arena Sport 7,Rukomet,Kielce - Magdeburg,EHF LIGA ŠAMPIONA
+07.10.,20:45,Arena Sport 8,Rukomet,PSG - Celje,EHF LIGA ŠAMPIONA
+07.10.,22:00,Arena Premium 5,Bejzbol,"Chicago White Sox - Cleveland Guardians, G3",Major League Baseball
 08.10.,00:30,Arena Premium 3,Fudbal,Internacional - Corinthians,BRAZILSKA LIGA
 08.10.,06:00,Arena Tenis,Tenis,"Dan 2, prepodnevna sesija",ATP 1000 - Shanghai
 08.10.,09:00,Arena Premium 5,Tenis,Četvrtfinale 1,WTA 1000 - Beijing
@@ -127,6 +128,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 09.10.,20:45,Arena Sport 2,Fudbal,Lens - Lyon,FRANCUSKA LIGA
 09.10.,21:00,Arena Premium 5,Fudbal,Malaga - Espanyol,ŠPANSKA LIGA
 09.10.,21:00,Arena Sport 1,Fudbal,West Ham - QPR,CHAMPIONSHIP
+10.10.,00:30,Arena Premium 3,Fudbal,Instituto - Boca Juniors,ARGENTINSKA LIGA
 10.10.,02:40,Adrenalin,Moto Sport,Indonezija: Slobodan Trening 2,MOTO 3
 10.10.,03:00,Arena Sport 8,Slap Fighting,Kanekoa vs Hintz,Power Slap 24
 10.10.,03:25,Adrenalin,Moto Sport,Indonezija: Slobodan Trening 2,MOTO 2
@@ -197,6 +199,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 10.10.,21:00,Arena Sport 1,Košarka,Široki - Cedevita Olimpija,ABA LIGA
 10.10.,21:00,Arena Sport 3,Fudbal,Ajax - NEC,HOLANDSKA LIGA
 10.10.,22:00,Arena Sport 2,Hokej,San Jose Sharks - Edmonton Oilers,NHL
+11.10.,02:30,Arena Premium 1,Fudbal,River Plate - Estudiantes,ARGENTINSKA LIGA
 11.10.,06:00,Arena Tenis,Tenis,"Dan 5, prepodnevna sesija",ATP 1000 - Shanghai
 11.10.,06:00,Adrenalin,Moto Sport,Indonezija: Trka,MOTO 3
 11.10.,07:15,Adrenalin,Moto Sport,Indonezija: Trka,MOTO 2
@@ -206,18 +209,17 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,12:00,Arena Premium 4,Košarka,Real Madrid - Manresa,ŠPANSKA LIGA
 11.10.,12:00,Arena Tenis,Tenis,"Dan 5, popodnevna sesija",ATP 1000 - Shanghai
 11.10.,12:10,Arena Sport 7,Moto Sport,"Portugal, Superpole Race",SUPERBIKE WORLD CHAMPIONSHIP
-11.10.,12:15,Arena Sport 3,Fudbal,Utrecht - Willem II,HOLANDSKA LIGA
 11.10.,12:15,Arena Sport 8,Biciklizam,Petrovaradin Fortress Bike Festival,UCI MTB
 11.10.,12:30,Arena Premium 1,Fudbal,Como - Roma,ITALIJANSKA LIGA
-11.10.,12:30,Arena Sport 2,Košarka,Murcia - Tenerife,ŠPANSKA LIGA
+11.10.,12:30,Arena Sport 3,Košarka,Murcia - Tenerife,ŠPANSKA LIGA
 11.10.,13:00,Arena Premium 5,Fudbal,Southampton - Portsmouth,CHAMPIONSHIP
 11.10.,13:00,Arena Sport 1,Fudbal,Motherwell - Celtic,ŠKOTSKA LIGA
-11.10.,13:00,Arena Sport 6,Fudbal,Akhmat - Baltika,RUSKA LIGA
 11.10.,13:15,Adrenalin,Moto Sport,Singapur: Trka,FORMULA 1
 11.10.,13:30,Arena Sport 4,Fudbal,Hertha - Greuter Furth,NEMAČKA 2. LIGA
 11.10.,13:30,Arena Sport 5,Fudbal,St. Pauli - Karlsruhe,NEMAČKA 2. LIGA
 11.10.,13:45,Arena Sport 9,Konjički sport,Subotica - Trka grada,KASAČKE TRKE
 11.10.,14:00,Arena Premium 4,Fudbal,Elche - Celta,ŠPANSKA LIGA
+11.10.,14:00,Arena Sport 2,Basket 3x3,"Bukurešt, četvrtfinala",FIBA 3x3 World Tour
 11.10.,14:00,Arena Sport 7,Rukomet,Budućnost - Sola,EHF LIGA ŠAMPIONA (Ž)
 11.10.,14:30,Arena Tenis,Tenis,Finale,WTA 1000 - Beijing
 11.10.,14:30,Arena Sport 3,Košarka,Efes - Denizli,TURSKA LIGA
@@ -225,7 +227,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,15:00,Arena Premium 3,Fudbal,Lazio - Monza,ITALIJANSKA LIGA
 11.10.,15:00,Arena Premium 5,Fudbal,Hull - Everton,ENGLESKA LIGA
 11.10.,15:00,Arena Sport 1,Fudbal,Lecce - Bologna,ITALIJANSKA LIGA
-11.10.,15:00,Arena Sport 2,Rukomet,Kiel - Hamburger,BUNDESLIGA
 11.10.,15:00,Arena 1X2,Fudbal,Nice - Strasbourg,FRANCUSKA LIGA
 11.10.,15:30,Arena Sport 5,Fudbal,CSKA - Rodina,RUSKA LIGA
 11.10.,15:30,Arena Sport 6,Fudbal,Koln - B. Monchengladbach,NEMAČKA LIGA
@@ -235,8 +236,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,16:30,Arena Sport 3,Košarka,Paris - Strasbourg,FRANCUSKA LIGA
 11.10.,16:30,Arena Sport 8,Moto Sport,Hockenheimring: Trka 2,DTM
 11.10.,16:30,Adrenalin,Moto Sport,"Portugal, Trka 2",SUPERBIKE WORLD CHAMPIONSHIP
+11.10.,16:40,Arena Sport 2,Basket 3x3,"Bukurešt, polufinala i finale",FIBA 3x3 World Tour
 11.10.,17:00,Arena Premium 5,Košarka,Turk Telekom - Besiktas,TURSKA LIGA
-11.10.,17:00,Arena Sport 2,Košarka,Baskonia - Joventut,ŠPANSKA LIGA
 11.10.,17:00,Arena 1X2,Fudbal,Anorthosis - Pafos,KIPARSKA LIGA
 11.10.,17:15,Arena Sport 1,Fudbal,Rennes - Auxerre,FRANCUSKA LIGA
 11.10.,17:30,Arena Premium 1,Fudbal,Liverpool - Manchester City,ENGLESKA LIGA
@@ -250,7 +251,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,18:30,Arena Premium 4,Fudbal,Betis - Osasuna,ŠPANSKA LIGA
 11.10.,18:30,Arena Sport 3,Fudbal,Rubin - Dinamo,RUSKA LIGA
 11.10.,19:00,Arena Premium 2,Košarka,Barcelona - Valencia,ŠPANSKA LIGA
-11.10.,19:00,Arena Premium 5,Američki fudbal,Sunday Afternoon Football,NFL
+11.10.,19:00,Arena Premium 5,Američki fudbal,Green Bay Packers - Chicago Bears,NFL
 11.10.,19:00,Arena Sport 2,Košarka,Asvel - Roanne,FRANCUSKA LIGA
 11.10.,19:00,Arena 1X2,Američki fudbal,Redzone Week 5,NFL
 11.10.,19:30,Arena Sport 5,Fudbal,Modena - Verona,ITALIJANSKA 2. LIGA
@@ -262,5 +263,5 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,20:45,Arena Sport 3,Fudbal,Troyes - Marseille,FRANCUSKA LIGA
 11.10.,21:00,Arena Premium 4,Fudbal,Racing - Valencia,ŠPANSKA LIGA
 11.10.,21:00,Adrenalin,Moto Sport,Charlotte,NASCAR CUP SERIES
-11.10.,22:25,Arena Premium 1,Američki fudbal,Sunday Afternoon Football,NFL
+11.10.,22:25,Arena Premium 1,Američki fudbal,San Francisco 49ers - Seattle Seahawks,NFL
 11.10.,22:30,Arena Premium 2,Fudbal,Palmeiras - Corinthians,BRAZILSKA LIGA
