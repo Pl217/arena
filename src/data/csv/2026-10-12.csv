@@ -17,7 +17,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,13:15,Adrenalin,Moto Sport,Singapur: Trka,FORMULA 1
 11.10.,13:30,Arena Sport 4,Fudbal,Hertha - Greuter Furth,NEMAČKA 2. LIGA
 11.10.,13:30,Arena Sport 5,Fudbal,St. Pauli - Karlsruhe,NEMAČKA 2. LIGA
-11.10.,13:45,Arena Sport 9,Konjički sport,Subotica - Trka grada,KASAČKE TRKE
 11.10.,14:00,Arena Premium 4,Fudbal,Elche - Celta,ŠPANSKA LIGA
 11.10.,14:00,Arena Sport 2,Basket 3x3,"Bukurešt, četvrtfinala",FIBA 3x3 World Tour
 11.10.,14:00,Arena Sport 7,Rukomet,Budućnost - Sola,EHF LIGA ŠAMPIONA (Ž)
@@ -56,7 +55,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 11.10.,19:30,Arena Sport 5,Fudbal,Modena - Verona,ITALIJANSKA 2. LIGA
 11.10.,20:00,Arena Premium 1,Košarka,Partizan - Vienna,ABA LIGA
 11.10.,20:00,Arena Premium 3,Fudbal,Olympiacos - Panathinaikos,GRČKA LIGA
-11.10.,20:00,Arena Sport 9,Košarka,Partizan - Vienna,ABA LIGA
 11.10.,20:15,Arena Sport 6,Fudbal,Legia - Wisla Krakow,POLJSKA LIGA
 11.10.,20:45,Arena Sport 1,Fudbal,Cagliari - Juventus,ITALIJANSKA LIGA
 11.10.,20:45,Arena Sport 3,Fudbal,Troyes - Marseille,FRANCUSKA LIGA
@@ -180,7 +178,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 15.10.,20:30,Arena Sport 2,Košarka,Milano - Dubai,EVROLIGA
 15.10.,20:30,Arena Sport 3,Košarka,Valencia - Maccabi Tel Aviv,EVROLIGA
 15.10.,20:45,Arena Sport 5,Rukomet,Sporting - Szeged,EHF LIGA ŠAMPIONA
-15.10.,21:00,Arena Premium 1,Fudbal,Benfica - Celtic,UEFA LIGA EVROPE
 15.10.,21:00,Arena Premium 3,Fudbal,Celta - Juventus,UEFA LIGA EVROPE
 15.10.,21:00,Arena Premium 4,Fudbal,Marseille - Olympiacos,UEFA LIGA EVROPE
 15.10.,21:00,Arena Premium 5,Fudbal,Copenhagen - Braga,UEFA LIGA KONFERENCIJA
@@ -191,6 +188,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 15.10.,21:00,Arena Sport 8,Fudbal,Brighton - Žalgiris,UEFA LIGA KONFERENCIJA
 15.10.,21:00,Arena Sport 9,Fudbal,Dinamo - Anderlecht,UEFA LIGA EVROPE
 15.10.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA EVROPE
+15.10.,21:15,Arena Premium 1,Fudbal,Benfica - Celtic,UEFA LIGA EVROPE
 15.10.,22:30,Arena Premium 2,Američki fudbal,NFL Arena,NFL
 16.10.,02:15,Arena Premium 1,Američki fudbal,Denver Broncos - Seattle Seahawks,NFL
 16.10.,02:30,Arena Premium 2,Fudbal,"Estudiantes - Flamengo, polufinale",COPA LIBERTADORES
@@ -225,59 +223,61 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 16.10.,21:00,Arena Premium 2,Fudbal,Deportivo - Levante,ŠPANSKA LIGA
 16.10.,21:00,Arena Premium 3,Fudbal,Burnley - Wolverhampton,CHAMPIONSHIP
 17.10.,00:00,Arena Premium 4,Bejzbol,NLCS G5*,Major League Baseball
+17.10.,02:30,Arena Premium 1,Fudbal,Boca Juniors - Talleres,ARGENTINSKA LIGA
 17.10.,08:00,Arena Tenis,Tenis,Polufinale 2 Dubl,ATP 1000 - Shanghai
 17.10.,08:30,Arena Sport 3,Basket 3x3,"Makao, grupna faza",FIBA 3x3 World Tour
 17.10.,08:30,Arena Sport 8,Golf,"DP World India Championship, dan 3",DP WORLD TOUR
 17.10.,10:30,Arena Tenis,Tenis,Polufinale 1,ATP 1000 - Shanghai
 17.10.,11:00,Arena Premium 3,Košarka,Enisey - CSKA,VTB LIGA
-17.10.,11:00,Arena Sport 1,Tenis,Polufinale 1,WTA 1000 - Wuhan
+17.10.,11:00,Arena Sport 5,Tenis,Polufinale 1,WTA 1000 - Wuhan
 17.10.,12:00,Arena Sport 6,Košarka,Bandirma - Turk Telekom,TURSKA LIGA
 17.10.,12:00,Arena Sport 10,Fudbal,Vojvodina - Napredak Junior,SUPERLIGA Ž
 17.10.,13:00,Arena Premium 4,Fudbal,Wolfsburg - Heidenheim,NEMAČKA 2. LIGA
 17.10.,13:00,Arena Premium 5,Fudbal,Kaiserslautern - Bochum,NEMAČKA 2. LIGA
 17.10.,13:00,Arena Tenis,Tenis,Polufinale 2,ATP 1000 - Shanghai
-17.10.,13:00,Arena Sport 1,Tenis,Polufinale 2,WTA 1000 - Wuhan
 17.10.,13:00,Arena Sport 2,Fudbal,Krylya Sovetov - Fakel,RUSKA LIGA
+17.10.,13:00,Arena Sport 5,Tenis,Polufinale 2,WTA 1000 - Wuhan
 17.10.,13:30,Arena Premium 1,Fudbal,Everton - Chelsea,ENGLESKA LIGA
 17.10.,13:30,Arena Premium 2,Fudbal,Watford - Charlton,CHAMPIONSHIP
 17.10.,14:00,Arena Premium 3,Fudbal,Espanyol - Atletico Madrid,ŠPANSKA LIGA
-17.10.,14:30,Arena Sport 6,Košarka,Bursaspor - Bahcesehir,TURSKA LIGA
-17.10.,15:00,Arena Sport 1,Fudbal,Venezia - Napoli,ITALIJANSKA LIGA
+17.10.,14:30,Arena Sport 7,Košarka,Bursaspor - Bahcesehir,TURSKA LIGA
+17.10.,15:00,Arena Premium 5,Fudbal,Venezia - Napoli,ITALIJANSKA LIGA
 17.10.,15:00,Arena Sport 8,Fudbal,Genclerbirligi - Galatasaray,TURSKA LIGA
 17.10.,15:00,Arena Sport 9,Odbojka,Halkbank - Galatasaray,TURSKA LIGA
-17.10.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
-17.10.,15:30,Arena Sport 2,Fudbal,HSV - Stuttgart,NEMAČKA LIGA
+17.10.,15:30,Arena Premium 4,Fudbal,Multiprenos,NEMAČKA LIGA
 17.10.,15:30,Arena Sport 3,Fudbal,Union Berlin - Borussia Dortmund,NEMAČKA LIGA
 17.10.,15:30,Arena Sport 4,Fudbal,Schalke - Mainz,NEMAČKA LIGA
-17.10.,15:30,Arena Sport 5,Fudbal,Werder Bremen - Paderborn,NEMAČKA LIGA
+17.10.,15:30,Arena Sport 5,Fudbal,HSV - Stuttgart,NEMAČKA LIGA
+17.10.,15:30,Arena Sport 6,Fudbal,Werder Bremen - Paderborn,NEMAČKA LIGA
 17.10.,15:30,Adrenalin,Moto Sport,"Španija, Trka 1",SUPERBIKE WORLD CHAMPIONSHIP
 17.10.,16:00,Arena Premium 1,Fudbal,Brentford - Liverpool,ENGLESKA LIGA
 17.10.,16:00,Arena Premium 2,Fudbal,Manchester City - Ipswich,ENGLESKA LIGA
-17.10.,16:00,Arena Premium 4,Fudbal,Fulham - Hull,ENGLESKA LIGA
+17.10.,16:00,Arena Sport 2,Fudbal,Fulham - Hull,ENGLESKA LIGA
 17.10.,16:00,Arena 1X2,Fudbal,Multiprenos,ENGLESKA LIGA
 17.10.,16:15,Arena Premium 3,Fudbal,Villarreal - Elche,ŠPANSKA LIGA
+17.10.,16:30,Arena Sport 7,Fudbal,Den Haag - PSV,HOLANDSKA LIGA
 17.10.,17:00,Arena Sport 8,Košarka,FMP - Široki,ABA LIGA
-17.10.,17:15,Arena Sport 1,Fudbal,Strasbourg - PSG,FRANCUSKA LIGA
-17.10.,18:00,Arena Premium 5,Fudbal,Bologna - Inter,ITALIJANSKA LIGA
+17.10.,17:15,Arena Premium 5,Fudbal,Strasbourg - PSG,FRANCUSKA LIGA
+17.10.,18:00,Arena Premium 4,Fudbal,Bologna - Inter,ITALIJANSKA LIGA
 17.10.,18:00,Arena Sport 2,Fudbal,Fenerbahce - Alanyaspor,TURSKA LIGA
 17.10.,18:00,Arena Sport 3,Košarka,Manresa - Unicaja,ŠPANSKA LIGA
 17.10.,18:00,Arena Sport 4,Rukomet,Krim - Budućnost,EHF LIGA ŠAMPIONA (Ž)
 17.10.,18:00,Arena Sport 5,Rukomet,Odense - Gyori,EHF LIGA ŠAMPIONA (Ž)
-17.10.,18:00,Arena Sport 9,Odbojka,Fenerbahce - Ziraat,TURSKA LIGA
-17.10.,18:30,Arena Premium 2,Fudbal,Newcastle - Aston Villa,ENGLESKA LIGA
+17.10.,18:00,Arena Sport 9,Odbojka,Verona - Lube,ITALIJANSKA LIGA
+17.10.,18:30,Arena Premium 1,Fudbal,Newcastle - Aston Villa,ENGLESKA LIGA
+17.10.,18:30,Arena Premium 2,Fudbal,Bayern - Leipzig,NEMAČKA LIGA
 17.10.,18:30,Arena Premium 3,Fudbal,Betis - Barcelona,ŠPANSKA LIGA
-17.10.,18:30,Arena Premium 4,Fudbal,Bayern - Leipzig,NEMAČKA LIGA
 17.10.,18:30,Arena Sport 6,Fudbal,Lokomotiv - Krasnodar,RUSKA LIGA
 17.10.,19:00,Arena Sport 7,Košarka,Igokea - Cedevita Olimpija,ABA LIGA
 17.10.,19:00,Arena Sport 8,Hokej,Washington Capitals - New Jersey Devils,NHL
-17.10.,19:30,Arena Sport 1,Košarka,Andorra - Breogan,ŠPANSKA LIGA
+17.10.,19:30,Arena Premium 5,Košarka,Andorra - Breogan,ŠPANSKA LIGA
 17.10.,20:00,Arena Sport 3,Fudbal,Red Star - Saint-Etienne,FRANCUSKA 2. LIGA
 17.10.,20:00,Arena Sport 4,Fudbal,Telstar - Feyenoord,HOLANDSKA LIGA
 17.10.,20:15,Arena 1X2,Fudbal,Cracovia - Legia,POLJSKA LIGA
-17.10.,20:30,Arena Premium 5,Fudbal,Hannover - St. Pauli,NEMAČKA 2. LIGA
-17.10.,20:45,Arena Premium 2,Fudbal,Roma - Genoa,ITALIJANSKA LIGA
-17.10.,20:45,Arena Premium 3,Fudbal,Lille - Brest,FRANCUSKA LIGA
+17.10.,20:30,Arena Premium 4,Fudbal,Hannover - St. Pauli,NEMAČKA 2. LIGA
+17.10.,20:45,Arena Premium 1,Fudbal,Roma - Genoa,ITALIJANSKA LIGA
+17.10.,20:45,Arena Premium 2,Fudbal,Lille - Brest,FRANCUSKA LIGA
 17.10.,20:45,Arena Sport 2,Fudbal,Troyes - Lens,FRANCUSKA LIGA
-17.10.,21:00,Arena Premium 1,Fudbal,Valencia - Athletic Bilbao,ŠPANSKA LIGA
-17.10.,21:00,Arena Premium 4,Fudbal,Dundee - Rangers,ŠKOTSKA LIGA
-17.10.,22:00,Arena Sport 3,Hokej,Tampa Bay Lightning - Vancouver Canucks,NHL
+17.10.,21:00,Arena Premium 3,Fudbal,Valencia - Athletic Bilbao,ŠPANSKA LIGA
+17.10.,21:00,Arena Sport 1,Fudbal,Dundee - Rangers,ŠKOTSKA LIGA
+17.10.,22:00,Arena Premium 5,Hokej,Tampa Bay Lightning - Vancouver Canucks,NHL
