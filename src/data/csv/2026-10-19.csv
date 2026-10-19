@@ -86,7 +86,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 19.10.,20:45,Arena Premium 4,Fudbal,Rodez - Montpellier,FRANCUSKA 2. LIGA
 19.10.,21:00,Arena Premium 1,Fudbal,Tottenham - Coventry,ENGLESKA LIGA
 19.10.,21:00,Arena Premium 3,Fudbal,Getafe - Rayo Vallecano,ŠPANSKA LIGA
-20.10.,02:00,Arena Premium 2,Bejzbol,"Tampa Bay Rays - Cleveland Guardians, G6*",Major League Baseball
+20.10.,02:00,Arena Premium 2,Bejzbol,"Tampa Bay Rays - Cleveland Guardians, G6",Major League Baseball
 20.10.,02:15,Arena Premium 1,Američki fudbal,San Francisco 49ers - Washington Commanders,NFL
 20.10.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 20.10.,11:30,Arena Tenis,Tenis,"Centralni teren, dan 2",ATP 250 - Brussels
@@ -100,8 +100,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 20.10.,18:45,Arena Premium 3,Fudbal,Sabah - Borussia Dortmund,UEFA LIGA ŠAMPIONA
 20.10.,19:00,Arena Premium 4,Košarka,Budućnost - Neptunas,EVROKUP
 20.10.,19:00,Arena Premium 5,Košarka,Galatasaray - Strasbourg,FIBA LIGA ŠAMPIONA
-20.10.,20:00,Arena Sport 7,Košarka,Rostock - Aris,EVROKUP
-20.10.,20:00,Arena Sport 8,Košarka,Cibona - Legia,FIBA LIGA ŠAMPIONA
+20.10.,20:00,Arena Premium 2,Košarka,Košarka: NBA: NBA Arena,NBA
+20.10.,20:00,Arena Sport 6,Košarka,Rostock - Aris,EVROKUP
+20.10.,20:00,Arena Sport 7,Košarka,Cibona - Legia,FIBA LIGA ŠAMPIONA
 20.10.,20:30,Arena Sport 5,Košarka,Manresa - Roma,EVROKUP
 20.10.,21:00,Arena Premium 1,Fudbal,PSG - Barcelona,UEFA LIGA ŠAMPIONA
 20.10.,21:00,Arena Premium 2,Košarka,Detroit - Boston,NBA
@@ -113,15 +114,15 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 20.10.,21:00,Arena Sport 3,Fudbal,Porto - PSV,UEFA LIGA ŠAMPIONA
 20.10.,21:00,Arena Sport 4,Fudbal,Gillingham - Port Vale,LEAGUE TWO
 20.10.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
-21.10.,01:00,Arena Premium 1,Košarka,New York - Philadelphia,NBA
+21.10.,01:00,Arena Premium 1,Košarka,New York  - Philadelphia,NBA
 21.10.,02:00,Arena Premium 2,Bejzbol,"Tampa Bay Rays - Cleveland Guardians, G7*",Major League Baseball
 21.10.,02:30,Arena Premium 3,Fudbal,"Vasco da Gama - Boca Juniors, polufinale",COPA SUDAMERICANA
 21.10.,03:30,Arena Premium 1,Košarka,San Antonio - Oklahoma City,NBA
 21.10.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 21.10.,11:30,Arena Tenis,Tenis,"Centralni teren, dan 3",ATP 250 - Brussels
+21.10.,13:30,Arena Premium 1,Fudbal,Konferencija za medije FK Crvena zvezda,UEFA Liga Konferencija
 21.10.,18:00,Arena Premium 4,Košarka,Hapoel Tel Aviv - Virtus Bologna,EVROLIGA
-21.10.,18:00,Arena Sport 2,Košarka,Cluj - London,EVROKUP
-21.10.,18:00,Arena Sport 3,Košarka,Igokea - Parma,VTB KUP
+21.10.,18:00,Arena Sport 3,Košarka,Cluj - London,EVROKUP
 21.10.,18:00,Arena Sport 9,Košarka,Borac Banja Luka - Mornar,ABA2 LIGA
 21.10.,18:00,Arena Sport 10,Košarka,Sutjeska - Kranj,ABA2 LIGA
 21.10.,18:30,Arena Sport 1,Košarka,Cedevita Olimpija - Le Mans,EVROKUP
@@ -130,7 +131,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 21.10.,18:45,Arena Premium 3,Rukomet,Partizan - Porto,EHF LIGA ŠAMPIONA
 21.10.,18:45,Arena Sport 4,Rukomet,Zagreb - PSG,EHF LIGA ŠAMPIONA
 21.10.,19:00,Arena Premium 5,Košarka,PAOK - Ulm,EVROKUP
-21.10.,19:00,Arena Sport 8,Odbojka ,OK Herceg Novi - Maritza Plovdiv,LIGA ŠAMPIONA - kvalifikacije
+21.10.,19:00,Arena Sport 2,Košarka,Igokea - Parma,VTB KUP
+21.10.,19:00,Arena Sport 8,Odbojka,Herceg Novi - Martiza Plovdiv,LIGA ŠAMPIONA Ž
 21.10.,19:30,Arena Sport 5,Košarka,Bosna - Bahcesehir,EVROKUP
 21.10.,19:30,Arena Sport 7,Košarka,Bourg - Trento,EVROKUP
 21.10.,20:00,Arena Sport 3,Fudbal,Levante - Athletic Bilbao,ŠPANSKA LIGA
@@ -234,7 +236,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,00:00,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO 3
 24.10.,00:25,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO 2
 24.10.,01:10,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO GP
-24.10.,01:30,Arena Premium 2,Bejzbol,Finale G1,Major League Baseball
+24.10.,01:30,Arena Premium 2,Bejzbol,"Milwaukee Brewers - TBD, finale G1",Major League Baseball
 24.10.,01:50,Adrenalin,Moto Sport,Australija: Kvalifikacije 1,MOTO GP
 24.10.,02:15,Adrenalin,Moto Sport,Australija: Kvalifikacije 2,MOTO GP
 24.10.,03:45,Adrenalin,Moto Sport,Australija: Kvalifikacije 1,MOTO 3
@@ -258,23 +260,24 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,15:00,Arena Premium 3,Fudbal,Como - Sassuolo,ITALIJANSKA LIGA
 24.10.,15:00,Arena Sport 3,Fudbal,Cagliari - Bologna,ITALIJANSKA LIGA
 24.10.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
-24.10.,15:30,Arena Sport 4,Fudbal,Koln - Schalke,NEMAČKA LIGA
+24.10.,15:30,Arena Sport 2,Fudbal,Koln - Schalke,NEMAČKA LIGA
+24.10.,15:30,Arena Sport 4,Fudbal,Augsburg - Union Berlin,NEMAČKA LIGA
 24.10.,15:30,Arena Sport 7,Fudbal,Leipzig - Elversberg,NEMAČKA LIGA
 24.10.,15:30,Arena Sport 8,Fudbal,Mainz - Werder Bremen,NEMAČKA LIGA
 24.10.,15:30,Arena Sport 9,Fudbal,Paderborn - HSV,NEMAČKA LIGA
 24.10.,16:00,Arena Premium 2,Fudbal,Arsenal - Everton,ENGLESKA LIGA
 24.10.,16:00,Arena Tenis,Tenis,Polufinale 1,ATP 250 - Brussels
 24.10.,16:00,Arena Sport 1,Fudbal,Coventry - Fulham,ENGLESKA LIGA
-24.10.,16:00,Arena Sport 2,Košarka,Bosna - Dubai TBD!,ABA LIGA
 24.10.,16:00,Arena 1X2,Fudbal,Preston - WBA,CHAMPIONSHIP
 24.10.,16:15,Arena Premium 4,Fudbal,Racing - Espanyol,ŠPANSKA LIGA
 24.10.,17:00,Arena Sport 3,Košarka,Cedevita Olimpija - Budućnost,ABA LIGA
 24.10.,17:15,Arena Sport 5,Fudbal,Toulouse - Troyes,FRANCUSKA LIGA
 24.10.,18:00,Arena Premium 1,Košarka,Igokea - Crvena zvezda,ABA LIGA
 24.10.,18:00,Arena Premium 3,Fudbal,Napoli - Roma,ITALIJANSKA LIGA
-24.10.,18:00,Arena Sport 2,Košarka,Vienna - Mega,ABA LIGA
+24.10.,18:00,Arena Sport 2,Košarka,Bosna - Dubai,ABA LIGA
 24.10.,18:00,Arena Sport 7,Klizanje,Grand Prix de France: Parovi - kratki program,ISU GRAND PRIX
 24.10.,18:00,Arena Sport 8,Košarka,Manresa - San Pablo Burgos,ŠPANSKA LIGA
+24.10.,18:00,Arena Sport 9,Košarka,Vienna - Mega,ABA LIGA
 24.10.,18:00,Arena Sport 10,Basket 3x3,Novi Beograd - VII stop,BG League
 24.10.,18:30,Arena Premium 2,Fudbal,Chelsea - Tottenham,ENGLESKA LIGA
 24.10.,18:30,Arena Premium 4,Fudbal,Valencia - Villarreal,ŠPANSKA LIGA
