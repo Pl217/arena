@@ -33,9 +33,10 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 20.10.,18:45,Arena Premium 3,Fudbal,Sabah - Borussia Dortmund,UEFA LIGA ŠAMPIONA
 20.10.,19:00,Arena Premium 4,Košarka,Budućnost - Neptunas,EVROKUP
 20.10.,19:00,Arena Premium 5,Košarka,Galatasaray - Strasbourg,FIBA LIGA ŠAMPIONA
-20.10.,20:00,Arena Premium 2,Košarka,Košarka: NBA: NBA Arena,NBA
+20.10.,20:00,Arena Premium 2,Košarka,NBA Arena,NBA
 20.10.,20:00,Arena Sport 6,Košarka,Rostock - Aris,EVROKUP
 20.10.,20:00,Arena Sport 7,Košarka,Cibona - Legia,FIBA LIGA ŠAMPIONA
+20.10.,20:00,Arena Sport 8,Tenis,Međedović - Nakashima,ATP 250 - Lyon
 20.10.,20:30,Arena Sport 5,Košarka,Manresa - Roma,EVROKUP
 20.10.,21:00,Arena Premium 1,Fudbal,PSG - Barcelona,UEFA LIGA ŠAMPIONA
 20.10.,21:00,Arena Premium 2,Košarka,Detroit - Boston,NBA
@@ -48,7 +49,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 20.10.,21:00,Arena Sport 4,Fudbal,Gillingham - Port Vale,LEAGUE TWO
 20.10.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
 21.10.,01:00,Arena Premium 1,Košarka,New York  - Philadelphia,NBA
-21.10.,02:00,Arena Premium 2,Bejzbol,"Tampa Bay Rays - Cleveland Guardians, G7*",Major League Baseball
 21.10.,02:30,Arena Premium 3,Fudbal,"Vasco da Gama - Boca Juniors, polufinale",COPA SUDAMERICANA
 21.10.,03:30,Arena Premium 1,Košarka,San Antonio - Oklahoma City,NBA
 21.10.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
@@ -137,7 +137,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.10.,15:00,Arena Sport 9,Fudbal,TSC - Radnički 1923,SUPERLIGA Ž
 23.10.,15:30,Arena Sport 1,Odbojka,Uralochka - Lokomotiv,RUSKA LIGA (Ž)
 23.10.,16:00,Arena Tenis,Tenis,Četvrtfinale 2,ATP 250 - Brussels
-23.10.,18:00,Arena Sport 6,Košarka,Cluj - SC Derby,ABA LIGA
+23.10.,17:00,Arena Sport 3,Košarka,Cluj - SC Derby,ABA LIGA
 23.10.,18:00,Arena Sport 7,Klizanje,Grand Prix de France: Plesni parovi - Rhythm Dance,ISU GRAND PRIX
 23.10.,18:00,Arena Sport 9,Vaterpolo,Jadran - Budva,Regionalna vaterpolo liga
 23.10.,18:00,Arena 1X2,Fudbal,Motor - Zaglebie,POLJSKA LIGA
@@ -169,8 +169,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,00:00,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO 3
 24.10.,00:25,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO 2
 24.10.,01:10,Adrenalin,Moto Sport,Australija: Slobodan Trening 2,MOTO GP
-24.10.,01:30,Arena Premium 2,Bejzbol,"Milwaukee Brewers - TBD, finale G1",Major League Baseball
 24.10.,01:50,Adrenalin,Moto Sport,Australija: Kvalifikacije 1,MOTO GP
+24.10.,02:00,Arena Premium 2,Bejzbol,"Milwaukee Brewers -  Tampa Bay Rays, finale G1",Major League Baseball
 24.10.,02:15,Adrenalin,Moto Sport,Australija: Kvalifikacije 2,MOTO GP
 24.10.,03:45,Adrenalin,Moto Sport,Australija: Kvalifikacije 1,MOTO 3
 24.10.,04:10,Adrenalin,Moto Sport,Australija: Kvalifikacije 2,MOTO 3
@@ -231,12 +231,13 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,20:45,Arena Premium 4,Fudbal,Lens - Paris,FRANCUSKA LIGA
 24.10.,21:00,Arena Premium 2,Fudbal,Atletico Madrid - Deportivo,ŠPANSKA LIGA
 24.10.,21:00,Arena Sport 3,Košarka,Barcelona - Zaragoza,ŠPANSKA LIGA
+24.10.,21:00,Arena Sport 9,MMA,Samba Sima vs Leopold Goi,Hexagone 48
 24.10.,21:30,Arena Sport 1,Hokej,New Jersey Devils - Los Angeles Kings,NHL
 24.10.,23:00,Adrenalin,Moto Sport,SAD: Kvalifikacije,FORMULA 1
 24.10.,23:30,Arena Premium 2,Fudbal,Palmeiras - Bragantino,BRAZILSKA LIGA
 25.10.,00:00,Arena Premium 1,Košarka,Charlotte - Miami,NBA
 25.10.,02:00,Arena Premium 2,Fudbal,Santos - Bahia,BRAZILSKA LIGA
-25.10.,02:00,Arena Premium 4,Bejzbol,"Milwaukee Brewers - TBD, finale G2",Major League Baseball
+25.10.,02:00,Arena Premium 4,Bejzbol,"Milwaukee Brewers -  Tampa Bay Rays, finale G2",Major League Baseball
 25.10.,02:00,Adrenalin,Moto Sport,Australija: Trka,MOTO 3
 25.10.,03:00,Adrenalin,Moto Sport,Australija: Trka,MOTO 2
 25.10.,03:30,Arena Sport 8,Golf,"Genesis Championship, finalni dan",DP WORLD TOUR
