@@ -16,7 +16,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 21.10.,18:45,Arena Sport 4,Rukomet,Zagreb - PSG,EHF LIGA ŠAMPIONA
 21.10.,19:00,Arena Premium 5,Košarka,PAOK - Ulm,EVROKUP
 21.10.,19:00,Arena Sport 2,Košarka,Igokea - Parma,VTB KUP
-21.10.,19:00,Arena Sport 8,Odbojka,Herceg Novi - Martiza Plovdiv,LIGA ŠAMPIONA Ž
+21.10.,19:00,Arena Sport 8,Odbojka,Herceg Novi - Maritza Plovdiv,LIGA ŠAMPIONA Ž
 21.10.,19:30,Arena Sport 5,Košarka,Bosna - Bahcesehir,EVROKUP
 21.10.,19:30,Arena Sport 7,Košarka,Bourg - Trento,EVROKUP
 21.10.,20:00,Arena Sport 3,Fudbal,Levante - Athletic Bilbao,ŠPANSKA LIGA
@@ -155,7 +155,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,16:00,Arena 1X2,Fudbal,Preston - WBA,CHAMPIONSHIP
 24.10.,16:15,Arena Premium 4,Fudbal,Racing - Espanyol,ŠPANSKA LIGA
 24.10.,17:00,Arena Sport 3,Košarka,Cedevita Olimpija - Budućnost,ABA LIGA
-24.10.,17:15,Arena Sport 5,Fudbal,Toulouse - Troyes,FRANCUSKA LIGA
 24.10.,18:00,Arena Premium 1,Košarka,Igokea - Crvena zvezda,ABA LIGA
 24.10.,18:00,Arena Premium 3,Fudbal,Napoli - Roma,ITALIJANSKA LIGA
 24.10.,18:00,Arena Sport 2,Košarka,Bosna - Dubai,ABA LIGA
@@ -169,17 +168,17 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.10.,18:30,Arena Tenis,Tenis,Polufinale 2,ATP 250 - Brussels
 24.10.,18:30,Arena Sport 6,Fudbal,Krasnodar - Baltika,RUSKA LIGA
 24.10.,19:00,Arena Sport 3,Rukomet,Erlangen - Kiel,BUNDESLIGA
+24.10.,19:00,Arena Sport 5,Pikado,Četvrtfinala,European Championship
 24.10.,19:00,Arena 1X2,Fudbal,AEK - Panetolikos,GRČKA LIGA
-24.10.,19:15,Arena Sport 5,Pikado,Četvrtfinala,European Championship
 24.10.,19:30,Arena Sport 1,Košarka,Bahcesehir - Besitkas,TURSKA LIGA
 24.10.,19:30,Adrenalin,Moto Sport,SAD: Trening 3,FORMULA 1
-24.10.,20:00,Arena Sport 2,Fudbal,Saint-Etienne - Nantes,FRANCUSKA 2. LIGA
 24.10.,20:30,Arena Premium 1,Košarka,Spartak - Partizan,ABA LIGA
 24.10.,20:30,Arena Premium 5,Fudbal,Nurnberg - Kaiserslautern,NEMAČKA 2. LIGA
 24.10.,20:30,Arena Sport 4,Fudbal,Young Boys - St Gallen,ŠVAJCARSKA LIGA
 24.10.,20:30,Arena Sport 8,Košarka,Nanterre - Cholet,FRANCUSKA LIGA
 24.10.,20:45,Arena Premium 3,Fudbal,Lazio - Parma,ITALIJANSKA LIGA
 24.10.,20:45,Arena Premium 4,Fudbal,Lens - Paris,FRANCUSKA LIGA
+24.10.,20:45,Arena Sport 2,Fudbal,Saint-Etienne - Nantes,FRANCUSKA 2. LIGA
 24.10.,21:00,Arena Premium 2,Fudbal,Atletico Madrid - Deportivo,ŠPANSKA LIGA
 24.10.,21:00,Arena Sport 3,Košarka,Barcelona - Zaragoza,ŠPANSKA LIGA
 24.10.,21:00,Arena Sport 9,MMA,Samba Sima vs Leopold Goi,Hexagone 48
@@ -274,3 +273,37 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.10.,20:00,Arena Sport 10,Košarka,Novosadska ŽKA - Mega,KLS Ž
 26.10.,21:00,Arena Premium 1,Fudbal,Sevilla - Osasuna,ŠPANSKA LIGA
 26.10.,21:00,Arena Premium 3,Fudbal,Walsall - Salford,LEAGUE TWO
+27.10.,01:00,Arena Premium 4,Bejzbol,"Tampa Bay Rays - Milwaukee Brewers, finale G3",Major League Baseball
+27.10.,01:15,Arena Premium 2,Američki fudbal,Philadelphia Eagles - Dallas Cowboys,NFL
+27.10.,03:00,Arena Premium 1,Košarka,Denver - Golden State,NBA
+27.10.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
+27.10.,13:30,Arena Tenis,Tenis,Dan 2,ATP 500 - Vienna
+27.10.,14:00,Arena Sport 9,Tenis,"Centralni teren, dan 2",ATP 500 - Basel
+27.10.,15:00,Arena Sport 1,Odbojka,Sungurlu - Galatasaray,TURSKA LIGA
+27.10.,17:00,Arena Premium 1,Košarka,Dubai - Paris,EVROLIGA
+27.10.,17:00,Arena Premium 3,Košarka,Bahcesehir - PAOK,EVROKUP
+27.10.,17:00,Arena Sport 5,Košarka,Sabah - Nanterre,FIBA LIGA ŠAMPIONA
+27.10.,17:00,Arena Sport 7,Odbojka,Dinamo - Belogore,RUSKA LIGA
+27.10.,17:30,Arena Sport 1,Košarka,CSKA - Parma,VTB LIGA
+27.10.,18:00,Arena Premium 4,Fudbal,HSV - Frankfurt,NEMAČKI KUP
+27.10.,18:00,Arena Sport 2,Fudbal,Bochum - Mainz,NEMAČKI KUP
+27.10.,18:00,Arena Sport 3,Košarka,Lietkabelis - Ulm,EVROKUP
+27.10.,18:00,Arena Sport 4,Odbojka,Fenerbahce - Alanya,TURSKA LIGA
+27.10.,18:30,Arena Premium 5,Fudbal,Sassuolo - Lazio,ITALIJANSKA LIGA
+27.10.,18:30,Arena Sport 8,Vaterpolo,Olympiacos - Jadran HN,Liga šampiona
+27.10.,20:00,Arena Premium 1,Košarka,Crvena zvezda - Maccabi Tel Aviv,EVROLIGA
+27.10.,20:00,Arena Premium 4,Košarka,Bayern - Barcelona,EVROLIGA
+27.10.,20:00,Arena Sport 5,Košarka,Igokea - Slavia Praha,FIBA LIGA ŠAMPIONA
+27.10.,20:00,Arena Sport 6,Košarka,Trento - Budućnost,EVROKUP
+27.10.,20:00,Arena Sport 7,Košarka,Roma - Bosna,EVROKUP
+27.10.,20:15,Arena Premium 2,Košarka,Panathinaikos - Milano,EVROLIGA
+27.10.,20:30,Arena Premium 3,Košarka,Valencia - Fenerbahce,EVROLIGA
+27.10.,20:30,Arena Sport 8,Vaterpolo,Radnički - Brescia,Liga šampiona
+27.10.,20:45,Arena Sport 2,Fudbal,Roma - Cagliari,ITALIJANSKA LIGA
+27.10.,20:45,Arena Sport 3,Fudbal,Torino - Como,ITALIJANSKA LIGA
+27.10.,20:45,Arena Sport 4,Fudbal,Borussia Dortmund - Werder Bremen,NEMAČKI KUP
+27.10.,20:45,Arena Sport 9,Fudbal,Bradford - Peterborough,ENGLESKI LIGA KUP
+27.10.,20:45,Arena 1X2,Fudbal,Koln - Union Berlin,NEMAČKI KUP
+27.10.,21:00,Arena Premium 5,Košarka,Baskonia - Real Madrid,EVROLIGA
+27.10.,21:00,Arena Sport 1,Fudbal,Fleetwood - Arsenal,ENGLESKI LIGA KUP
+27.10.,23:00,Arena Premium 5,Fudbal,Argentinos - Indepediente Rivadavia,ARGENTINSKA LIGA
