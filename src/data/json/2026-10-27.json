@@ -289,7 +289,7 @@
             "description": "snimak"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Dušan Miletić",
             "time": "18:30",
             "category": "",
             "sport": "Košarka",
@@ -504,8 +504,15 @@
             "description": "uzivo"
           },
           {
-            "content": "Levante - Atletico Madrid",
+            "content": "NBA Action",
             "time": "03:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Levante - Atletico Madrid",
+            "time": "04:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1011,13 +1018,6 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled 2. kola",
-            "time": "17:00",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
             "content": "Efes - Panathinaikos",
             "time": "18:30",
             "category": "EVROLIGA",
@@ -1043,7 +1043,7 @@
       "2026-10-31": {
         "emisije": [
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Dušan Miletić",
             "time": "00:30",
             "category": "",
             "sport": "Košarka",
@@ -1086,7 +1086,7 @@
           },
           {
             "content": "NBA Daily",
-            "time": "12:00",
+            "time": "12:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
@@ -1139,7 +1139,7 @@
           },
           {
             "content": "Murcia - Lleida",
-            "time": "04:15",
+            "time": "04:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -1185,6 +1185,13 @@
             "category": "ARGENTINSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "NBA Action",
+            "time": "21:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Orlando - Boston",
@@ -1300,13 +1307,6 @@
             "content": "Sevilla - Osasuna",
             "time": "01:00",
             "category": "ŠPANSKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Genoa - Venezia",
-            "time": "04:00",
-            "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -1522,7 +1522,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Bayer Leverkusen - Nurnberg",
+            "content": "Paderborn - Stuttgart",
             "time": "03:30",
             "category": "NEMAČKI KUP",
             "sport": "Fudbal",
@@ -1741,7 +1741,7 @@
           },
           {
             "content": "Lille - Lens",
-            "time": "08:30",
+            "time": "08:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1808,7 +1808,7 @@
         "emisije": [
           {
             "content": "Bayern - Borussia Dortmund",
-            "time": "01:15",
+            "time": "01:30",
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -2342,6 +2342,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled 8. kola",
+            "time": "15:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "BKK Radnički - Čačak 94",
             "time": "16:00",
             "category": "KLS",
@@ -2458,11 +2465,11 @@
             "description": "uzivo"
           },
           {
-            "content": "Lyon - Angers",
-            "time": "20:45",
-            "category": "FRANCUSKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
+            "content": "Pregled 9. kola",
+            "time": "23:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           }
         ]
       },
@@ -2470,14 +2477,14 @@
         "emisije": [
           {
             "content": "Cedevita Olimpija - FMP",
-            "time": "01:30",
+            "time": "02:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
             "content": "Budućnost - Borac",
-            "time": "03:30",
+            "time": "04:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -2603,7 +2610,7 @@
             "description": "snimak"
           },
           {
-            "content": "The Open Official Film 2026",
+            "content": "The AIG Women’s Open Official Film 2026",
             "time": "22:00",
             "category": "",
             "sport": "Golf",
@@ -2818,13 +2825,6 @@
             "description": "snimak"
           },
           {
-            "content": "Bayer Leverkusen - Nurnberg",
-            "time": "08:00",
-            "category": "NEMAČKI KUP",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Liga Šampiona: Magazin ep. 8",
             "time": "10:00",
             "category": "UEFA LIGA ŠAMPIONA",
@@ -2931,6 +2931,13 @@
             "time": "16:00",
             "category": "ENGLESKI LIGA KUP",
             "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 2. kola",
+            "time": "18:00",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
             "description": "snimak"
           },
           {
@@ -3108,6 +3115,13 @@
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "NFL Extra ep. 7",
+            "time": "22:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
           },
           {
             "content": "Denver Broncos - Kansas City Chiefs",
@@ -4792,6 +4806,13 @@
           },
           {
             "content": "Oni žive za fudbal ep. 251 - Hajduk Čurug, prvi deo",
+            "time": "15:00",
+            "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 252 - Hajduk Čurug, drugi deo",
             "time": "15:30",
             "category": "",
             "sport": "Fudbal",
@@ -4803,13 +4824,6 @@
             "category": "ENGLESKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
-          },
-          {
-            "content": "Oni žive za fudbal ep. 252 - Hajduk Čurug, drugi deo",
-            "time": "18:00",
-            "category": "",
-            "sport": "Fudbal",
-            "description": "snimak"
           },
           {
             "content": "PSV - Willem",
@@ -5101,7 +5115,7 @@
             "description": "snimak"
           },
           {
-            "content": "Toulouse - Troyes",
+            "content": "Lens - Paris",
             "time": "15:30",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
@@ -5196,6 +5210,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled 8. kola",
+            "time": "15:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Monaco - Lille",
             "time": "15:30",
             "category": "FRANCUSKA LIGA",
@@ -5203,10 +5224,10 @@
             "description": "snimak"
           },
           {
-            "content": "Siauliai - Maxima Roma",
+            "content": "Maritza Plovdiv - Herceg Novi",
             "time": "17:30",
-            "category": "EVROKUP",
-            "sport": "Košarka",
+            "category": "LIGA ŠAMPIONA Ž",
+            "sport": "Odbojka",
             "description": "uzivo"
           },
           {
@@ -5329,13 +5350,6 @@
             "content": "Paderborn - HSV",
             "time": "20:00",
             "category": "NEMAČKA LIGA",
-            "sport": "Fudbal",
-            "description": "snimak"
-          },
-          {
-            "content": "Bayer Leverkusen - Nurnberg",
-            "time": "22:00",
-            "category": "NEMAČKI KUP",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -5760,7 +5774,7 @@
             "description": "snimak"
           },
           {
-            "content": "Union SG - Real Sociedad",
+            "content": "Sturm - Marseille",
             "time": "06:00",
             "category": "UEFA LIGA EVROPE",
             "sport": "Fudbal",
@@ -5872,6 +5886,13 @@
             "content": "Hoffenheim - Besiktas",
             "time": "08:00",
             "category": "UEFA LIGA EVROPE",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Fudbalsko lice nacije: Konja",
+            "time": "10:00",
+            "category": "",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -6013,7 +6034,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Dušan Miletić",
             "time": "22:30",
             "category": "",
             "sport": "Košarka",
@@ -6457,7 +6478,7 @@
             "description": "snimak"
           },
           {
-            "content": "Sabah - Nanterre",
+            "content": "Igokea - Slavia Praha",
             "time": "15:00",
             "category": "FIBA LIGA ŠAMPIONA",
             "sport": "Košarka",
@@ -6633,9 +6654,9 @@
             "description": "snimak"
           },
           {
-            "content": "Siauliai - Maxima Roma",
+            "content": "CSKA - Parma",
             "time": "11:00",
-            "category": "EVROKUP",
+            "category": "VTB LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -6666,6 +6687,13 @@
             "category": "ISU GRAND PRIX",
             "sport": "Klizanje",
             "description": "uzivo"
+          },
+          {
+            "content": "Pregled 12. kola",
+            "time": "20:30",
+            "category": "CHAMPIONSHIP",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Sheffield United - Wrexham",
@@ -6735,6 +6763,13 @@
             "description": "snimak"
           },
           {
+            "content": "Cholet - Spartak",
+            "time": "13:00",
+            "category": "FIBA LIGA ŠAMPIONA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Werder Bremen - Hoffenheim",
             "time": "15:30",
             "category": "NEMAČKA LIGA",
@@ -6744,9 +6779,16 @@
           {
             "content": "Monza - Perugia",
             "time": "18:00",
-            "category": "Italijanska Liga",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Odbojka",
             "description": "uzivo"
+          },
+          {
+            "content": "Ligue 1 Show ep. 9",
+            "time": "20:15",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Troyes - Le Mans",
@@ -6824,7 +6866,7 @@
           },
           {
             "content": "Aris - Panathinaikos",
-            "time": "16:30",
+            "time": "16:15",
             "category": "GRČKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
@@ -6837,9 +6879,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Pregled 9. kola",
-            "time": "22:00",
-            "category": "EVROLIGA",
+            "content": "Fenerbahce - Tofas",
+            "time": "21:00",
+            "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -7302,52 +7344,52 @@
             "description": "snimak"
           },
           {
-            "content": "Fuchse Berlin - Partizan",
+            "content": "Pregled 2. kola",
             "time": "14:00",
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Fuchse Berlin - Partizan",
+            "time": "15:00",
             "category": "EHF LIGA ŠAMPIONA",
             "sport": "Rukomet",
             "description": "snimak"
           },
           {
             "content": "Wisla Plock - Nantes",
-            "time": "15:30",
+            "time": "16:30",
             "category": "EHF LIGA ŠAMPIONA",
             "sport": "Rukomet",
             "description": "snimak"
           },
           {
             "content": "Arena rukomet specijal: Dragan Pešmalbek i Stefan Dodić",
-            "time": "17:00",
+            "time": "18:00",
             "category": "",
             "sport": "Rukomet",
             "description": "snimak"
           },
           {
             "content": "Arena rukomet specijal: Xavi Pascual",
-            "time": "17:30",
+            "time": "18:30",
             "category": "",
             "sport": "Rukomet",
             "description": "snimak"
           },
           {
-            "content": "Zenit - Zenit-Kazan",
-            "time": "18:00",
-            "category": "RUSKA LIGA",
-            "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Dijon - Nancy",
-            "time": "20:00",
+            "content": "Nice - Rennes",
+            "time": "19:00",
             "category": "FRANCUSKA LIGA",
-            "sport": "Košarka",
+            "sport": "Fudbal",
             "description": "uzivo"
           },
           {
-            "content": "Pregled 2. kola",
-            "time": "22:00",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
+            "content": "Zenit - Zenit-Kazan",
+            "time": "21:00",
+            "category": "RUSKA LIGA",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7439,13 +7481,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Lorient - Brest",
-            "time": "20:45",
-            "category": "FRANCUSKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Pregled 6. kola",
             "time": "22:45",
             "category": "EHF LIGA ŠAMPIONA",
@@ -7489,6 +7524,20 @@
             "time": "08:00",
             "category": "BUNDESLIGA",
             "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Grand Prix Canada International: Žene - kratki program",
+            "time": "10:00",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
+            "content": "Monza - Perugia",
+            "time": "12:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7658,25 +7707,18 @@
             "description": "snimak"
           },
           {
-            "content": "Uralochka - Lokomotiv",
+            "content": "Nova - Kuzbass",
             "time": "15:00",
-            "category": "RUSKA LIGA (Ž)",
+            "category": "RUSKA LIGA",
             "sport": "Odbojka",
             "description": "snimak"
           },
           {
-            "content": "Pregled 1. kola",
+            "content": "Zenit - Dinamo Makhachkala",
             "time": "18:00",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
+            "category": "RUSKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
-          },
-          {
-            "content": "Olympiacos - Jadran HN",
-            "time": "18:30",
-            "category": "Liga šampiona",
-            "sport": "Vaterpolo",
-            "description": "uzivo"
           },
           {
             "content": "Radnički - Brescia",
@@ -8017,6 +8059,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Pregled 5. kola",
+            "time": "19:15",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Murcia - Lleida",
             "time": "19:30",
             "category": "ŠPANSKA LIGA",
@@ -8045,6 +8094,13 @@
             "content": "Oni žive za fudbal ep. 252 - Hajduk Čurug, drugi deo",
             "time": "03:30",
             "category": "",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Rostov - Lokomotiv",
+            "time": "04:00",
+            "category": "RUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -8084,15 +8140,15 @@
             "description": "uzivo"
           },
           {
-            "content": "Dinamo Moskva - Leningradka",
-            "time": "21:00",
-            "category": "RUSKA LIGA (Ž)",
-            "sport": "Odbojka",
-            "description": "snimak"
+            "content": "Martinsville",
+            "time": "20:00",
+            "category": "NASCAR CUP SERIES",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           },
           {
             "content": "Lokomotiv - Spartak",
-            "time": "23:00",
+            "time": "23:30",
             "category": "RUSKA LIGA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -8366,10 +8422,10 @@
             "description": "snimak"
           },
           {
-            "content": "Maritza Plovdiv - Herceg Novi",
+            "content": "SC Athletic - Chrudim",
             "time": "17:30",
-            "category": "LIGA ŠAMPIONA Ž",
-            "sport": "Odbojka",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
             "description": "uzivo"
           },
           {
@@ -8380,11 +8436,18 @@
             "description": "snimak"
           },
           {
-            "content": "Sunderland - Brentford",
-            "time": "20:45",
-            "category": "ENGLESKI LIGA KUP",
-            "sport": "Fudbal",
+            "content": "Athletic Club Graz - Loznica Grad",
+            "time": "20:30",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
             "description": "uzivo"
+          },
+          {
+            "content": "NBA Action",
+            "time": "22:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Denver - Golden State",
@@ -8447,25 +8510,39 @@
             "description": "uzivo"
           },
           {
-            "content": "Indiana - Philadelphia",
+            "content": "DP World India Championship, pregled",
             "time": "17:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "category": "",
+            "sport": "Golf",
             "description": "snimak"
           },
           {
-            "content": "Dallas - Oklahoma City",
-            "time": "19:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "content": "Athletic Club Graz - SC Athletic",
+            "time": "17:30",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
+            "description": "uzivo"
+          },
+          {
+            "content": "Oni žive za fudbal ep. 249 - FK Mladost Preljina, prvi deo",
+            "time": "19:30",
+            "category": "",
+            "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "New York - Detroit",
-            "time": "21:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "content": "Oni žive za fudbal ep. 250 - FK Mladost Preljina, drugi deo",
+            "time": "20:00",
+            "category": "",
+            "sport": "Fudbal",
             "description": "snimak"
+          },
+          {
+            "content": "Loznica Grad - Chrudim",
+            "time": "20:30",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
+            "description": "uzivo"
           },
           {
             "content": "Seattle Seahawks - Kansas City Chiefs",
@@ -8616,13 +8693,6 @@
             "description": "uzivo"
           },
           {
-            "content": "Nice - Rennes",
-            "time": "17:15",
-            "category": "FRANCUSKA LIGA",
-            "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
             "content": "Partizan - Crvena zvezda",
             "time": "19:30",
             "category": "KLS Ž",
@@ -8697,10 +8767,10 @@
             "description": "uzivo"
           },
           {
-            "content": "Martinsville",
-            "time": "20:00",
-            "category": "NASCAR CUP SERIES",
-            "sport": "Moto Sport",
+            "content": "Novi Beograd - VIII stop",
+            "time": "18:00",
+            "category": "BG League",
+            "sport": "Basket 3x3",
             "description": "uzivo"
           },
           {
@@ -8976,9 +9046,9 @@
             "description": "snimak"
           },
           {
-            "content": "Spartak - Partizan",
+            "content": "Živinice - Virtus Zagreb",
             "time": "18:00",
-            "category": "ABA LIGA",
+            "category": "ABA2 LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
@@ -8990,9 +9060,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Živinice - Virtus Zagreb",
+            "content": "Spartak - Partizan",
             "time": "22:00",
-            "category": "ABA2 LIGA",
+            "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           }
@@ -9043,25 +9113,18 @@
             "description": "snimak"
           },
           {
-            "content": "Šabac - Partizan",
-            "time": "16:30",
-            "category": "Regionalna vaterpolo liga",
-            "sport": "Vaterpolo",
-            "description": "snimak"
-          },
-          {
-            "content": "Šenčur - Mornar",
-            "time": "18:00",
-            "category": "ABA2 LIGA",
-            "sport": "Košarka",
+            "content": "Chrudim - Athletic Club Graz",
+            "time": "17:30",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
             "description": "uzivo"
           },
           {
-            "content": "Vojvodina - Borac Banja Luka",
+            "content": "Loznica Grad - SC Athletic Futsal",
             "time": "20:30",
-            "category": "ABA2 LIGA",
-            "sport": "Košarka",
-            "description": "snimak"
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Futsal",
+            "description": "uzivo"
           },
           {
             "content": "Zadar - Ilirija",
@@ -9390,11 +9453,11 @@
             "description": "uzivo"
           },
           {
-            "content": "Novosadska ŽKA - Mega",
+            "content": "Šenčur - Mornar",
             "time": "18:00",
-            "category": "KLS Ž",
+            "category": "ABA2 LIGA",
             "sport": "Košarka",
-            "description": "snimak"
+            "description": "uzivo"
           },
           {
             "content": "Vranje - Vojvodina",
@@ -9429,7 +9492,7 @@
             "description": "snimak"
           },
           {
-            "content": "Fudbal: Superliga Srbije Ž: TBC",
+            "content": "Radnički - Mašinac",
             "time": "12:00",
             "category": "SUPERLIGA Ž",
             "sport": "Fudbal",
@@ -9457,11 +9520,25 @@
             "description": "uzivo"
           },
           {
-            "content": "Crvena zvezda - Vojvodina",
-            "time": "20:30",
-            "category": "SUPERLIGA Ž",
-            "sport": "Fudbal",
+            "content": "Emisija: KLS Rez: EP 03 - SPD Radnički Kragujevac",
+            "time": "19:00",
+            "category": "KLS",
+            "sport": "Košarka",
             "description": "snimak"
+          },
+          {
+            "content": "Emisija: KLS Rez: EP 07 - Metalac Valjevo",
+            "time": "19:30",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Radnički - Metalac",
+            "time": "20:00",
+            "category": "KLS",
+            "sport": "Košarka",
+            "description": "uzivo"
           },
           {
             "content": "Vojvodina - Bekament BB",
@@ -9493,13 +9570,6 @@
             "time": "08:00",
             "category": "KLS Ž",
             "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Crvena zvezda - Vojvodina",
-            "time": "12:00",
-            "category": "SUPERLIGA Ž",
-            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -9972,22 +10042,36 @@
           },
           {
             "content": "Španija, Trka 1",
-            "time": "15:00",
+            "time": "14:45",
             "category": "SUPERBIKE WORLD CHAMPIONSHIP",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Španija, Trka 2",
-            "time": "16:00",
+            "time": "15:45",
             "category": "SUPERBIKE WORLD CHAMPIONSHIP",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Holandija: Trka",
-            "time": "17:00",
+            "time": "16:45",
             "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Holandija: Trka",
+            "time": "19:00",
+            "category": "MOTO 3",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Holandija: Trka",
+            "time": "20:00",
+            "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10552,9 +10636,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Bayer Leverkusen - Nurnberg",
+            "content": "Sunderland - Brentford",
             "time": "20:45",
-            "category": "NEMAČKI KUP",
+            "category": "ENGLESKI LIGA KUP",
             "sport": "Fudbal",
             "description": "uzivo"
           }
