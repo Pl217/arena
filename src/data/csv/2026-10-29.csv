@@ -73,16 +73,16 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.10.,10:30,Arena Premium 3,Košarka,Dynamo - Zenit,VTB LIGA
 30.10.,12:00,Arena Sport 8,Golf,Rolex Grand Final - Dan 2,HOTEL PLANNER TOUR
 30.10.,13:00,Arena Sport 1,Odbojka,Enisey - Zareche-Odintsovo,RUSKA LIGA (Ž)
-30.10.,13:30,Arena Tenis,Tenis,Četvrtfinale 1,ATP 500 - Vienna
-30.10.,14:00,Arena Sport 7,Tenis,Četvrtfinale 1,ATP 500 - Basel
-30.10.,15:30,Arena Tenis,Tenis,Četvrtfinale 2,ATP 500 - Vienna
+30.10.,13:30,Arena Sport 7,Tenis,Četvrtfinale 1,ATP 500 - Vienna
+30.10.,14:00,Arena Tenis,Tenis,Četvrtfinale 1,ATP 500 - Basel
+30.10.,15:30,Arena Sport 7,Tenis,Četvrtfinale 2,ATP 500 - Vienna
 30.10.,16:00,Arena Premium 4,Košarka,BKK Radnički - Čačak 94,KLS
-30.10.,16:00,Arena Sport 7,Tenis,Četvrtfinale 2,ATP 500 - Basel
+30.10.,16:00,Arena Tenis,Tenis,Četvrtfinale 2,ATP 500 - Basel
 30.10.,16:00,Arena Sport 10,Košarka,BKK Radnički - Čačak 94,KLS
 30.10.,17:00,Arena Premium 3,Košarka,Dubai - Hapoel Tel Aviv,EVROLIGA
-30.10.,17:30,Arena Tenis,Tenis,Četvrtfinale 3,ATP 500 - Vienna
+30.10.,17:30,Arena Sport 7,Tenis,Četvrtfinale 3,ATP 500 - Vienna
+30.10.,18:00,Arena Tenis,Tenis,Četvrtfinale 3,ATP 500 - Basel
 30.10.,18:00,Arena Sport 1,Fudbal,Konyaspor - Galatasaray,TURSKA LIGA
-30.10.,18:00,Arena Sport 7,Tenis,Četvrtfinale 3,ATP 500 - Basel
 30.10.,18:00,Arena Sport 9,Košarka,Šenčur - Mornar,ABA2 LIGA
 30.10.,18:30,Arena Premium 2,Košarka,Efes - Panathinaikos,EVROLIGA
 30.10.,18:30,Arena Premium 4,Fudbal,Cottbus - Bochum,NEMAČKA 2. LIGA
@@ -94,9 +94,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.10.,19:00,Arena Sport 6,Fudbal,Nice - Rennes,FRANCUSKA LIGA
 30.10.,19:30,Arena Sport 8,Fudbal,GAK - Hartberg,AUSTRIJSKA LIGA
 30.10.,19:30,Adrenalin,Moto Sport,Meksiko: Trening 1,FORMULA 1
-30.10.,20:00,Arena Tenis,Tenis,Četvrtfinale 4,ATP 500 - Vienna
+30.10.,20:00,Arena Tenis,Tenis,Četvrtfinale 4,ATP 500 - Basel
 30.10.,20:00,Arena Sport 3,Košarka,ASVEL - Baskonia,EVROLIGA
-30.10.,20:00,Arena Sport 7,Tenis,Četvrtfinale 4,ATP 500 - Basel
+30.10.,20:00,Arena Sport 7,Tenis,Četvrtfinale 4,ATP 500 - Vienna
 30.10.,20:15,Arena Sport 1,Košarka,Olympiacos - Milano,EVROLIGA
 30.10.,20:30,Arena Premium 2,Košarka,Barcelona - Valencia,EVROLIGA
 30.10.,20:30,Arena Premium 5,Fudbal,Elversberg - Mainz,NEMAČKA LIGA
@@ -129,8 +129,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 31.10.,13:30,Arena Sport 6,Klizanje,Grand Prix Canada International: Žene - kratki program,ISU GRAND PRIX
 31.10.,14:00,Arena Premium 2,Fudbal,Levante - Atletico Madrid,ŠPANSKA LIGA
 31.10.,14:00,Arena Premium 4,Odbojka,Zenit - Fakel,RUSKA LIGA
-31.10.,15:00,Arena Tenis,Tenis,Polufinale 1,ATP 500 - Vienna
-31.10.,15:00,Arena Sport 7,Tenis,Polufinale 1,ATP 500 - Basel
+31.10.,15:00,Arena Tenis,Tenis,Polufinale 1,ATP 500 - Basel
+31.10.,15:00,Arena Sport 7,Tenis,Polufinale 1,ATP 500 - Vienna
 31.10.,15:00,Arena Sport 9,Fudbal,Bologna - Monza,ITALIJANSKA LIGA
 31.10.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
 31.10.,15:30,Arena Sport 4,Fudbal,Bayer Leverkusen - Stuttgart,NEMAČKA LIGA
@@ -143,8 +143,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 31.10.,16:00,Arena Sport 3,Fudbal,Hull - Ipswich,ENGLESKA LIGA
 31.10.,16:00,Arena 1X2,Fudbal,Multiprenos,ENGLESKA LIGA
 31.10.,16:15,Arena Premium 4,Fudbal,Rayo Vallecano - Celta,ŠPANSKA LIGA
-31.10.,17:00,Arena Tenis,Tenis,Polufinale 2,ATP 500 - Vienna
-31.10.,17:00,Arena Sport 7,Tenis,Polufinale 2,ATP 500 - Basel
+31.10.,17:00,Arena Tenis,Tenis,Polufinale 2,ATP 500 - Basel
+31.10.,17:00,Arena Sport 7,Tenis,Polufinale 2,ATP 500 - Vienna
 31.10.,17:00,Arena Sport 10,Košarka,Cedevita Olimpija - FMP,ABA LIGA
 31.10.,17:30,Arena Sport 4,Fudbal,Lech - Wisla Krakow,POLJSKA LIGA
 31.10.,17:30,Arena Sport 8,Futsal,Chrudim - Athletic Club Graz,UEFA LIGA ŠAMPIONA
@@ -179,6 +179,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 31.10.,22:00,Adrenalin,Moto Sport,Meksiko: Kvalifikacije,FORMULA 1
 31.10.,23:15,Arena Premium 3,Fudbal,Velez - San Lorenzo,ARGENTINSKA LIGA
 01.11.,01:00,Arena Premium 1,Košarka,San Antonio - Minnesota,NBA
+01.11.,04:00,Arena Tenis,Tenis,Finale,WTA 500 - Tokyo
 01.11.,04:00,Adrenalin,Moto Sport,Malezija: Trka,MOTO 3
 01.11.,06:15,Adrenalin,Moto Sport,Malezija: Trka,MOTO 2
 01.11.,08:00,Adrenalin,Moto Sport,Malezija: Trka,MOTO GP
@@ -206,7 +207,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 01.11.,15:00,Arena Sport 9,Rukomet,Wetzlar - Melsungen,BUNDESLIGA
 01.11.,15:30,Arena Sport 2,Fudbal,Union Berlin - Koln,NEMAČKA LIGA
 01.11.,15:30,Arena Sport 4,Tenis,Finale,ATP 500 - Basel
-01.11.,16:00,Arena Tenis,Tenis,Finale,WTA 500 - Tokyo
 01.11.,16:00,Arena Sport 3,Fudbal,Hearts - Hibernian,ŠKOTSKI LIGA KUP
 01.11.,16:00,Arena Sport 6,Fudbal,Omonia 29th May - Nea Salamis,KIPARSKA LIGA
 01.11.,16:00,Arena 1X2,Fudbal,Nordsjaelland - Midtjylland,DANSKA LIGA
