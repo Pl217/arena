@@ -41,9 +41,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.10.,01:30,Arena Premium 3,Fudbal,Bahia - Sao Paulo,BRAZILSKA LIGA
 29.10.,02:30,Arena Premium 1,Košarka,Dallas - Oklahoma City,NBA
 29.10.,10:00,Arena Premium 1,Mali fudbal,Stari Grad,ARENINA LIGA ŠAMPIONA
+29.10.,12:00,Arena Tenis,Tenis,"Centralni teren, dan 4",ATP 500 - Basel
 29.10.,12:00,Arena Sport 8,Golf,Rolex Grand Final - Dan 1,HOTEL PLANNER TOUR
-29.10.,13:30,Arena Tenis,Tenis,Dan 4,ATP 500 - Vienna
-29.10.,14:00,Arena Sport 2,Tenis,"Centralni teren, dan 4",ATP 500 - Basel
+29.10.,14:00,Arena Sport 2,Tenis,Dan 4,ATP 500 - Vienna
 29.10.,17:30,Arena Sport 8,Futsal,Athletic Club Graz - SC Athletic,UEFA LIGA ŠAMPIONA
 29.10.,18:30,Arena Premium 4,Fudbal,Frosinone - Lecce,ITALIJANSKA LIGA
 29.10.,18:45,Arena Premium 2,Rukomet,Fuchse Berlin - Partizan,EHF LIGA ŠAMPIONA
@@ -109,7 +109,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.10.,23:00,Arena Premium 1,Hokej,Vegas Golden Knights - New Jersey Devils,NHL
 30.10.,23:00,Adrenalin,Moto Sport,Meksiko: Trening 2,FORMULA 1
 31.10.,00:00,Arena Premium 3,Fudbal,Corinthians - Mirassol,BRAZILSKA LIGA
-31.10.,01:00,Arena Premium 2,Bejzbol,"Milwaukee Brewers -  Tampa Bay Rays, finale G6*",Major League Baseball
 31.10.,01:40,Adrenalin,Moto Sport,Malezija: Slobodan Trening 2,MOTO 3
 31.10.,02:25,Adrenalin,Moto Sport,Malezija: Slobodan Trening 2,MOTO 2
 31.10.,03:10,Adrenalin,Moto Sport,Malezija: Slobodan Trening 2,MOTO GP
@@ -180,7 +179,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 31.10.,22:00,Adrenalin,Moto Sport,Meksiko: Kvalifikacije,FORMULA 1
 31.10.,23:15,Arena Premium 3,Fudbal,Velez - San Lorenzo,ARGENTINSKA LIGA
 01.11.,01:00,Arena Premium 1,Košarka,San Antonio - Minnesota,NBA
-01.11.,01:00,Arena Premium 2,Bejzbol,"Milwaukee Brewers -  Tampa Bay Rays, finale G7*",Major League Baseball
 01.11.,04:00,Adrenalin,Moto Sport,Malezija: Trka,MOTO 3
 01.11.,06:15,Adrenalin,Moto Sport,Malezija: Trka,MOTO 2
 01.11.,08:00,Adrenalin,Moto Sport,Malezija: Trka,MOTO GP
@@ -252,41 +250,40 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 02.11.,16:30,Arena Premium 2,Košarka,Dubai - Zadar,ABA LIGA
 02.11.,17:30,Arena Sport 3,Košarka,Zenit - Igokea,VTB KUP
 02.11.,18:30,Arena Premium 2,Košarka,Mega - Spartak,ABA LIGA
-02.11.,18:30,Arena Premium 4,Fudbal,Sassuolo - Fiorentina,ITALIJANSKA LIGA
+02.11.,18:30,Arena Premium 3,Fudbal,Sassuolo - Fiorentina,ITALIJANSKA LIGA
+02.11.,18:30,Arena Premium 4,Košarka,Besiktas - Cayirova,TURSKA LIGA
 02.11.,18:30,Arena Sport 1,Vaterpolo,Partizan - Jadran,Regionalna vaterpolo liga
-02.11.,18:30,Arena Sport 2,Košarka,Besiktas - Cayirova,TURSKA LIGA
 02.11.,19:00,Arena Tenis,Tenis,"Dan 1, popodnevna sesija",ATP 1000 - Paris
 02.11.,19:00,Arena 1X2,Fudbal,Sonderjyske - Copenhagen,DANSKA LIGA
 02.11.,20:00,Arena Sport 1,Vaterpolo,Budva - Radnički,Regionalna vaterpolo liga
 02.11.,20:00,Arena Sport 10,Futsal,MB Namenska - Vintersport,PRVA LIGA
 02.11.,20:30,Arena Premium 5,Fudbal,Rakow - Pogon,POLJSKA LIGA
-02.11.,20:45,Arena Premium 2,Fudbal,Atalanta - Parma,ITALIJANSKA LIGA
+02.11.,20:45,Arena Premium 3,Fudbal,Atalanta - Parma,ITALIJANSKA LIGA
 02.11.,20:45,Arena Premium 4,Fudbal,Lorient - Brest,FRANCUSKA LIGA
 02.11.,21:00,Arena Premium 1,Fudbal,Newcastle - Everton,ENGLESKA LIGA
-02.11.,21:00,Arena Premium 3,Fudbal,Deportivo - Osasuna,ŠPANSKA LIGA
+02.11.,21:00,Arena Premium 2,Fudbal,Deportivo - Osasuna,ŠPANSKA LIGA
+02.11.,23:00,Arena Premium 3,Fudbal,Defensa y Justicia - Independiente,ARGENTINSKA LIGA
 03.11.,01:00,Arena Premium 1,Košarka,Cleveland - Oklahoma City,NBA
 03.11.,02:15,Arena Premium 2,Američki fudbal,Seattle Seahawks - Chicago Bears,NFL
 03.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 03.11.,11:00,Arena Tenis,Tenis,"Dan 2, prepodnevna sesija",ATP 1000 - Paris
 03.11.,18:00,Arena Premium 5,Košarka,Tofas - Neptunas,EVROKUP
-03.11.,18:00,Arena Sport 10,Košarka,Kranj - Sloboda Užice,ABA2 LIGA
-03.11.,18:30,Arena Sport 2,Košarka,Salon - Antwerp,FIBA LIGA ŠAMPIONA
+03.11.,18:00,Arena Sport 9,Košarka,Kranj - Sloboda Užice,ABA2 LIGA
 03.11.,18:45,Arena Premium 1,Fudbal,Galatasaray - Stuttgart,UEFA LIGA ŠAMPIONA
 03.11.,18:45,Arena Premium 2,Fudbal,Shakhtar - Sporting,UEFA LIGA ŠAMPIONA
-03.11.,19:00,Arena Premium 3,Košarka,FMP - Uralmash,VTB KUP
-03.11.,19:00,Arena Premium 4,Košarka,PAOK - Roma,EVROKUP
+03.11.,19:00,Arena Premium 3,Košarka,PAOK - Roma,EVROKUP
+03.11.,19:00,Arena Premium 4,Košarka,Budućnost - Chemnitz,EVROKUP
 03.11.,19:00,Arena Tenis,Tenis,"Dan 2, popodnevna sesija",ATP 1000 - Paris
-03.11.,19:00,Arena Sport 1,Košarka,Budućnost - Chemnitz,EVROKUP
-03.11.,19:00,Arena Sport 3,Košarka,Juventus - Pardubice,FIBA LIGA ŠAMPIONA
+03.11.,19:00,Arena Sport 1,Košarka,FMP - Uralmash,VTB KUP
+03.11.,19:00,Arena Sport 2,Košarka,Juventus - Pardubice,FIBA LIGA ŠAMPIONA
 03.11.,19:30,Arena Sport 4,Košarka,Ulm - Bahcesehir,EVROKUP
 03.11.,20:00,Arena Sport 5,Košarka,Napoli - Trento,EVROKUP
-03.11.,20:00,Arena Sport 6,Košarka,Strasbourg - Cibona,FIBA LIGA ŠAMPIONA
-03.11.,20:00,Arena Sport 10,Košarka,Podgorica - Sloboda Tuzla,ABA2 LIGA
-03.11.,20:30,Arena Sport 7,Košarka,Unicaja - Reggio Emilia,FIBA LIGA ŠAMPIONA
+03.11.,20:00,Arena Sport 9,Košarka,Podgorica - Sloboda Tuzla,ABA2 LIGA
+03.11.,20:30,Arena Sport 6,Košarka,Unicaja - Reggio Emilia,FIBA LIGA ŠAMPIONA
 03.11.,21:00,Arena Premium 1,Fudbal,Atletico Madrid - Bayern,UEFA LIGA ŠAMPIONA
 03.11.,21:00,Arena Premium 2,Fudbal,Barcelona - Aston Villa,UEFA LIGA ŠAMPIONA
-03.11.,21:00,Arena Premium 3,Fudbal,Manchester United - Roma,UEFA LIGA ŠAMPIONA
-03.11.,21:00,Arena Premium 4,Fudbal,Villarreal - PSG,UEFA LIGA ŠAMPIONA
+03.11.,21:00,Arena Premium 3,Fudbal,Villarreal - PSG,UEFA LIGA ŠAMPIONA
+03.11.,21:00,Arena Premium 4,Fudbal,Manchester United - Roma,UEFA LIGA ŠAMPIONA
 03.11.,21:00,Arena Premium 5,Fudbal,Feyenoord - Inter,UEFA LIGA ŠAMPIONA
 03.11.,21:00,Arena Sport 1,Fudbal,Bodo/Glimt - Lille,UEFA LIGA ŠAMPIONA
 03.11.,21:00,Arena Sport 2,Fudbal,LASK - Slovan,UEFA LIGA ŠAMPIONA
