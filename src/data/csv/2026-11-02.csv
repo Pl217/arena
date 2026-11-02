@@ -110,10 +110,10 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 03.11.,21:00,Arena Sport 2,Fudbal,LASK - Slovan,UEFA LIGA ŠAMPIONA
 03.11.,21:00,Arena Sport 3,Fudbal,WBA - Southampton,CHAMPIONSHIP
 03.11.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
-04.11.,01:00,Arena Premium 2,Hokej,New York Rangers - St. Louis Blues,NHL
+04.11.,01:01,Arena Premium 2,Hokej,New York Rangers - St. Louis Blues,NHL
 04.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 04.11.,11:00,Arena Tenis,Tenis,"Dan 3, prepodnevna sesija",ATP 1000 - Paris
-04.11.,14:00,Arena 1X2,Fudbal,Crvena zvezda - Bravo,UEFA Liga Mladih
+04.11.,14:00,Arena Premium 2,Fudbal,Crvena zvezda - Bravo,UEFA Liga Mladih
 04.11.,16:30,Arena Premium 2,Fudbal,Rennes - Olympiacos,UEFA LIGA EVROPE
 04.11.,16:30,Arena Sport 2,Odbojka,Gorkiy - Nova,RUSKA LIGA
 04.11.,17:30,Arena Premium 5,Košarka,Turk Telekom - Skyliners,EVROKUP
@@ -127,7 +127,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 04.11.,19:30,Arena Sport 6,Košarka,Bosna - Balkan,EVROKUP
 04.11.,20:00,Arena Sport 4,Košarka,Hapoel Jerusalem - Aris,EVROKUP
 04.11.,20:30,Arena Sport 5,Košarka,San Pablo Burgos - Rostock,EVROKUP
-04.11.,20:30,Arena Sport 8,Odbojka,Trentino - Piacenza,Italijanska Liga
+04.11.,20:30,Arena Sport 8,Odbojka,Trentino - Piacenza,ITALIJANSKA LIGA
 04.11.,20:45,Arena Premium 3,Košarka,Real Madrid - Panathinaikos,EVROLIGA
 04.11.,21:00,Arena Premium 1,Fudbal,Porto - Napoli,UEFA LIGA ŠAMPIONA
 04.11.,21:00,Arena Premium 2,Fudbal,Slavia - Arsenal,UEFA LIGA ŠAMPIONA
@@ -143,22 +143,23 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.11.,03:00,Arena Premium 1,Košarka,Denver - Toronto,NBA
 05.11.,10:00,Arena Premium 1,Mali fudbal,Stari Grad,ARENINA LIGA ŠAMPIONA
 05.11.,11:00,Arena Tenis,Tenis,"Dan 4, prepodnevna sesija",ATP 1000 - Paris
+05.11.,16:30,Arena Premium 2,Rukomet,Srbija - Estonija,EVROPSKO PRVENSTVO - KVALIFIKACIJE
 05.11.,18:00,Arena Sport 9,Košarka,Spartak - Zadar,ABA LIGA
 05.11.,18:15,Arena Premium 2,Košarka,Efes - Paris,EVROLIGA
 05.11.,18:45,Arena Premium 1,Fudbal,Crvena zvezda - Inter Escaldes,UEFA LIGA KONFERENCIJA
 05.11.,18:45,Arena Premium 3,Fudbal,Milan - Ferencvaros,UEFA LIGA EVROPE
 05.11.,18:45,Arena Premium 4,Fudbal,Real Sociedad - Lyon,UEFA LIGA EVROPE
+05.11.,18:45,Arena Premium 5,Fudbal,Crystal Palace - Hoffenheim,UEFA LIGA EVROPE
 05.11.,18:45,Arena Sport 2,Fudbal,Sparta - Bournemouth,UEFA LIGA EVROPE
-05.11.,18:45,Arena Sport 3,Fudbal,Crystal Palace - Hoffenheim,UEFA LIGA EVROPE
+05.11.,18:45,Arena Sport 3,Fudbal,Anderlecht - Salzburg,UEFA LIGA EVROPE
 05.11.,18:45,Arena Sport 4,Fudbal,Trabzonspor - Freiburg,UEFA LIGA KONFERENCIJA
 05.11.,18:45,Arena Sport 5,Fudbal,Mjallby - Borac,UEFA LIGA KONFERENCIJA
-05.11.,18:45,Arena Sport 6,Fudbal,Anderlecht - Salzburg,UEFA LIGA EVROPE
-05.11.,18:45,Arena Sport 7,Fudbal,Midtjylland - Ajax,UEFA LIGA KONFERENCIJA
-05.11.,18:45,Arena Sport 8,Fudbal,Lincoln - Hajduk,UEFA LIGA KONFERENCIJA
+05.11.,18:45,Arena Sport 6,Fudbal,Midtjylland - Ajax,UEFA LIGA KONFERENCIJA
+05.11.,18:45,Arena Sport 7,Fudbal,Lincoln - Hajduk,UEFA LIGA KONFERENCIJA
 05.11.,18:45,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA EVROPE/UEFA LIGA KONFERENCIJA
-05.11.,19:00,Arena Premium 5,Košarka,Hapoel Tel Aviv - Barcelona,EVROLIGA
 05.11.,19:00,Arena Tenis,Tenis,"Dan 4, popodnevna sesija",ATP 1000 - Paris
 05.11.,19:00,Arena Sport 1,Košarka,Fenerbahce - Baskonia,EVROLIGA
+05.11.,19:45,Arena Sport 8,Košarka,Hapoel Tel Aviv - Barcelona,EVROLIGA
 05.11.,20:00,Arena Sport 9,Košarka,ASVEL - Bayern,EVROLIGA
 05.11.,20:30,Arena Premium 2,Košarka,Milano - Valencia,EVROLIGA
 05.11.,21:00,Arena Premium 3,Fudbal,AZ Alkmaar - Juventus,UEFA LIGA EVROPE
@@ -173,17 +174,18 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 05.11.,21:00,Arena Sport 7,Košarka,Tenerife - Cluj,EVROKUP
 05.11.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA EVROPE/UEFA LIGA KONFERENCIJA
 05.11.,21:15,Arena Premium 1,Fudbal,Celtic - Besiktas,UEFA LIGA EVROPE
-05.11.,23:00,Arena Premium 4,Američki fudbal,NFL Arena,NFL
+05.11.,22:30,Arena Premium 2,Američki fudbal,NFL Arena,NFL
 05.11.,23:30,Arena Premium 3,Fudbal,Palmeiras - Remo,BRAZILSKA LIGA
 06.11.,02:15,Arena Premium 1,Američki fudbal,Baltimore Ravens - Jacksonville Jaguars,NFL
 06.11.,08:00,Arena Sport 8,Golf,"ABU DHABI CHAMPIONSHIP, dan 2",DP WORLD TOUR
+06.11.,09:30,Arena Sport 6,Klizanje,Grand Prix Cup of China: Žene - kratki program,ISU GRAND PRIX
 06.11.,10:00,Arena Premium 1,Mali fudbal,Surčin,ARENINA LIGA ŠAMPIONA
 06.11.,11:00,Arena Sport 1,Basket 3x3,"Dubai, grupna faza",FIBA 3x3 World Tour
 06.11.,12:00,Adrenalin,Moto Sport,Katar: Slobodan Trening 1,MOTO 3
 06.11.,12:50,Adrenalin,Moto Sport,Katar: Slobodan Trening 1,MOTO 2
+06.11.,13:00,Arena Sport 9,Fudbal,TSC - Vojvodina,SUPERLIGA Ž
 06.11.,13:45,Adrenalin,Moto Sport,Katar: Slobodan Trening 1,MOTO GP
 06.11.,14:00,Arena Tenis,Tenis,Četvrtfinale 1,ATP 1000 - Paris
-06.11.,15:00,Arena Sport 10,Fudbal,TSC - Vojvodina,SUPERLIGA Ž
 06.11.,15:30,Arena Premium 5,Odbojka,Zareche-Odintsovo - Dinamo-Metar,RUSKA LIGA (Ž)
 06.11.,16:00,Arena Premium 4,Košarka,Avtodor - UNICS,VTB LIGA
 06.11.,16:00,Arena Tenis,Tenis,Četvrtfinale 2,ATP 1000 - Paris
@@ -192,9 +194,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.11.,17:05,Arena Sport 8,Moto Sport,Katar: Trening,MOTO 2
 06.11.,17:30,Arena Sport 1,Fudbal,Lokomotiv - Rubin,RUSKA LIGA
 06.11.,18:00,Arena Premium 2,Košarka,Besiktas - Zalgiris,EVROLIGA
-06.11.,18:00,Arena Sport 2,Fudbal,Motor - Wisla Plock,POLJSKA LIGA
 06.11.,18:00,Arena Sport 8,Moto Sport,Katar: Trening,MOTO GP
-06.11.,18:00,Arena Sport 9,Vaterpolo,Budva - Primorac,Regionalna vaterpolo liga
+06.11.,18:00,Arena Sport 9,Vaterpolo,Budućnost - Jadran,Regionalna vaterpolo liga
 06.11.,18:30,Arena Premium 4,Fudbal,E. Braunschweig - Cottbus,NEMAČKA 2. LIGA
 06.11.,18:30,Arena Premium 5,Fudbal,Dresden - Greuter Furth,NEMAČKA 2. LIGA
 06.11.,19:00,Arena Tenis,Tenis,Četvrtfinale 3,ATP 1000 - Paris
@@ -210,7 +211,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 06.11.,20:45,Arena Premium 2,Košarka,Partizan - Maccabi Tel Aviv,EVROLIGA
 06.11.,20:45,Arena Sport 1,Fudbal,Venezia - Udinese,ITALIJANSKA LIGA
 06.11.,20:45,Arena Sport 2,Fudbal,Toulouse - Strasbourg,FRANCUSKA LIGA
-06.11.,20:45,Arena Sport 6,Fudbal,Oxford City - Leicester City,FA CUP
+06.11.,20:45,Arena Sport 6,Fudbal,Oxford - Leicester,FA CUP
 06.11.,21:00,Arena Premium 3,Fudbal,Everton - Coventry,ENGLESKA LIGA
 06.11.,21:00,Arena Premium 4,Fudbal,Sevilla - Alaves,ŠPANSKA LIGA
 06.11.,21:00,Arena Tenis,Tenis,Četvrtfinale 4,ATP 1000 - Paris
@@ -219,7 +220,9 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.11.,07:00,Arena Tenis,Tenis,Polufinale 1,WTA 250 - Hong Kong
 07.11.,08:00,Arena Sport 8,Golf,"ABU DHABI CHAMPIONSHIP, dan 3",DP WORLD TOUR
 07.11.,09:00,Arena Tenis,Tenis,Polufinale 2,WTA 250 - Hong Kong
+07.11.,09:30,Arena Sport 6,Klizanje,Grand Prix Cup of China: Žene - slobodni program,ISU GRAND PRIX
 07.11.,11:30,Adrenalin,Moto Sport,Katar: Slobodan Trening 2,MOTO 3
+07.11.,11:40,Arena Sport 6,Klizanje,Grand Prix Cup of China: Parovi - slobodni program,ISU GRAND PRIX
 07.11.,12:00,Arena Premium 5,Fudbal,Fakel - Dinamo,RUSKA LIGA
 07.11.,12:00,Arena Tenis,Tenis,Polufinale 1 Dubl,ATP 1000 - Paris
 07.11.,12:15,Adrenalin,Moto Sport,Katar: Slobodan Trening 2,MOTO 2
@@ -233,10 +236,10 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.11.,14:00,Arena Premium 2,Košarka,Lokomotiv - Parma,VTB LIGA
 07.11.,14:00,Arena Premium 5,Fudbal,Malaga - Racing,ŠPANSKA LIGA
 07.11.,14:00,Arena Sport 2,Basket 3x3,"Dubai, četvrfinala",FIBA 3x3 World Tour
-07.11.,14:00,Arena Sport 9,Fudbal,Montpellier - Metz,FRANCUSKA 2. LIGA
 07.11.,14:05,Adrenalin,Moto Sport,Katar: Kvalifikacije 2,MOTO GP
 07.11.,14:30,Arena Tenis,Tenis,Polufinale 1,ATP 1000 - Paris
 07.11.,15:00,Arena Premium 4,Fudbal,Torino - Lecce,ITALIJANSKA LIGA
+07.11.,15:00,Arena Sport 7,Fudbal,Cagliari - Frosinone,ITALIJANSKA LIGA
 07.11.,15:30,Arena Premium 3,Fudbal,Mainz - Bayern,NEMAČKA LIGA
 07.11.,15:30,Arena Sport 3,Fudbal,Borussia Dortmund - Elversberg,NEMAČKA LIGA
 07.11.,15:30,Arena Sport 4,Fudbal,Leipzig - Augsburg,NEMAČKA LIGA
@@ -284,7 +287,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 07.11.,20:30,Arena Sport 9,Vaterpolo,Partizan - Novi Beograd,Regionalna vaterpolo liga
 07.11.,20:45,Arena Premium 2,Fudbal,Roma - Sassuolo,ITALIJANSKA LIGA
 07.11.,20:45,Arena Premium 3,Fudbal,PSG - Troyes,FRANCUSKA LIGA
-07.11.,20:45,Arena Sport 4,Fudbal,Cagliari - Frosinone,ITALIJANSKA LIGA
 07.11.,21:00,Arena Premium 1,Fudbal,Valencia - Real Madrid,ŠPANSKA LIGA
 07.11.,21:00,Arena Premium 4,Košarka,Lleida - Baskonia,ŠPANSKA LIGA
 07.11.,21:00,Arena Sport 2,Fudbal,St. Mirren - Rangers,ŠKOTSKA LIGA
