@@ -6824,17 +6824,164 @@
             "category": "FIBA 3x3 World Tour",
             "sport": "Basket 3x3",
             "description": "snimak"
+          },
+          {
+            "content": "Real Madrid - Panathinaikos",
+            "time": "06:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Efes - Paris",
+            "time": "08:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 10. kola",
+            "time": "10:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Bosna - Balkan",
+            "time": "11:00",
+            "category": "EVROKUP",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Hapoel Tel Aviv - Barcelona",
+            "time": "13:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Dubai, četvrfinala",
+            "time": "15:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Dubai, polufinala i finale",
+            "time": "17:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "AEK - Panathinaikos",
+            "time": "18:30",
+            "category": "GRČKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Na Klupi: Dimitris Diamantidis",
+            "time": "20:30",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Efes - Tofas",
+            "time": "21:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Lokomotiv - Parma",
+            "time": "23:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           }
         ]
       },
       "2026-11-10": {
         "emisije": [
           {
+            "content": "Turk Telekom - Korfez",
+            "time": "01:00",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Dubai, grupna faza",
+            "time": "03:00",
+            "category": "FIBA 3x3 World Tour",
+            "sport": "Basket 3x3",
+            "description": "snimak"
+          },
+          {
+            "content": "Hapoel Tel Aviv - Barcelona",
+            "time": "06:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Fenerbahce - Baskonia",
+            "time": "08:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 7. kola",
+            "time": "10:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Tenerife - Cluj",
+            "time": "11:00",
+            "category": "EVROKUP",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "ASVEL - Bayern",
+            "time": "13:00",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Real Madrid - Murcia",
+            "time": "15:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Asvel - Pau-Orthez",
+            "time": "17:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Davos - Pilsen",
             "time": "19:45",
             "category": "LIGA ŠAMPIONA",
             "sport": "Hokej",
             "description": "uzivo"
+          },
+          {
+            "content": "CSKA - Zenit",
+            "time": "23:00",
+            "category": "VTB LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
           }
         ]
       }
@@ -7274,16 +7421,16 @@
             "description": "uzivo"
           },
           {
-            "content": "Zareche-Odintsovo - Dinamo-Metar",
+            "content": "6 Hours of Monza",
             "time": "18:00",
-            "category": "RUSKA LIGA (Ž)",
-            "sport": "Odbojka",
-            "description": "snimak"
+            "category": "World Endurance Championship",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           },
           {
-            "content": "Lokomotiv - Dinamo-Ak Bars",
+            "content": "Trentino - Perugia",
             "time": "21:00",
-            "category": "RUSKA LIGA (Ž)",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Odbojka",
             "description": "snimak"
           },
@@ -7306,9 +7453,9 @@
             "description": "snimak"
           },
           {
-            "content": "Trentino - Perugia",
+            "content": "Zareche-Odintsovo - Dinamo-Metar",
             "time": "02:00",
-            "category": "ITALIJANSKA LIGA",
+            "category": "RUSKA LIGA (Ž)",
             "sport": "Odbojka",
             "description": "snimak"
           },
@@ -8435,6 +8582,185 @@
             "category": "Major League Baseball",
             "sport": "Bejzbol",
             "description": "snimak"
+          },
+          {
+            "content": "Orlando - Boston",
+            "time": "06:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Indiana - Denver",
+            "time": "08:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled nedelje: Week 8",
+            "time": "10:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "NFL Game Day ep. 9",
+            "time": "11:30",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "New York Rangers - St. Louis Blues",
+            "time": "12:00",
+            "category": "NHL",
+            "sport": "Hokej",
+            "description": "snimak"
+          },
+          {
+            "content": "Atlanta Falcons - Cincinnati Bengals",
+            "time": "14:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Chicago - Philadelphia",
+            "time": "16:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Cleveland - New York",
+            "time": "18:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NBA Daily",
+            "time": "20:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NFL Extra ep. 8",
+            "time": "20:45",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Baltimore Ravens - Jacksonville Jaguars",
+            "time": "21:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Denver - Toronto",
+            "time": "23:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-11-10": {
+        "emisije": [
+          {
+            "content": "New England Patriots - Green Bay Packers",
+            "time": "01:30",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Nashville Predators - St. Louis Blues",
+            "time": "04:00",
+            "category": "NHL",
+            "sport": "Hokej",
+            "description": "snimak"
+          },
+          {
+            "content": "Cleveland - Oklahoma City",
+            "time": "06:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Denver - Toronto",
+            "time": "08:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NBA Action",
+            "time": "10:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled nedelje: Week 9",
+            "time": "10:30",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Nashville Predators - St. Louis Blues",
+            "time": "12:00",
+            "category": "NHL",
+            "sport": "Hokej",
+            "description": "snimak"
+          },
+          {
+            "content": "Miami Dolphins - Detroit Lions",
+            "time": "14:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Chicago - Philadelphia",
+            "time": "16:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Houston - Denver",
+            "time": "18:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NBA Daily",
+            "time": "20:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Atlanta Falcons - Cincinnati Bengals",
+            "time": "21:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Cleveland - New York",
+            "time": "23:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
           }
         ]
       }
@@ -8787,13 +9113,6 @@
             "time": "15:00",
             "category": "ITALIJANSKA LIGA",
             "sport": "Fudbal",
-            "description": "uzivo"
-          },
-          {
-            "content": "Lokomotiv - Dinamo-Ak Bars",
-            "time": "17:00",
-            "category": "RUSKA LIGA (Ž)",
-            "sport": "Odbojka",
             "description": "uzivo"
           },
           {
