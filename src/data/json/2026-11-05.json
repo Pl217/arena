@@ -1739,8 +1739,15 @@
             "description": "uzivo"
           },
           {
+            "content": "Ligue 1 Show ep. 10",
+            "time": "20:30",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "PSG - Troyes",
-            "time": "20:45",
+            "time": "21:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
@@ -3314,7 +3321,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Finale",
+            "content": "Alcaraz - Lehecka, Finale",
             "time": "17:00",
             "category": "ATP 500 - Tokyo",
             "sport": "Tenis",
@@ -4899,6 +4906,13 @@
             "description": "uzivo"
           },
           {
+            "content": "Rookies EP01: Orel Mangala",
+            "time": "20:30",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Ascoli - Palermo",
             "time": "20:45",
             "category": "ITALIJANSKA 2. LIGA",
@@ -5431,7 +5445,7 @@
             "description": "snimak"
           },
           {
-            "content": "Bundesliga specijal",
+            "content": "Best of October",
             "time": "03:30",
             "category": "NEMAČKA LIGA",
             "sport": "Fudbal",
@@ -5561,7 +5575,7 @@
             "description": "snimak"
           },
           {
-            "content": "Rennes - Lille",
+            "content": "Auxerre - Paris",
             "time": "10:00",
             "category": "FRANCUSKA LIGA",
             "sport": "Fudbal",
@@ -6002,18 +6016,11 @@
             "description": "uzivo"
           },
           {
-            "content": "Auxerre - Paris",
-            "time": "17:30",
-            "category": "FRANCUSKA LIGA",
-            "sport": "Fudbal",
+            "content": "Bursaspor - Fenerbahce",
+            "time": "18:30",
+            "category": "TURSKA LIGA",
+            "sport": "Košarka",
             "description": "uzivo"
-          },
-          {
-            "content": "Pregled 4. kola",
-            "time": "19:30",
-            "category": "UEFA LIGA EVROPE",
-            "sport": "Fudbal",
-            "description": "snimak"
           },
           {
             "content": "Asvel - Pau-Orthez",
@@ -7165,24 +7172,24 @@
             "description": "uzivo"
           },
           {
-            "content": "Bursaspor - Fenerbahce",
+            "content": "Arena rukomet specijal: Xavi Pascual",
             "time": "18:30",
-            "category": "TURSKA LIGA",
-            "sport": "Košarka",
+            "category": "",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Auxerre - Paris",
+            "time": "19:00",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
             "description": "uzivo"
           },
           {
             "content": "Jedinstvo Stara Pazova - Napredak 037",
-            "time": "20:30",
+            "time": "21:00",
             "category": "SUPERLIGA (Ž)",
             "sport": "Odbojka",
-            "description": "snimak"
-          },
-          {
-            "content": "Arena rukomet specijal: Xavi Pascual",
-            "time": "22:30",
-            "category": "",
-            "sport": "Rukomet",
             "description": "snimak"
           },
           {
@@ -7334,10 +7341,52 @@
             "description": "snimak"
           },
           {
+            "content": "Grand Prix Cup of China: Žene - kratki program",
+            "time": "10:00",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
+            "content": "Grand Prix Cup of China: Parovi - slobodni program",
+            "time": "11:30",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
             "content": "Ukrajina - Srbija",
-            "time": "14:00",
+            "time": "13:30",
             "category": "EVROPSKO PRVENSTVO - KVALIFIKACIJE",
             "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "The AIG Women’s Open Official Film 2026",
+            "time": "15:00",
+            "category": "",
+            "sport": "Golf",
+            "description": "snimak"
+          },
+          {
+            "content": "ABU DHABI CHAMPIONSHIP, finalni dan",
+            "time": "16:00",
+            "category": "DP WORLD TOUR",
+            "sport": "Golf",
+            "description": "snimak"
+          },
+          {
+            "content": "Sports Unlimited E42",
+            "time": "20:00",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Trentino - Perugia",
+            "time": "21:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -7351,6 +7400,13 @@
       },
       "2026-11-10": {
         "emisije": [
+          {
+            "content": "Enisey - Zareche-Odintsovo",
+            "time": "02:00",
+            "category": "RUSKA LIGA (Ž)",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
           {
             "content": "Stokholm",
             "time": "04:00",
@@ -7380,10 +7436,59 @@
             "description": "snimak"
           },
           {
+            "content": "Grand Prix Cup of China: Parovi - slobodni program",
+            "time": "10:00",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
+            "content": "Grand Prix Cup of China: Žene - slobodni program",
+            "time": "11:30",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
             "content": "Brest - CSM Bucuresti",
             "time": "14:00",
             "category": "EHF LIGA ŠAMPIONA (Ž)",
             "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 7. kola",
+            "time": "15:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Trentino - Perugia",
+            "time": "16:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Lokomotiv - Dinamo-Ak Bars",
+            "time": "18:00",
+            "category": "RUSKA LIGA (Ž)",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Sports Unlimited E43",
+            "time": "20:00",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Jedinstvo Stara Pazova - Napredak 037",
+            "time": "21:00",
+            "category": "SUPERLIGA (Ž)",
+            "sport": "Odbojka",
             "description": "snimak"
           },
           {
@@ -8061,45 +8166,45 @@
             "description": "uzivo"
           },
           {
-            "content": "Cleveland - Oklahoma City",
+            "content": "Pregled nedelje: Week 8",
             "time": "14:00",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "NBA Daily",
-            "time": "16:00",
-            "category": "NBA",
-            "sport": "Košarka",
+            "category": "NFL",
+            "sport": "Američki fudbal",
             "description": "snimak"
           },
           {
             "content": "Katar: Trening",
-            "time": "16:15",
+            "time": "15:15",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Trening",
-            "time": "17:05",
+            "time": "16:05",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Trening",
-            "time": "18:00",
+            "time": "17:00",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
-            "content": "Pregled nedelje: Week 8",
-            "time": "19:00",
-            "category": "NFL",
-            "sport": "Američki fudbal",
+            "content": "Cleveland - Oklahoma City",
+            "time": "18:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NBA Daily",
+            "time": "20:00",
+            "category": "NBA",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
@@ -8156,38 +8261,66 @@
             "description": "snimak"
           },
           {
-            "content": "NFL Game Day ep. 9",
-            "time": "15:00",
-            "category": "NFL",
-            "sport": "Američki fudbal",
-            "description": "snimak"
-          },
-          {
             "content": "Katar: Kvalifikacije 1",
-            "time": "15:45",
+            "time": "14:50",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Kvalifikacije 2",
-            "time": "16:10",
+            "time": "15:15",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
+            "content": "Katar: Kvalifikacije 1",
+            "time": "15:45",
+            "category": "MOTO 2",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
+            "content": "Katar: Kvalifikacije 2",
+            "time": "16:10",
+            "category": "MOTO 2",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
+            "content": "Katar: Sprint",
+            "time": "17:00",
+            "category": "MOTO GP",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
+            "content": "NFL Extra ep. 8",
+            "time": "18:15",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Oni žive za fudbal ep. 253 - FK Divostin Kragujevac, prvi deo",
-            "time": "19:00",
+            "time": "18:30",
             "category": "",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Denver - Toronto",
-            "time": "19:30",
+            "time": "19:00",
             "category": "NBA",
             "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "NFL Game Day ep. 9",
+            "time": "21:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
             "description": "snimak"
           },
           {
@@ -8251,31 +8384,24 @@
             "description": "uzivo"
           },
           {
-            "content": "Katar: Sprint",
-            "time": "17:00",
-            "category": "MOTO GP",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Katar: Trka",
-            "time": "18:00",
+            "time": "17:00",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
-            "content": "NBA Action",
-            "time": "20:00",
+            "content": "Cleveland - New York",
+            "time": "18:30",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
-            "content": "NFL Game Day ep. 9",
+            "content": "NBA Action",
             "time": "20:30",
-            "category": "NFL",
-            "sport": "Američki fudbal",
+            "category": "NBA",
+            "sport": "Košarka",
             "description": "snimak"
           },
           {
@@ -8509,7 +8635,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Spartak - Zadar",
+            "content": "Cedevita Olimpija - FMP",
             "time": "15:30",
             "category": "ABA LIGA",
             "sport": "Košarka",
@@ -8530,7 +8656,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Cedevita Olimpija - FMP",
+            "content": "Spartak - Zadar",
             "time": "22:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
@@ -8774,6 +8900,62 @@
             "time": "04:00",
             "category": "Regionalna vaterpolo liga",
             "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Borac Banja Luka - Mornar",
+            "time": "06:00",
+            "category": "ABA2 LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Krka - Igokea",
+            "time": "08:15",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Ilirija - Vienna",
+            "time": "10:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Borac - Cedevita Olimpija",
+            "time": "14:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Budva - Radnički",
+            "time": "16:00",
+            "category": "Regionalna vaterpolo liga",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Cluj - Bosna",
+            "time": "18:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "FMP - Budućnost",
+            "time": "20:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - SC Derby",
+            "time": "22:00",
+            "category": "ABA LIGA",
+            "sport": "Košarka",
             "description": "snimak"
           }
         ]
@@ -9019,6 +9201,17 @@
             "time": "04:00",
             "category": "KLS",
             "sport": "Košarka",
+            "description": "snimak"
+          }
+        ]
+      },
+      "2026-11-10": {
+        "emisije": [
+          {
+            "content": "Partizan - Novi Beograd",
+            "time": "12:00",
+            "category": "Regionalna vaterpolo liga",
+            "sport": "Vaterpolo",
             "description": "snimak"
           }
         ]
@@ -9339,46 +9532,53 @@
             "description": "snimak"
           },
           {
-            "content": "GP Confidential E20",
-            "time": "11:30",
-            "category": "",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Katar: Slobodan Trening 1",
-            "time": "12:00",
+            "time": "11:00",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Slobodan Trening 1",
-            "time": "12:50",
+            "time": "11:50",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Slobodan Trening 1",
-            "time": "13:45",
+            "time": "12:45",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Sports Unlimited E43",
-            "time": "15:00",
+            "time": "13:45",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "GP Confidential E21",
-            "time": "16:00",
+            "time": "14:45",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
+          },
+          {
+            "content": "Katar: Trening",
+            "time": "15:15",
+            "category": "MOTO 3",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
+            "content": "Katar: Trening",
+            "time": "16:05",
+            "category": "MOTO 2",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           },
           {
             "content": "Brazil: Trening 1",
@@ -9390,20 +9590,20 @@
           {
             "content": "Katar: Trening",
             "time": "17:30",
-            "category": "MOTO 2",
-            "sport": "Moto Sport",
-            "description": "uzivo"
-          },
-          {
-            "content": "Katar: Trening",
-            "time": "18:00",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
-            "content": "FastZone E30",
-            "time": "19:00",
+            "content": "Unrideable E01: Past, Present & Future",
+            "time": "18:00",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Unrideable E02: Falling from Grace",
+            "time": "18:45",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -9469,67 +9669,74 @@
             "description": "snimak"
           },
           {
-            "content": "Sachsenring: Trka 1",
+            "content": "Sachsenring: Trka 2",
             "time": "09:00",
             "category": "DTM",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Sachsenring: Trka 2",
-            "time": "10:00",
-            "category": "DTM",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "FastZone E30",
-            "time": "11:00",
+            "time": "10:00",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Katar: Slobodan Trening 2",
-            "time": "11:30",
+            "time": "10:30",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Slobodan Trening 2",
-            "time": "12:15",
+            "time": "11:15",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Slobodan Trening 2",
-            "time": "13:00",
+            "time": "12:00",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Kvalifikacije 1",
-            "time": "13:40",
+            "time": "12:40",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Kvalifikacije 2",
-            "time": "14:05",
+            "time": "13:05",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
-            "content": "GP Confidential E20",
-            "time": "15:00",
-            "category": "",
+            "content": "Katar: Slobodan Trening 2",
+            "time": "14:00",
+            "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "snimak"
+          },
+          {
+            "content": "Katar: Kvalifikacije 1",
+            "time": "14:50",
+            "category": "MOTO 3",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
+            "content": "Katar: Kvalifikacije 2",
+            "time": "15:15",
+            "category": "MOTO 3",
+            "sport": "Moto Sport",
+            "description": "uzivo"
           },
           {
             "content": "Brazil: Trening 3",
@@ -9539,25 +9746,25 @@
             "description": "uzivo"
           },
           {
-            "content": "Katar: Kvalifikacije 1",
-            "time": "16:40",
-            "category": "MOTO 2",
-            "sport": "Moto Sport",
-            "description": "uzivo"
-          },
-          {
             "content": "Katar: Kvalifikacije 2",
-            "time": "17:05",
+            "time": "16:30",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Sprint",
-            "time": "18:00",
+            "time": "17:00",
             "category": "MOTO GP",
             "sport": "Moto Sport",
             "description": "uzivo"
+          },
+          {
+            "content": "Brazil: Trening 2",
+            "time": "18:00",
+            "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
           },
           {
             "content": "Brazil: Kvalifikacije",
@@ -9662,36 +9869,36 @@
             "description": "snimak"
           },
           {
-            "content": "Katar: Sprint",
-            "time": "13:00",
-            "category": "MOTO GP",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Sports Unlimited E44",
-            "time": "14:00",
+            "time": "13:00",
             "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Katar: Trka",
-            "time": "15:00",
+            "time": "14:00",
             "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
             "content": "Katar: Trka",
-            "time": "16:15",
+            "time": "15:15",
             "category": "MOTO 2",
             "sport": "Moto Sport",
             "description": "uzivo"
           },
           {
+            "content": "Katar: Trka",
+            "time": "17:00",
+            "category": "MOTO GP",
+            "sport": "Moto Sport",
+            "description": "uzivo"
+          },
+          {
             "content": "Brazil: Trka",
-            "time": "18:00",
+            "time": "17:50",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "uzivo"
