@@ -271,7 +271,7 @@
             "description": "snimak"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "19:30",
             "category": "",
             "sport": "Košarka",
@@ -954,7 +954,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "23:00",
             "category": "",
             "sport": "Košarka",
@@ -1028,7 +1028,7 @@
             "description": "snimak"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "16:30",
             "category": "",
             "sport": "Košarka",
@@ -1216,6 +1216,13 @@
             "category": "LEAGUE TWO",
             "sport": "Fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "Arena rukomet specijal: Mathias Gidsel",
+            "time": "15:30",
+            "category": "",
+            "sport": "Rukomet",
+            "description": "snimak"
           },
           {
             "content": "Fuchse Berlin - Kiel",
@@ -1806,7 +1813,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "19:30",
             "category": "",
             "sport": "Košarka",
@@ -1860,14 +1867,21 @@
           },
           {
             "content": "Škotska - Severna Makedonija",
-            "time": "06:30",
+            "time": "06:00",
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
+            "content": "Pregled 10. kola",
+            "time": "08:00",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Slovenija - Švajcarska",
-            "time": "08:30",
+            "time": "09:00",
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1909,7 +1923,7 @@
           },
           {
             "content": "Norveška - Vels",
-            "time": "22:45",
+            "time": "23:00",
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1920,14 +1934,21 @@
         "emisije": [
           {
             "content": "Portugal - Danska",
-            "time": "00:45",
+            "time": "01:00",
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
             "content": "Austrija - Irska",
-            "time": "03:30",
+            "time": "03:00",
+            "category": "UEFA LIGA NACIJA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled dana 13.11.",
+            "time": "05:00",
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
@@ -1982,7 +2003,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "18:00",
             "category": "",
             "sport": "Košarka",
@@ -2433,7 +2454,7 @@
             "description": "snimak"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "03:30",
             "category": "",
             "sport": "Košarka",
@@ -2529,14 +2550,21 @@
           },
           {
             "content": "Cibona - FMP",
-            "time": "07:00",
+            "time": "06:00",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
           },
           {
+            "content": "Pregled nedelje: Week 9",
+            "time": "08:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "New York Giants - Washington Commanders",
-            "time": "09:00",
+            "time": "09:30",
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "snimak"
@@ -2554,6 +2582,20 @@
             "category": "KVALIFIKACIJE ZA EP 2027 Ž",
             "sport": "Košarka",
             "description": "uzivo"
+          },
+          {
+            "content": "Pregled 11. kola",
+            "time": "16:30",
+            "category": "EVROLIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "Na Klupi: Oded Kataš",
+            "time": "17:30",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Igokea - Budućnost",
@@ -2589,7 +2631,7 @@
           },
           {
             "content": "Andorra - Tenerife",
-            "time": "03:00",
+            "time": "04:00",
             "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
             "description": "snimak"
@@ -3116,7 +3158,7 @@
             "description": "uzivo"
           },
           {
-            "content": "Emisija: Sa Draganom Jakovljevićem ep. 61",
+            "content": "Emisija: Sa Draganom Jakovljevićem ep. 60",
             "time": "22:45",
             "category": "",
             "sport": "Košarka",
@@ -3190,9 +3232,9 @@
             "description": "uzivo"
           },
           {
-            "content": "Srbija - Azerbejdžan",
+            "content": "Pregled dana 13.11.",
             "time": "23:00",
-            "category": "UEFA U19",
+            "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "snimak"
           }
@@ -3200,6 +3242,13 @@
       },
       "2026-11-15": {
         "emisije": [
+          {
+            "content": "Srbija - Azerbejdžan",
+            "time": "00:00",
+            "category": "UEFA U19",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
           {
             "content": "Slovenija - Švajcarska",
             "time": "02:00",
@@ -3300,7 +3349,7 @@
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Liu - Eala, Finale",
             "time": "06:00",
             "category": "WTA 250 - Hong Kong",
             "sport": "Tenis",
@@ -3339,28 +3388,28 @@
       "2026-11-10": {
         "emisije": [
           {
-            "content": "Četvrtfinale 1",
+            "content": "Shelton - Paul, Četvrtfinale 1",
             "time": "05:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinale 2",
+            "content": "Van Assche - Hijikata, Četvrtfinale 2",
             "time": "07:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinale 3",
+            "content": "Fritz - Alcaraz, Četvrtfinale 3",
             "time": "09:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "Četvrtfinale 4",
+            "content": "Ruud - Borges, Četvrtfinale 4",
             "time": "11:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
@@ -3369,6 +3418,20 @@
           {
             "content": "Dan 2",
             "time": "13:00",
+            "category": "WTA Finals - Indian Wells",
+            "sport": "Tenis",
+            "description": "snimak"
+          },
+          {
+            "content": "Rinderknech - Kecmanovic",
+            "time": "16:00",
+            "category": "ATP 250 - Stockholm",
+            "sport": "Tenis",
+            "description": "uzivo"
+          },
+          {
+            "content": "Dan 2",
+            "time": "18:00",
             "category": "WTA Finals - Indian Wells",
             "sport": "Tenis",
             "description": "snimak"
@@ -3413,21 +3476,21 @@
             "description": "snimak"
           },
           {
-            "content": "Polufinale 1",
+            "content": "Van Assche - Shelton, Polufinale 1",
             "time": "07:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "Polufinale 2",
+            "content": "Ruud - Alcaraz, Polufinale 2",
             "time": "09:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
             "description": "snimak"
           },
           {
-            "content": "Finale",
+            "content": "Shelton - Alcaraz, Finale",
             "time": "11:00",
             "category": "ATP 1000 - Paris",
             "sport": "Tenis",
@@ -4667,11 +4730,11 @@
             "description": "snimak"
           },
           {
-            "content": "Galatasaray - Gezbe",
+            "content": "Atletico Madrid - Barcelona",
             "time": "17:00",
-            "category": "TURSKI KUP",
-            "sport": "Odbojka",
-            "description": "uzivo"
+            "category": "ŠPANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "La Liga: Specijal: Freetour",
@@ -5448,6 +5511,20 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled 9. kola",
+            "time": "17:30",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
+            "content": "Na Klupi: Dimitris Diamantidis",
+            "time": "18:30",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Chemnitz - Napoli",
             "time": "19:00",
             "category": "EVROKUP",
@@ -5455,10 +5532,10 @@
             "description": "uzivo"
           },
           {
-            "content": "Na Klupi: Dimitris Diamantidis",
+            "content": "Pregled 10. kola",
             "time": "21:30",
-            "category": "",
-            "sport": "Košarka",
+            "category": "FRANCUSKA LIGA",
+            "sport": "Fudbal",
             "description": "snimak"
           },
           {
@@ -6078,7 +6155,7 @@
             "description": "snimak"
           },
           {
-            "content": "Pregled dana 03.11.",
+            "content": "Pregled dana 04.11.",
             "time": "20:30",
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
@@ -6275,7 +6352,7 @@
             "description": "snimak"
           },
           {
-            "content": "Na Klupi",
+            "content": "Na Klupi: Oded Kataš",
             "time": "19:30",
             "category": "",
             "sport": "Košarka",
@@ -6532,7 +6609,7 @@
             "description": "snimak"
           },
           {
-            "content": "Oni žive za fudbal ep. 255",
+            "content": "Oni žive za fudbal ep. 254 - FK Divostin Kragujevac, drugi deo",
             "time": "10:30",
             "category": "",
             "sport": "Fudbal",
@@ -7592,10 +7669,10 @@
             "description": "snimak"
           },
           {
-            "content": "Galatasaray - Gezbe",
+            "content": "Grand Prix Cup of China: Žene - slobodni program",
             "time": "12:00",
-            "category": "TURSKI KUP",
-            "sport": "Odbojka",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
             "description": "snimak"
           },
           {
@@ -7694,24 +7771,17 @@
             "description": "snimak"
           },
           {
-            "content": "Galatasaray - Gezbe",
+            "content": "Grand Prix Cup of China: Žene - kratki program",
             "time": "18:00",
-            "category": "TURSKI KUP",
-            "sport": "Odbojka",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
             "description": "snimak"
           },
           {
-            "content": "Racing on the Edge 2026 E03: This Is Us",
-            "time": "20:00",
-            "category": "SailGP",
-            "sport": "Jedrenje",
-            "description": "snimak"
-          },
-          {
-            "content": "Racing on the Edge 2026 E04: The power of opportunity",
-            "time": "20:30",
-            "category": "SailGP",
-            "sport": "Jedrenje",
+            "content": "Grand Prix Cup of China: Parovi - slobodni program",
+            "time": "19:30",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
             "description": "snimak"
           },
           {
@@ -7789,16 +7859,16 @@
             "description": "snimak"
           },
           {
-            "content": "Trentino - Perugia",
+            "content": "Lemgo - Magdeburg",
             "time": "14:00",
-            "category": "ITALIJANSKA LIGA",
-            "sport": "Odbojka",
+            "category": "BUNDESLIGA",
+            "sport": "Rukomet",
             "description": "snimak"
           },
           {
-            "content": "Galatasaray - Gezbe",
+            "content": "Trentino - Perugia",
             "time": "16:00",
-            "category": "TURSKI KUP",
+            "category": "ITALIJANSKA LIGA",
             "sport": "Odbojka",
             "description": "snimak"
           },
@@ -9755,7 +9825,7 @@
         "emisije": [
           {
             "content": "Vojvodina - Radnički",
-            "time": "00:00",
+            "time": "00:15",
             "category": "KLS",
             "sport": "Košarka",
             "description": "snimak"
@@ -10131,13 +10201,6 @@
             "description": "snimak"
           },
           {
-            "content": "Stage 1, pregled",
-            "time": "23:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "FastZone E30",
             "time": "23:30",
             "category": "",
@@ -10212,9 +10275,9 @@
             "description": "snimak"
           },
           {
-            "content": "Stage 1, pregled",
+            "content": "FastZone E30",
             "time": "14:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
+            "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10264,13 +10327,6 @@
             "content": "Austrija: Trka",
             "time": "21:30",
             "category": "MOTO GP",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Stage 2, pregled",
-            "time": "23:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10356,15 +10412,8 @@
             "description": "snimak"
           },
           {
-            "content": "Stage 2, pregled",
-            "time": "14:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Singapur: Sprint",
-            "time": "14:30",
+            "time": "14:00",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -10378,7 +10427,7 @@
           },
           {
             "content": "Singapur: Trka",
-            "time": "16:30",
+            "time": "17:00",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -10401,13 +10450,6 @@
             "content": "Japan: Trka",
             "time": "21:30",
             "category": "MOTO GP",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Stage 3, pregled",
-            "time": "23:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10486,23 +10528,23 @@
             "description": "snimak"
           },
           {
-            "content": "Stage 3, pregled",
-            "time": "14:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "SAD: Kvalifikacije",
-            "time": "14:30",
+            "time": "14:00",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "SAD: Trka",
-            "time": "15:30",
-            "category": "E1",
+            "time": "15:00",
+            "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "FastZone E31",
+            "time": "17:30",
+            "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10535,9 +10577,9 @@
             "description": "snimak"
           },
           {
-            "content": "Dubai International Baja 2026 - Pregled",
-            "time": "23:00",
-            "category": "DUBAI INTERNATIONAL BAJA",
+            "content": "Sports Unlimited E44",
+            "time": "23:30",
+            "category": "",
             "sport": "Moto Sport",
             "description": "snimak"
           }
