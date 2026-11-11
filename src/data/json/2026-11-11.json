@@ -465,6 +465,13 @@
             "description": "uzivo"
           },
           {
+            "content": "NBA Action",
+            "time": "03:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Rumunija - Poljska",
             "time": "04:00",
             "category": "UEFA LIGA NACIJA",
@@ -498,6 +505,13 @@
             "category": "ŠPANSKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
+          },
+          {
+            "content": "Liga Šampiona: Magazin ep. 11",
+            "time": "14:00",
+            "category": "UEFA LIGA ŠAMPIONA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Austrija - Irska",
@@ -565,6 +579,13 @@
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "NETBUSTERS ep. 10",
+            "time": "05:30",
+            "category": "ENGLESKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Belgija - Italija",
@@ -1074,6 +1095,13 @@
             "description": "snimak"
           },
           {
+            "content": "Na Klupi: Oded Kataš",
+            "time": "08:00",
+            "category": "",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Valencia - Bayern",
             "time": "08:30",
             "category": "EVROLIGA",
@@ -1088,11 +1116,11 @@
             "description": "snimak"
           },
           {
-            "content": "Oman: Muscat",
+            "content": "Philadelphia - Toronto",
             "time": "11:30",
-            "category": "Red Bull Cliff Diving World Series",
-            "sport": "Skokovi u vodu",
-            "description": "uzivo"
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Exeter - Cheltenham",
@@ -1185,6 +1213,13 @@
           {
             "content": "NBA Daily",
             "time": "12:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
+            "content": "New Orleans - Denver",
+            "time": "13:00",
             "category": "NBA",
             "sport": "Košarka",
             "description": "snimak"
@@ -1806,6 +1841,13 @@
             "description": "uzivo"
           },
           {
+            "content": "NBA Action",
+            "time": "13:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Tofas - Trabzonspor",
             "time": "13:30",
             "category": "TURSKA LIGA",
@@ -1825,6 +1867,13 @@
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "Full Impact ep. 11",
+            "time": "20:00",
+            "category": "ITALIJANSKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
           },
           {
             "content": "Rumunija - Poljska",
@@ -2454,6 +2503,13 @@
             "description": "uzivo"
           },
           {
+            "content": "NBA Daily",
+            "time": "14:00",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Holandija - Srbija",
             "time": "14:30",
             "category": "KVALIFIKACIJE ZA EP 2027 Ž",
@@ -2507,6 +2563,13 @@
             "description": "snimak"
           },
           {
+            "content": "NFL Arena",
+            "time": "03:00",
+            "category": "NFL",
+            "sport": "Američki fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Andorra - Tenerife",
             "time": "04:00",
             "category": "ŠPANSKA LIGA",
@@ -2542,11 +2605,18 @@
             "description": "uzivo"
           },
           {
-            "content": "Parma - Zenit",
+            "content": "Novi Beograd - Jadran Split",
             "time": "13:00",
-            "category": "VTB LIGA",
-            "sport": "Košarka",
-            "description": "uzivo"
+            "category": "Liga šampiona",
+            "sport": "Vaterpolo",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 6. kola",
+            "time": "14:15",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
+            "description": "snimak"
           },
           {
             "content": "Magdeburg - Flensburg",
@@ -3060,6 +3130,13 @@
             "description": "snimak"
           },
           {
+            "content": "Pregled 7. kola",
+            "time": "08:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Zaisan, grupna faza",
             "time": "08:25",
             "category": "FIBA 3x3 World Tour",
@@ -3081,11 +3158,25 @@
             "description": "snimak"
           },
           {
+            "content": "Best of October",
+            "time": "18:00",
+            "category": "NEMAČKA LIGA",
+            "sport": "Fudbal",
+            "description": "snimak"
+          },
+          {
             "content": "Bandirma - Karsiyaka",
             "time": "18:30",
             "category": "TURSKA LIGA",
             "sport": "Košarka",
             "description": "uzivo"
+          },
+          {
+            "content": "NBA Daily",
+            "time": "20:30",
+            "category": "NBA",
+            "sport": "Košarka",
+            "description": "snimak"
           },
           {
             "content": "Joventut - Zaragoza",
@@ -7121,7 +7212,7 @@
           },
           {
             "content": "Runda 2, večernja sesija",
-            "time": "20:30",
+            "time": "20:00",
             "category": "Grand Slam of Darts",
             "sport": "Pikado",
             "description": "uzivo"
@@ -10122,65 +10213,51 @@
             "description": "snimak"
           },
           {
-            "content": "Portugal - Live Stage 1",
+            "content": "Portugal - Live Stage 3",
             "time": "06:00",
             "category": "WRC",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Portugal - Live Stage 2",
+            "content": "Portugal - Live Stage 4",
             "time": "07:00",
             "category": "WRC",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Portugal - Live Stage 3",
+            "content": "Portugal - Live Stage 5",
             "time": "08:00",
             "category": "WRC",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Portugal - Live Stage 4",
+            "content": "Portugal - Live Stage 6",
             "time": "09:00",
             "category": "WRC",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Portugal - Live Stage 5",
-            "time": "10:00",
-            "category": "WRC",
+            "content": "Portimao - finala",
+            "time": "10:45",
+            "category": "Rotax MAX Challenge Grand Finals",
             "sport": "Moto Sport",
-            "description": "snimak"
+            "description": "uzivo"
           },
           {
-            "content": "Portugal - Live Stage 6",
-            "time": "11:00",
-            "category": "WRC",
+            "content": "Portimao - finala",
+            "time": "14:15",
+            "category": "Rotax MAX Challenge Grand Finals",
             "sport": "Moto Sport",
-            "description": "snimak"
+            "description": "uzivo"
           },
           {
-            "content": "Reli Portugal, pregled",
-            "time": "12:30",
-            "category": "WRC",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Meksiko: Kvalifikacije",
-            "time": "14:00",
-            "category": "FORMULA 1",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
-            "content": "Meksiko: Trka",
-            "time": "15:00",
-            "category": "FORMULA 1",
+            "content": "Malezija: Trka",
+            "time": "17:30",
+            "category": "MOTO 3",
             "sport": "Moto Sport",
             "description": "snimak"
           },
@@ -10266,36 +10343,29 @@
             "description": "snimak"
           },
           {
-            "content": "ROC D’AZUR 2026: Pregled",
-            "time": "11:30",
-            "category": "",
-            "sport": "Moto Sport",
-            "description": "snimak"
-          },
-          {
             "content": "Miami, Race 1",
-            "time": "12:00",
+            "time": "11:30",
             "category": "E1",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
             "content": "Miami, Race 2",
-            "time": "14:00",
+            "time": "13:00",
             "category": "E1",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Brazil: Kvalifikacije",
-            "time": "15:30",
+            "content": "Meksiko: Kvalifikacije",
+            "time": "15:00",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
           },
           {
-            "content": "Brazil: Trka",
-            "time": "16:45",
+            "content": "Meksiko: Trka",
+            "time": "16:00",
             "category": "FORMULA 1",
             "sport": "Moto Sport",
             "description": "snimak"
@@ -10347,6 +10417,27 @@
             "description": "snimak"
           },
           {
+            "content": "ROC D’AZUR 2026: Pregled",
+            "time": "11:30",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Brazil: Kvalifikacije",
+            "time": "15:30",
+            "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Brazil: Trka",
+            "time": "16:45",
+            "category": "FORMULA 1",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
             "content": "Going Pro E06",
             "time": "23:30",
             "category": "",
@@ -10367,17 +10458,6 @@
             "category": "NFL",
             "sport": "Američki fudbal",
             "description": "uzivo"
-          }
-        ]
-      },
-      "2026-11-16": {
-        "emisije": [
-          {
-            "content": "SC Derby - Vienna",
-            "time": "23:00",
-            "category": "ABA LIGA",
-            "sport": "Košarka",
-            "description": "snimak"
           }
         ]
       }
