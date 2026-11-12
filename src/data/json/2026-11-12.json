@@ -6561,11 +6561,11 @@
             "description": "snimak"
           },
           {
-            "content": "AEK - Panathinaikos",
+            "content": "Kecmanović - Rune",
             "time": "19:00",
-            "category": "GRČKA LIGA",
-            "sport": "Košarka",
-            "description": "snimak"
+            "category": "ATP 250 - Stockholm",
+            "sport": "Tenis",
+            "description": "uzivo"
           },
           {
             "content": "Karsiyaka - Besiktas",
@@ -7485,7 +7485,7 @@
           },
           {
             "content": "Grand Prix Skate America: Žene - slobodni program",
-            "time": "22:05",
+            "time": "22:00",
             "category": "ISU GRAND PRIX",
             "sport": "Klizanje",
             "description": "uzivo"
@@ -7521,16 +7521,163 @@
             "category": "DIJAMANTSKA LIGA",
             "sport": "Atletika",
             "description": "snimak"
+          },
+          {
+            "content": "Magdeburg - Flensburg",
+            "time": "06:00",
+            "category": "BUNDESLIGA",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Odense - Metz",
+            "time": "08:00",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 3. kola",
+            "time": "09:30",
+            "category": "EHF LIGA EVROPE",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Runda 2, večernja sesija",
+            "time": "10:00",
+            "category": "Grand Slam of Darts",
+            "sport": "Pikado",
+            "description": "snimak"
+          },
+          {
+            "content": "Dinamo-Ak Bars - Korabelka",
+            "time": "13:00",
+            "category": "RUSKA LIGA (Ž)",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Grand Prix Skate America: Plesni parovi - Rhythm Dance",
+            "time": "15:00",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
+            "content": "Budućnost - Borussia Dortmund",
+            "time": "16:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "DP WORLD TOUR CHAMPIONSHIP: DUBAI, finalni dan",
+            "time": "18:00",
+            "category": "DP WORLD TOUR",
+            "sport": "Golf",
+            "description": "snimak"
+          },
+          {
+            "content": "Sports Unlimited E45",
+            "time": "22:00",
+            "category": "",
+            "sport": "Moto Sport",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - Crvena zvezda",
+            "time": "23:00",
+            "category": "SUPERLIGA SRBIJE Ž",
+            "sport": "Rukomet",
+            "description": "snimak"
           }
         ]
       },
       "2026-11-17": {
         "emisije": [
           {
+            "content": "FTC - Esbjerg",
+            "time": "00:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Gorkiy - Dinamo",
+            "time": "02:00",
+            "category": "RUSKA LIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
             "content": "London",
             "time": "04:00",
             "category": "DIJAMANTSKA LIGA",
             "sport": "Atletika",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 6. kola",
+            "time": "06:00",
+            "category": "EHF LIGA ŠAMPIONA",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Podravka - Gloria Bistrita",
+            "time": "06:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Budućnost - Borussia Dortmund",
+            "time": "08:00",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 8. kola",
+            "time": "09:30",
+            "category": "EHF LIGA ŠAMPIONA (Ž)",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Runda 3",
+            "time": "10:00",
+            "category": "Grand Slam of Darts",
+            "sport": "Pikado",
+            "description": "snimak"
+          },
+          {
+            "content": "Galatasaray - Fenerbahce",
+            "time": "13:00",
+            "category": "TURSKA LIGA",
+            "sport": "Odbojka",
+            "description": "snimak"
+          },
+          {
+            "content": "Grand Prix Skate America: Žene - kratki program",
+            "time": "15:00",
+            "category": "ISU GRAND PRIX",
+            "sport": "Klizanje",
+            "description": "snimak"
+          },
+          {
+            "content": "Partizan - Crvena zvezda",
+            "time": "16:30",
+            "category": "SUPERLIGA SRBIJE Ž",
+            "sport": "Rukomet",
+            "description": "snimak"
+          },
+          {
+            "content": "Pregled 3. kola",
+            "time": "18:00",
+            "category": "EHF LIGA EVROPE",
+            "sport": "Rukomet",
             "description": "snimak"
           },
           {
@@ -7546,6 +7693,13 @@
             "category": "UEFA LIGA NACIJA",
             "sport": "Fudbal",
             "description": "uzivo"
+          },
+          {
+            "content": "Pelister - Gummersbach",
+            "time": "23:00",
+            "category": "EHF LIGA EVROPE",
+            "sport": "Rukomet",
+            "description": "snimak"
           }
         ]
       }
@@ -7915,9 +8069,9 @@
             "description": "snimak"
           },
           {
-            "content": "Gorkiy - Dinamo",
+            "content": "Dinamo - Uralochka",
             "time": "23:00",
-            "category": "RUSKA LIGA",
+            "category": "RUSKA LIGA (Ž)",
             "sport": "Odbojka",
             "description": "snimak"
           }
@@ -8258,18 +8412,11 @@
             "description": "snimak"
           },
           {
-            "content": "Philadelphia - Toronto",
+            "content": "Carlos Adames vs Gerome Warburton",
             "time": "17:00",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
-          },
-          {
-            "content": "Philadelphia - Boston",
-            "time": "19:00",
-            "category": "NBA",
-            "sport": "Košarka",
-            "description": "snimak"
+            "category": "Zuffa Boxing 13",
+            "sport": "BOKS",
+            "description": "uzivo"
           },
           {
             "content": "Minnesota Vikings - Buffalo Bills",
