@@ -48,7 +48,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 14.11.,14:00,Arena Premium 1,Košarka,Samara - CSKA,VTB LIGA
 14.11.,14:00,Arena Sport 5,Pikado,"Runda 1, popodnevna sesija",Grand Slam of Darts
 14.11.,14:15,Adrenalin,Moto Sport,Portimao - finala,Rotax MAX Challenge Grand Finals
-14.11.,14:30,Arena Premium 4,Košarka,Holandija - Srbija,KVALIFIKACIJE ZA EP 2027 Ž
+14.11.,14:30,Arena Premium 4,Košarka,Holandija - Srbija,EVROBASKET (Ž) - Kvalifikacije
 14.11.,15:55,Arena Premium 2,Rukomet,Fuchse Berlin - Kiel,BUNDESLIGA
 14.11.,16:00,Arena Premium 1,Fudbal,Srbija - Azerbejdžan,UEFA U19
 14.11.,16:00,Arena Premium 3,Košarka,Korfez - Galatasaray,TURSKA LIGA
@@ -148,66 +148,59 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 17.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 17.11.,11:30,Arena Tenis,Tenis,"Dubl, dan 3, popodnevna sesija",ATP Finals - Turin
 17.11.,14:00,Arena Tenis,Tenis,"Singl, dan 3, popodnevna sesija",ATP Finals - Turin
-17.11.,14:30,Arena Sport 1,Odbojka,Uralochka - Proton,RUSKA LIGA (Ž)
+17.11.,14:30,Arena Premium 4,Odbojka,Uralochka - Proton,RUSKA LIGA (Ž)
 17.11.,16:00,Arena Premium 2,Fudbal,Crna Gora - Srbija,UEFA U19
 17.11.,17:00,Arena Premium 1,Košarka,Dubai - Efes,EVROLIGA
-17.11.,17:30,Arena Sport 3,Košarka,CSKA - Igokea,VTB KUP
-17.11.,17:30,Arena Sport 8,Hokej,Pilsen - Davos,LIGA ŠAMPIONA
-17.11.,18:00,Arena Premium 4,Košarka,Maccabi Tel Aviv - Olympiacos,EVROLIGA
-17.11.,18:00,Arena Premium 5,Košarka,Slovačka - Srbija,KVALIFIKACIJE ZA EP 2027 Ž
+17.11.,17:30,Arena Premium 4,Košarka,Turk Telekom - Tenerife,EVROKUP
+17.11.,17:30,Arena Sport 1,Košarka,CSKA - Igokea,VTB KUP
+17.11.,17:30,Arena Sport 3,Hokej,Pilsen - Davos,LIGA ŠAMPIONA
+17.11.,18:00,Arena Premium 2,Košarka,Maccabi Tel Aviv - Olympiacos,EVROLIGA
+17.11.,18:00,Arena Premium 5,Košarka,Slovačka - Srbija,EVROBASKET (Ž) - Kvalifikacije
 17.11.,18:00,Arena Tenis,Tenis,"Dubl, dan 3, večernja sesija",ATP Finals - Turin
-17.11.,18:00,Arena Sport 1,Fudbal,Srbija U21 - Poljska U21,PRIJATELJSKE UTAKMICE
-17.11.,18:00,Arena Sport 2,Košarka,Balkan - Ulm,EVROKUP
-17.11.,18:00,Arena Sport 9,Košarka,Virtus Zagreb - Zlatibor,ABA2 LIGA
-17.11.,18:30,Arena Sport 4,Košarka,Herzliya - Bonn,FIBA LIGA ŠAMPIONA
-17.11.,18:45,Arena Premium 2,Košarka,Fenerbahce - ASVEL,EVROLIGA
-17.11.,18:45,Arena Sport 6,Rukomet,Nexe - Elverum,EHF LIGA EVROPE
-17.11.,18:45,Arena Sport 7,Rukomet,Izviđač - Kadetten,EHF LIGA EVROPE
+17.11.,18:00,Arena Sport 10,Košarka,Virtus Zagreb - Zlatibor,ABA2 LIGA
+17.11.,18:30,Arena Sport 8,Vaterpolo,Steaua - Ferencvaros,Liga šampiona
+17.11.,18:45,Arena Sport 9,Rukomet,Nexe - Elverum,EHF LIGA EVROPE
 17.11.,19:00,Arena Premium 3,Košarka,Zalgiris - Bayern,EVROLIGA
+17.11.,19:00,Arena Sport 2,Košarka,Fenerbahce - ASVEL,EVROLIGA
 17.11.,20:00,Arena Sport 1,Košarka,Roma - Bahcesehir,EVROKUP
 17.11.,20:00,Arena Sport 5,Pikado,Runda 3,Grand Slam of Darts
-17.11.,20:00,Arena Sport 8,Košarka,Rostock - Hapoel Jerusalem,EVROKUP
 17.11.,20:30,Arena Premium 1,Košarka,Milano - Crvena zvezda,EVROLIGA
 17.11.,20:30,Arena Premium 4,Košarka,Barcelona - Paris,EVROLIGA
 17.11.,20:30,Arena Premium 5,Košarka,Baskonia - Hapoel Tel Aviv,EVROLIGA
 17.11.,20:30,Arena Tenis,Tenis,"Singl, dan 3, večernja sesija",ATP Finals - Turin
-17.11.,20:30,Arena Sport 10,Vaterpolo,Novi Beograd - Zodiac,LIGA ŠAMPIONA
+17.11.,20:30,Arena Sport 8,Vaterpolo,Novi Beograd - Barceloneta,Liga šampiona
 17.11.,20:45,Arena Premium 2,Košarka,Partizan - Valencia,EVROLIGA
-17.11.,20:45,Arena Sport 2,Fudbal,Danska - Norveška,UEFA LIGA NACIJA
 17.11.,20:45,Arena Sport 3,Fudbal,Vels - Portugal,UEFA LIGA NACIJA
 17.11.,20:45,Arena Sport 4,Fudbal,Bosna i Hercegovina - Rumunija,UEFA LIGA NACIJA
 17.11.,20:45,Arena Sport 6,Fudbal,Poljska - Švedska,UEFA LIGA NACIJA
 17.11.,20:45,Arena Sport 7,Fudbal,Mađarska - Severna Irska,UEFA LIGA NACIJA
 17.11.,20:45,Arena Sport 9,Rukomet,Pelister - Gummersbach,EHF LIGA EVROPE
-17.11.,20:45,Arena 1X2,Rukomet,Bergischer - Sesvete,EHF LIGA EVROPE
+17.11.,20:45,Arena 1X2,Fudbal,Danska - Norveška,UEFA LIGA NACIJA
 17.11.,21:00,Arena Premium 3,Košarka,Virtus Bologna - Panathinaikos,EVROLIGA
+17.11.,21:00,Arena Sport 2,Fudbal,Danska - Norveška,UEFA LIGA NACIJA
 18.11.,01:00,Arena Premium 2,Hokej,Florida Panthers - Edmonton Oilers,NHL
 18.11.,02:00,Arena Premium 1,Košarka,San Antonio - Detroit,NBA
 18.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 18.11.,11:30,Arena Tenis,Tenis,"Dubl, dan 4, popodnevna sesija",ATP Finals - Turin
 18.11.,14:00,Arena Tenis,Tenis,"Singl, dan 4, popodnevna sesija",ATP Finals - Turin
-18.11.,14:30,Arena Premium 5,Odbojka,Fenerbahce - THY,TURSKI KUP Ž
+18.11.,14:30,Arena Premium 4,Odbojka,Fenerbahce - THY,TURSKI KUP Ž
 18.11.,15:30,Arena Premium 3,Košarka,Uralmash - Lokomotiv,VTB LIGA
-18.11.,16:00,Arena Sport 10,Košarka,Mornar - Vojvodina,ABA2 LIGA
-18.11.,17:00,Arena Premium 4,Košarka,Turk Telekom - Tenerife,EVROKUP
-18.11.,17:00,Arena Premium 5,Košarka,UNICS - Enisey,VTB LIGA
-18.11.,18:00,Arena Premium 2,Košarka,Besiktas - Real Madrid,EVROLIGA
+18.11.,16:00,Arena Sport 9,Košarka,Mornar - Vojvodina,ABA2 LIGA
+18.11.,18:00,Arena Premium 1,Košarka,Besiktas - Real Madrid,EVROLIGA
 18.11.,18:00,Arena Premium 3,Košarka,Galatasaray - Legia,FIBA LIGA ŠAMPIONA
 18.11.,18:00,Arena Tenis,Tenis,"Dubl, dan 4, večernja sesija",ATP Finals - Turin
-18.11.,18:00,Arena Sport 1,Košarka,AEK - Falco,FIBA LIGA ŠAMPIONA
-18.11.,18:00,Arena Sport 4,Košarka,Cluj - Maxima Roma,EVROKUP
-18.11.,18:00,Arena Sport 10,Košarka,Borac Banja Luka - Šenčur,ABA2 LIGA
-18.11.,18:30,Arena Sport 2,Košarka,Cedevita Olimpija - Burgos,EVROKUP
-18.11.,18:30,Arena Sport 5,Vaterpolo,Radnički - Oradea,Liga šampiona
-18.11.,18:45,Arena Sport 6,Rukomet,Aalborg - Fuchse Berlin,EHF LIGA ŠAMPIONA
+18.11.,18:00,Arena Sport 9,Košarka,Borac Banja Luka - Šenčur,ABA2 LIGA
+18.11.,18:30,Arena Sport 2,Košarka,Cedevita Olimpija - San Pablo Burgos,EVROKUP
+18.11.,18:30,Arena Sport 6,Vaterpolo,Radnički - Oradea,Liga šampiona
+18.11.,18:45,Arena Sport 3,Rukomet,Aalborg - Fuchse Berlin,EHF LIGA ŠAMPIONA
+18.11.,19:00,Arena Premium 4,Košarka,Budućnost - Slask,EVROKUP
 18.11.,19:00,Arena Premium 5,Košarka,Aris - Le Mans,EVROKUP
-18.11.,19:00,Arena Sport 3,Košarka,Budućnost - Slask,EVROKUP
-18.11.,19:30,Arena Premium 4,Košarka,Bourg - Napoli,EVROKUP
-18.11.,19:30,Arena Sport 8,Košarka,Bosna - Lietkabelis,EVROKUP
-18.11.,19:45,Arena Sport 9,Hokej,Fribourg - Geneve Servette,LIGA ŠAMPIONA
+18.11.,19:30,Arena Sport 1,Košarka,Bosna - Lietkabelis,EVROKUP
+18.11.,19:30,Arena Sport 4,Košarka,Bourg - Napoli,EVROKUP
+18.11.,19:45,Arena Sport 8,Hokej,Fribourg - Geneve Servette,LIGA ŠAMPIONA
 18.11.,20:00,Arena Premium 3,Košarka,Trento - Neptunas,EVROKUP
-18.11.,20:00,Arena Sport 1,Košarka,Cibona - Strasbourg,FIBA LIGA ŠAMPIONA
 18.11.,20:00,Arena Sport 5,Pikado,Osmina finala,Grand Slam of Darts
 18.11.,20:30,Arena Premium 1,Košarka,Manresa - PAOK,EVROKUP
 18.11.,20:30,Arena Premium 2,Košarka,Unicaja - Pardubice,FIBA LIGA ŠAMPIONA
 18.11.,20:30,Arena Tenis,Tenis,"Singl, dan 4, večernja sesija",ATP Finals - Turin
+18.11.,20:30,Arena Sport 6,Vaterpolo,Sabadell - Jadran HN,Liga šampiona
