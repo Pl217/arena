@@ -201,14 +201,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.11.,00:00,Arena Premium 1,Košarka,Miami - Oklahoma City,NBA
 23.11.,02:20,Arena Premium 2,Američki fudbal,San Francisco 49ers - Minnesota Vikings,NFL
 23.11.,11:00,Arena Premium 1,Mali fudbal,Niš,ARENINA LIGA ŠAMPIONA
-23.11.,17:00,Arena Sport 1,Odbojka,Dinamo - Dinamo-Ak Bars,RUSKA LIGA (Ž)
+23.11.,17:00,Arena Premium 2,Odbojka,Dinamo - Dinamo-Ak Bars,RUSKA LIGA (Ž)
 23.11.,18:00,Arena Premium 4,Košarka,Vojvodina - Sloboda,KLS
 23.11.,18:00,Arena Sport 10,Košarka,Vojvodina - Sloboda,KLS
 23.11.,19:00,Arena Sport 1,Fudbal,Brondby - Midtjylland,DANSKA LIGA
 23.11.,19:00,Arena 1X2,Fudbal,Wieczysta - Motor,POLJSKA LIGA
 23.11.,20:00,Arena Premium 5,Vaterpolo,Novi Beograd - Budva,Regionalna vaterpolo liga
-23.11.,20:00,Arena Sport 2,Futsal,Partizan - Smederevo,PRVA LIGA
-23.11.,20:00,Arena Sport 3,Košarka,Vojvodina - Korać Akademija,KLS Ž
+23.11.,20:00,Arena Sport 9,Futsal,Partizan - Smederevo,PRVA LIGA
+23.11.,20:00,Arena Sport 10,Košarka,Vojvodina - Korać Akademija,KLS Ž
 23.11.,20:45,Arena Premium 3,Fudbal,Monza - Fiorentina,ITALIJANSKA LIGA
 23.11.,21:00,Arena Premium 1,Fudbal,Brentford - Everton,ENGLESKA LIGA
 23.11.,21:00,Arena Premium 2,Fudbal,Levante - Elche,ŠPANSKA LIGA
@@ -216,35 +216,34 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.11.,02:15,Arena Premium 2,Američki fudbal,Washington Commanders - Cincinnati Bengals,NFL
 24.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 24.11.,16:00,Arena Tenis,Tenis,Češka - Kanada,DAVIS CUP
-24.11.,17:00,Arena Sport 3,Odbojka,Eczacibasi - TENT Obrenovac,LIGA ŠAMPIONA Ž
-24.11.,18:00,Arena Premium 5,Košarka,Besiktas - Paris,EVROLIGA
+24.11.,17:00,Arena Premium 5,Odbojka,Eczacibasi - TENT Obrenovac,LIGA ŠAMPIONA Ž
+24.11.,18:00,Arena Premium 4,Košarka,Besiktas - Paris,EVROLIGA
 24.11.,18:45,Arena Premium 2,Fudbal,Galatasaray - Aston Villa,UEFA LIGA ŠAMPIONA
 24.11.,18:45,Arena Premium 3,Fudbal,Bodo/Glimt - LASK,UEFA LIGA ŠAMPIONA
-24.11.,18:45,Arena Premium 4,Rukomet,Pelister - Wybrezeze,EHF LIGA EVROPE
-24.11.,18:45,Arena Sport 1,Rukomet,Slovan - Tatabanya,EHF LIGA EVROPE
+24.11.,18:45,Arena Sport 1,Rukomet,Pelister - Wybrezeze,EHF LIGA EVROPE
+24.11.,18:45,Arena Sport 2,Rukomet,Slovan - Tatabanya,EHF LIGA EVROPE
 24.11.,19:00,Arena Premium 1,Košarka,Crvena zvezda - Virtus Bologna,EVROLIGA
-24.11.,20:00,Arena Premium 5,Košarka,Bayern - Maccabi Tel Aviv,EVROLIGA
+24.11.,20:00,Arena Sport 6,Košarka,Bayern - Maccabi Tel Aviv,EVROLIGA
 24.11.,20:30,Arena Premium 4,Košarka,Valencia - Panathinaikos,EVROLIGA
-24.11.,20:45,Arena Sport 2,Košarka,ASVEL - Milano,EVROLIGA
-24.11.,20:45,Arena Sport 9,Rukomet,Saint Raphael - Nexe,EHF LIGA EVROPE
+24.11.,20:45,Arena Sport 7,Košarka,ASVEL - Milano,EVROLIGA
 24.11.,21:00,Arena Premium 2,Fudbal,Arsenal - Borussia Dortmund,UEFA LIGA ŠAMPIONA
 24.11.,21:00,Arena Premium 3,Fudbal,Manchester City - Napoli,UEFA LIGA ŠAMPIONA
-24.11.,21:00,Arena Sport 1,Košarka,Barcelona - Fenerbahce,EVROLIGA
-24.11.,21:00,Arena Sport 3,Fudbal,Real Madrid - PSV,UEFA LIGA ŠAMPIONA
-24.11.,21:00,Arena Sport 4,Fudbal,Como - AEK,UEFA LIGA ŠAMPIONA
+24.11.,21:00,Arena Premium 5,Košarka,Barcelona - Fenerbahce,EVROLIGA
+24.11.,21:00,Arena Sport 1,Fudbal,Real Madrid - PSV,UEFA LIGA ŠAMPIONA
+24.11.,21:00,Arena Sport 2,Fudbal,Feyenoord - Porto,UEFA LIGA ŠAMPIONA
+24.11.,21:00,Arena Sport 3,Fudbal,Como - AEK,UEFA LIGA ŠAMPIONA
+24.11.,21:00,Arena Sport 4,Fudbal,Slovan - Betis,UEFA LIGA ŠAMPIONA
 24.11.,21:00,Arena Sport 5,Fudbal,Leipzig - Lens,UEFA LIGA ŠAMPIONA
-24.11.,21:00,Arena Sport 6,Fudbal,Slovan - Betis,UEFA LIGA ŠAMPIONA
-24.11.,21:00,Arena Sport 7,Fudbal,Rangers - Aberdeen,ŠKOTSKA LIGA
-24.11.,21:00,Arena Sport 8,Fudbal,Wolves - Derby,CHAMPIONSHIP
+24.11.,21:00,Arena Sport 8,Fudbal,Rangers - Aberdeen,ŠKOTSKA LIGA
+24.11.,21:00,Arena Sport 9,Fudbal,Wolves - Derby,CHAMPIONSHIP
 24.11.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
-24.11.,22:00,Arena Premium 1,Fudbal,Feyenoord - Porto,UEFA LIGA ŠAMPIONA
+24.11.,22:00,Arena Premium 1,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
 25.11.,02:00,Arena Premium 2,Hokej,Edmonton Oilers - Vegas Golden Knights,NHL
 25.11.,04:00,Arena Premium 1,Košarka,Denver - Dallas,NBA
 25.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
 25.11.,16:00,Arena Tenis,Tenis,Italija - Južna Koreja,DAVIS CUP
 25.11.,17:00,Arena Premium 1,Košarka,Dubai - Partizan,EVROLIGA
 25.11.,17:00,Arena Premium 4,Odbojka,Vakifbank - Asterix Avo,LIGA ŠAMPIONA Ž
-25.11.,17:00,Arena Sport 1,Odbojka,Dinamo - Gazprom-Yugra,RUSKA LIGA
 25.11.,18:45,Arena Premium 2,Fudbal,Sabah - Barcelona,UEFA LIGA ŠAMPIONA
 25.11.,18:45,Arena Premium 3,Fudbal,Slavia - Villarreal,UEFA LIGA ŠAMPIONA
 25.11.,20:15,Arena Premium 1,Košarka,Olympiacos - Hapoel Tel Aviv,EVROLIGA
