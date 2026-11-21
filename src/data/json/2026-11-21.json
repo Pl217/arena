@@ -2068,6 +2068,13 @@
       "2026-11-22": {
         "emisije": [
           {
+            "content": "Murcia - Zaragoza",
+            "time": "00:00",
+            "category": "ŠPANSKA LIGA",
+            "sport": "Košarka",
+            "description": "snimak"
+          },
+          {
             "content": "Spartak - Vienna",
             "time": "02:00",
             "category": "ABA LIGA",
@@ -2621,9 +2628,9 @@
             "description": "uzivo"
           },
           {
-            "content": "St. Pauli - Bochum",
+            "content": "Palmeiras - Flamengo",
             "time": "20:30",
-            "category": "NEMAČKA 2. LIGA",
+            "category": "BRAZILSKA LIGA",
             "sport": "Fudbal",
             "description": "uzivo"
           },
@@ -5879,9 +5886,9 @@
             "description": "snimak"
           },
           {
-            "content": "Lincoln - Hajduk",
+            "content": "Fenerbahce - Liverpool",
             "time": "06:00",
-            "category": "UEFA LIGA KONFERENCIJA",
+            "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
             "description": "snimak"
           },
@@ -5928,14 +5935,14 @@
             "description": "uzivo"
           },
           {
-            "content": "Barcelona - Aston Villa",
+            "content": "AEK - Real Madrid",
             "time": "20:00",
             "category": "UEFA LIGA ŠAMPIONA",
             "sport": "Fudbal",
             "description": "snimak"
           },
           {
-            "content": "Milan - Ferencvaros",
+            "content": "Sparta - Bournemouth",
             "time": "22:00",
             "category": "UEFA LIGA EVROPE",
             "sport": "Fudbal",
@@ -7742,7 +7749,7 @@
             "description": "snimak"
           },
           {
-            "content": "Zenit-Kazan - Belogore",
+            "content": "Zenit-Kazan - Belogorie",
             "time": "11:00",
             "category": "RUSKA LIGA",
             "sport": "Odbojka",
@@ -7816,7 +7823,7 @@
             "description": "snimak"
           },
           {
-            "content": "Zenit-Kazan - Belogore",
+            "content": "Zenit-Kazan - Belogorie",
             "time": "08:00",
             "category": "RUSKA LIGA",
             "sport": "Odbojka",
@@ -9003,8 +9010,15 @@
             "description": "snimak"
           },
           {
+            "content": "St. Pauli - Bochum",
+            "time": "20:30",
+            "category": "NEMAČKA 2. LIGA",
+            "sport": "Fudbal",
+            "description": "uzivo"
+          },
+          {
             "content": "Bosna - Ilirija",
-            "time": "22:15",
+            "time": "22:30",
             "category": "ABA LIGA",
             "sport": "Košarka",
             "description": "snimak"
