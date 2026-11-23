@@ -77,6 +77,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 23.11.,20:45,Arena Premium 3,Fudbal,Monza - Fiorentina,ITALIJANSKA LIGA
 23.11.,21:00,Arena Premium 1,Fudbal,Brentford - Everton,ENGLESKA LIGA
 23.11.,21:00,Arena Premium 2,Fudbal,Levante - Elche,ŠPANSKA LIGA
+24.11.,00:00,Arena Premium 3,Fudbal,Botafogo - Sao Paulo,BRAZILSKA LIGA
 24.11.,01:30,Arena Premium 1,Košarka,Minnesota - Brooklyn,NBA
 24.11.,02:15,Arena Premium 2,Američki fudbal,Washington Commanders - Cincinnati Bengals,NFL
 24.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
@@ -103,6 +104,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 24.11.,21:00,Arena Sport 9,Fudbal,Wolves - Derby,CHAMPIONSHIP
 24.11.,21:00,Arena 1X2,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
 24.11.,22:00,Arena Premium 1,Fudbal,Multiprenos,UEFA LIGA ŠAMPIONA
+24.11.,22:00,Arena Sport 6,Fudbal,Chapecoense - Palmeiras,BRAZILSKA LIGA
 25.11.,02:00,Arena Premium 2,Hokej,Edmonton Oilers - Vegas Golden Knights,NHL
 25.11.,04:00,Arena Premium 1,Košarka,Denver - Dallas,NBA
 25.11.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
@@ -158,6 +160,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 26.11.,21:00,Arena Sport 5,Fudbal,Ferencvaros - Celje,UEFA LIGA EVROPE
 26.11.,21:00,Arena Sport 6,Fudbal,CSKA Sofia - Trabzonspor,UEFA LIGA KONFERENCIJA
 26.11.,21:00,Arena Sport 9,Fudbal,Hajduk - St. Truiden,UEFA LIGA KONFERENCIJA
+26.11.,22:30,Arena Premium 5,Američki fudbal,Dallas Cowboys - Philadelphia Eagles,NFL
+27.11.,02:00,Arena Premium 1,Američki fudbal,Buffalo Bills - Kansas City Chiefs,NFL
 27.11.,08:15,Arena Sport 1,Klizanje,Grand Prix NHK Trophy: Žene - kratki program,ISU GRAND PRIX
 27.11.,09:00,Adrenalin,Moto Sport,Valensija: Slobodan Trening 1,MOTO 3
 27.11.,09:50,Adrenalin,Moto Sport,Valensija: Slobodan Trening 1,MOTO 2
@@ -191,6 +195,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 27.11.,21:00,Arena Premium 1,Fudbal,Nottingham Forest - Chelsea,ENGLESKA LIGA
 27.11.,21:00,Arena Premium 3,Fudbal,Levante - Racing,ŠPANSKA LIGA
 27.11.,21:00,Arena 1X2,Fudbal,Southampton - Middlesbrough,CHAMPIONSHIP
+28.11.,00:00,Arena Premium 1,Fudbal,Fluminense -  Cruzeiro,BRAZILSKA LIGA
 28.11.,03:30,Arena Sport 8,Golf,"BMW Australian PGA Championship, dan 3",DP WORLD TOUR
 28.11.,06:40,Arena Sport 2,Basket 3x3,"Hong Kong, grupna faza",FIBA 3x3 World Tour
 28.11.,08:30,Arena Sport 1,Klizanje,Grand Prix NHK Trophy: Žene - slobodni program,ISU GRAND PRIX
@@ -201,23 +206,22 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,11:00,Arena Premium 4,Jedrenje,"Abu Dabi, dan 1",SailGP
 28.11.,11:15,Adrenalin,Moto Sport,Valensija: Kvalifikacije 2,MOTO GP
 28.11.,11:30,Arena Sport 1,Klizanje,Grand Prix NHK Trophy: Muškarci - slobodni program,ISU GRAND PRIX
-28.11.,12:00,Arena Premium 3,Fudbal,Rubin - Akron,RUSKA LIGA
 28.11.,12:00,Arena Tenis,Tenis,Polufinale 2,DAVIS CUP
+28.11.,12:00,Arena Sport 3,Fudbal,Rubin - Akron,RUSKA LIGA
 28.11.,12:45,Adrenalin,Moto Sport,Valensija: Kvalifikacije 1,MOTO 3
-28.11.,13:00,Arena Premium 4,Fudbal,Kiel - Kaiserslautern,NEMAČKA 2. LIGA
-28.11.,13:00,Arena Premium 5,Fudbal,Dresden - St. Pauli,NEMAČKA 2. LIGA
-28.11.,13:00,Arena Sport 3,Fudbal,Hertha - Karlsruhe,NEMAČKA 2. LIGA
+28.11.,13:00,Arena Premium 4,Fudbal,Hertha - Karlsruhe,NEMAČKA 2. LIGA
+28.11.,13:00,Arena Premium 5,Fudbal,Kiel - Kaiserslautern,NEMAČKA 2. LIGA
 28.11.,13:10,Adrenalin,Moto Sport,Valensija: Kvalifikacije 2,MOTO 3
-28.11.,13:30,Arena Premium 2,Fudbal,Preston - Norwich,CHAMPIONSHIP
+28.11.,13:30,Arena Premium 1,Fudbal,Preston - Norwich,CHAMPIONSHIP
 28.11.,13:40,Adrenalin,Moto Sport,Valensija: Kvalifikacije 1,MOTO 2
 28.11.,14:00,Arena Premium 3,Fudbal,Betis - Rayo Vallecano,ŠPANSKA LIGA
-28.11.,14:00,Arena Sport 2,Odbojka,Halkbank - Fenerbahce,TURSKA LIGA
 28.11.,14:00,Arena Sport 5,Pikado,"Runda 2, popodnevna sesija",Players Championship Finals
 28.11.,14:05,Adrenalin,Moto Sport,Valensija: Kvalifikacije 2,MOTO 2
 28.11.,14:30,Arena Sport 1,Fudbal,CSKA - Zenit,RUSKA LIGA
 28.11.,15:00,Arena Sport 7,Fudbal,Frosinone - Parma,ITALIJANSKA LIGA
 28.11.,15:00,Arena Sport 8,Moto Sport,Valensija: Sprint,MOTO GP
 28.11.,15:00,Adrenalin,Moto Sport,Valensija: Sprint,MOTO GP
+28.11.,15:00,Arena 1X2,Fudbal,Empoli - Verona,ITALIJANSKA 2. LIGA
 28.11.,15:30,Arena Premium 4,Fudbal,HSV - Bayern,NEMAČKA LIGA
 28.11.,15:30,Arena Premium 5,Fudbal,Multiprenos,NEMAČKA LIGA
 28.11.,15:30,Arena Sport 3,Fudbal,Paderborn - Schalke,NEMAČKA LIGA
@@ -230,29 +234,27 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,16:15,Arena Premium 3,Fudbal,Malaga - Athletic Bilbao,ŠPANSKA LIGA
 28.11.,17:00,Arena Sport 7,Fudbal,APOEL - Krasava,KIPARSKA LIGA
 28.11.,17:00,Arena Sport 9,Odbojka,Sport Toto - Ziraat,TURSKA LIGA
-28.11.,17:00,Arena 1X2,Fudbal,Baltika - Akhmat,RUSKA LIGA
 28.11.,17:15,Arena Sport 1,Fudbal,Angers - Lens,FRANCUSKA LIGA
 28.11.,17:15,Adrenalin,Moto Sport,Katar: Sprint,FORMULA 2
-28.11.,17:30,Arena Sport 4,Fudbal,Slask - GKS,POLJSKA LIGA
 28.11.,18:00,Arena Premium 4,Fudbal,Torino - Lazio,ITALIJANSKA LIGA
 28.11.,18:30,Arena Premium 2,Fudbal,Ipswich - Aston Villa,ENGLESKA LIGA
 28.11.,18:30,Arena Premium 3,Fudbal,Elche - Atletico Madrid,ŠPANSKA LIGA
 28.11.,18:30,Arena Premium 5,Fudbal,Stuttgart - Frankfurt,NEMAČKA LIGA
-28.11.,18:45,Arena Sport 3,Fudbal,Motherwell - Hibernian,ŠKOTSKA LIGA
-28.11.,18:45,Arena Sport 8,Fudbal,PSV - GA Eagles,HOLANDSKA LIGA
+28.11.,18:45,Arena Sport 3,Fudbal,PSV - GA Eagles,HOLANDSKA LIGA
+28.11.,18:45,Arena Sport 4,Fudbal,Motherwell - Hibernian,ŠKOTSKA LIGA
 28.11.,19:00,Arena Sport 6,Rukomet,RNL - Bietigheim,BUNDESLIGA
 28.11.,19:00,Adrenalin,Moto Sport,Katar: Kvalifikacije,FORMULA 1
-28.11.,19:30,Arena Sport 7,Fudbal,Austria Lustenau - Rapid,AUSTRIJSKA LIGA
-28.11.,20:00,Arena Sport 4,Fudbal,NEC - Twente,HOLANDSKA LIGA
+28.11.,19:30,Arena Sport 8,Fudbal,Austria Lustenau - Rapid,AUSTRIJSKA LIGA
 28.11.,20:00,Arena Sport 5,Pikado,"Runda 3, večernja sesija",Players Championship Finals
+28.11.,20:00,Arena Sport 7,Fudbal,NEC - Twente,HOLANDSKA LIGA
 28.11.,20:15,Arena 1X2,Fudbal,Wisla Krakow - Motor,POLJSKA LIGA
-28.11.,20:30,Arena Sport 1,Fudbal,Osnabruck - Hannover,NEMAČKA 2. LIGA
+28.11.,20:30,Arena Premium 5,Fudbal,Osnabruck - Hannover,NEMAČKA 2. LIGA
 28.11.,20:45,Arena Premium 2,Fudbal,Inter - Genoa,ITALIJANSKA LIGA
-28.11.,20:45,Arena Premium 3,Fudbal,PSG - Lorient,FRANCUSKA LIGA
-28.11.,20:45,Arena Premium 4,Fudbal,Le Mans - Lille,FRANCUSKA LIGA
+28.11.,20:45,Arena Premium 4,Fudbal,PSG - Lorient,FRANCUSKA LIGA
+28.11.,20:45,Arena Sport 1,Fudbal,Le Mans - Lille,FRANCUSKA LIGA
 28.11.,20:45,Arena Sport 2,Fudbal,Nice - Troyes,FRANCUSKA LIGA
 28.11.,20:45,Arena Sport 3,Fudbal,Le Havre - Strasbourg,FRANCUSKA LIGA
 28.11.,21:00,Arena Premium 1,Fudbal,Real Madrid - Alaves,ŠPANSKA LIGA
-28.11.,21:00,Arena Premium 5,Fudbal,"Palmeiras - Estudiantes, finale",COPA LIBERTADORES
+28.11.,21:00,Arena Premium 3,Fudbal,"Palmeiras - Estudiantes, finale",COPA LIBERTADORES
 28.11.,22:00,Arena Sport 4,Hokej,Vegas Golden Knights - Montreal Canadiens,NHL
 28.11.,23:00,Arena Premium 1,Košarka,Washington - Orlando,NBA
