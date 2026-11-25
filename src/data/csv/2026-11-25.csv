@@ -141,7 +141,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,14:05,Adrenalin,Moto Sport,Valensija: Kvalifikacije 2,MOTO 2
 28.11.,14:30,Arena Sport 1,Fudbal,CSKA - Zenit,RUSKA LIGA
 28.11.,15:00,Arena Sport 7,Fudbal,Frosinone - Parma,ITALIJANSKA LIGA
-28.11.,15:00,Arena Sport 8,Moto Sport,Valensija: Sprint,MOTO GP
 28.11.,15:00,Adrenalin,Moto Sport,Valensija: Sprint,MOTO GP
 28.11.,15:00,Arena 1X2,Fudbal,Empoli - Verona,ITALIJANSKA 2. LIGA
 28.11.,15:30,Arena Premium 4,Fudbal,HSV - Bayern,NEMAČKA LIGA
@@ -149,13 +148,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,15:30,Arena Sport 3,Fudbal,Paderborn - Schalke,NEMAČKA LIGA
 28.11.,15:30,Arena Sport 4,Fudbal,Koln - Elversberg,NEMAČKA LIGA
 28.11.,15:30,Arena Sport 6,Fudbal,Mainz - Union Berlin,NEMAČKA LIGA
-28.11.,15:30,Adrenalin,Moto Sport,Katar: Trening 3,FORMULA 1
+28.11.,15:30,Arena Sport 8,Moto Sport,Katar: Trening 3,FORMULA 1
 28.11.,16:00,Arena Premium 1,Fudbal,Manchester United - Brentford,ENGLESKA LIGA
 28.11.,16:00,Arena Premium 2,Fudbal,Leeds - Coventry,ENGLESKA LIGA
-28.11.,16:00,Arena Sport 8,Fudbal,WBA - Bristol City,CHAMPIONSHIP
+28.11.,16:00,Arena Sport 9,Fudbal,WBA - Bristol City,CHAMPIONSHIP
+28.11.,16:00,Adrenalin,Moto Sport,Katar: Trening 3,FORMULA 1
 28.11.,16:15,Arena Premium 3,Fudbal,Malaga - Athletic Bilbao,ŠPANSKA LIGA
 28.11.,17:00,Arena Sport 7,Fudbal,APOEL - Krasava,KIPARSKA LIGA
-28.11.,17:00,Arena Sport 9,Odbojka,Sport Toto - Ziraat,TURSKA LIGA
+28.11.,17:00,Arena Sport 8,Odbojka,Sport Toto - Ziraat,TURSKA LIGA
 28.11.,17:15,Arena Sport 1,Fudbal,Angers - Lens,FRANCUSKA LIGA
 28.11.,17:15,Adrenalin,Moto Sport,Katar: Sprint,FORMULA 2
 28.11.,18:00,Arena Premium 4,Fudbal,Torino - Lazio,ITALIJANSKA LIGA
@@ -168,7 +168,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,19:00,Adrenalin,Moto Sport,Katar: Kvalifikacije,FORMULA 1
 28.11.,19:30,Arena Sport 8,Fudbal,Austria Lustenau - Rapid,AUSTRIJSKA LIGA
 28.11.,20:00,Arena Sport 5,Pikado,"Runda 3, večernja sesija",Players Championship Finals
-28.11.,20:00,Arena Sport 7,Fudbal,NEC - Twente,HOLANDSKA LIGA
 28.11.,20:15,Arena 1X2,Fudbal,Wisla Krakow - Motor,POLJSKA LIGA
 28.11.,20:30,Arena Premium 5,Fudbal,Osnabruck - Hannover,NEMAČKA 2. LIGA
 28.11.,20:45,Arena Premium 2,Fudbal,Inter - Genoa,ITALIJANSKA LIGA
@@ -234,6 +233,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.11.,20:00,Arena Sport 2,Fudbal,Coritiba - Flamengo,BRAZILSKA LIGA
 29.11.,20:00,Arena Sport 3,Fudbal,AEK - PAOK,GRČKA LIGA
 29.11.,20:00,Arena Sport 5,Pikado,Polufinala i finale,Players Championship Finals
+29.11.,20:00,Arena Sport 7,Fudbal,NEC - Twente,HOLANDSKA LIGA
 29.11.,20:15,Arena Sport 6,Fudbal,Jagiellonia - Radomiak,POLJSKA LIGA
 29.11.,20:45,Arena Premium 3,Fudbal,Como - Juventus,ITALIJANSKA LIGA
 29.11.,20:45,Arena Sport 1,Fudbal,Lyon - Monaco,FRANCUSKA LIGA
@@ -243,13 +243,13 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 30.11.,02:20,Arena Premium 2,Američki fudbal,Cleveland Browns - Las Vegas Riders,NFL
 30.11.,11:00,Arena Premium 1,Mali fudbal,Niš,ARENINA LIGA ŠAMPIONA
 30.11.,17:00,Arena Premium 2,Fudbal,Goztepe - Trabzonspor,TURSKA LIGA
-30.11.,17:30,Arena Premium 5,Fudbal,Fakel - Spartak,RUSKA LIGA
+30.11.,17:30,Arena Sport 2,Fudbal,Fakel - Spartak,RUSKA LIGA
 30.11.,18:00,Arena Premium 4,Košarka,Mađarska - Slovenija,Svetsko prvenstvo - Kvalifikacije
 30.11.,18:30,Arena Premium 3,Fudbal,Lecce - Atalanta,ITALIJANSKA LIGA
 30.11.,19:00,Arena Premium 2,Fudbal,Besiktas - Galatasaray,TURSKA LIGA
-30.11.,19:00,Arena Sport 1,Rukomet,Fucse Berlin - Hannover,BUNDESLIGA
-30.11.,19:00,Arena Sport 2,Fudbal,Odense - Nordsjaelland,DANSKA LIGA
-30.11.,19:00,Arena Sport 3,Fudbal,Korona - Cracovia,POLJSKA LIGA
+30.11.,19:00,Arena Premium 5,Rukomet,Fuchse Berlin - Hannover,BUNDESLIGA
+30.11.,19:00,Arena Sport 1,Fudbal,Odense - Nordsjaelland,DANSKA LIGA
+30.11.,19:00,Arena 1X2,Fudbal,Korona - Cracovia,POLJSKA LIGA
 30.11.,20:00,Arena Premium 4,Košarka,Hrvatska - Holandija,Svetsko prvenstvo - Kvalifikacije
 30.11.,20:45,Arena Premium 1,Fudbal,Cagliari - Milan,ITALIJANSKA LIGA
 30.11.,21:00,Arena Premium 2,Fudbal,Espanyol - Getafe,ŠPANSKA LIGA
