@@ -105,7 +105,7 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,16:00,Adrenalin,Moto Sport,Katar: Trening 3,FORMULA 1
 28.11.,16:15,Arena Premium 3,Fudbal,Malaga - Athletic Bilbao,ŠPANSKA LIGA
 28.11.,17:00,Arena Sport 7,Fudbal,APOEL - Krasava,KIPARSKA LIGA
-28.11.,17:00,Arena Sport 8,Odbojka,Sport Toto - Ziraat,TURSKA LIGA
+28.11.,17:00,Arena Sport 8,Odbojka,Spor Toto - Ziraat,TURSKA LIGA
 28.11.,17:15,Arena Sport 1,Fudbal,Angers - Lens,FRANCUSKA LIGA
 28.11.,17:15,Adrenalin,Moto Sport,Katar: Sprint,FORMULA 2
 28.11.,18:00,Arena Premium 4,Fudbal,Torino - Lazio,ITALIJANSKA LIGA
@@ -129,6 +129,8 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 28.11.,21:00,Arena Premium 3,Fudbal,"Palmeiras - Estudiantes, finale",COPA LIBERTADORES
 28.11.,22:00,Arena Sport 4,Hokej,Vegas Golden Knights - Montreal Canadiens,NHL
 28.11.,23:00,Arena Premium 1,Košarka,Washington - Orlando,NBA
+29.11.,00:00,Arena Premium 2,Fudbal,Velez - Independiente,ARGENTINSKA LIGA
+29.11.,02:00,Arena Premium 2,Fudbal,Instituto - River Plate,ARGENTINSKA LIGA
 29.11.,02:30,Arena Premium 1,Košarka,Houston - Philadelphia,NBA
 29.11.,03:30,Arena Sport 8,Golf,"BMW Australian PGA Championship, finalni dan",DP WORLD TOUR
 29.11.,06:30,Arena Premium 3,Basket 3x3,"Hong Kong, četvrtfinala",FIBA 3x3 World Tour
@@ -142,7 +144,6 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.11.,13:00,Arena Sport 8,Moto Sport,Katar: Trka,FORMULA 2
 29.11.,13:00,Arena Sport 9,Ragbi 13,Partizan 1953 - Crvena zvezda,Prvenstvo Srbije
 29.11.,13:15,Arena Sport 7,Fudbal,Rostov - Krasnodar,RUSKA LIGA
-29.11.,13:15,Adrenalin,Moto Sport,Katar: Trka,FORMULA 2
 29.11.,13:30,Arena Sport 4,Fudbal,E. Braunschweig - Wolfsburg,NEMAČKA 2. LIGA
 29.11.,13:30,Arena Sport 6,Fudbal,Magdeburg - Cottbus,NEMAČKA 2. LIGA
 29.11.,14:00,Arena Premium 3,Fudbal,Valencia - Osasuna,ŠPANSKA LIGA
@@ -191,13 +192,14 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 29.11.,21:00,Arena Premium 3,Fudbal,Real Sociedad - Sevilla,ŠPANSKA LIGA
 29.11.,22:25,Arena Premium 2,Američki fudbal,San Francisco 49ers - Seattle Seahawks,NFL
 30.11.,00:00,Arena Premium 1,Košarka,Toronto - Denver,NBA
+30.11.,00:30,Arena Premium 3,Fudbal,Boca Juniors - Gimnasia LP,ARGENTINSKA LIGA
 30.11.,02:20,Arena Premium 2,Američki fudbal,Cleveland Browns - Las Vegas Riders,NFL
 30.11.,11:00,Arena Premium 1,Mali fudbal,Niš,ARENINA LIGA ŠAMPIONA
-30.11.,17:00,Arena Premium 2,Fudbal,Goztepe - Trabzonspor,TURSKA LIGA
-30.11.,17:30,Arena Sport 2,Fudbal,Fakel - Spartak,RUSKA LIGA
+30.11.,17:00,Arena Premium 3,Fudbal,Goztepe - Trabzonspor,TURSKA LIGA
+30.11.,17:30,Arena Premium 2,Fudbal,Fakel - Spartak,RUSKA LIGA
 30.11.,18:00,Arena Premium 4,Košarka,Mađarska - Slovenija,Svetsko prvenstvo - Kvalifikacije
-30.11.,18:30,Arena Premium 3,Fudbal,Lecce - Atalanta,ITALIJANSKA LIGA
-30.11.,19:00,Arena Premium 2,Fudbal,Besiktas - Galatasaray,TURSKA LIGA
+30.11.,18:30,Arena Premium 1,Fudbal,Lecce - Atalanta,ITALIJANSKA LIGA
+30.11.,19:00,Arena Premium 3,Fudbal,Besiktas - Galatasaray,TURSKA LIGA
 30.11.,19:00,Arena Premium 5,Rukomet,Fuchse Berlin - Hannover,BUNDESLIGA
 30.11.,19:00,Arena Sport 1,Fudbal,Odense - Nordsjaelland,DANSKA LIGA
 30.11.,19:00,Arena 1X2,Fudbal,Korona - Cracovia,POLJSKA LIGA
@@ -225,27 +227,28 @@ Datum,Vreme,Kanal,Sport,Ekipe,Takmičenje
 01.12.,21:00,Arena Premium 4,Fudbal,Extremadura - Betis,ŠPANSKI KUP
 02.12.,01:00,Arena Premium 1,Košarka,Cleveland - Indiana,NBA
 02.12.,10:00,Arena Premium 1,Mali fudbal,Novi Beograd,ARENINA LIGA ŠAMPIONA
-02.12.,17:00,Arena Premium 5,Odbojka,Dinamo - Zenit,RUSKA LIGA
-02.12.,18:00,Arena Premium 1,Fudbal,Olympiacos - Panathinaikos,GRČKI KUP
+02.12.,17:00,Arena Sport 2,Odbojka,Dinamo - Zenit,RUSKA LIGA
 02.12.,18:00,Arena Premium 2,Fudbal,Bayer Leverkusen - Leipzig,NEMAČKI KUP
 02.12.,18:00,Arena Premium 3,Fudbal,Kaiserslautern - Freiburg,NEMAČKI KUP
-02.12.,18:00,Arena Sport 2,Fudbal,AEK - Asteras,GRČKI KUP
+02.12.,18:00,Arena Premium 4,Fudbal,Olympiacos - Panathinaikos,GRČKI KUP
+02.12.,18:00,Arena Premium 5,Fudbal,AEK - Asteras,GRČKI KUP
 02.12.,18:00,Arena Sport 9,Košarka,MZT - Kranj,ABA2 LIGA
-02.12.,18:30,Arena Sport 4,Vaterpolo,Jadran HN - Olympiacos,Liga šampiona
-02.12.,18:45,Arena Premium 4,Rukomet,Veszprem - Melsungen,EHF LIGA ŠAMPIONA
-02.12.,19:00,Arena Premium 5,Fudbal,Real Sociedad - Real Madrid,ŠPANSKA LIGA
-02.12.,20:30,Arena Premium 1,Fudbal,Manchester City - Leeds,ENGLESKA LIGA
-02.12.,20:30,Arena Premium 3,Fudbal,Liverpool - Sunderland,ENGLESKA LIGA
+02.12.,18:30,Arena Sport 5,Vaterpolo,Jadran HN - Olympiacos,Liga šampiona
+02.12.,18:45,Arena Sport 1,Rukomet,Veszprem - Melsungen,EHF LIGA ŠAMPIONA
+02.12.,19:00,Arena Premium 1,Fudbal,Real Sociedad - Real Madrid,ŠPANSKA LIGA
+02.12.,19:00,Arena Sport 3,Odbojka,Dresdner - Conegliano,LIGA ŠAMPIONA Ž
+02.12.,20:30,Arena Premium 3,Fudbal,Manchester City - Leeds,ENGLESKA LIGA
+02.12.,20:30,Arena Premium 4,Fudbal,Liverpool - Sunderland,ENGLESKA LIGA
 02.12.,20:30,Arena Sport 2,Fudbal,Chelsea - Crystal Palace,ENGLESKA LIGA
-02.12.,20:30,Arena Sport 4,Vaterpolo,Brescia - Radnički,Liga šampiona
-02.12.,20:30,Arena Sport 5,Fudbal,Hull - Nottingham Forest,ENGLESKA LIGA
+02.12.,20:30,Arena Sport 4,Fudbal,Hull - Nottingham Forest,ENGLESKA LIGA
+02.12.,20:30,Arena Sport 5,Vaterpolo,Brescia - Radnički,Liga šampiona
 02.12.,20:30,Arena 1X2,Fudbal,Multiprenos,ENGLESKA LIGA
 02.12.,20:45,Arena Sport 6,Fudbal,Frankfurt - Borussia Dortmund,NEMAČKI KUP
 02.12.,20:45,Arena Sport 7,Fudbal,Bochum - Augsburg,NEMAČKI KUP
 02.12.,20:45,Arena Sport 9,Fudbal,Dundee - Celtic,ŠKOTSKA LIGA
 02.12.,21:00,Arena Sport 8,Fudbal,Como – Cremonese,ITALIJANSKI KUP
 02.12.,21:15,Arena Premium 2,Fudbal,Brentford - Arsenal,ENGLESKA LIGA
-02.12.,21:15,Arena Premium 4,Fudbal,Newcastle - Manchester United,ENGLESKA LIGA
-02.12.,21:15,Arena Sport 1,Fudbal,Aston Villa - Everton,ENGLESKA LIGA
-02.12.,21:15,Arena Sport 3,Fudbal,Bournemouth - Brighton,ENGLESKA LIGA
-02.12.,21:30,Arena Premium 5,Fudbal,Barcelona - Atletico Madrid,ŠPANSKA LIGA
+02.12.,21:15,Arena Premium 5,Fudbal,Bournemouth - Brighton,ENGLESKA LIGA
+02.12.,21:15,Arena Sport 1,Fudbal,Newcastle - Manchester United,ENGLESKA LIGA
+02.12.,21:15,Arena Sport 3,Fudbal,Aston Villa - Everton,ENGLESKA LIGA
+02.12.,21:30,Arena Premium 1,Fudbal,Barcelona - Atletico Madrid,ŠPANSKA LIGA
